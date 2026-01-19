@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+requests
+thefuzz
+python-Levenshtein  # Makes thefuzz run 10x faster
+jupyter

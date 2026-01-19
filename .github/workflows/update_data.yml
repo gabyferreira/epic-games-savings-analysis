@@ -1,0 +1,26 @@
+name: Weekly Data Update
+on:
+  schedule:
+    - cron: '30 16 * * *' # Runs everyday at 4:30 PM UTC
+  workflow_dispatch:      # Allows you to run it manually for testing
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13.5'
+      - name: Install dependencies
+        run: pip install pandas requests
+      - name: Run update script
+        run: python src/scraper.py
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "DataBot"
+          git config --global user.email "bot@github.com"
+          git add free_games.csv
+          git commit -m "Auto-update: Added new free games" || exit 0
+          git push
