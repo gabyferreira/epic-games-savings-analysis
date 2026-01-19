@@ -21,6 +21,6 @@ jobs:
         run: |
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
-          git add epic_games_data_edited_active.csv
+          git add data/epic_games_data_edited_active.csv
           git commit -m "Auto-update: Added new free games" || exit 0
           git push
