@@ -36,7 +36,7 @@ def update_csv():
     df_new['end_date'] = pd.to_datetime(df_new['end_date']).dt.strftime('%d-%m-%Y')
     df_to_add = df_new[~df_new['start_date'].isin(df_existing['start_date'])]
     if not df_to_add.empty:
-        # --- SAFE ID GENERATION ---
+        # safe ID generation
         if df_existing.empty or 'id' not in df_existing.columns or df_existing['id'].isnull().all():
             last_id = 0
         else:
