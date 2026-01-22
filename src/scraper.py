@@ -8,7 +8,7 @@ import json
 import os
 from thefuzz import process
 
-file_path = "data/epic_games_data_edited_active.csv"
+file_path = "data/epic_games_data_edited_active4.csv"
 df_existing = pd.read_csv(file_path, encoding='latin1' )
 def update_csv():
     base_url = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
@@ -59,9 +59,13 @@ def update_csv():
         # IMPORTANT: index=False prevents pandas from adding an extra unnamed column
         df_updated.to_csv(file_path, index=False, encoding='latin1')
         print(f"Added {len(df_to_add)} new games!")
+        return df_updated
     else:
         print("No new games found.")
-update_csv()
+        return df_existing
+
+df_existing = pd.read_csv(file_path, encoding="latin1")
+df_existing = update_csv()
 
 def fetch_epic_free_games():
     processed_list = df_existing['game']
@@ -91,8 +95,7 @@ def get_release_price_with_cache(game_title, cache):
     print(f"Fetching from API: {game_title}...")
     
     # Stay safe: 1.5 second delay to avoid another 50-minute ban
-    time.sleep(5
-               ) 
+    time.sleep(5) 
     
     try:
         search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
@@ -127,7 +130,7 @@ def get_release_price_with_cache(game_title, cache):
 
 # --- EXECUTION ---
 # Load your data
-df = fetch_epic_free_games() 
+df = update_csv() 
 price_cache = load_cache()
 
 if "price" not in df_existing.columns:
