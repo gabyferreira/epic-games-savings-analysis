@@ -8,7 +8,7 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 ---
 
 ### 📊 Live Project Statistics
-[[STATS_STAR[[STATS_STAR[[STATS_STAR[[STATS_START]]
+[[STATS_START]]
 
 --- 📊 PORTFOLIO SUMMARY ---
 Total Games Collected: 659
