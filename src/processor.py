@@ -2,6 +2,7 @@ import pandas as pd
 import logging
 import os
 from datetime import datetime
+import re
 
 # 1. Create logs directory if it doesn't exist
 if not os.path.exists('logs'):
@@ -99,3 +100,54 @@ def enforce_schema(df):
     # 2. Type Casting
     df['id'] = pd.to_numeric(df['id'], errors='coerce').fillna(0).astype(int)
     return df
+
+def generate_summary_stats(df):
+    """Calculates high-level metrics for the logs."""
+    total_games = len(df)
+    total_value = df['price'].sum()
+    avg_price = df['price'].mean()
+    
+    # Identify the 'Crown Jewel' (Most expensive game)
+    if not df.empty:
+        most_expensive = df.loc[df['price'].idxmax()]
+        jewel_name = most_expensive['game']
+        jewel_price = most_expensive['price']
+    else:
+        jewel_name, jewel_price = "N/A", 0
+
+    stats = (
+        f"\n--- 📊 PORTFOLIO SUMMARY ---"
+        f"\nTotal Games Collected: {total_games}"
+        f"\nTotal Market Value: ${total_value:,.2f}"
+        f"\nAverage Game Price: ${avg_price:,.2f}"
+        f"\nMost Valuable Game: {jewel_name} (${jewel_price})"
+        f"\n----------------------------"
+    )
+    return stats
+
+def update_readme(stats_text):
+    """Overwrites the stats section in README.md with live data."""
+    readme_path = "README.md"
+    
+    if not os.path.exists(readme_path):
+        logger.warning("README.md not found. Skipping update.")
+        return
+
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Find the markers
+    start_marker = ""
+    end_marker = ""
+    
+    # This regex pattern finds everything between the markers
+    pattern = f"{start_marker}.*?{end_marker}"
+    new_section = f"{start_marker}\n{stats_text}\n{end_marker}"
+    
+    # Replace the old section with the new section (re.DOTALL handles newlines)
+    updated_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(updated_content)
+    
+    logger.info("✅ README.md updated with live stats.")

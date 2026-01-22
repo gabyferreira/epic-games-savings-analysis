@@ -46,3 +46,228 @@
 2026-01-22 15:00:13,781 - INFO - --- Data Quality Checks Complete ---
 
 2026-01-22 15:00:13,784 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 15:14:45,359 - INFO - No new games found.
+2026-01-22 15:14:45,631 - INFO - No new games found.
+2026-01-22 15:14:45,633 - INFO - Rows missing price: 0
+2026-01-22 15:14:45,633 - INFO - No missing prices — nothing to fetch.
+2026-01-22 15:14:45,633 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 15:14:45,634 - INFO - ✅ Success: All games have titles.
+2026-01-22 15:14:45,635 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 15:14:45,635 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 15:14:45,635 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 15:14:45,638 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 15:14:45,641 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 15:14:45,650 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:02:11,493 - INFO - No new games found.
+2026-01-22 16:02:11,769 - INFO - No new games found.
+2026-01-22 16:02:11,770 - INFO - Rows missing price: 0
+2026-01-22 16:02:11,770 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:02:11,771 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:02:11,771 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:02:11,772 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:02:11,773 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:02:11,773 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:02:11,776 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:02:11,778 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:02:11,779 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:02:24,091 - INFO - No new games found.
+2026-01-22 16:02:24,463 - INFO - No new games found.
+2026-01-22 16:02:24,464 - INFO - Rows missing price: 0
+2026-01-22 16:02:24,464 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:02:24,464 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:02:24,465 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:02:24,466 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:02:24,466 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:02:24,466 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:02:24,469 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:02:24,472 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:02:24,472 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:02:24,474 - INFO - ✅ README.md updated with live stats.
+2026-01-22 16:04:05,934 - INFO - No new games found.
+2026-01-22 16:04:06,439 - INFO - No new games found.
+2026-01-22 16:04:06,440 - INFO - Rows missing price: 0
+2026-01-22 16:04:06,441 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:04:06,441 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:04:06,442 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:04:06,442 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:04:06,443 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:04:06,443 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:04:06,446 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:04:06,449 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:04:06,450 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:04:06,451 - INFO - ✅ README.md updated with live stats.
+2026-01-22 16:08:14,981 - INFO - No new games found.
+2026-01-22 16:08:15,253 - INFO - No new games found.
+2026-01-22 16:08:15,255 - INFO - Rows missing price: 0
+2026-01-22 16:08:15,255 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:08:15,255 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:08:15,256 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:08:15,256 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:08:15,257 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:08:15,257 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:08:15,260 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:08:15,263 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:08:15,263 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:08:15,264 - INFO - ✅ README.md updated with live stats.
+2026-01-22 16:09:36,871 - INFO - No new games found.
+2026-01-22 16:09:37,228 - INFO - No new games found.
+2026-01-22 16:09:37,230 - INFO - Rows missing price: 0
+2026-01-22 16:09:37,230 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:09:37,230 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:09:37,231 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:09:37,232 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:09:37,232 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:09:37,232 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:09:37,235 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:09:37,238 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:09:37,239 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:10:39,855 - INFO - No new games found.
+2026-01-22 16:10:40,144 - INFO - No new games found.
+2026-01-22 16:10:40,145 - INFO - Rows missing price: 0
+2026-01-22 16:10:40,146 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:10:40,146 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:10:40,146 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:10:40,147 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:10:40,147 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:10:40,148 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:10:40,151 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:10:40,153 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:10:40,153 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:10:54,617 - INFO - No new games found.
+2026-01-22 16:10:54,922 - INFO - No new games found.
+2026-01-22 16:10:54,924 - INFO - Rows missing price: 0
+2026-01-22 16:10:54,924 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:10:54,924 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:10:54,925 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:10:54,925 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:10:54,926 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:10:54,926 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:10:54,929 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:10:54,931 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:10:54,932 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:11:35,214 - INFO - No new games found.
+2026-01-22 16:11:35,522 - INFO - No new games found.
+2026-01-22 16:11:35,524 - INFO - Rows missing price: 0
+2026-01-22 16:11:35,524 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:11:35,524 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:11:35,525 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:11:35,526 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:11:35,526 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:11:35,526 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:11:35,530 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:11:35,532 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:11:35,532 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:12:55,039 - INFO - No new games found.
+2026-01-22 16:12:55,384 - INFO - No new games found.
+2026-01-22 16:12:55,387 - INFO - Rows missing price: 0
+2026-01-22 16:12:55,387 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:12:55,388 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:12:55,389 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:12:55,393 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:12:55,394 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:12:55,395 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:12:55,398 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:12:55,402 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:12:55,403 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:12:55,404 - INFO - ✅ README.md updated with live stats.
+2026-01-22 16:13:15,963 - INFO - No new games found.
+2026-01-22 16:13:16,300 - INFO - No new games found.
+2026-01-22 16:13:16,301 - INFO - Rows missing price: 0
+2026-01-22 16:13:16,302 - INFO - No missing prices — nothing to fetch.
+2026-01-22 16:13:16,302 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:13:16,302 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:13:16,303 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:13:16,303 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:13:16,304 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:13:16,307 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:13:16,309 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:13:16,309 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 658
+Total Market Value: $14,808.00
+Average Game Price: $22.50
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:13:16,310 - INFO - ✅ README.md updated with live stats.

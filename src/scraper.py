@@ -7,7 +7,7 @@ import time
 import json
 import os
 from thefuzz import process
-from processor import validate_and_clean_data
+from processor import validate_and_clean_data, generate_summary_stats, update_readme
 import logging
 
 
@@ -164,3 +164,6 @@ df_existing = validate_and_clean_data(df_existing)
 # 6. SAVE the final, validated version
 df_existing.to_csv(file_path, index=False, encoding="latin1")
 logger.info("✅ Update complete: Data scraped, enriched, and validated.")
+summary = generate_summary_stats(df_existing)
+logger.info(summary)
+update_readme(summary)
