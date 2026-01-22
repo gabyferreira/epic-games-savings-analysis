@@ -8,14 +8,14 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 ---
 
 ### 📊 Live Project Statistics
-stats_text = f"""
+[[STATS_START]]
 | Category | Statistics |
 | :--- | :--- |
 | 💰 **Total Market Value** | ${total_value:,.2f} |
 | 📦 **Total Games Collected** | {total_games} |
 | 📉 **Average Game Price** | ${avg_price:,.2f} |
 | 🏆 **Most Valuable Game** | {top_game_name} (${top_game_price}) |
-"""
+[[STATS_END]]
 ---
 
 ## 🚀 How it Works (The Pipeline)
