@@ -8,6 +8,10 @@ import json
 import os
 from thefuzz import process
 from processor import validate_and_clean_data
+import logging
+
+
+logger = logging.getLogger(__name__)
 
 file_path = "data/epic_games_data_edited_active6.csv"
 df_existing = pd.read_csv(file_path, encoding='latin1' )
@@ -59,10 +63,10 @@ def update_csv():
         
         # IMPORTANT: index=False prevents pandas from adding an extra unnamed column
         df_updated.to_csv(file_path, index=False, encoding='latin1')
-        print(f"Added {len(df_to_add)} new games!")
+        logger.info(f"Added {len(df_to_add)} new games!")
         return df_updated
     else:
-        print("No new games found.")
+        logger.info("No new games found.")
         return df_existing
 
 df_existing = pd.read_csv(file_path, encoding="latin1")
@@ -93,7 +97,7 @@ def get_release_price_with_cache(game_title, cache):
         return cache[game_title]
 
     # 2. If not in cache, prepare for API call
-    print(f"Fetching from API: {game_title}...")
+    logger.info(f"Fetching from API: {game_title}...")
     
     # Stay safe: 1.5 second delay to avoid another 50-minute ban
     time.sleep(5) 
@@ -122,10 +126,10 @@ def get_release_price_with_cache(game_title, cache):
                 save_to_cache(cache)
                 return price
             else:
-                print(f"Low match score ({score}) for {game_title}. Skipping.")
+                logger.info(f"Low match score ({score}) for {game_title}. Skipping.")
             
     except Exception as e:
-        print(f"Error for {game_title}: {e}")
+        logger.warning(f"Error for {game_title}: {e}")
     
     return None
 
@@ -138,7 +142,7 @@ if "price" not in df_existing.columns:
     df_existing["price"] = pd.NA
 
 needs_price = df_existing["price"].isna() | (df_existing["price"].astype(str).str.strip() == "")
-print(f"Rows missing price: {int(needs_price.sum())}")
+logger.info(f"Rows missing price: {int(needs_price.sum())}")
 
 if needs_price.any():
     missing_titles = df_existing.loc[needs_price, "game"].dropna().unique()
@@ -150,13 +154,13 @@ if needs_price.any():
     df_existing.loc[needs_price, "price"] = df_existing.loc[needs_price, "game"].map(title_to_price)
 
     df_existing.to_csv(file_path, index=False, encoding="latin1")
-    print("Saved CSV with newly fetched prices.")
+    logger.info("Saved CSV with newly fetched prices.")
 else:
-    print("No missing prices — nothing to fetch.")
+    logger.info("No missing prices — nothing to fetch.")
 
 
 df_existing = validate_and_clean_data(df_existing)
 
 # 6. SAVE the final, validated version
 df_existing.to_csv(file_path, index=False, encoding="latin1")
-print("✅ Update complete: Data scraped, enriched, and validated.")
+logger.info("✅ Update complete: Data scraped, enriched, and validated.")

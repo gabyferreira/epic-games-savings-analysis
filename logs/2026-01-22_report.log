@@ -1,0 +1,48 @@
+2026-01-22 14:57:06,548 - INFO - No new games found.
+2026-01-22 14:57:06,842 - INFO - No new games found.
+2026-01-22 14:57:06,844 - INFO - Rows missing price: 0
+2026-01-22 14:57:06,844 - INFO - No missing prices � nothing to fetch.
+2026-01-22 14:57:06,844 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 14:57:06,851 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 14:57:06,855 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 14:59:11,781 - INFO - No new games found.
+2026-01-22 14:59:12,180 - INFO - No new games found.
+2026-01-22 14:59:12,181 - INFO - Rows missing price: 0
+2026-01-22 14:59:12,181 - INFO - No missing prices — nothing to fetch.
+2026-01-22 14:59:12,182 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 14:59:12,182 - INFO - ✅ Success: All games have titles.
+2026-01-22 14:59:12,183 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 14:59:12,183 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 14:59:12,183 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 14:59:12,186 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 14:59:12,189 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 15:00:01,996 - INFO - No new games found.
+2026-01-22 15:00:02,856 - INFO - No new games found.
+2026-01-22 15:00:02,857 - INFO - Rows missing price: 0
+2026-01-22 15:00:02,857 - INFO - No missing prices — nothing to fetch.
+2026-01-22 15:00:02,857 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 15:00:02,858 - INFO - ✅ Success: All games have titles.
+2026-01-22 15:00:02,859 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 15:00:02,859 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 15:00:02,859 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 15:00:02,862 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 15:00:02,865 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 15:00:13,490 - INFO - No new games found.
+2026-01-22 15:00:13,775 - INFO - No new games found.
+2026-01-22 15:00:13,777 - INFO - Rows missing price: 0
+2026-01-22 15:00:13,777 - INFO - No missing prices — nothing to fetch.
+2026-01-22 15:00:13,777 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 15:00:13,777 - INFO - ✅ Success: All games have titles.
+2026-01-22 15:00:13,778 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 15:00:13,778 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 15:00:13,779 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 15:00:13,781 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 15:00:13,784 - INFO - ✅ Update complete: Data scraped, enriched, and validated.

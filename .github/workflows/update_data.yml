@@ -36,3 +36,12 @@ jobs:
           # 4. ADDED DYNAMIC DATE
           git commit -m "Auto-update: Prices synced [$(date +'%Y-%m-%d')]" || exit 0
           git push
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "DataBot"
+          # Tell Git to include the logs folder
+          git add data/ game_prices.json logs/ 
+          git commit -m "Auto-update: Data & Logs [$(date +'%Y-%m-%d')]" || exit 0
+          git push
