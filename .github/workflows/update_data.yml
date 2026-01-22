@@ -20,8 +20,8 @@ jobs:
           python-version: '3.13'
 
       - name: Install dependencies
-       
-        run: pip install pandas requests thefuzz python-Levenshtein tqdm
+        # ADDED: matplotlib and seaborn for the charts
+        run: pip install pandas requests thefuzz python-Levenshtein tqdm matplotlib seaborn
 
       - name: Run update script
         run: python src/scraper.py
@@ -30,7 +30,10 @@ jobs:
         run: |
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
-          # This adds the data file, the json, and the logs folder all at once
-          git add data/epic_games_data_edited_active.csv game_prices.json logs/
-          git commit -m "Auto-update: Data & Logs [$(date +'%Y-%m-%d')]" || exit 0
+          
+          # UPDATED: Now including README.md and the assets/ folder for your chart
+          git add data/epic_games_data_edited_active.csv game_prices.json logs/ README.md assets/
+          
+          # UPDATED: Message changed to reflect that visuals are now included
+          git commit -m "Auto-update: Dashboard and Visuals [$(date +'%Y-%m-%d')]" || exit 0
           git push
