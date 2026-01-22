@@ -292,3 +292,25 @@ Average Game Price: $22.50
 Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
 ----------------------------
 2026-01-22 15:38:55,584 - INFO - ✅ README.md updated with live stats.
+2026-01-22 16:00:16,093 - INFO - Added 1 new games!
+2026-01-22 16:00:16,453 - INFO - No new games found.
+2026-01-22 16:00:16,454 - INFO - Rows missing price: 1
+2026-01-22 16:00:16,455 - INFO - Fetching from API: Rustler - Grand Theft Horse...
+2026-01-22 16:00:24,668 - INFO - Saved CSV with newly fetched prices.
+2026-01-22 16:00:24,668 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-22 16:00:24,669 - INFO - ✅ Success: All games have titles.
+2026-01-22 16:00:24,670 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-22 16:00:24,671 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-22 16:00:24,671 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-22 16:00:24,675 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-22 16:00:24,677 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-22 16:00:24,678 - INFO - 
+--- 📊 PORTFOLIO SUMMARY ---
+Total Games Collected: 659
+Total Market Value: $14,832.99
+Average Game Price: $22.51
+Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+----------------------------
+2026-01-22 16:00:24,682 - INFO - ✅ README.md updated with live stats.
