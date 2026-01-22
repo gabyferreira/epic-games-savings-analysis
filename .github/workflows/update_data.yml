@@ -1,26 +1,38 @@
-name: Weekly Data Update
+name: Daily Price and Game Update
+
 on:
   schedule:
     - cron: '30 16 * * *' # Runs everyday at 4:30 PM UTC
   workflow_dispatch:      # Allows you to run it manually for testing
+
+# 1. ADDED PERMISSIONS: Without this, 'git push' will fail with a 403 error
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13.5'
+          python-version: '3.13' # Standardizing version
+
       - name: Install dependencies
-        run: pip install pandas requests
+        # 2. ADDED FUZZY MATCHING LIBRARIES
+        run: pip install pandas requests thefuzz python-Levenshtein
+
       - name: Run update script
         run: python src/scraper.py
+
       - name: Commit and Push changes
         run: |
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
-          git add data/epic_games_data_edited_active.csv
-          git commit -m "Auto-update: Added new free games" || exit 0
+          # 3. ADDED CACHE FILE TO GIT ADD
+          git add data/epic_games_data_edited_active.csv game_prices.json
+          # 4. ADDED DYNAMIC DATE
+          git commit -m "Auto-update: Prices synced [$(date +'%Y-%m-%d')]" || exit 0
           git push

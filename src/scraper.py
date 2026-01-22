@@ -1,12 +1,17 @@
 import requests # this is to make an api request
 import pandas as pd
 from datetime import datetime
+from tqdm import tqdm
+tqdm.pandas()
+import time
+import json
+import os
+from thefuzz import process
 
-
-
+file_path = "data/epic_games_data_edited_active.csv"
+df_existing = pd.read_csv(file_path, encoding='latin1' )
 def update_csv():
     base_url = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
-    file_path = "data/epic_games_data_edited_active.csv"
     response = requests.get(base_url).json()
     elements = response['data']['Catalog']['searchStore']['elements']
     
@@ -25,7 +30,7 @@ def update_csv():
                     'start_date': offer['startDate'],
                     'end_date': offer['endDate']
                 })
-    df_existing = pd.read_csv(file_path, encoding='latin1' )
+    
     df_new = pd.DataFrame(new_entries)
     df_existing['start_date'] = pd.to_datetime(
         df_existing['start_date'], 
@@ -57,3 +62,90 @@ def update_csv():
     else:
         print("No new games found.")
 update_csv()
+
+def fetch_epic_free_games():
+    processed_list = df_existing['game']
+    return pd.DataFrame(processed_list)
+
+
+CACHE_FILE = "game_prices.json"
+
+def load_cache():
+    """Loads the local JSON file into a dictionary."""
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, 'r') as f:
+            return json.load(f)
+    return {}
+
+def save_to_cache(cache):
+    """Saves the updated dictionary back to the JSON file."""
+    with open(CACHE_FILE, 'w') as f:
+        json.dump(cache, f, indent=4)
+
+def get_release_price_with_cache(game_title, cache):
+    # 1. Check if we already have it
+    if game_title in cache:
+        return cache[game_title]
+
+    # 2. If not in cache, prepare for API call
+    print(f"Fetching from API: {game_title}...")
+    
+    # Stay safe: 1.5 second delay to avoid another 50-minute ban
+    time.sleep(5
+               ) 
+    
+    try:
+        search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
+        res = requests.get(search_url, timeout=10).json()
+        
+        if res:
+# STEP B: Create a dictionary of {Title: ID} from all search results
+            choices = {game['external']: game['gameID'] for game in res}
+            
+            # STEP C: Use Levenshtein to find the closest match
+            best_match, score = process.extractOne(game_title, choices.keys())
+# Only proceed if we are 85% sure it's the right game
+            if score >= 85:
+                game_id = choices[best_match]
+                
+                # STEP D: Get the specific price details using the best-match ID
+                detail_url = f"https://www.cheapshark.com/api/1.0/games?id={game_id}"
+                details = requests.get(detail_url, timeout=10).json()
+                price = float(details['deals'][0]['retailPrice'])
+                
+                # 3. Update the cache and save
+                cache[game_title] = price
+                save_to_cache(cache)
+                return price
+            else:
+                print(f"Low match score ({score}) for {game_title}. Skipping.")
+            
+    except Exception as e:
+        print(f"Error for {game_title}: {e}")
+    
+    return None
+
+# --- EXECUTION ---
+# Load your data
+df = fetch_epic_free_games() 
+price_cache = load_cache()
+
+if "price" not in df_existing.columns:
+    df_existing["price"] = pd.NA
+
+needs_price = df_existing["price"].isna() | (df_existing["price"].astype(str).str.strip() == "")
+print(f"Rows missing price: {int(needs_price.sum())}")
+
+if needs_price.any():
+    missing_titles = df_existing.loc[needs_price, "game"].dropna().unique()
+
+    title_to_price = {}
+    for title in missing_titles:
+        title_to_price[title] = get_release_price_with_cache(title, price_cache)
+
+    df_existing.loc[needs_price, "price"] = df_existing.loc[needs_price, "game"].map(title_to_price)
+
+    df_existing.to_csv(file_path, index=False, encoding="latin1")
+    print("Saved CSV with newly fetched prices.")
+else:
+    print("No missing prices — nothing to fetch.")
