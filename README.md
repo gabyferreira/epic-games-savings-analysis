@@ -8,15 +8,14 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 ---
 
 ### 📊 Live Project Statistics
-[[STATS_START]]
-
---- 📊 PORTFOLIO SUMMARY ---
-Total Games Collected: 659
-Total Market Value: $14,832.99
-Average Game Price: $22.51
-Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
-----------------------------
-[[STATS_END]]
+stats_text = f"""
+| Category | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | ${total_value:,.2f} |
+| 📦 **Total Games Collected** | {total_games} |
+| 📉 **Average Game Price** | ${avg_price:,.2f} |
+| 🏆 **Most Valuable Game** | {top_game_name} (${top_game_price}) |
+"""
 ---
 
 ## 🚀 How it Works (The Pipeline)
