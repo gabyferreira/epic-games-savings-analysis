@@ -64,8 +64,10 @@ id,game,start_date,end_date,price
 63,Superhot,21-12-2019,22/12/2019,24.99
 64,Little Inferno,22-12-2019,23/12/2019,14.99
 65,Ape Out,23-12-2019,24/12/2019,14.99
+66,Celeste (repeat),24-12-2019,25/12/2019,19.99
 67,Totally Accurate Battle Simulator,25-12-2019,26/12/2019,19.99
 68,FTL: Faster Than Light,26-12-2019,27/12/2019,9.99
+69,Hyper Light Drifter,27-12-2019,28/12/2019,19.99
 70,Shadow Tactics: Blades of the Shogun,28-12-2019,29/12/2019,39.99
 71,The Talos Principle,29-12-2019,30/12/2019,29.99
 72,Hello Neighbor,30-12-2019,31/12/2019,29.99
@@ -111,6 +113,7 @@ id,game,start_date,end_date,price
 112,Borderlands 2,28-05-2020,04/06/2020,19.99
 113,Borderlands: The Handsome Collection,28-05-2020,04/06/2020,59.99
 114,Borderlands: The Pre-Sequel,28-05-2020,04/06/2020,39.99
+115,Overcooked!,04-06-2020,11/06/2020,16.99
 116,Ark: Survival Evolved,11-06-2020,18/06/2020,14.99
 117,Samurai Shodown NeoGeo Collection,11-06-2020,18/06/2020,39.99
 118,Pathway,18-06-2020,25/06/2020,15.99
@@ -130,9 +133,11 @@ id,game,start_date,end_date,price
 132,Wilmot's Warehouse,06-08-2020,13/08/2020,14.99
 133,Remnant: From the Ashes,13-08-2020,20/08/2020,39.99
 134,The Alto Collection,13-08-2020,20/08/2020,9.99
+135,Enter the Gungeon,20-08-2020,27/08/2020,14.99
 136,God's Trigger,20-08-2020,27/08/2020,14.99
 137,Hitman (2016),27-08-2020,03/09/2020,29.99
 138,Shadowrun Collection,27-08-2020,03/09/2020,39.99
+139,Into the Breach,03-09-2020,10/09/2020,14.99
 140,Railway Empire,10-09-2020,17/09/2020,29.99
 141,Where the Water Tastes Like Wine,10-09-2020,17/09/2020,19.99
 142,A Total War Saga: Troy,13-09-2020,13/09/2020,39.99
@@ -141,6 +146,7 @@ id,game,start_date,end_date,price
 145,Watch Dogs 2,17-09-2020,24/09/2020,49.99
 146,RollerCoaster Tycoon 3: Complete Edition,24-09-2020,01/10/2020,19.99
 147,Pikuniku,01-10-2020,08/10/2020,12.99
+148,ABZU,08-10-2020,15/10/2020,19.99
 149,Rising Storm 2: Vietnam,08-10-2020,15/10/2020,24.99
 150,Amnesia: A Machine for Pigs,15-10-2020,22/10/2020,19.99
 151,Kingdom New Lands,15-10-2020,22/10/2020,14.99
@@ -161,12 +167,15 @@ id,game,start_date,end_date,price
 166,The Long Dark,19-12-2020,20/12/2020,19.99
 167,Defense Grid: The Awakening,20-12-2020,21/12/2020,9.99
 168,Alien: Isolation,21-12-2020,22/12/2020,39.99
+169,Metro 2033 Redux,22-12-2020,23/12/2020,19.99
 170,Tropico 5,23-12-2020,24/12/2020,19.99
+171,Inside,24-12-2020,25/12/2020,24.99
 172,Darkest Dungeon,25-12-2020,26/12/2020,24.99
 173,My Time at Portia,26-12-2020,27/12/2020,29.99
 174,Night in the Woods,27-12-2020,28/12/2020,19.99
 175,Stranded Deep,28-12-2020,29/12/2020,19.99
 176,Solitairica,29-12-2020,30/12/2020,9.99
+177,Torchlight II,30-12-2020,31/12/2020,19.99
 178,Jurassic World Evolution,31-12-2020,07/01/2021,44.99
 179,Crying Suns,07-01-2021,14/01/2021,24.99
 180,STAR WARS Battlefront II,14-01-2021,21/01/2021,39.99
@@ -179,6 +188,7 @@ id,game,start_date,end_date,price
 187,Rage 2,18-02-2021,25/02/2021,39.99
 188,Sunless Sea,25-02-2021,04/03/2021,18.99
 189,Wargame: Red Dragon,04-03-2021,11/03/2021,29.99
+190,Surviving Mars,11-03-2021,18/03/2021,29.99
 191,The Fall,18-03-2021,25/03/2021,9.99
 192,Creature in the Well,25-03-2021,01/04/2021,14.99
 193,Tales of the Neon Sea,01-04-2021,08/04/2021,14.99
@@ -186,6 +196,7 @@ id,game,start_date,end_date,price
 195,Deponia,15-04-2021,22/04/2021,9.99
 196,Ken Follett's The Pillars of the Earth,15-04-2021,22/04/2021,19.99
 197,The First Tree,15-04-2021,22/04/2021,9.99
+198,Alien: Isolation,22-04-2021,29/04/2021,39.99
 199,Hand of Fate 2,22-04-2021,29/04/2021,29.99
 200,Idle Champions of the Forgotten Realms,29-04-2021,06/05/2021,11.99
 201,Pine,06-05-2021,13/05/2021,24.99
@@ -202,10 +213,14 @@ id,game,start_date,end_date,price
 212,Bridge Constructor: The Walking Dead,08-07-2021,15/07/2021,9.99
 213,Ironcast,08-07-2021,15/07/2021,14.99
 214,Obduction,15-07-2021,22/07/2021,29.99
+215,Offworld Trading Company,15-07-2021,22/07/2021,29.99
+216,Defense Grid: The Awakening (repeat),22-07-2021,29/07/2021,9.99
 217,Verdun,22-07-2021,29/07/2021,19.99
 218,Mothergunship,29-07-2021,05/08/2021,24.99
 219,Train Sim World 2,29-07-2021,05/08/2021,19.99
 220,A Plague Tale: Innocence,05-08-2021,12/08/2021,39.99
+221,Minit,05-08-2021,12/08/2021,9.99
+222,Rebel Galaxy,12-08-2021,19/08/2021,19.99
 223,Void Bastards,19-08-2021,26/08/2021,29.99
 224,Yooka-Laylee,19-08-2021,26/08/2021,19.99
 225,Automachef,26-08-2021,02/09/2021,14.99
@@ -215,6 +230,7 @@ id,game,start_date,end_date,price
 229,Sheltered,09-09-2021,16/09/2021,14.99
 230,Speed Brawl,16-09-2021,23/09/2021,19.99
 231,Tharsis,16-09-2021,23/09/2021,14.99
+232,The Escapists,23-09-2021,30/09/2021,17.99
 233,Europa Universalis IV,30-09-2021,07/10/2021,49.99
 234,PC Building Simulator,07-10-2021,14/10/2021,19.99
 235,Stubbs the Zombie in Rebel Without a Pulse,14-10-2021,21/10/2021,19.99
@@ -234,12 +250,15 @@ id,game,start_date,end_date,price
 249,Prison Architect,09-12-2021,16/12/2021,29.99
 250,Shenmue III,16-12-2021,17/12/2021,29.99
 251,Neon Abyss,17-12-2021,18/12/2021,19.99
+252,Remnant: From the Ashes,18-12-2021,19/12/2021,39.99
 253,The Vanishing of Ethan Carter,19-12-2021,20/12/2021,19.99
 254,Loop Hero,20-12-2021,21/12/2021,14.99
 255,Second Extinction,21-12-2021,22/12/2021,0.0
+256,Mutant Year Zero: Road to Eden,22-12-2021,23/12/2021,34.99
 257,Vampyr,23-12-2021,24/12/2021,39.99
 258,Pathfinder: Kingmaker - Enhanced Plus Edition,24-12-2021,25/12/2021,19.99
 259,Prey,25-12-2021,26/12/2021,29.99
+260,Control,26-12-2021,27/12/2021,4.99
 261,Mages of Mystralia,27-12-2021,28/12/2021,19.99
 262,Moving Out,28-12-2021,29/12/2021,24.99
 263,Salt and Sanctuary,29-12-2021,30/12/2021,17.99
@@ -248,17 +267,22 @@ id,game,start_date,end_date,price
 266,Rise of the Tomb Raider,30-12-2021,06/01/2022,29.99
 267,Shadow of the Tomb Raider,30-12-2021,06/01/2022,59.99
 268,Gods Will Fall,06-01-2022,13/01/2022,14.99
+269,Galactic Civilizations III,13-01-2022,20/01/2022,29.99
 270,Relicta,20-01-2022,27/01/2022,19.99
 271,Daemon X Machina,27-01-2022,03/02/2022,49.99
+272,Yooka-Laylee and the Impossible Lair,03-02-2022,10/02/2022,29.99
 273,Windbound,10-02-2022,17/02/2022,19.99
 274,Brothers: A Tale of Two Sons,17-02-2022,24/02/2022,14.99
 275,Cris Tales,24-02-2022,03/03/2022,39.99
 276,Black Widow: Recharged,03-03-2022,10/03/2022,9.99
 277,Centipede: Recharged,03-03-2022,10/03/2022,9.99
+278,Cities: Skylines,10-03-2022,17/03/2022,29.99
 279,In Sound Mind,17-03-2022,24/03/2022,34.99
 280,Demon's Tilt,24-03-2022,31/03/2022,19.99
+281,City of Brass (repeat),31-03-2022,07/04/2022,19.99
 282,Total War: Warhammer,31-03-2022,07/04/2022,59.99
 283,Rogue Legacy,07-04-2022,14/04/2022,14.99
+284,The Vanishing of Ethan Carter,07-04-2022,14/04/2022,19.99
 285,Insurmountable,14-04-2022,21/04/2022,24.99
 286,XCOM 2,14-04-2022,21/04/2022,59.99
 287,Amnesia: Rebirth,21-04-2022,28/04/2022,29.99
@@ -266,6 +290,8 @@ id,game,start_date,end_date,price
 289,Just Die Already,28-04-2022,05/05/2022,14.99
 290,Paradigm,28-04-2022,05/05/2022,14.99
 291,Terraforming Mars,05-05-2022,12/05/2022,19.99
+292,Jotun: Valhalla Edition,12-05-2022,19/05/2022,14.99
+293,Prey,12-05-2022,19/05/2022,29.99
 294,Redout: Enhanced Edition,12-05-2022,19/05/2022,19.99
 295,Borderlands 3,19-05-2022,26/05/2022,59.99
 296,Bioshock: The Collection,26-05-2022,02/06/2022,59.99
@@ -281,6 +307,7 @@ id,game,start_date,end_date,price
 306,Hood: Outlaws & Legends,30-06-2022,07/07/2022,0.0
 307,Iratus: Lord of the Dead,30-06-2022,07/07/2022,29.99
 308,Ancient Enemy,07-07-2022,14/07/2022,16.99
+309,Killing Floor 2,07-07-2022,14/07/2022,29.99
 310,Shop Titans,14-07-2022,21/07/2022,0.0
 311,Wonder Boy: The Dragon's Trap,14-07-2022,21/07/2022,19.99
 312,Tannenberg,21-07-2022,28/07/2022,19.99
@@ -291,12 +318,13 @@ id,game,start_date,end_date,price
 317,Rumbleverse Boom Boxer Pack (DLC),18-08-2022,25/08/2022,1.99
 318,Destiny 2,25-08-2022,01/09/2022,24.99
 319,Ring of Pain,25-08-2022,01/09/2022,19.99
+320,Shadow of the Tomb Raider,01-09-2022,08/09/2022,59.99
 321,Submerged: Hidden Depths,01-09-2022,08/09/2022,29.99
 322,Hundred Days - Winemaking Simulator,08-09-2022,15/09/2022,24.99
 323,Realm Royale Reforged Epic Launch Bundle (DLC),08-09-2022,15/09/2022,0.0
 324,Spirit of the North,15-09-2022,22/09/2022,19.99
 325,The Captain,15-09-2022,22/09/2022,19.99
-326,ARK: Survival Evolved,22-09-2022,29/09/2022,14.99
+326,ARK: Survival Evolved (repeat),22-09-2022,29/09/2022,14.99
 327,Gloomhaven,22-09-2022,29/09/2022,34.99
 328,Runbow,29-09-2022,06/10/2022,14.99
 329,The Drone Racing League Simulator,29-09-2022,06/10/2022,9.99
@@ -309,7 +337,9 @@ id,game,start_date,end_date,price
 336,Saturnalia,27-10-2022,03/11/2022,29.99
 337,"Warhammer 40,000: Mechanicus",27-10-2022,03/11/2022,29.99
 338,Filament,03-11-2022,10/11/2022,16.99
+339,Rising Storm 2: Vietnam,03-11-2022,10/11/2022,24.99
 340,Alba: A Wildlife Adventure,10-11-2022,17/11/2022,16.99
+341,Shadow Tactics: Blades of the Shogun (repeat),10-11-2022,17/11/2022,39.99
 342,Dark Deity,17-11-2022,24/11/2022,24.99
 343,Evil Dead: The Game,17-11-2022,24/11/2022,39.99
 344,Star Wars: Squadrons,24-11-2022,01/12/2022,39.99
@@ -318,11 +348,15 @@ id,game,start_date,end_date,price
 347,Saints Row 4 Re-Elected,08-12-2022,15/12/2022,19.99
 348,Wildcat Gun Machine,08-12-2022,15/12/2022,14.99
 349,Bloons TD 6,15-12-2022,15/12/2022,13.99
+350,Horizon Chase Turbo,16-12-2022,16/12/2022,19.99
+351,Costume Quest 2,17-12-2022,17/12/2022,14.99
 352,Sable,19-12-2022,20/12/2022,24.99
 353,Them's Fightin' Herds,20-12-2022,21/12/2022,31.98
+354,Wolfenstein: The New Order,21-12-2022,22/12/2022,19.99
 355,LEGO Builder's Journey,22-12-2022,23/12/2022,19.99
 356,Fallout Classic Collection,23-12-2022,24/12/2022,19.99
 357,Encased,24-12-2022,25/12/2022,29.99
+358,Metro: Last Light Redux,25-12-2022,26/12/2022,19.99
 359,Death Stranding,26-12-2022,27/12/2022,39.99
 360,F.I.S.T.: Forged In Shadow Torch,27-12-2022,28/12/2022,15.99
 361,Severed Steel,28-12-2022,29/12/2022,24.99
@@ -352,12 +386,16 @@ id,game,start_date,end_date,price
 385,Dying Light,06-04-2023,13/04/2023,24.99
 386,shapez,06-04-2023,13/04/2023,9.99
 387,Mordhau,13-04-2023,20/04/2023,29.99
+388,Second Extinction,13-04-2023,20/04/2023,24.99
 389,Beyond Blue,20-04-2023,27/04/2023,19.99
+390,Never Alone (Kisima Ingitchuna),20-04-2023,27/04/2023,14.99
 391,Breathedge,27-04-2023,04/05/2023,24.99
 392,Poker Club,27-04-2023,04/05/2023,19.99
 393,Against All Odds,04-05-2023,11/05/2023,4.99
+394,Horizon Chase Turbo,04-05-2023,11/05/2023,19.99
 395,Kao the Kangaroo,04-05-2023,11/05/2023,29.99
 396,The Sims 4 The Daring Lifestyle Bundle,11-05-2023,18/05/2023,0.0
+397,Death Stranding,18-05-2023,25/05/2023,39.99
 398,Fallout: New Vegas,25-05-2023,01/06/2023,9.99
 399,Midnight Ghost Hunt,01-06-2023,08/06/2023,19.99
 400,PAYDAY 2,08-06-2023,15/06/2023,9.99
@@ -371,10 +409,15 @@ id,game,start_date,end_date,price
 408,Murder by Numbers,20-07-2023,27/07/2023,14.99
 409,The Elder Scrolls Online,20-07-2023,27/07/2023,19.99
 410,Homeworld Remastered Collection,27-07-2023,03/08/2023,34.99
+411,Severed Steel,27-07-2023,03/08/2023,24.99
+412,Bloons TD 6,03-08-2023,10/08/2023,13.99
+413,Loop Hero,03-08-2023,10/08/2023,14.99
+414,Europa Universalis IV (repeat),10-08-2023,17/08/2023,49.99
 415,Orwell: Keeping an Eye on You,10-08-2023,17/08/2023,9.99
 416,Black Book,17-08-2023,24/08/2023,24.99
 417,Dodo Peak,17-08-2023,24/08/2023,9.99
 418,Homeworld: Deserts of Kharak,24-08-2023,31/08/2023,49.99
+419,Cave Story+,31-08-2023,07/09/2023,14.99
 420,Spelldrifter,31-08-2023,07/09/2023,19.99
 421,911 Operator,14-09-2023,21/09/2023,14.99
 422,Out of Line,14-09-2023,21/09/2023,8.99
@@ -388,6 +431,7 @@ id,game,start_date,end_date,price
 430,The Evil Within,19-10-2023,26/10/2023,19.99
 431,Tandem: A Tale of Shadows,26-10-2023,02/11/2023,9.99
 432,The Evil Within 2,26-10-2023,02/11/2023,39.99
+433,F.I.S.T.: Forged In Shadow Torch,02-11-2023,09/11/2023,15.99
 434,Turnip Boy Commits Tax Evasion,02-11-2023,09/11/2023,14.99
 435,Earthlock,09-11-2023,16/11/2023,29.99
 436,Golden Light,09-11-2023,16/11/2023,19.99
@@ -401,12 +445,20 @@ id,game,start_date,end_date,price
 444,DNF Duel,20-12-2023,21/12/2023,49.99
 445,Melvor Idle,21-12-2023,22/12/2023,9.99
 446,20 Minutes Till Dawn,21-12-2023,31/12/2023,4.99
+447,A Plague Tale: Innocence (repeat),21-12-2023,31/12/2023,39.99
 448,Additional minor DLC / cosmetics slots (holiday pack group)*,21-12-2023,31/12/2023,0.0
+449,Black Book (repeat),21-12-2023,31/12/2023,24.99
+450,Dishonored: Death of the Outsider,21-12-2023,31/12/2023,29.99
 451,Escape Academy,21-12-2023,31/12/2023,19.99
+452,Grime,21-12-2023,31/12/2023,24.99
 453,Idle Champions of the Forgotten Realms (DLC pack),21-12-2023,31/12/2023,5.99
 454,Marvel's Guardians of the Galaxy,21-12-2023,31/12/2023,59.99
-456,Train Sim World 3,21-12-2023,31/12/2023,24.99
+455,theHunter: Call of the Wild (repeat),21-12-2023,31/12/2023,19.99
+456,Train Sim World 3 (example holiday slot)*,21-12-2023,31/12/2023,24.99
+457,Train Valley 2,21-12-2023,31/12/2023,14.99
+458,Turnip Boy Commits Tax Evasion (repeat),21-12-2023,31/12/2023,14.99
 459,Art of Rally,22-12-2023,23/12/2023,24.99
+460,Fallout 3,23-12-2023,24/12/2023,9.99
 461,Ghostwire: Tokyo,24-12-2023,25/12/2023,59.99
 462,The Outer Worlds,25-12-2023,26/12/2023,29.99
 463,Human Resource Machine,26-12-2023,27/12/2023,14.99
@@ -415,6 +467,10 @@ id,game,start_date,end_date,price
 466,Snakebird Complete,29-12-2023,30/12/2023,14.99
 467,Saints Row (2022),30-12-2023,31/12/2023,29.99
 468,Ghostrunner,31-12-2023,01/01/2024,29.99
+469,Escape Academy,01-01-2024,02/01/2024,19.99
+470,20 Minutes Till Dawn,02-01-2024,03/01/2024,4.99
+471,A Plague Tale: Innocence,03-01-2024,04/01/2024,39.99
+472,Marvel's Guardians of the Galaxy,04-01-2024,11/01/2024,59.99
 473,Sail Forth,11-01-2024,18/01/2024,19.99
 474,LOVE,18-01-2024,25/01/2024,2.99
 475,Infinifactory,25-01-2024,01/02/2024,24.99
@@ -425,34 +481,41 @@ id,game,start_date,end_date,price
 480,Super Meat Boy Forever,22-02-2024,29/02/2024,4.99
 481,Aerial_Knight's Never Yield,29-02-2024,07/03/2024,11.99
 482,Thief (2014),04-03-2024,11/04/2024,19.99
+483,The Outer Worlds,04-03-2024,11/04/2024,29.99
 484,Astro Duel,07-03-2024,14/03/2024,9.99
+485,The Bridge,14-03-2024,21/03/2024,9.99
 486,LISA: The Painful,14-03-2024,21/03/2024,19.99
 487,Deus Ex: Mankind Divided,14-03-2024,21/03/2024,29.99
 488,Call of The Wild: The Angler,21-03-2024,28/03/2024,29.99
 489,Invincible Presents: Atom Eve,21-03-2024,28/03/2024,9.99
 490,Islets,28-03-2024,04/04/2024,19.99
 491,Circus Electrique,04-04-2024,11/04/2024,19.99
+492,Ghostrunner,11-04-2024,18/04/2024,29.99
 493,The Big Con,18-04-2024,25/04/2024,14.99
 494,Town of Salem 2,18-04-2024,25/04/2024,12.99
+495,Circus Electrique,18-04-2024,25/04/2024,19.99
 496,Industria,25-04-2024,02/05/2024,19.99
 497,Orcs Must Die! 3,02-05-2024,09/05/2024,29.99
 498,LISA: The Joyful,02-05-2024,09/05/2024,9.99
 499,Cat Quest II,02-05-2024,09/05/2024,14.99
-500,Orcs Must Die! 2,09-05-2024,16/05/2024,14.99
+500,Orcs Must Die! 2 (repeat),09-05-2024,16/05/2024,14.99
 501,Firestone: Online Idle RPG,09-05-2024,16/05/2024,0.0
 502,Dragon Age: Inquisition,16-05-2024,23/05/2024,39.99
 503,Farming Simulator 22,23-05-2024,30/05/2024,19.99
 504,Chivalry 2,30-05-2024,06/06/2024,39.99
 505,Marvel's Midnight Suns,30-05-2024,06/06/2024,59.99
 506,Redout 2,06-06-2024,13/06/2024,19.99
+507,Idle Champions of the Forgotten Realms (DLC pack),13-06-2024,20/06/2024,5.99
 508,Freshly Frosted + Rumble Club pack,20-06-2024,27/06/2024,9.99
 509,Sunless Skies: Sovereign Edition,27-06-2024,04/07/2024,24.99
 510,The Falconeer,04-07-2024,11/07/2024,19.99
 511,Floppy Knights,11-07-2024,18/07/2024,19.99
 512,Arcade Paradise,18-07-2024,25/07/2024,19.99
 513,Maid of Sker,18-07-2024,25/07/2024,24.99
+514,F.I.S.T.: Forged In Shadow Torch,25-07-2024,01/08/2024,15.99
 515,LumbearJack,01-08-2024,08/08/2024,12.99
 516,Rawmen: Food Fighter Arena,01-08-2024,08/08/2024,0.0
+517,DNF Duel,08-08-2024,15/08/2024,49.99
 518,CYGNI: All Guns Blazing,08-08-2024,15/08/2024,29.99
 519,Death's Gambit: Afterlife,15-08-2024,22/08/2024,19.99
 520,World of Warships – Starter Pack: Albany,15-08-2024,22/08/2024,24.99
@@ -471,9 +534,13 @@ id,game,start_date,end_date,price
 533,Outliver: Tribulation,10-10-2024,17/10/2024,7.99
 534,Empyrion - Galactic Survival,10-10-2024,17/10/2024,19.99
 535,Kardboard Kings: Card Shop Simulator,17-10-2024,17/10/2024,19.99
+536,Invincible Presents: Atom Eve,17-10-2024,24/10/2024,9.99
+537,Moving Out,24-10-2024,31/10/2024,24.99
+538,Ghostwire: Tokyo,31-10-2024,07/11/2024,59.99
 539,Witch It,31-10-2024,07/11/2024,19.99
 540,Deceive Inc.,07-11-2024,14/11/2024,19.99
 541,Castlevania Anniversary Collection,14-11-2024,21/11/2024,19.99
+542,Snakebird Complete,14-11-2024,21/11/2024,14.99
 543,Beholder,21-11-2024,28/11/2024,13.99
 544,Brotato,28-11-2024,05/12/2024,4.99
 545,Lego Star Wars: The Skywalker Saga,05-12-2024,12/12/2024,49.99
@@ -485,21 +552,30 @@ id,game,start_date,end_date,price
 551,Wizard of Legend,22-12-2024,23/12/2024,15.99
 552,Dark and Darker,23-12-2024,24/12/2024,0.0
 553,DREDGE,24-12-2024,25/12/2024,24.99
+554,Control,25-12-2024,26/12/2024,4.99
 555,Ghostrunner 2,26-12-2024,27/12/2024,39.99
 556,Hot Wheels Unleashed,27-12-2024,28/12/2024,39.99
 557,KILL KNIGHT,28-12-2024,29/12/2024,14.99
-559,REDACTED,30-12-2024,31/12/2024,24.99
+558,Orcs Must Die! 3 (repeat),29-12-2024,30/12/2024,29.99
+559,REDACTED (mystery day 2024)*,30-12-2024,31/12/2024,24.99
 560,Sifu,31-12-2024,01/01/2025,39.99
+561,Kingdom Come: Deliverance,01-01-2025,02/01/2025,29.99
 562,Hell Let Loose,02-01-2025,09/01/2025,49.99
 563,Turmoil,09-01-2025,16/01/2025,12.99
+564,Escape Academy,16-01-2025,23/01/2025,19.99
 565,Behind the Frame: The Finest Scenery,23-01-2025,30/01/2025,12.99
 566,Undying,30-01-2025,06/02/2025,19.99
+567,Beyond Blue,06-02-2025,13/02/2025,19.99
 568,Humankind,06-02-2025,13/02/2025,49.99
 569,F1 Manager 2024,13-02-2025,20/02/2025,34.99
 570,Garden Story,20-02-2025,27/02/2025,19.99
 571,World War Z Aftermath,20-02-2025,27/02/2025,39.99
+572,Mages of Mystralia,27-02-2025,06/03/2025,19.99
+573,Them's Fightin' Herds,06-03-2025,13/03/2025,31.98
+574,Mortal Shell,13-03-2025,20/03/2025,29.99
 575,World Of Warships – Anniversary Party Flavor,13-03-2025,20/03/2025,0.0
 576,Jurassic World Evolution 2,20-03-2025,27/03/2025,59.99
+577,Cat Quest,27-03-2025,03/04/2025,12.99
 578,"Neko Ghost, Jump!",27-03-2025,03/04/2025,9.99
 579,Cat Quest 2,03-04-2025,10/04/2025,14.99
 580,River City Girls,10-04-2025,17/04/2025,29.99
@@ -513,12 +589,16 @@ id,game,start_date,end_date,price
 588,Dead Island 2,15-05-2025,22/05/2025,49.99
 589,Deliver At All Costs,22-05-2025,29/05/2025,29.99
 590,Gigapocalypse,22-05-2025,29/05/2025,9.99
+591,Sifu,22-05-2025,29/05/2025,39.99
+592,Limbo,29-05-2025,05/06/2025,12.49
 593,Tiny Tina's Wonderlands,29-05-2025,05/06/2025,59.99
 594,Deathloop,05-06-2025,12/06/2025,59.99
 595,Ogu and the Secret Forest,05-06-2025,12/06/2025,24.99
 596,Two Point Hospital,12-06-2025,19/06/2025,29.99
 597,The Operator,19-06-2025,26/06/2025,13.99
+598,Sable,26-06-2025,03/07/2025,24.99
 599,Backpack Hero,03-07-2025,10/07/2025,19.99
+600,Figment,03-07-2025,10/07/2025,19.99
 601,Figment 2,10-07-2025,17/07/2025,24.99
 602,Sky Racket,10-07-2025,17/07/2025,14.99
 603,Civilization 6 Platinum Edition,17-07-2025,24/07/2025,79.99
@@ -528,11 +608,13 @@ id,game,start_date,end_date,price
 607,112 Operator,07-08-2025,14/08/2025,24.99
 608,Road Redemption,07-08-2025,14/08/2025,19.99
 609,Hidden Folks,14-08-2025,21/08/2025,14.99
+610,Totally Reliable Delivery Service,14-08-2025,21/08/2025,14.99
 611,Kamaeru: A Frog Refuge,21-08-2025,28/08/2025,19.99
 612,Strange Horticulture,21-08-2025,28/08/2025,15.99
 613,Machinarium,28-08-2025,04/09/2025,19.99
 614,Make Way,28-08-2025,04/09/2025,14.99
 615,Monument Valley,04-09-2025,11/09/2025,7.99
+616,Ghostrunner 2,11-09-2025,18/09/2025,39.99
 617,Monument Valley 2,11-09-2025,18/09/2025,7.99
 618,The Battle of Polytopia,11-09-2025,18/09/2025,14.99
 619,Project Winter,18-09-2025,25/09/2025,9.99
@@ -562,13 +644,16 @@ id,game,start_date,end_date,price
 643,Sorry We're Closed,21-12-2025,22/12/2025,24.99
 644,Paradise Killer,22-12-2025,23/12/2025,19.99
 645,Bloodstained: Ritual of the Night,23-12-2025,24/12/2025,39.99
+646,The Callisto Protocol,24-12-2025,25/12/2025,59.99
 647,Disco Elysium — The Final Cut,25-12-2025,26/12/2025,39.99
 648,We Were Here Together,26-12-2025,27/12/2025,12.99
 649,Cassette Beasts,27-12-2025,28/12/2025,19.99
 650,SKALD: Against the Black Priory,28-12-2025,29/12/2025,14.99
 651,Viewfinder,29-12-2025,30/12/2025,24.99
 652,Trine Classic Collection,30-12-2025,31/12/2025,49.99
+653,Chivalry 2,31-12-2025,01/01/2026,39.99
 654,Wildgate,01-01-2026,08/01/2026,29.99
 655,Total War: Three Kingdoms,01-01-2026,08/01/2026,59.99
-656,Styx: Master of Shadows,15-01-2026,22-01-2026,19.99
-657,Styx: Shards of Darkness - Deluxe Edition,15-01-2026,22-01-2026,19.99
+656,Bloons TD 6,08-01-2026,15/01/2026,13.99
+657,Styx: Master of Shadows,15-01-2026,22/01/2026,19.99
+658,Styx: Shards of Darkness - Deluxe Edition,15-01-2026,22/01/2026,19.99

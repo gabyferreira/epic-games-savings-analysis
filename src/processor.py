@@ -43,14 +43,19 @@ def validate_prices(df):
     return df
 
 def remove_duplicates(df):
-    """Ensures each game only appears once based on title."""
+    """
+    Ensures each unique giveaway instance appears once.
+    Allows the same game name on different dates.
+    """
     initial_count = len(df)
-    # We keep the 'first' instance found
-    df = df.drop_duplicates(subset=['game'], keep='first')
+    
+    # NEW LOGIC: Use a list of columns for the subset.
+    # A row is only a duplicate if BOTH 'game' AND 'start_date' match.
+    df = df.drop_duplicates(subset=['game', 'start_date'], keep='first')
     
     current_count = len(df)
     if current_count < initial_count:
-        print(f"🧹 CLEANUP: Removed {initial_count - current_count} duplicate rows.")
+        print(f"🧹 CLEANUP: Removed {initial_count - current_count} actual duplicate rows.")
     else:
-        print("✅ Success: No duplicate games found.")
+        print("✅ Success: No duplicate giveaway instances found.")
     return df

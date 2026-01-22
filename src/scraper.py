@@ -7,8 +7,9 @@ import time
 import json
 import os
 from thefuzz import process
+from processor import validate_and_clean_data
 
-file_path = "data/epic_games_data_edited_active4.csv"
+file_path = "data/epic_games_data_edited_active6.csv"
 df_existing = pd.read_csv(file_path, encoding='latin1' )
 def update_csv():
     base_url = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
@@ -152,3 +153,10 @@ if needs_price.any():
     print("Saved CSV with newly fetched prices.")
 else:
     print("No missing prices — nothing to fetch.")
+
+
+df_existing = validate_and_clean_data(df_existing)
+
+# 6. SAVE the final, validated version
+df_existing.to_csv(file_path, index=False, encoding="latin1")
+print("✅ Update complete: Data scraped, enriched, and validated.")
