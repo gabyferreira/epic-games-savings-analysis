@@ -137,8 +137,8 @@ def update_readme(stats_text):
         content = f.read()
 
     # Find the markers
-    start_marker = "[[STATS_START]]"
-    end_marker = "[[STATS_END]]"
+    start_marker = ""
+    end_marker = ""
     
     # This regex pattern finds everything between the markers
     pattern = f"{start_marker}.*?{end_marker}"
