@@ -116,12 +116,12 @@ def generate_summary_stats(df):
         jewel_name, jewel_price = "N/A", 0
 
     stats = (
-        f"\n--- 📊 PORTFOLIO SUMMARY ---"
-        f"\nTotal Games Collected: {total_games}"
-        f"\nTotal Market Value: ${total_value:,.2f}"
-        f"\nAverage Game Price: ${avg_price:,.2f}"
-        f"\nMost Valuable Game: {jewel_name} (${jewel_price})"
-        f"\n----------------------------"
+"| Metric | Statistics |\n"
+        "| :--- | :--- |\n"
+        f"| 💰 **Total Market Value** | ${total_value:,.2f} |\n"
+        f"| 📦 **Total Games Collected** | {total_games} |\n"
+        f"| 📉 **Average Game Price** | ${avg_price:,.2f} |\n"
+        f"| 🏆 **Most Valuable Game** | {jewel_name} (${jewel_price:,.2f}) |"
     )
     return stats
 
