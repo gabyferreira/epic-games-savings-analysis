@@ -9,11 +9,12 @@ import os
 from thefuzz import process
 from processor import validate_and_clean_data, generate_summary_stats, update_readme
 import logging
+from visualiser import generate_savings_chart
 
 
 logger = logging.getLogger(__name__)
 
-file_path = "data/epic_games_data_edited_active6.csv"
+file_path = "data/epic_games_data_edited_active.csv"
 df_existing = pd.read_csv(file_path, encoding='latin1' )
 def update_csv():
     base_url = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
@@ -167,3 +168,9 @@ logger.info("✅ Update complete: Data scraped, enriched, and validated.")
 summary = generate_summary_stats(df_existing)
 logger.info(summary)
 update_readme(summary)
+
+try:
+    generate_savings_chart(file_path)
+    logger.info("📈 Savings chart generated successfully.")
+except Exception as e:
+    logger.error(f"❌ Failed to generate chart: {e}")
