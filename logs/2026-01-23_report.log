@@ -121,3 +121,369 @@ Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
 | 📉 **Average Game Price** | $22.51 |
 | 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
 2026-01-23 11:06:08,929 - INFO - ✅ README.md updated with live stats.
+2026-01-23 18:28:09,174 - INFO - No new games found.
+2026-01-23 18:28:09,398 - INFO - No new games found.
+2026-01-23 18:28:09,401 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:28:09,410 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 18:28:09,417 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 18:28:09,419 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 18:28:09,420 - INFO - ✅ README.md updated.
+2026-01-23 18:28:09,696 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 18:40:50,458 - INFO - No new games found.
+2026-01-23 18:40:50,822 - INFO - No new games found.
+2026-01-23 18:40:50,826 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 18:40:50,836 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 18:40:50,973 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 18:40:50,982 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:50,991 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 18:40:50,996 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 18:40:51,087 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 18:40:51,105 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:51,229 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 18:40:51,297 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:51,326 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 18:40:51,372 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 18:40:51,396 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 18:40:51,401 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:51,433 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:51,498 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:51,503 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:51,627 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 18:40:51,665 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 18:40:51,719 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:51,816 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:40:51,829 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 18:40:51,842 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:40:51,855 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:51,885 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:40:51,922 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 18:40:51,927 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 18:40:51,996 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,058 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:52,101 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 18:40:52,150 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,176 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,189 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,253 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,262 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 18:40:52,318 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:52,364 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 18:40:52,373 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 18:40:52,434 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 18:40:52,455 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:40:52,490 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 18:40:52,521 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:40:52,526 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 18:40:52,569 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,628 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 18:40:52,689 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:52,706 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,710 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 18:40:52,715 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,732 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,741 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,746 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 18:40:52,756 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,790 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:40:52,795 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,855 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,927 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,956 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:40:52,961 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 18:40:53,014 - WARNING - ⚠️ Metadata for 'World of Warships – Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 18:40:53,026 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:53,031 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 18:40:53,107 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:40:53,172 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:40:53,177 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 18:40:53,209 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 18:40:53,246 - WARNING - ⚠️ Metadata for 'World Of Warships – Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 18:40:53,279 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 18:40:53,363 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:53,565 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:40:53,589 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 18:40:53,601 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 18:40:53,601 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:40:53,610 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 18:40:53,616 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 18:40:53,618 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 18:40:53,619 - INFO - ✅ README.md updated.
+2026-01-23 18:40:53,884 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 18:41:43,184 - INFO - No new games found.
+2026-01-23 18:41:43,451 - INFO - No new games found.
+2026-01-23 18:41:43,462 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 18:41:43,472 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 18:41:43,611 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 18:41:43,620 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:43,629 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 18:41:43,633 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 18:41:43,725 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 18:41:43,744 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:43,889 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 18:41:43,958 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:43,988 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 18:41:44,048 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 18:41:44,074 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,079 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:44,115 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:44,182 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:44,187 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:44,315 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 18:41:44,353 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 18:41:44,405 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,498 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,503 - WARNING - ⚠️ Metadata for 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure' incomplete. Will retry in next run.
+2026-01-23 18:41:44,512 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 18:41:44,525 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:41:44,537 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:44,568 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:41:44,605 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,610 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 18:41:44,689 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,757 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:44,798 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 18:41:44,844 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,872 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,885 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,951 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:44,961 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 18:41:45,017 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:45,067 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 18:41:45,076 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 18:41:45,137 - WARNING - ⚠️ Metadata for 'World of Warships â€” Starter Pack: Ishizuchi' incomplete. Will retry in next run.
+2026-01-23 18:41:45,142 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 18:41:45,164 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:41:45,199 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 18:41:45,229 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:41:45,233 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 18:41:45,276 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,337 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 18:41:45,402 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:45,430 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,435 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 18:41:45,440 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,457 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,466 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,471 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 18:41:45,480 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,513 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:41:45,517 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,578 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,652 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,681 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,687 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 18:41:45,737 - WARNING - ⚠️ Metadata for 'World of Warships â€“ Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 18:41:45,751 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:45,755 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 18:41:45,830 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:41:45,900 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:41:45,906 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 18:41:45,936 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 18:41:45,975 - WARNING - ⚠️ Metadata for 'World Of Warships â€“ Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 18:41:46,008 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 18:41:46,092 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:46,169 - WARNING - ⚠️ Metadata for 'Jorelâ€™s Brother and The Most Important Game of the Galaxy' incomplete. Will retry in next run.
+2026-01-23 18:41:46,271 - WARNING - ⚠️ Metadata for 'Disco Elysium â€” The Final Cut' incomplete. Will retry in next run.
+2026-01-23 18:41:46,291 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:41:46,316 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 18:41:46,328 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 18:41:46,328 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:42:38,797 - INFO - No new games found.
+2026-01-23 18:42:39,084 - INFO - No new games found.
+2026-01-23 18:42:39,095 - INFO - 🔍 Found 74 games needing metadata. Starting enrichment...
+2026-01-23 18:42:39,101 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 18:42:39,106 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 18:42:39,111 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,116 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 18:42:39,121 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 18:42:39,125 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 18:42:39,130 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,134 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 18:42:39,139 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,144 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 18:42:39,148 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 18:42:39,153 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,157 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,163 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,167 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,172 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,177 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 18:42:39,182 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 18:42:39,186 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,191 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,196 - WARNING - ⚠️ Metadata for 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure' incomplete. Will retry in next run.
+2026-01-23 18:42:39,200 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 18:42:39,205 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:42:39,209 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,214 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:42:39,219 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,223 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 18:42:39,228 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,232 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,237 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 18:42:39,242 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,247 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,251 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,256 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,260 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 18:42:39,265 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,270 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 18:42:39,274 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 18:42:39,279 - WARNING - ⚠️ Metadata for 'World of Warships â€” Starter Pack: Ishizuchi' incomplete. Will retry in next run.
+2026-01-23 18:42:39,284 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 18:42:39,288 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:42:39,293 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 18:42:39,297 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:42:39,302 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 18:42:39,306 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,310 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 18:42:39,315 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,320 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,324 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 18:42:39,328 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,333 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,337 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,341 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 18:42:39,346 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,351 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:42:39,356 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,360 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,365 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,369 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,374 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 18:42:39,378 - WARNING - ⚠️ Metadata for 'World of Warships â€“ Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 18:42:39,382 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,387 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 18:42:39,392 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:42:39,396 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:42:39,401 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 18:42:39,406 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 18:42:39,410 - WARNING - ⚠️ Metadata for 'World Of Warships â€“ Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 18:42:39,414 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 18:42:39,420 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,424 - WARNING - ⚠️ Metadata for 'Jorelâ€™s Brother and The Most Important Game of the Galaxy' incomplete. Will retry in next run.
+2026-01-23 18:42:39,428 - WARNING - ⚠️ Metadata for 'Disco Elysium â€” The Final Cut' incomplete. Will retry in next run.
+2026-01-23 18:42:39,433 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:42:39,438 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 18:42:39,445 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 18:42:39,445 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:43:15,621 - INFO - No new games found.
+2026-01-23 18:43:16,243 - INFO - No new games found.
+2026-01-23 18:43:16,253 - INFO - 🔍 Found 74 games needing metadata. Starting enrichment...
+2026-01-23 18:43:16,260 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 18:43:16,265 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 18:43:16,269 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,274 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 18:43:16,279 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 18:43:16,283 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 18:43:16,287 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,292 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 18:43:16,297 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,301 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 18:43:16,306 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 18:43:16,310 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,315 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,320 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,324 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,328 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,333 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 18:43:16,338 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 18:43:16,342 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,347 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,351 - WARNING - ⚠️ Metadata for 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure' incomplete. Will retry in next run.
+2026-01-23 18:43:16,356 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 18:43:16,360 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:43:16,365 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,369 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:43:16,374 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,378 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 18:43:16,383 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,387 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,391 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 18:43:16,396 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,401 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,405 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,410 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,414 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 18:43:16,419 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,423 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 18:43:16,428 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 18:43:16,433 - WARNING - ⚠️ Metadata for 'World of Warships â€” Starter Pack: Ishizuchi' incomplete. Will retry in next run.
+2026-01-23 18:43:16,438 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 18:43:16,442 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 18:43:16,447 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 18:43:16,452 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 18:43:16,456 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 18:43:16,461 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,466 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 18:43:16,470 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,475 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,480 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 18:43:16,484 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,489 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,493 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,497 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 18:43:16,502 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,516 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:43:16,521 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,525 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,530 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,534 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,539 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 18:43:16,543 - WARNING - ⚠️ Metadata for 'World of Warships â€“ Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 18:43:16,547 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,552 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 18:43:16,557 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 18:43:16,562 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 18:43:16,566 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 18:43:16,571 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 18:43:16,575 - WARNING - ⚠️ Metadata for 'World Of Warships â€“ Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 18:43:16,580 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 18:43:16,585 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,590 - WARNING - ⚠️ Metadata for 'Jorelâ€™s Brother and The Most Important Game of the Galaxy' incomplete. Will retry in next run.
+2026-01-23 18:43:16,594 - WARNING - ⚠️ Metadata for 'Disco Elysium â€” The Final Cut' incomplete. Will retry in next run.
+2026-01-23 18:43:16,599 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 18:43:16,604 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 18:43:16,612 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 18:43:16,612 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:43:16,621 - INFO - Adding missing ID column.
+2026-01-23 18:43:16,622 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 18:43:16,628 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 18:43:16,630 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 18:43:16,631 - INFO - ✅ README.md updated.
+2026-01-23 18:43:16,901 - INFO - 📈 Savings chart generated successfully.

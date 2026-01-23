@@ -60,8 +60,8 @@ def remove_duplicates(df):
 def clean_metadata_and_inflation(df):
     """Cleans seller strings and calculates inflation-adjusted values."""
     # 1. Clean Publisher names
-    df['seller'] = df['seller'].replace("Publisher Not Found", "Unknown Publisher")
-    df['seller'] = df['seller'].fillna("Unknown Publisher").astype(str).str.strip().str.title()
+    df['publisher'] = df['publisher'].replace("Publisher Not Found", "Unknown Publisher")
+    df['publisher'] = df['publisher'].fillna("Unknown Publisher").astype(str).str.strip().str.title()
     
     # 2. Fix Dates (European format DD/MM/YYYY)
     df['start_date'] = pd.to_datetime(df['start_date'], dayfirst=True, errors='coerce')
@@ -115,11 +115,11 @@ def generate_summary_stats(df):
     else:
         jewel_name, jewel_price = "N/A", 0
 
-    top_publishers = df.groupby('seller')['price'].sum().nlargest(3)
+    top_publishers = df.groupby('publisher')['price'].sum().nlargest(3)
     publisher_stats = ", ".join([f"{name} (${val:,.2f})" for name, val in top_publishers.items()])
 
     if not df.empty:
-        counts = df['seller'].value_counts()
+        counts = df['publisher'].value_counts()
         mvp_name = counts.idxmax()
         mvp_count = counts.max()
         mvp_display = f"{mvp_name} ({mvp_count} games)"

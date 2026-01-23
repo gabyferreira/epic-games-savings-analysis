@@ -1,660 +1,660 @@
-﻿id,game,start_date,end_date,price,seller,year,real_value
-1,Subnautica,12/12/2018,27/12/2018,29.99,Unknown Worlds Entertainment,2018,39.5868
-2,Super Meat Boy,28/12/2018,10/01/2019,14.99,Unknown Publisher,2018,19.7868
-3,What Remains of Edith Finch,11/01/2019,24/01/2019,19.99,Annapurna Interactive,2019,25.7871
-4,The Jackbox Party Pack,24/01/2019,07/02/2019,24.99,"Jackbox Games, Inc.",2019,32.2371
-5,Axiom Verge,07/02/2019,21/02/2019,19.99,Thomas Happ Games Llc,2019,25.7871
-6,Thimbleweed Park,21/02/2019,07/03/2019,19.99,Terrible Toybox,2019,25.7871
-7,Slime Rancher,07/03/2019,21/03/2019,19.99,Monomi Park,2019,25.7871
-8,Oxenfree,21/03/2019,04/04/2019,9.99,Night School Studio,2019,12.8871
-9,The Witness,04/04/2019,18/04/2019,39.99,"Thekla, Inc.",2019,51.58710000000001
-10,Transistor,18/04/2019,02/05/2019,19.99,Supergiant Games,2019,25.7871
-11,World of Goo,02/05/2019,16/05/2019,14.99,2D Boy,2019,19.3371
-12,Stories Untold,16/05/2019,30/05/2019,9.99,Devolver Digital,2019,12.8871
-13,RiME,23/05/2019,30/05/2019,29.99,Grey Box,2019,38.6871
-14,City of Brass,30/05/2019,06/06/2019,19.99,Uppercut Games Pty Ltd,2019,25.7871
-15,Kingdom: New Lands,06/06/2019,13/06/2019,14.99,Raw Fury,2019,19.3371
-16,Enter the Gungeon,13/06/2019,20/06/2019,14.99,Devolver Digital,2019,19.3371
-17,Rebel Galaxy,20/06/2019,27/06/2019,19.99,Double Damage Games,2019,25.7871
-18,Last Day of June,27/06/2019,04/07/2019,19.99,505 Games,2019,25.7871
-19,Overcooked!,04/07/2019,11/07/2019,16.99,Team17 Digital Ltd,2019,21.917099999999998
-20,Torchlight,11/07/2019,18/07/2019,14.99,Xd,2019,19.3371
-21,Limbo,18/07/2019,25/07/2019,12.49,Playdead,2019,16.1121
-22,Moonlighter,25/07/2019,01/08/2019,19.99,11 Bit Studios,2019,25.7871
-23,This War of Mine,25/07/2019,01/08/2019,19.99,11 Bit Studios,2019,25.7871
-24,Alan Wake,02/08/2019,09/08/2019,14.99,Remedy Entertainment,2019,19.3371
-25,For Honor,02/08/2019,09/08/2019,29.99,Ubisoft,2019,38.6871
-26,GNOG,08/08/2019,15/08/2019,9.99,Ko_Op,2019,12.8871
-27,Hyper Light Drifter,15/08/2019,22/08/2019,19.99,Heart Machine,2019,25.7871
-28,Mutant Year Zero: Road to Eden,15/08/2019,22/08/2019,34.99,Funcom,2019,45.137100000000004
-29,Fez,22/08/2019,29/08/2019,9.99,Trapdoor,2019,12.8871
-30,Celeste,29/08/2019,05/09/2019,19.99,Maddy Makes Games Inc.,2019,25.7871
-31,Inside,29/08/2019,05/09/2019,24.99,Playdead,2019,32.2371
-32,ABZU,05/09/2019,12/09/2019,19.99,505 Games,2019,25.7871
-33,The End is Nigh,05/09/2019,12/09/2019,14.99,Edmund Mcmillen,2019,19.3371
-34,Conarium,12/09/2019,19/09/2019,19.99,Iceberg Interactive,2019,25.7871
-35,Batman: Arkham Asylum,19/09/2019,26/09/2019,19.99,Unknown Publisher,2019,25.7871
-36,Batman: Arkham City,19/09/2019,26/09/2019,19.99,Warner Bros. Interactive Entertainment,2019,25.7871
-37,Batman: Arkham Collection,19/09/2019,26/09/2019,59.99,Unknown Publisher,2019,77.3871
-38,BATMAN: ARKHAM KNIGHT,19/09/2019,26/09/2019,19.99,Wb Games,2019,25.7871
-39,LEGO Batman Trilogy,19/09/2019,26/09/2019,49.99,Unknown Publisher,2019,64.4871
-40,LEGO Batman: The Video Game,19/09/2019,26/09/2019,19.99,Unknown Publisher,2019,25.7871
-41,LEGO Batman 2: DC Super Heroes,19/09/2019,26/09/2019,19.99,Warner Bros. Interactive Entertainment,2019,25.7871
-42,LEGO Batman 3: Beyond Gotham,19/09/2019,26/09/2019,19.99,Wb Games,2019,25.7871
-43,Everything,26/09/2019,03/10/2019,14.99,David Oreilly,2019,19.3371
-44,Metro 2033 Redux,26/09/2019,03/10/2019,19.99,Deep Silver,2019,25.7871
-45,Minit,03/10/2019,10/10/2019,9.99,Devolver Digital,2019,12.8871
-46,Surviving Mars,10/10/2019,17/10/2019,29.99,Paradox Interactive,2019,38.6871
-47,Alan Wake's: American Nightmare,17/10/2019,28/10/2019,8.99,Remedy Entertainment,2019,11.597100000000001
-48,Layers of Fear,24/10/2019,31/10/2019,29.99,Bloober Team Sa,2019,38.6871
-49,Observer,24/10/2019,31/10/2019,29.99,Bloober Team,2019,38.6871
-50,Costume Quest,31/10/2019,07/11/2019,9.99,Double Fine Productions,2019,12.8871
-51,Q.U.B.E. 2,31/10/2019,07/11/2019,24.99,Trapped Nerve Games,2019,32.2371
-52,SOMA,31/10/2019,07/11/2019,29.99,Frictional Games,2019,38.6871
-53,Nuclear Throne,07/11/2019,14/11/2019,11.99,Vlambeer,2019,15.4671
-54,Ruiner,07/11/2019,14/11/2019,19.99,Devolver Digital,2019,25.7871
-55,The Messenger,14/11/2019,21/11/2019,19.99,Devolver Digital,2019,25.7871
-56,Bad North: Jotunn Edition,21/11/2019,29/11/2019,14.99,Raw Fury,2019,19.3371
-57,Rayman Legends,29/11/2019,06/12/2019,29.99,Ubisoft,2019,38.6871
-58,Jotun: Valhalla Edition,05/12/2019,12/12/2019,14.99,Thunder Lotus,2019,19.3371
-59,The Escapists,12/12/2019,19/12/2019,17.99,Team17,2019,23.207099999999997
-60,The Wolf Among Us,12/12/2019,19/12/2019,14.99,Telltale,2019,19.3371
-61,Into the Breach,19/12/2019,20/12/2019,14.99,Subset Games,2019,19.3371
-62,TowerFall Ascension,20/12/2019,21/12/2019,14.99,Unknown Publisher,2019,19.3371
-63,Superhot,21/12/2019,22/12/2019,24.99,Superhot Team,2019,32.2371
-64,Little Inferno,22/12/2019,23/12/2019,14.99,Tomorrow Corporation,2019,19.3371
-65,Ape Out,23/12/2019,24/12/2019,14.99,Devolver Digital,2019,19.3371
-66,Celeste (repeat),24/12/2019,25/12/2019,0.0,Unknown Publisher,2019,0.0
-67,Totally Accurate Battle Simulator,25/12/2019,26/12/2019,19.99,Landfall,2019,25.7871
-68,FTL: Faster Than Light,26/12/2019,27/12/2019,9.99,Subset Games,2019,12.8871
-69,Hyper Light Drifter,27/12/2019,28/12/2019,19.99,Heart Machine,2019,25.7871
-70,Shadow Tactics: Blades of the Shogun,28/12/2019,29/12/2019,39.99,Daedalic Entertainment,2019,51.58710000000001
-71,The Talos Principle,29/12/2019,30/12/2019,29.99,Devolver Digital,2019,38.6871
-72,Hello Neighbor,30/12/2019,31/12/2019,29.99,Tinybuild,2019,38.6871
-73,Yooka-Laylee and the Impossible Lair,31/12/2019,01/01/2020,29.99,Team17 Digital Ltd,2019,38.6871
-74,Darksiders,01/01/2020,09/01/2020,39.99,Thq Nordic,2020,50.7873
-75,Darksiders II,01/01/2020,09/01/2020,39.99,Thq Nordic,2020,50.7873
-76,Steep,01/01/2020,09/01/2020,29.99,Ubisoft,2020,38.0873
-77,Sundered: Eldritch Edition,09/01/2020,16/01/2020,19.99,Thunder Lotus,2020,25.3873
-78,Horace,16/01/2020,23/01/2020,14.99,505 Games,2020,19.037300000000002
-79,The Bridge,23/01/2020,30/01/2020,9.99,The Quantum Astrophysicists Guild,2020,12.6873
-80,Farming Simulator 19,30/01/2020,06/02/2020,17.99,Giants Software,2020,22.847299999999997
-81,Carcassonne,06/02/2020,13/02/2020,9.99,Twin Sails Interactive,2020,12.6873
-82,Ticket to Ride,06/02/2020,13/02/2020,14.99,Marmalade Game Studio Ltd,2020,19.037300000000002
-83,Aztez,13/02/2020,20/02/2020,19.99,Team Colorblind,2020,25.3873
-84,Kingdom Come: Deliverance,13/02/2020,20/02/2020,29.99,Warhorse Studios,2020,38.0873
-85,Assassin's Creed Syndicate,20/02/2020,27/02/2020,29.99,Ubisoft,2020,38.0873
-86,Faeria,20/02/2020,27/02/2020,19.99,Versus Evil,2020,25.3873
-87,InnerSpace,27/02/2020,05/03/2020,19.99,Aspyr,2020,25.3873
-88,GoNNER,05/03/2020,12/03/2020,9.99,Raw Fury,2020,12.6873
-89,Offworld Trading Company,05/03/2020,12/03/2020,29.99,Stardock Entertainment,2020,38.0873
-90,A Short Hike,12/03/2020,19/03/2020,7.99,Adamgryu,2020,10.1473
-91,Anodyne 2: Return to Dust,12/03/2020,19/03/2020,19.99,Analgesic Productions,2020,25.3873
-92,Mutazione,12/03/2020,19/03/2020,19.99,Akupara Games,2020,25.3873
-93,The Stanley Parable,19/03/2020,26/03/2020,14.99,Galactic Cafe,2020,19.037300000000002
-94,Watch Dogs,19/03/2020,26/03/2020,19.99,Ubisoft,2020,25.3873
-95,Figment,26/03/2020,02/04/2020,19.99,Bedtime Digital Games,2020,25.3873
-96,Tormentor x Punisher,26/03/2020,02/04/2020,7.99,Unknown Publisher,2020,10.1473
-97,World War Z,26/03/2020,02/04/2020,29.99,Saber Interactive Inc,2020,38.0873
-98,Drawful 2,02/04/2020,09/04/2020,9.99,"Jackbox Games, Inc.",2020,12.6873
-99,Gone Home,02/04/2020,09/04/2020,14.99,Fullbright,2020,19.037300000000002
-100,Hob,02/04/2020,09/04/2020,19.99,Arc Games,2020,25.3873
-101,Totally Reliable Delivery Service,02/04/2020,09/04/2020,14.99,Infogrames,2020,19.037300000000002
-102,Close to the Sun,09/04/2020,16/04/2020,19.99,Wired Productions,2020,25.3873
-103,Sherlock Holmes: Crimes and Punishments,09/04/2020,16/04/2020,29.99,Frogwares,2020,38.0873
-104,Just Cause 4,16/04/2020,23/04/2020,59.99,Square Enix,2020,76.18730000000001
-105,Wheels of Aurelia,16/04/2020,23/04/2020,14.99,Santa Ragione,2020,19.037300000000002
-106,For the King,23/04/2020,30/04/2020,19.99,Curve Games,2020,25.3873
-107,Amnesia: The Dark Descent,30/04/2020,07/05/2020,19.99,Frictional Games,2020,25.3873
-108,Crashlands,30/04/2020,07/05/2020,14.99,Butterscotch Shenanigans,2020,19.037300000000002
-109,Death Coming,07/05/2020,14/05/2020,6.99,Next Studios,2020,8.8773
-110,Grand Theft Auto V,14/05/2020,21/05/2020,29.99,Rockstar Games,2020,38.0873
-111,Sid Meier's Civilization VI,21/05/2020,28/05/2020,59.99,2K,2020,76.18730000000001
-112,Borderlands 2,28/05/2020,04/06/2020,19.99,2K,2020,25.3873
-113,Borderlands: The Handsome Collection,28/05/2020,04/06/2020,59.99,Unknown Publisher,2020,76.18730000000001
-114,Borderlands: The Pre-Sequel,28/05/2020,04/06/2020,39.99,2K,2020,50.7873
-115,Overcooked!,04/06/2020,11/06/2020,16.99,Team17 Digital Ltd,2020,21.577299999999997
-116,Ark: Survival Evolved,11/06/2020,18/06/2020,14.99,Studio Wildcard,2020,19.037300000000002
-117,Samurai Shodown NeoGeo Collection,11/06/2020,18/06/2020,39.99,Snk Corporation,2020,50.7873
-118,Pathway,18/06/2020,25/06/2020,15.99,Chucklefish,2020,20.3073
-119,AER: Memories of Old,25/06/2020,02/07/2020,14.99,Daedalic Entertainment,2020,19.037300000000002
-120,Stranger Things 3: The Game,25/06/2020,02/07/2020,0.0,Unknown Publisher,2020,0.0
-121,Hue,02/07/2020,09/07/2020,14.99,Curve Games,2020,19.037300000000002
-122,Killing Floor 2,09/07/2020,16/07/2020,29.99,Tripwire Interactive,2020,38.0873
-123,Lifeless Planet: Premier Edition,09/07/2020,16/07/2020,9.99,Serenity Forge,2020,12.6873
-124,The Escapists 2,09/07/2020,16/07/2020,19.99,Team17,2020,25.3873
-125,Torchlight II,16/07/2020,23/07/2020,19.99,Xd,2020,25.3873
-126,Next Up Hero,23/07/2020,30/07/2020,19.99,Digital Continue,2020,25.3873
-127,Tacoma,23/07/2020,30/07/2020,19.99,Fullbright,2020,25.3873
-128,20XX,30/07/2020,06/08/2020,14.99,Batterystaple Games,2020,19.037300000000002
-129,Barony,30/07/2020,06/08/2020,19.99,Turning Wheel Llc,2020,25.3873
-130,Superbrothers: Sword & Sworcery EP,30/07/2020,06/08/2020,7.99,Capybara Games,2020,10.1473
-131,3 out of 10: Season One,06/08/2020,13/08/2020,0.0,Unknown Publisher,2020,0.0
-132,Wilmot's Warehouse,06/08/2020,13/08/2020,14.99,Finji,2020,19.037300000000002
-133,Remnant: From the Ashes,13/08/2020,20/08/2020,39.99,Arc Games,2020,50.7873
-134,The Alto Collection,13/08/2020,20/08/2020,9.99,Snowman,2020,12.6873
-135,Enter the Gungeon,20/08/2020,27/08/2020,14.99,Devolver Digital,2020,19.037300000000002
-136,God's Trigger,20/08/2020,27/08/2020,14.99,Techland Publishing,2020,19.037300000000002
-137,Hitman (2016),27/08/2020,03/09/2020,0.0,Unknown Publisher,2020,0.0
-138,Shadowrun Collection,27/08/2020,03/09/2020,0.0,Unknown Publisher,2020,0.0
-139,Into the Breach,03/09/2020,10/09/2020,14.99,Subset Games,2020,19.037300000000002
-140,Railway Empire,10/09/2020,17/09/2020,29.99,Kalypso Media,2020,38.0873
-141,Where the Water Tastes Like Wine,10/09/2020,17/09/2020,19.99,Good Shepherd Entertainment,2020,25.3873
-142,A Total War Saga: Troy,13/09/2020,13/09/2020,49.99,Sega,2020,63.487300000000005
-143,Football Manager 2020,17/09/2020,24/09/2020,0.0,Sega,2020,0.0
-144,Stick It To The Man!,17/09/2020,24/09/2020,7.99,Ripstone,2020,10.1473
-145,Watch Dogs 2,17/09/2020,24/09/2020,49.99,Ubisoft,2020,63.487300000000005
-146,RollerCoaster Tycoon 3: Complete Edition,24/09/2020,01/10/2020,19.99,Unknown Publisher,2020,25.3873
-147,Pikuniku,01/10/2020,08/10/2020,12.99,Devolver Digital,2020,16.4973
-148,ABZU,08/10/2020,15/10/2020,19.99,505 Games,2020,25.3873
-149,Rising Storm 2: Vietnam,08/10/2020,15/10/2020,24.99,Tripwire Interactive,2020,31.737299999999998
-150,Amnesia: A Machine for Pigs,15/10/2020,22/10/2020,19.99,Frictional Games,2020,25.3873
-151,Kingdom New Lands,15/10/2020,22/10/2020,14.99,Raw Fury,2020,19.037300000000002
-152,Costume Quest 2,22/10/2020,29/10/2020,14.99,Midnight City,2020,19.037300000000002
-153,Layers of Fear 2,22/10/2020,29/10/2020,19.99,Bloober Team Sa,2020,25.3873
-154,Blair Witch,29/10/2020,05/11/2020,29.99,Bloober Team Na,2020,38.0873
-155,Ghostbusters: The Video Game Remastered,29/10/2020,05/11/2020,24.99,"Mad Dog Games, Llc",2020,31.737299999999998
-156,Dungeons 3,05/11/2020,12/11/2020,29.99,Kalypso Media,2020,38.0873
-157,The Textorcist: The Story of Ray Bibbia,12/11/2020,19/11/2020,14.99,Headup,2020,19.037300000000002
-158,Elite Dangerous,19/11/2020,26/11/2020,19.99,Frontier Developments,2020,25.3873
-159,The World Next Door,19/11/2020,26/11/2020,4.99,Viz Media,2020,6.3373
-160,MudRunner,26/11/2020,03/12/2020,19.99,Focus Entertainment,2020,25.3873
-161,Cave Story+,03/12/2020,10/12/2020,14.99,"Nicalis, Inc.",2020,19.037300000000002
-162,Pillars of Eternity: Definitive Edition,10/12/2020,17/12/2020,39.99,Unknown Publisher,2020,50.7873
-163,Tyranny: Gold Edition,10/12/2020,17/12/2020,49.99,Unknown Publisher,2020,63.487300000000005
-164,Cities: Skylines,17/12/2020,18/12/2020,29.99,Paradox Interactive,2020,38.0873
-165,Oddworld: New 'n' Tasty,18/12/2020,19/12/2020,19.99,"Oddworld Inhabitants, Inc.",2020,25.3873
-166,The Long Dark,19/12/2020,20/12/2020,19.99,Hinterland Studio Inc.,2020,25.3873
-167,Defense Grid: The Awakening,20/12/2020,21/12/2020,9.99,Hidden Path Entertainment,2020,12.6873
-168,Alien: Isolation,21/12/2020,22/12/2020,39.99,Sega,2020,50.7873
-169,Metro 2033 Redux,22/12/2020,23/12/2020,19.99,Deep Silver,2020,25.3873
-170,Tropico 5,23/12/2020,24/12/2020,19.99,Kalypso Media Digital,2020,25.3873
-171,Inside,24/12/2020,25/12/2020,24.99,Playdead,2020,31.737299999999998
-172,Darkest Dungeon,25/12/2020,26/12/2020,24.99,Red Hook Studios,2020,31.737299999999998
-173,My Time at Portia,26/12/2020,27/12/2020,29.99,Focus Entertainment,2020,38.0873
-174,Night in the Woods,27/12/2020,28/12/2020,19.99,Finji,2020,25.3873
-175,Stranded Deep,28/12/2020,29/12/2020,19.99,Beam Team Publishing,2020,25.3873
-176,Solitairica,29/12/2020,30/12/2020,9.99,Righteous Hammer Games,2020,12.6873
-177,Torchlight II,30/12/2020,31/12/2020,19.99,Xd,2020,25.3873
-178,Jurassic World Evolution,31/12/2020,07/01/2021,44.99,Frontier Developments,2020,57.1373
-179,Crying Suns,07/01/2021,14/01/2021,24.99,Humble Games,2021,30.487799999999996
-180,STAR WARS Battlefront II,14/01/2021,21/01/2021,39.99,Electronic Arts,2021,48.787800000000004
-181,Galactic Civilizations III,21/01/2021,28/01/2021,29.99,Stardock Entertainment,2021,36.587799999999994
-182,Dandara,28/01/2021,04/02/2021,14.99,Raw Fury,2021,18.2878
-183,For The King,04/02/2021,11/02/2021,19.99,Curve Games,2021,24.3878
-184,Metro: Last Light Redux,04/02/2021,11/02/2021,19.99,Deep Silver,2021,24.3878
-185,Halcyon 6: Starbase Commander,11/02/2021,18/02/2021,14.99,"Massive Damage, Inc.",2021,18.2878
-186,Absolute Drift,18/02/2021,25/02/2021,11.99,Funselektor Labs Inc.,2021,14.6278
-187,Rage 2,18/02/2021,25/02/2021,39.99,Bethesda Softworks,2021,48.787800000000004
-188,Sunless Sea,25/02/2021,04/03/2021,18.99,Failbetter Games,2021,23.167799999999996
-189,Wargame: Red Dragon,04/03/2021,11/03/2021,29.99,Eugen Systems,2021,36.587799999999994
-190,Surviving Mars,11/03/2021,18/03/2021,29.99,Paradox Interactive,2021,36.587799999999994
-191,The Fall,18/03/2021,25/03/2021,9.99,Over The Moon,2021,12.1878
-192,Creature in the Well,25/03/2021,01/04/2021,14.99,Flight School Studio,2021,18.2878
-193,Tales of the Neon Sea,01/04/2021,08/04/2021,14.99,Thermite Games,2021,18.2878
-194,3 out of 10: Season Two,08/04/2021,15/04/2021,0.0,Unknown Publisher,2021,0.0
-195,Deponia,15/04/2021,22/04/2021,9.99,Daedalic Entertainment,2021,12.1878
-196,Ken Follett's The Pillars of the Earth,15/04/2021,22/04/2021,19.99,Daedalic Entertainment,2021,24.3878
-197,The First Tree,15/04/2021,22/04/2021,9.99,David Wehle,2021,12.1878
-198,Alien: Isolation,22/04/2021,29/04/2021,39.99,Sega,2021,48.787800000000004
-199,Hand of Fate 2,22/04/2021,29/04/2021,29.99,Defiant Development,2021,36.587799999999994
-200,Idle Champions of the Forgotten Realms,29/04/2021,06/05/2021,0.0,Codename Entertainment Inc.,2021,0.0
-201,Pine,06/05/2021,13/05/2021,24.99,Maximum Entertainment,2021,30.487799999999996
-202,The Lion's Song,13/05/2021,20/05/2021,7.99,Mi'Pu'Mi Games Gmbh,2021,9.7478
-203,NBA 2K21,20/05/2021,27/05/2021,0.0,Unknown Publisher,2021,0.0
-204,Among Us,27/05/2021,03/06/2021,4.99,Innersloth,2021,6.0878000000000005
-205,Frostpunk,03/06/2021,10/06/2021,29.99,11 Bit Studios,2021,36.587799999999994
-206,Control,10/06/2021,17/06/2021,4.99,Valve,2021,6.0878000000000005
-207,Hell is Other Demons,17/06/2021,24/06/2021,9.99,Cuddle Monster Games,2021,12.1878
-208,Overcooked! 2,17/06/2021,24/06/2021,24.99,Team17,2021,30.487799999999996
-209,Horizon Chase Turbo,24/06/2021,01/07/2021,19.99,Aquiris,2021,24.3878
-210,Sonic Mania,24/06/2021,01/07/2021,19.99,Sega,2021,24.3878
-211,The Spectrum Retreat,01/07/2021,08/07/2021,12.99,Ripstone,2021,15.8478
-212,Bridge Constructor: The Walking Dead,08/07/2021,15/07/2021,9.99,Headup,2021,12.1878
-213,Ironcast,08/07/2021,15/07/2021,14.99,Ripstone,2021,18.2878
-214,Obduction,15/07/2021,22/07/2021,29.99,Cyan Inc.,2021,36.587799999999994
-215,Offworld Trading Company,15/07/2021,22/07/2021,29.99,Stardock Entertainment,2021,36.587799999999994
-216,Defense Grid: The Awakening (repeat),22/07/2021,29/07/2021,0.0,Unknown Publisher,2021,0.0
-217,Verdun,22/07/2021,29/07/2021,19.99,Blackmill Games,2021,24.3878
-218,Mothergunship,29/07/2021,05/08/2021,24.99,Terrible Posture Games,2021,30.487799999999996
-219,Train Sim World 2,29/07/2021,05/08/2021,19.99,Dovetail Games - Tsw,2021,24.3878
-220,A Plague Tale: Innocence,05/08/2021,12/08/2021,39.99,Focus Entertainment,2021,48.787800000000004
-221,Minit,05/08/2021,12/08/2021,9.99,Devolver Digital,2021,12.1878
-222,Rebel Galaxy,12/08/2021,19/08/2021,19.99,Double Damage Games,2021,24.3878
-223,Void Bastards,19/08/2021,26/08/2021,29.99,Blue Manchu,2021,36.587799999999994
-224,Yooka-Laylee,19/08/2021,26/08/2021,19.99,Playtonic Friends,2021,24.3878
-225,Automachef,26/08/2021,02/09/2021,14.99,Team17 Digital Ltd,2021,18.2878
-226,Saints Row: The Third Remastered,26/08/2021,02/09/2021,29.99,Deep Silver,2021,36.587799999999994
-227,Yoku's Island Express,02/09/2021,09/09/2021,19.99,Team17 Digital Ltd,2021,24.3878
-228,Nioh: The Complete Edition,09/09/2021,16/09/2021,49.99,"Koei Tecmo Games Co., Ltd.",2021,60.9878
-229,Sheltered,09/09/2021,16/09/2021,14.99,Team17 Digital Ltd,2021,18.2878
-230,Speed Brawl,16/09/2021,23/09/2021,19.99,Double Stallion,2021,24.3878
-231,Tharsis,16/09/2021,23/09/2021,14.99,Choice Provisions,2021,18.2878
-232,The Escapists,23/09/2021,30/09/2021,17.99,Team17,2021,21.947799999999997
-233,Europa Universalis IV,30/09/2021,07/10/2021,49.99,Paradox Interactive,2021,60.9878
-234,PC Building Simulator,07/10/2021,14/10/2021,19.99,The Irregular Corporation,2021,24.3878
-235,Stubbs the Zombie in Rebel Without a Pulse,14/10/2021,21/10/2021,19.99,Aspyr,2021,24.3878
-236,Among the Sleep: Enhanced Edition,21/10/2021,28/10/2021,16.99,Krillbite Studio,2021,20.7278
-237,DARQ,28/10/2021,04/11/2021,19.99,Unfold Games,2021,24.3878
-238,Aven Colony,04/11/2021,11/11/2021,29.99,Team17 Digital Ltd,2021,36.587799999999994
-239,Rogue Company Season 4 Epic Pack (DLC),11/11/2021,18/11/2021,0.0,Unknown Publisher,2021,0.0
-240,Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure,11/11/2021,18/11/2021,9.99,2K,2021,12.1878
-241,Guild of Dungeoneering,18/11/2021,25/11/2021,7.99,Gambrinous,2021,9.7478
-242,KID A MNESIA EXHIBITION,18/11/2021,25/11/2021,0.0,Unknown Publisher,2021,0.0
-243,Never Alone (Kisima Ingitchuna),18/11/2021,25/11/2021,14.99,E-Line Media,2021,18.2878
-244,Antstream,25/11/2021,02/12/2021,39.99,Antstream Ltd,2021,48.787800000000004
-245,theHunter: Call of the Wild,25/11/2021,02/12/2021,19.99,Unknown Publisher,2021,24.3878
-246,Dead by Daylight,02/12/2021,09/12/2021,19.99,Behaviour Interactive Inc.,2021,24.3878
-247,while True: learn(),02/12/2021,09/12/2021,12.99,Luden.Io,2021,15.8478
-248,Godfall: Challenger Edition,09/12/2021,16/12/2021,24.99,Unknown Publisher,2021,30.487799999999996
-249,Prison Architect,09/12/2021,16/12/2021,29.99,Paradox Interactive,2021,36.587799999999994
-250,Shenmue III,16/12/2021,17/12/2021,29.99,Inin,2021,36.587799999999994
-251,Neon Abyss,17/12/2021,18/12/2021,19.99,Team17,2021,24.3878
-252,Remnant: From the Ashes,18/12/2021,19/12/2021,39.99,Arc Games,2021,48.787800000000004
-253,The Vanishing of Ethan Carter,19/12/2021,20/12/2021,19.99,The Astronauts,2021,24.3878
-254,Loop Hero,20/12/2021,21/12/2021,14.99,Devolver Digital,2021,18.2878
-255,Second Extinction,21/12/2021,22/12/2021,0.0,Unknown Publisher,2021,0.0
-256,Mutant Year Zero: Road to Eden,22/12/2021,23/12/2021,34.99,Funcom,2021,42.6878
-257,Vampyr,23/12/2021,24/12/2021,39.99,Focus Entertainment,2021,48.787800000000004
-258,Pathfinder: Kingmaker - Enhanced Plus Edition,24/12/2021,25/12/2021,19.99,Knights Peak,2021,24.3878
-259,Prey,25/12/2021,26/12/2021,29.99,Bethesda Softworks,2021,36.587799999999994
-260,Control,26/12/2021,27/12/2021,4.99,Valve,2021,6.0878000000000005
-261,Mages of Mystralia,27/12/2021,28/12/2021,19.99,Borealys Games,2021,24.3878
-262,Moving Out,28/12/2021,29/12/2021,24.99,Team17,2021,30.487799999999996
-263,Salt and Sanctuary,29/12/2021,30/12/2021,17.99,Ska Studios,2021,21.947799999999997
-264,"Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)",30/12/2021,06/01/2022,0.0,Unknown Publisher,2021,0.0
-265,Tomb Raider GOTY,30/12/2021,06/01/2022,19.8,Unknown Publisher,2021,24.156
-266,Rise of the Tomb Raider,30/12/2021,06/01/2022,29.99,Crystal Dynamics,2021,36.587799999999994
-267,Shadow of the Tomb Raider,30/12/2021,06/01/2022,59.99,Crystal Dynamics,2021,73.1878
-268,Gods Will Fall,06/01/2022,13/01/2022,14.99,Deep Silver,2022,16.788800000000002
-269,Galactic Civilizations III,13/01/2022,20/01/2022,29.99,Stardock Entertainment,2022,33.5888
-270,Relicta,20/01/2022,27/01/2022,19.99,Ravenscourt,2022,22.3888
-271,Daemon X Machina,27/01/2022,03/02/2022,49.99,Xseed Games,2022,55.988800000000005
-272,Yooka-Laylee and the Impossible Lair,03/02/2022,10/02/2022,29.99,Team17 Digital Ltd,2022,33.5888
-273,Windbound,10/02/2022,17/02/2022,29.99,Deep Silver,2022,33.5888
-274,Brothers: A Tale of Two Sons,17/02/2022,24/02/2022,14.99,505 Games,2022,16.788800000000002
-275,Cris Tales,24/02/2022,03/03/2022,39.99,Maximum Entertainment,2022,44.78880000000001
-276,Black Widow: Recharged,03/03/2022,10/03/2022,9.99,Atari,2022,11.1888
-277,Centipede: Recharged,03/03/2022,10/03/2022,9.99,Atari,2022,11.1888
-278,Cities: Skylines,10/03/2022,17/03/2022,29.99,Paradox Interactive,2022,33.5888
-279,In Sound Mind,17/03/2022,24/03/2022,34.99,Maximum Entertainment,2022,39.18880000000001
-280,Demon's Tilt,24/03/2022,31/03/2022,19.99,Flarb Llc,2022,22.3888
-281,City of Brass (repeat),31/03/2022,07/04/2022,0.0,Unknown Publisher,2022,0.0
-282,Total War: Warhammer,31/03/2022,07/04/2022,59.99,Sega,2022,67.18880000000001
-283,Rogue Legacy,07/04/2022,14/04/2022,14.99,Cellar Door Games,2022,16.788800000000002
-284,The Vanishing of Ethan Carter,07/04/2022,14/04/2022,19.99,The Astronauts,2022,22.3888
-285,Insurmountable,14/04/2022,21/04/2022,24.99,Daedalic Entertainment,2022,27.9888
-286,XCOM 2,14/04/2022,21/04/2022,59.99,2K,2022,67.18880000000001
-287,Amnesia: Rebirth,21/04/2022,28/04/2022,29.99,Frictional Games,2022,33.5888
-288,Riverbond,21/04/2022,28/04/2022,24.99,Cococucumber,2022,27.9888
-289,Just Die Already,28/04/2022,05/05/2022,14.99,Curve Games,2022,16.788800000000002
-290,Paradigm,28/04/2022,05/05/2022,14.99,Jacob Janerka,2022,16.788800000000002
-291,Terraforming Mars,05/05/2022,12/05/2022,19.99,Twin Sails Interactive,2022,22.3888
-292,Jotun: Valhalla Edition,12/05/2022,19/05/2022,14.99,Thunder Lotus,2022,16.788800000000002
-293,Prey,12/05/2022,19/05/2022,29.99,Bethesda Softworks,2022,33.5888
-294,Redout: Enhanced Edition,12/05/2022,19/05/2022,19.99,34Bigthings Srl,2022,22.3888
-295,Borderlands 3,19/05/2022,26/05/2022,59.99,2K,2022,67.18880000000001
-296,Bioshock: The Collection,26/05/2022,02/06/2022,59.99,Unknown Publisher,2022,67.18880000000001
-297,BioShock,26/05/2022,02/06/2022,19.99,2K,2022,22.3888
-298,BioShock 2,26/05/2022,02/06/2022,19.99,2K,2022,22.3888
-299,BioShock Infinite,26/05/2022,02/06/2022,29.99,2K,2022,33.5888
-300,Wolfenstein: The New Order,02/06/2022,09/06/2022,19.99,Bethesda Softworks,2022,22.3888
-301,Maneater,09/06/2022,16/06/2022,39.99,Tripwire Interactive,2022,44.78880000000001
-302,Supraland,16/06/2022,23/06/2022,19.99,Supra Games,2022,22.3888
-303,A Game of Thrones: The Board Game Digital Edition,23/06/2022,30/06/2022,19.99,Twin Sails Interactive,2022,22.3888
-304,Car Mechanic Simulator 2018,23/06/2022,30/06/2022,19.99,Playway S.A.,2022,22.3888
-305,Geneforge 1: Mutagen,30/06/2022,07/07/2022,19.99,Spiderweb Software,2022,22.3888
-306,Hood: Outlaws & Legends,30/06/2022,07/07/2022,0.0,Unknown Publisher,2022,0.0
-307,Iratus: Lord of the Dead,30/06/2022,07/07/2022,29.99,Daedalic Entertainment,2022,33.5888
-308,Ancient Enemy,07/07/2022,14/07/2022,16.99,Grey Alien Games,2022,19.0288
-309,Killing Floor 2,07/07/2022,14/07/2022,29.99,Tripwire Interactive,2022,33.5888
-310,Shop Titans,14/07/2022,21/07/2022,0.0,"Kabam Games, Inc.",2022,0.0
-311,Wonder Boy: The Dragon's Trap,14/07/2022,21/07/2022,19.99,Dotemu,2022,22.3888
-312,Tannenberg,21/07/2022,28/07/2022,19.99,Blackmill Games,2022,22.3888
-313,Lawn Mowing Simulator,28/07/2022,04/08/2022,19.99,Curve Games,2022,22.3888
-314,Unrailed!,04/08/2022,11/08/2022,19.99,Daedalic Entertainment,2022,22.3888
-315,"Cook, Serve, Delicious! 3?!",11/08/2022,18/08/2022,19.99,Vertigo Gaming Inc.,2022,22.3888
-316,Doom 64,18/08/2022,25/08/2022,4.99,Bethesda Softworks,2022,5.588800000000001
-317,Rumbleverse Boom Boxer Pack (DLC),18/08/2022,25/08/2022,0.0,Unknown Publisher,2022,0.0
-318,Destiny 2,25/08/2022,01/09/2022,24.99,Bungie,2022,27.9888
-319,Ring of Pain,25/08/2022,01/09/2022,19.99,Humble Games,2022,22.3888
-320,Shadow of the Tomb Raider,01/09/2022,08/09/2022,59.99,Crystal Dynamics,2022,67.18880000000001
-321,Submerged: Hidden Depths,01/09/2022,08/09/2022,29.99,Uppercut Games Pty Ltd,2022,33.5888
-322,Hundred Days - Winemaking Simulator,08/09/2022,15/09/2022,24.99,Broken Arms Games,2022,27.9888
-323,Realm Royale Reforged Epic Launch Bundle (DLC),08/09/2022,15/09/2022,0.0,Unknown Publisher,2022,0.0
-324,Spirit of the North,15/09/2022,22/09/2022,19.99,Silver Lining Interactive,2022,22.3888
-325,The Captain,15/09/2022,22/09/2022,19.99,Tomorrow Corporation,2022,22.3888
-326,ARK: Survival Evolved (repeat),22/09/2022,29/09/2022,0.0,Unknown Publisher,2022,0.0
-327,Gloomhaven,22/09/2022,29/09/2022,34.99,Twin Sails Interactive,2022,39.18880000000001
-328,Runbow,29/09/2022,06/10/2022,14.99,13Am Games,2022,16.788800000000002
-329,The Drone Racing League Simulator,29/09/2022,06/10/2022,9.99,The Drone Racing League,2022,11.1888
-330,Rising Hell,06/10/2022,13/10/2022,9.99,Toge Productions,2022,11.1888
-331,Slain: Back from Hell,06/10/2022,13/10/2022,12.99,Silver Lining Interactive,2022,14.548800000000002
-332,Darkwood,13/10/2022,20/10/2022,14.99,Hooded Horse,2022,16.788800000000002
-333,ToeJam & Earl: Back in the Groove!,13/10/2022,20/10/2022,14.99,Humanature Studios,2022,16.788800000000002
-334,Evoland,20/10/2022,27/10/2022,9.99,Shiro Games,2022,11.1888
-335,Fallout 3,20/10/2022,27/10/2022,9.99,Bethesda Softworks,2022,11.1888
-336,Saturnalia,27/10/2022,03/11/2022,29.99,Santa Ragione,2022,33.5888
-337,"Warhammer 40,000: Mechanicus",27/10/2022,03/11/2022,29.99,Kasedo Games,2022,33.5888
-338,Filament,03/11/2022,10/11/2022,16.99,Kasedo Games,2022,19.0288
-339,Rising Storm 2: Vietnam,03/11/2022,10/11/2022,24.99,Tripwire Interactive,2022,27.9888
-340,Alba: A Wildlife Adventure,10/11/2022,17/11/2022,16.99,Ustwo Games,2022,19.0288
-341,Shadow Tactics: Blades of the Shogun (repeat),10/11/2022,17/11/2022,0.0,Unknown Publisher,2022,0.0
-342,Dark Deity,17/11/2022,24/11/2022,24.99,Indie.Io,2022,27.9888
-343,Evil Dead: The Game,17/11/2022,24/11/2022,39.99,Unknown Publisher,2022,44.78880000000001
-344,Star Wars: Squadrons,24/11/2022,01/12/2022,39.99,Electronic Arts,2022,44.78880000000001
-345,Fort Triumph,01/12/2022,08/12/2022,19.99,Cookiebyte Entertainment,2022,22.3888
-346,RPG in a Box,01/12/2022,08/12/2022,49.99,Quercus Quag Software,2022,55.988800000000005
-347,Saints Row 4 Re-Elected,08/12/2022,15/12/2022,0.0,Deep Silver,2022,0.0
-348,Wildcat Gun Machine,08/12/2022,15/12/2022,14.99,Daedalic Entertainment,2022,16.788800000000002
-349,Bloons TD 6,15/12/2022,15/12/2022,13.99,Ninja Kiwi,2022,15.668800000000001
-350,Horizon Chase Turbo,16/12/2022,16/12/2022,19.99,Aquiris,2022,22.3888
-351,Costume Quest 2,17/12/2022,17/12/2022,14.99,Midnight City,2022,16.788800000000002
-352,Sable,19/12/2022,20/12/2022,24.99,Raw Fury,2022,27.9888
-353,Them's Fightin' Herds,20/12/2022,21/12/2022,31.98,Gameplay Group International,2022,35.817600000000006
-354,Wolfenstein: The New Order,21/12/2022,22/12/2022,19.99,Bethesda Softworks,2022,22.3888
-355,LEGO Builder's Journey,22/12/2022,23/12/2022,19.99,Lego® Games,2022,22.3888
-356,Fallout Classic Collection,23/12/2022,24/12/2022,19.99,Unknown Publisher,2022,22.3888
-357,Encased,24/12/2022,25/12/2022,29.99,Prime Matter,2022,33.5888
-358,Metro: Last Light Redux,25/12/2022,26/12/2022,19.99,Deep Silver,2022,22.3888
-359,Death Stranding,26/12/2022,27/12/2022,39.99,505 Games,2022,44.78880000000001
-360,F.I.S.T.: Forged In Shadow Torch,27/12/2022,28/12/2022,15.99,Astrolabe Games,2022,17.908800000000003
-361,Severed Steel,28/12/2022,29/12/2022,24.99,Greylock Studio,2022,27.9888
-362,Dishonored,29/12/2022,05/01/2023,9.99,Bethesda Softworks,2022,11.1888
-363,Eximius: Seize the Frontline,29/12/2022,05/01/2023,19.99,Ammobox Studios,2022,22.3888
-364,Mortal Shell,29/12/2022,05/01/2023,29.99,Playstack,2022,33.5888
-365,Kerbal Space Program,05/01/2023,12/01/2023,39.99,Private Division,2023,43.18920000000001
-366,Shadow Tactics: Blades Of The Shogun - Aiko's Choice,05/01/2023,12/01/2023,19.99,Daedalic Entertainment,2023,21.589199999999998
-367,Divine Knockout,12/01/2023,19/01/2023,0.0,Unknown Publisher,2023,0.0
-368,First Class Trouble,12/01/2023,19/01/2023,14.99,Invisible Walls,2023,16.1892
-369,Epistory's Typing Chronicles,19/01/2023,26/01/2023,0.0,Unknown Publisher,2023,0.0
-370,Gamedec,19/01/2023,26/01/2023,6.99,Anshar Publishing,2023,7.549200000000001
-371,Adios,26/01/2023,02/02/2023,17.99,Mischief,2023,19.429199999999998
-372,Hell is Others,26/01/2023,02/02/2023,14.99,A List Games,2023,16.1892
-373,City of Gangsters,02/02/2023,09/02/2023,29.99,Kasedo Games,2023,32.3892
-374,Dishonored: Death of the Outsider,02/02/2023,09/02/2023,29.99,Bethesda Softworks,2023,32.3892
-375,Recipe for Disaster,09/02/2023,16/02/2023,16.99,Kasedo Games,2023,18.3492
-376,Warpips,16/02/2023,23/02/2023,16.99,Daedalic Entertainment,2023,18.3492
-377,Duskers,23/02/2023,02/03/2023,19.99,Misfits Attic,2023,21.589199999999998
-378,Rise of Industry,02/03/2023,09/03/2023,29.99,Kasedo Games,2023,32.3892
-379,Call of the Sea,09/03/2023,16/03/2023,19.99,Raw Fury,2023,21.589199999999998
-380,"Warhammer 40,000: Gladius - Relics Of War",16/03/2023,23/03/2023,39.99,Slitherine Ltd.,2023,43.18920000000001
-381,Chess Ultra,23/03/2023,30/03/2023,12.99,Ripstone,2023,14.029200000000001
-382,World of Warships — Starter Pack: Ishizuchi,23/03/2023,30/03/2023,21.6,Wargaming Group Limited,2023,23.328000000000003
-383,The Silent Age,30/03/2023,06/04/2023,9.99,Unknown Publisher,2023,10.789200000000001
-384,Tunche,30/03/2023,06/04/2023,19.99,Hypetrain Digital,2023,21.589199999999998
-385,Dying Light,06/04/2023,13/04/2023,24.99,Techland,2023,26.9892
-386,shapez,06/04/2023,13/04/2023,9.99,Tobspr Games,2023,10.789200000000001
-387,Mordhau,13/04/2023,20/04/2023,29.99,Triternion,2023,32.3892
-388,Second Extinction,13/04/2023,20/04/2023,0.0,Unknown Publisher,2023,0.0
-389,Beyond Blue,20/04/2023,27/04/2023,19.99,E-Line Media,2023,21.589199999999998
-390,Never Alone (Kisima Ingitchuna),20/04/2023,27/04/2023,14.99,E-Line Media,2023,16.1892
-391,Breathedge,27/04/2023,04/05/2023,24.99,Hypetrain Digital,2023,26.9892
-392,Poker Club,27/04/2023,04/05/2023,19.99,Ripstone,2023,21.589199999999998
-393,Against All Odds,04/05/2023,11/05/2023,4.99,25 Crimson,2023,5.389200000000001
-394,Horizon Chase Turbo,04/05/2023,11/05/2023,19.99,Aquiris,2023,21.589199999999998
-395,Kao the Kangaroo,04/05/2023,11/05/2023,29.99,Tate Multimedia,2023,32.3892
-396,The Sims 4 The Daring Lifestyle Bundle,11/05/2023,18/05/2023,0.0,Unknown Publisher,2023,0.0
-397,Death Stranding,18/05/2023,25/05/2023,39.99,505 Games,2023,43.18920000000001
-398,Fallout: New Vegas,25/05/2023,01/06/2023,9.99,Bethesda Softworks,2023,10.789200000000001
-399,Midnight Ghost Hunt,01/06/2023,08/06/2023,19.99,Coffee Stain Publishing,2023,21.589199999999998
-400,PAYDAY 2,08/06/2023,15/06/2023,9.99,Starbreeze Entertainment,2023,10.789200000000001
-401,Guacamelee! 2,15/06/2023,22/06/2023,19.99,Drinkbox Studios,2023,21.589199999999998
-402,Guacamelee!,15/06/2023,22/06/2023,19.99,Drinkbox Studios,2023,21.589199999999998
-403,TheHunter: Call of the Wild,22/06/2023,29/06/2023,19.99,Unknown Publisher,2023,21.589199999999998
-404,Idle Champions Of The Forgotten Realms Pack,22/06/2023,29/06/2023,0.0,Unknown Publisher,2023,0.0
-405,The Dungeon of Naheulbeuk: The Amulet of Chaos,29/06/2023,06/07/2023,34.99,Dear Villagers,2023,37.78920000000001
-406,Grime,06/07/2023,13/07/2023,24.99,Akupara Games,2023,26.9892
-407,Train Valley 2,13/07/2023,20/07/2023,14.99,Flazm,2023,16.1892
-408,Murder by Numbers,20/07/2023,27/07/2023,14.99,The Irregular Corporation,2023,16.1892
-409,The Elder Scrolls Online,20/07/2023,27/07/2023,19.99,Bethesda Softworks,2023,21.589199999999998
-410,Homeworld Remastered Collection,27/07/2023,03/08/2023,34.99,Gearbox Publishing,2023,37.78920000000001
-411,Severed Steel,27/07/2023,03/08/2023,24.99,Greylock Studio,2023,26.9892
-412,Bloons TD 6,03/08/2023,10/08/2023,13.99,Ninja Kiwi,2023,15.109200000000001
-413,Loop Hero,03/08/2023,10/08/2023,14.99,Devolver Digital,2023,16.1892
-414,Europa Universalis IV (repeat),10/08/2023,17/08/2023,0.0,Unknown Publisher,2023,0.0
-415,Orwell: Keeping an Eye on You,10/08/2023,17/08/2023,9.99,Daedalic Entertainment,2023,10.789200000000001
-416,Black Book,17/08/2023,24/08/2023,24.99,Hypetrain Digital,2023,26.9892
-417,Dodo Peak,17/08/2023,24/08/2023,9.99,Moving Pieces Interactive,2023,10.789200000000001
-418,Homeworld: Deserts of Kharak,24/08/2023,31/08/2023,49.99,Gearbox Publishing,2023,53.989200000000004
-419,Cave Story+,31/08/2023,07/09/2023,14.99,"Nicalis, Inc.",2023,16.1892
-420,Spelldrifter,31/08/2023,07/09/2023,19.99,Free Range Games,2023,21.589199999999998
-421,911 Operator,14/09/2023,21/09/2023,14.99,Games Operators,2023,16.1892
-422,Out of Line,14/09/2023,21/09/2023,8.99,Hatinh Interactive,2023,9.709200000000001
-423,The Forest Quartet,21/09/2023,28/09/2023,9.99,Bedtime Digital Games,2023,10.789200000000001
-424,Model Builder,28/09/2023,05/10/2023,19.99,Green Man Gaming Publishing,2023,21.589199999999998
-425,Soulstice,28/09/2023,05/10/2023,39.99,Maximum Entertainment,2023,43.18920000000001
-426,Godlike Burger,05/10/2023,12/10/2023,19.99,Daedalic Entertainment,2023,21.589199999999998
-427,Blazing Sails,12/10/2023,19/10/2023,14.99,Iceberg Interactive,2023,16.1892
-428,Q.U.B.E. Ultimate Bundle,12/10/2023,19/10/2023,0.0,Unknown Publisher,2023,0.0
-429,Eternal Threads,19/10/2023,26/10/2023,19.99,Secret Mode,2023,21.589199999999998
-430,The Evil Within,19/10/2023,26/10/2023,19.99,Bethesda Softworks,2023,21.589199999999998
-431,Tandem: A Tale of Shadows,26/10/2023,02/11/2023,9.99,Hatinh Interactive,2023,10.789200000000001
-432,The Evil Within 2,26/10/2023,02/11/2023,39.99,Bethesda Softworks,2023,43.18920000000001
-433,F.I.S.T.: Forged In Shadow Torch,02/11/2023,09/11/2023,15.99,Astrolabe Games,2023,17.2692
-434,Turnip Boy Commits Tax Evasion,02/11/2023,09/11/2023,14.99,Graffiti Games,2023,16.1892
-435,Earthlock,09/11/2023,16/11/2023,29.99,Snowcastle Games,2023,32.3892
-436,Golden Light,09/11/2023,16/11/2023,19.99,Mr. Pink,2023,21.589199999999998
-437,Deliver Us Mars,16/11/2023,23/11/2023,29.99,Frontier Foundry,2023,32.3892
-438,Surviving the Aftermath,16/11/2023,23/11/2023,29.99,Paradox Interactive,2023,32.3892
-439,Jitsu Squad,23/11/2023,30/11/2023,9.99,Tanuki Creative Studio,2023,10.789200000000001
-440,Mighty Fight Federation,23/11/2023,30/11/2023,29.99,Forthright Entertainment,2023,32.3892
-441,GigaBash,30/11/2023,07/12/2023,24.99,Passion Republic Games,2023,26.9892
-442,Predecessor,30/11/2023,07/12/2023,29.99,Omeda Studios,2023,32.3892
-443,Destiny 2: Legacy Collection,07/12/2023,14/12/2023,69.99,Unknown Publisher,2023,75.5892
-444,DNF Duel,20/12/2023,21/12/2023,49.99,Nexon,2023,53.989200000000004
-445,Melvor Idle,21/12/2023,22/12/2023,9.99,Jagex Ltd,2023,10.789200000000001
-446,20 Minutes Till Dawn,21/12/2023,31/12/2023,4.99,Erabit,2023,5.389200000000001
-447,A Plague Tale: Innocence (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-448,Additional minor DLC / cosmetics slots (holiday pack group)*,21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-449,Black Book (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-450,Dishonored: Death of the Outsider,21/12/2023,31/12/2023,29.99,Bethesda Softworks,2023,32.3892
-451,Escape Academy,21/12/2023,31/12/2023,19.99,Iam8Bit Presents,2023,21.589199999999998
-452,Grime,21/12/2023,31/12/2023,24.99,Akupara Games,2023,26.9892
-453,Idle Champions of the Forgotten Realms (DLC pack),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-454,Marvel's Guardians of the Galaxy,21/12/2023,31/12/2023,59.99,Eidos Interactive Corp.,2023,64.78920000000001
-455,theHunter: Call of the Wild (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-456,Train Sim World 3 (example holiday slot)*,21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-457,Train Valley 2,21/12/2023,31/12/2023,14.99,Flazm,2023,16.1892
-458,Turnip Boy Commits Tax Evasion (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-459,Art of Rally,22/12/2023,23/12/2023,24.99,Funselektor Labs Inc.,2023,26.9892
-460,Fallout 3,23/12/2023,24/12/2023,9.99,Bethesda Softworks,2023,10.789200000000001
-461,Ghostwire: Tokyo,24/12/2023,25/12/2023,59.99,Bethesda Softworks,2023,64.78920000000001
-462,The Outer Worlds,25/12/2023,26/12/2023,29.99,Private Division,2023,32.3892
-463,Human Resource Machine,26/12/2023,27/12/2023,14.99,Tomorrow Corporation,2023,16.1892
-464,Cursed to Golf,27/12/2023,28/12/2023,19.99,Thunderful Publishing,2023,21.589199999999998
-465,Cat Quest,28/12/2023,29/12/2023,12.99,Kepler Interactive,2023,14.029200000000001
-466,Snakebird Complete,29/12/2023,30/12/2023,14.99,Unknown Publisher,2023,16.1892
-467,Saints Row (2022),30/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0
-468,Ghostrunner,31/12/2023,01/01/2024,29.99,505 Games,2023,32.3892
-469,Escape Academy,01/01/2024,02/01/2024,19.99,Iam8Bit Presents,2024,20.7896
-470,20 Minutes Till Dawn,02/01/2024,03/01/2024,4.99,Erabit,2024,5.1896
-471,A Plague Tale: Innocence,03/01/2024,04/01/2024,39.99,Focus Entertainment,2024,41.589600000000004
-472,Marvel's Guardians of the Galaxy,04/01/2024,11/01/2024,59.99,Eidos Interactive Corp.,2024,62.3896
-473,Sail Forth,11/01/2024,18/01/2024,19.99,The Quantum Astrophysicists Guild,2024,20.7896
-474,LOVE,18/01/2024,25/01/2024,2.99,Wealthbird,2024,3.1096000000000004
-475,Infinifactory,25/01/2024,01/02/2024,24.99,Zachtronics,2024,25.9896
-476,Doors: Paradox,01/02/2024,08/02/2024,14.99,Snapbreak,2024,15.5896
-477,Lost Castle,08/02/2024,15/02/2024,9.99,Hunter Studio,2024,10.3896
-478,Doki Doki Literature Club Plus!,08/02/2024,15/02/2024,14.99,Serenity Forge,2024,15.5896
-479,Dakar Desert Rally,15/02/2024,22/02/2024,29.99,Saber Interactive,2024,31.1896
-480,Super Meat Boy Forever,22/02/2024,29/02/2024,4.99,Team Meat,2024,5.1896
-481,Aerial_Knight's Never Yield,29/02/2024,07/03/2024,11.99,Headup,2024,12.4696
-482,Thief (2014),04/03/2024,11/04/2024,0.0,Unknown Publisher,2024,0.0
-483,The Outer Worlds,04/03/2024,11/04/2024,29.99,Private Division,2024,31.1896
-484,Astro Duel,07/03/2024,14/03/2024,9.99,Wild Rooster,2024,10.3896
-485,The Bridge,14/03/2024,21/03/2024,9.99,The Quantum Astrophysicists Guild,2024,10.3896
-486,LISA: The Painful,14/03/2024,21/03/2024,19.99,Serenity Forge,2024,20.7896
-487,Deus Ex: Mankind Divided,14/03/2024,21/03/2024,29.99,Eidos Interactive Corp.,2024,31.1896
-488,Call of The Wild: The Angler,21/03/2024,28/03/2024,29.99,Avalanche Studios,2024,31.1896
-489,Invincible Presents: Atom Eve,21/03/2024,28/03/2024,9.99,Skybound Games,2024,10.3896
-490,Islets,28/03/2024,04/04/2024,19.99,Armor Games Studios,2024,20.7896
-491,Circus Electrique,04/04/2024,11/04/2024,19.99,Zen Studios,2024,20.7896
-492,Ghostrunner,11/04/2024,18/04/2024,29.99,505 Games,2024,31.1896
-493,The Big Con,18/04/2024,25/04/2024,14.99,Skybound Games,2024,15.5896
-494,Town of Salem 2,18/04/2024,25/04/2024,0.0,Digital Bandidos,2024,0.0
-495,Circus Electrique,18/04/2024,25/04/2024,19.99,Zen Studios,2024,20.7896
-496,Industria,25/04/2024,02/05/2024,19.99,Headup,2024,20.7896
-497,Orcs Must Die! 3,02/05/2024,09/05/2024,29.99,Robot Entertainment,2024,31.1896
-498,LISA: The Joyful,02/05/2024,09/05/2024,9.99,Serenity Forge,2024,10.3896
-499,Cat Quest II,02/05/2024,09/05/2024,14.99,Kepler Interactive,2024,15.5896
-500,Orcs Must Die! 2 (repeat),09/05/2024,16/05/2024,0.0,Unknown Publisher,2024,0.0
-501,Firestone: Online Idle RPG,09/05/2024,16/05/2024,0.0,Holyday Studios,2024,0.0
-502,Dragon Age: Inquisition,16/05/2024,23/05/2024,39.99,Electronic Arts,2024,41.589600000000004
-503,Farming Simulator 22,23/05/2024,30/05/2024,19.99,Giants Software,2024,20.7896
-504,Chivalry 2,30/05/2024,06/06/2024,39.99,Tripwire Presents,2024,41.589600000000004
-505,Marvel's Midnight Suns,30/05/2024,06/06/2024,59.99,2K,2024,62.3896
-506,Redout 2,06/06/2024,13/06/2024,19.99,34Bigthings Srl,2024,20.7896
-507,Idle Champions of the Forgotten Realms (DLC pack),13/06/2024,20/06/2024,0.0,Unknown Publisher,2024,0.0
-508,Freshly Frosted + Rumble Club pack,20/06/2024,27/06/2024,0.0,Unknown Publisher,2024,0.0
-509,Sunless Skies: Sovereign Edition,27/06/2024,04/07/2024,24.99,Failbetter Games,2024,25.9896
-510,The Falconeer,04/07/2024,11/07/2024,19.99,Wired Productions,2024,20.7896
-511,Floppy Knights,11/07/2024,18/07/2024,7.99,Rose City Games,2024,8.3096
-512,Arcade Paradise,18/07/2024,25/07/2024,19.99,Wired Productions,2024,20.7896
-513,Maid of Sker,18/07/2024,25/07/2024,24.99,Wales Interactive,2024,25.9896
-514,F.I.S.T.: Forged In Shadow Torch,25/07/2024,01/08/2024,15.99,Astrolabe Games,2024,16.6296
-515,LumbearJack,01/08/2024,08/08/2024,12.99,Armor Games Studios,2024,13.5096
-516,Rawmen: Food Fighter Arena,01/08/2024,08/08/2024,0.0,Tinybuild,2024,0.0
-517,DNF Duel,08/08/2024,15/08/2024,49.99,Nexon,2024,51.9896
-518,CYGNI: All Guns Blazing,08/08/2024,15/08/2024,29.99,Konami,2024,31.1896
-519,Death's Gambit: Afterlife,15/08/2024,22/08/2024,19.99,Serenity Forge,2024,20.7896
-520,World of Warships – Starter Pack: Albany,15/08/2024,22/08/2024,23.6,Unknown Publisher,2024,24.544000000000004
-521,Gigantic: Rampage Edition,22/08/2024,29/08/2024,19.99,Arc Games,2024,20.7896
-522,The Callisto Protocol,22/08/2024,29/08/2024,59.99,"Krafton, Inc.",2024,62.3896
-523,Fallout Classic Edition,29/08/2024,05/09/2024,0.0,Unknown Publisher,2024,0.0
-524,Wild Card Football,29/08/2024,05/09/2024,0.0,Unknown Publisher,2024,0.0
-525,Football Manager 2024,05/09/2024,12/09/2024,5.99,Sega,2024,6.2296000000000005
-526,Sniper Ghost Warrior Contracts,05/09/2024,12/09/2024,29.99,Ci Games,2024,31.1896
-527,Rugrats: Adventures in Gameland,12/09/2024,19/09/2024,19.99,The Mix Games,2024,20.7896
-528,Super Crazy Rhythm Castle,12/09/2024,19/09/2024,19.99,Konami,2024,20.7896
-529,Toem,19/09/2024,26/09/2024,19.99,Something We Made,2024,20.7896
-530,The Last Stand: Aftermath,19/09/2024,26/09/2024,24.99,Armor Games Studios,2024,25.9896
-531,The Spirit and the Mouse,26/09/2024,03/10/2024,19.99,Armor Games Studios,2024,20.7896
-532,Bear and Breakfast,03/10/2024,10/10/2024,19.99,Armor Games Studios,2024,20.7896
-533,Outliver: Tribulation,10/10/2024,17/10/2024,7.99,Gbrossoft,2024,8.3096
-534,Empyrion - Galactic Survival,10/10/2024,17/10/2024,19.99,Eleon Game Studios,2024,20.7896
-535,Kardboard Kings: Card Shop Simulator,17/10/2024,17/10/2024,19.99,Akupara Games,2024,20.7896
-536,Invincible Presents: Atom Eve,17/10/2024,24/10/2024,9.99,Skybound Games,2024,10.3896
-537,Moving Out,24/10/2024,31/10/2024,24.99,Team17,2024,25.9896
-538,Ghostwire: Tokyo,31/10/2024,07/11/2024,59.99,Bethesda Softworks,2024,62.3896
-539,Witch It,31/10/2024,07/11/2024,19.99,Barrel Roll Games,2024,20.7896
-540,Deceive Inc.,07/11/2024,14/11/2024,19.99,Tripwire Presents,2024,20.7896
-541,Castlevania Anniversary Collection,14/11/2024,21/11/2024,19.99,Konami,2024,20.7896
-542,Snakebird Complete,14/11/2024,21/11/2024,14.99,Unknown Publisher,2024,15.5896
-543,Beholder,21/11/2024,28/11/2024,13.99,Alawar,2024,14.5496
-544,Brotato,28/11/2024,05/12/2024,4.99,Blobfish,2024,5.1896
-545,Lego Star Wars: The Skywalker Saga,05/12/2024,12/12/2024,49.99,Warner Bros. Games,2024,51.9896
-546,Bus Simulator 21 Next Stop,05/12/2024,12/12/2024,34.99,Astragon Entertainment,2024,36.3896
-547,The Lord of the Rings: Return to Moria,12/12/2024,19/12/2024,24.99,North Beach Games,2024,25.9896
-548,Vampire Survivors,19/12/2024,20/12/2024,4.99,Poncle,2024,5.1896
-549,Astrea: Six-Sided Oracles,20/12/2024,21/12/2024,24.99,Akupara Games,2024,25.9896
-550,TerraTech,21/12/2024,22/12/2024,24.99,Mythwright,2024,25.9896
-551,Wizard of Legend,22/12/2024,23/12/2024,15.99,Contingent99,2024,16.6296
-552,Dark and Darker,23/12/2024,24/12/2024,0.0,Ironmace,2024,0.0
-553,DREDGE,24/12/2024,25/12/2024,24.99,Team17,2024,25.9896
-554,Control,25/12/2024,26/12/2024,4.99,Valve,2024,5.1896
-555,Ghostrunner 2,26/12/2024,27/12/2024,39.99,505 Games,2024,41.589600000000004
-556,Hot Wheels Unleashed,27/12/2024,28/12/2024,39.99,Milestone S.R.L.,2024,41.589600000000004
-557,KILL KNIGHT,28/12/2024,29/12/2024,14.99,Playside,2024,15.5896
-558,Orcs Must Die! 3 (repeat),29/12/2024,30/12/2024,0.0,Unknown Publisher,2024,0.0
-559,REDACTED (mystery day 2024)*,30/12/2024,31/12/2024,0.0,Unknown Publisher,2024,0.0
-560,Sifu,31/12/2024,01/01/2025,39.99,Sloclap,2024,41.589600000000004
-561,Kingdom Come: Deliverance,01/01/2025,02/01/2025,29.99,Warhorse Studios,2025,30.2899
-562,Hell Let Loose,02/01/2025,09/01/2025,49.99,Team17,2025,50.489900000000006
-563,Turmoil,09/01/2025,16/01/2025,12.99,Kiwiclockwork Studios,2025,13.1199
-564,Escape Academy,16/01/2025,23/01/2025,19.99,Iam8Bit Presents,2025,20.189899999999998
-565,Behind the Frame: The Finest Scenery,23/01/2025,30/01/2025,12.99,Akupara Games,2025,13.1199
-566,Undying,30/01/2025,06/02/2025,19.99,Unknown Publisher,2025,20.189899999999998
-567,Beyond Blue,06/02/2025,13/02/2025,19.99,E-Line Media,2025,20.189899999999998
-568,Humankind,06/02/2025,13/02/2025,49.99,Amplitude Studios,2025,50.489900000000006
-569,F1 Manager 2024,13/02/2025,20/02/2025,34.99,Frontier Developments,2025,35.3399
-570,Garden Story,20/02/2025,27/02/2025,19.99,Rose City Games,2025,20.189899999999998
-571,World War Z Aftermath,20/02/2025,27/02/2025,39.99,Saber Interactive Inc,2025,40.389900000000004
-572,Mages of Mystralia,27/02/2025,06/03/2025,19.99,Borealys Games,2025,20.189899999999998
-573,Them's Fightin' Herds,06/03/2025,13/03/2025,31.98,Gameplay Group International,2025,32.2998
-574,Mortal Shell,13/03/2025,20/03/2025,29.99,Playstack,2025,30.2899
-575,World Of Warships – Anniversary Party Flavor,13/03/2025,20/03/2025,0.0,Unknown Publisher,2025,0.0
-576,Jurassic World Evolution 2,20/03/2025,27/03/2025,59.99,Frontier Developments,2025,60.5899
-577,Cat Quest,27/03/2025,03/04/2025,12.99,Kepler Interactive,2025,13.1199
-578,"Neko Ghost, Jump!",27/03/2025,03/04/2025,9.99,Burgos Games,2025,10.0899
-579,Cat Quest 2,03/04/2025,10/04/2025,14.99,Kepler Interactive,2025,15.1399
-580,River City Girls,10/04/2025,17/04/2025,29.99,Wayforward,2025,30.2899
-581,Botanicula,17/04/2025,24/04/2025,14.99,Amanita Design,2025,15.1399
-582,Chuchel,24/04/2025,01/05/2025,9.99,Amanita Design,2025,10.0899
-583,Albion Online Welcome Gift,24/04/2025,01/05/2025,0.0,Unknown Publisher,2025,0.0
-584,Super Space Club,01/05/2025,08/05/2025,14.99,Grahamoflegend,2025,15.1399
-585,Deadtime Defenders,08/05/2025,15/05/2025,9.99,Arcane Embers,2025,10.0899
-586,Touch Type Tale,08/05/2025,15/05/2025,19.99,Mythwright,2025,20.189899999999998
-587,Happy Game,15/05/2025,22/05/2025,13.13,Amanita Design,2025,13.2613
-588,Dead Island 2,15/05/2025,22/05/2025,59.99,Deep Silver,2025,60.5899
-589,Deliver At All Costs,22/05/2025,29/05/2025,29.99,Konami,2025,30.2899
-590,Gigapocalypse,22/05/2025,29/05/2025,9.99,Headup,2025,10.0899
-591,Sifu,22/05/2025,29/05/2025,39.99,Sloclap,2025,40.389900000000004
-592,Limbo,29/05/2025,05/06/2025,12.49,Playdead,2025,12.6149
-593,Tiny Tina's Wonderlands,29/05/2025,05/06/2025,59.99,2K,2025,60.5899
-594,Deathloop,05/06/2025,12/06/2025,59.99,Bethesda Softworks,2025,60.5899
-595,Ogu and the Secret Forest,05/06/2025,12/06/2025,24.99,Sinkhole Studio,2025,25.2399
-596,Two Point Hospital,12/06/2025,19/06/2025,29.99,Sega,2025,30.2899
-597,The Operator,19/06/2025,26/06/2025,13.99,Bureau 81,2025,14.129900000000001
-598,Sable,26/06/2025,03/07/2025,24.99,Raw Fury,2025,25.2399
-599,Backpack Hero,03/07/2025,10/07/2025,19.99,Pretty Soon,2025,20.189899999999998
-600,Figment,03/07/2025,10/07/2025,19.99,Bedtime Digital Games,2025,20.189899999999998
-601,Figment 2,10/07/2025,17/07/2025,24.99,Bedtime Digital Games,2025,25.2399
-602,Sky Racket,10/07/2025,17/07/2025,14.99,Double Dash Studios,2025,15.1399
-603,Civilization 6 Platinum Edition,17/07/2025,24/07/2025,0.0,Unknown Publisher,2025,0.0
-604,Legion TD2,24/07/2025,31/07/2025,19.99,Autoattack Games,2025,20.189899999999998
-605,Keylocker,31/07/2025,07/08/2025,19.99,Serenity Forge,2025,20.189899999999998
-606,Pilgrims,31/07/2025,07/08/2025,6.99,Amanita Design,2025,7.0599
-607,112 Operator,07/08/2025,14/08/2025,24.99,Games Operators,2025,25.2399
-608,Road Redemption,07/08/2025,14/08/2025,19.99,Tripwire Presents,2025,20.189899999999998
-609,Hidden Folks,14/08/2025,21/08/2025,14.99,Adriaan De Jongh,2025,15.1399
-610,Totally Reliable Delivery Service,14/08/2025,21/08/2025,14.99,Infogrames,2025,15.1399
-611,Kamaeru: A Frog Refuge,21/08/2025,28/08/2025,19.99,Armor Games Studios,2025,20.189899999999998
-612,Strange Horticulture,21/08/2025,28/08/2025,15.99,Iceberg Interactive,2025,16.1499
-613,Machinarium,28/08/2025,04/09/2025,19.99,Amanita Design,2025,20.189899999999998
-614,Make Way,28/08/2025,04/09/2025,14.99,Secret Mode,2025,15.1399
-615,Monument Valley,04/09/2025,11/09/2025,7.99,Ustwo Games,2025,8.0699
-616,Ghostrunner 2,11/09/2025,18/09/2025,39.99,505 Games,2025,40.389900000000004
-617,Monument Valley 2,11/09/2025,18/09/2025,7.99,Ustwo Games,2025,8.0699
-618,The Battle of Polytopia,11/09/2025,18/09/2025,14.99,Midjiwan Ab,2025,15.1399
-619,Project Winter,18/09/2025,25/09/2025,9.99,Other Ocean Group,2025,10.0899
-620,Samorost 2,18/09/2025,25/09/2025,4.99,Amanita Design,2025,5.0399
-621,Eastern Exorcist,25/09/2025,02/10/2025,17.99,Wildfire Game（无锡野火数字科技有限公司）,2025,18.1699
-622,Jorel’s Brother and The Most Important Game of the Galaxy,25/09/2025,02/10/2025,14.99,Double Dash Studios,2025,15.1399
-623,Nightingale,02/10/2025,09/10/2025,29.99,Inflexion Games,2025,30.2899
-624,Gravity Circuit,09/10/2025,16/10/2025,16.99,Pid Games,2025,17.159899999999997
-625,Amnesia: The Bunker,16/10/2025,23/10/2025,24.99,Frictional Games,2025,25.2399
-626,Samorost 3,16/10/2025,23/10/2025,19.99,Amanita Design,2025,20.189899999999998
-627,Fear the Spotlight,23/10/2025,30/10/2025,19.99,Blumhouse Games,2025,20.189899999999998
-628,Five Nights at Freddy's: Into the Pit,30/10/2025,06/11/2025,19.99,Mega Cat Studios,2025,20.189899999999998
-629,Bendy and the Ink Machine,30/10/2025,06/11/2025,19.99,Joey Drew Studios,2025,20.189899999999998
-630,Felix The Reaper,06/11/2025,13/11/2025,9.99,Daedalic Entertainment,2025,10.0899
-631,ScourgeBringer,13/11/2025,20/11/2025,16.99,Dear Villagers,2025,17.159899999999997
-632,Songs of Silence,13/11/2025,20/11/2025,29.99,Chimera Entertainment,2025,30.2899
-633,Zero Hour,13/11/2025,20/11/2025,9.99,Attritom7 Productions,2025,10.0899
-634,Zoeti,20/11/2025,27/11/2025,19.99,Akupara Games,2025,20.189899999999998
-635,Godzilla Voxel Wars,20/11/2025,27/11/2025,14.99,"Toho Co., Ltd.",2025,15.1399
-636,Universe for Sale,27/11/2025,04/12/2025,14.99,Akupara Games,2025,15.1399
-637,The Darkside Detective,04/12/2025,11/12/2025,14.99,Akupara Games,2025,15.1399
-638,The Jackbox Party Pack 4,04/12/2025,11/12/2025,24.99,"Jackbox Games, Inc.",2025,25.2399
-639,Hogwarts Legacy,11/12/2025,18/12/2025,59.99,Warner Bros. Games,2025,60.5899
-640,Jotunnslayer: Hordes of Hel,18/12/2025,19/12/2025,14.99,Grindstone,2025,15.1399
-641,Eternights,19/12/2025,20/12/2025,29.99,Studio Sai,2025,30.2899
-642,Blood West,20/12/2025,21/12/2025,24.99,New Blood Interactive,2025,25.2399
-643,Sorry We're Closed,21/12/2025,22/12/2025,24.99,Akupara Games,2025,25.2399
-644,Paradise Killer,22/12/2025,23/12/2025,19.99,Fellow Traveller,2025,20.189899999999998
-645,Bloodstained: Ritual of the Night,23/12/2025,24/12/2025,39.99,505 Games,2025,40.389900000000004
-646,The Callisto Protocol,24/12/2025,25/12/2025,59.99,"Krafton, Inc.",2025,60.5899
-647,Disco Elysium — The Final Cut,25/12/2025,26/12/2025,39.99,Za/Um,2025,40.389900000000004
-648,We Were Here Together,26/12/2025,27/12/2025,12.99,Total Mayhem Games,2025,13.1199
-649,Cassette Beasts,27/12/2025,28/12/2025,19.99,Raw Fury,2025,20.189899999999998
-650,SKALD: Against the Black Priory,28/12/2025,29/12/2025,14.99,Raw Fury,2025,15.1399
-651,Viewfinder,29/12/2025,30/12/2025,24.99,Thunderful Publishing,2025,25.2399
-652,Trine Classic Collection,30/12/2025,31/12/2025,49.99,Unknown Publisher,2025,50.489900000000006
-653,Chivalry 2,31/12/2025,01/01/2026,39.99,Tripwire Presents,2025,40.389900000000004
-654,Wildgate,01/01/2026,08/01/2026,29.99,Dreamhaven,2026,29.99
-655,Total War: Three Kingdoms,01/01/2026,08/01/2026,59.99,Sega,2026,59.99
-656,Bloons TD 6,08/01/2026,15/01/2026,13.99,Ninja Kiwi,2026,13.99
-657,Styx: Master of Shadows,15/01/2026,22/01/2026,19.99,Cyanide Studio,2026,19.99
-658,Styx: Shards of Darkness - Deluxe Edition,15/01/2026,22/01/2026,19.99,Unknown Publisher,2026,19.99
-659,Rustler - Grand Theft Horse,22/01/2026,,24.99,Games Operators,2026,24.99
+﻿ï»¿id,game,start_date,end_date,price,publisher,year,real_value,id
+1,Subnautica,12/12/2018,27/12/2018,29.99,Unknown Worlds Entertainment,2018,39.5868,1
+2,Super Meat Boy,28/12/2018,10/01/2019,14.99,Unknown Publisher,2018,19.7868,2
+3,What Remains of Edith Finch,11/01/2019,24/01/2019,19.99,Annapurna Interactive,2019,25.7871,3
+4,The Jackbox Party Pack,24/01/2019,07/02/2019,24.99,"Jackbox Games, Inc.",2019,32.2371,4
+5,Axiom Verge,07/02/2019,21/02/2019,19.99,Thomas Happ Games Llc,2019,25.7871,5
+6,Thimbleweed Park,21/02/2019,07/03/2019,19.99,Terrible Toybox,2019,25.7871,6
+7,Slime Rancher,07/03/2019,21/03/2019,19.99,Monomi Park,2019,25.7871,7
+8,Oxenfree,21/03/2019,04/04/2019,9.99,Night School Studio,2019,12.8871,8
+9,The Witness,04/04/2019,18/04/2019,39.99,"Thekla, Inc.",2019,51.58710000000001,9
+10,Transistor,18/04/2019,02/05/2019,19.99,Supergiant Games,2019,25.7871,10
+11,World of Goo,02/05/2019,16/05/2019,14.99,2D Boy,2019,19.3371,11
+12,Stories Untold,16/05/2019,30/05/2019,9.99,Devolver Digital,2019,12.8871,12
+13,RiME,23/05/2019,30/05/2019,29.99,Grey Box,2019,38.6871,13
+14,City of Brass,30/05/2019,06/06/2019,19.99,Uppercut Games Pty Ltd,2019,25.7871,14
+15,Kingdom: New Lands,06/06/2019,13/06/2019,14.99,Raw Fury,2019,19.3371,15
+16,Enter the Gungeon,13/06/2019,20/06/2019,14.99,Devolver Digital,2019,19.3371,16
+17,Rebel Galaxy,20/06/2019,27/06/2019,19.99,Double Damage Games,2019,25.7871,17
+18,Last Day of June,27/06/2019,04/07/2019,19.99,505 Games,2019,25.7871,18
+19,Overcooked!,04/07/2019,11/07/2019,16.99,Team17 Digital Ltd,2019,21.917099999999998,19
+20,Torchlight,11/07/2019,18/07/2019,14.99,Xd,2019,19.3371,20
+21,Limbo,18/07/2019,25/07/2019,12.49,Playdead,2019,16.1121,21
+22,Moonlighter,25/07/2019,01/08/2019,19.99,11 Bit Studios,2019,25.7871,22
+23,This War of Mine,25/07/2019,01/08/2019,19.99,11 Bit Studios,2019,25.7871,23
+24,Alan Wake,02/08/2019,09/08/2019,14.99,Remedy Entertainment,2019,19.3371,24
+25,For Honor,02/08/2019,09/08/2019,29.99,Ubisoft,2019,38.6871,25
+26,GNOG,08/08/2019,15/08/2019,9.99,Ko_Op,2019,12.8871,26
+27,Hyper Light Drifter,15/08/2019,22/08/2019,19.99,Heart Machine,2019,25.7871,27
+28,Mutant Year Zero: Road to Eden,15/08/2019,22/08/2019,34.99,Funcom,2019,45.137100000000004,28
+29,Fez,22/08/2019,29/08/2019,9.99,Trapdoor,2019,12.8871,29
+30,Celeste,29/08/2019,05/09/2019,19.99,Maddy Makes Games Inc.,2019,25.7871,30
+31,Inside,29/08/2019,05/09/2019,24.99,Playdead,2019,32.2371,31
+32,ABZU,05/09/2019,12/09/2019,19.99,505 Games,2019,25.7871,32
+33,The End is Nigh,05/09/2019,12/09/2019,14.99,Edmund Mcmillen,2019,19.3371,33
+34,Conarium,12/09/2019,19/09/2019,19.99,Iceberg Interactive,2019,25.7871,34
+35,Batman: Arkham Asylum,19/09/2019,26/09/2019,19.99,Unknown Publisher,2019,25.7871,35
+36,Batman: Arkham City,19/09/2019,26/09/2019,19.99,Warner Bros. Interactive Entertainment,2019,25.7871,36
+37,Batman: Arkham Collection,19/09/2019,26/09/2019,59.99,Unknown Publisher,2019,77.3871,37
+38,BATMAN: ARKHAM KNIGHT,19/09/2019,26/09/2019,19.99,Wb Games,2019,25.7871,38
+39,LEGO Batman Trilogy,19/09/2019,26/09/2019,49.99,Unknown Publisher,2019,64.4871,39
+40,LEGO Batman: The Video Game,19/09/2019,26/09/2019,19.99,Unknown Publisher,2019,25.7871,40
+41,LEGO Batman 2: DC Super Heroes,19/09/2019,26/09/2019,19.99,Warner Bros. Interactive Entertainment,2019,25.7871,41
+42,LEGO Batman 3: Beyond Gotham,19/09/2019,26/09/2019,19.99,Wb Games,2019,25.7871,42
+43,Everything,26/09/2019,03/10/2019,14.99,David Oreilly,2019,19.3371,43
+44,Metro 2033 Redux,26/09/2019,03/10/2019,19.99,Deep Silver,2019,25.7871,44
+45,Minit,03/10/2019,10/10/2019,9.99,Devolver Digital,2019,12.8871,45
+46,Surviving Mars,10/10/2019,17/10/2019,29.99,Paradox Interactive,2019,38.6871,46
+47,Alan Wake's: American Nightmare,17/10/2019,28/10/2019,8.99,Remedy Entertainment,2019,11.597100000000001,47
+48,Layers of Fear,24/10/2019,31/10/2019,29.99,Bloober Team Sa,2019,38.6871,48
+49,Observer,24/10/2019,31/10/2019,29.99,Bloober Team,2019,38.6871,49
+50,Costume Quest,31/10/2019,07/11/2019,9.99,Double Fine Productions,2019,12.8871,50
+51,Q.U.B.E. 2,31/10/2019,07/11/2019,24.99,Trapped Nerve Games,2019,32.2371,51
+52,SOMA,31/10/2019,07/11/2019,29.99,Frictional Games,2019,38.6871,52
+53,Nuclear Throne,07/11/2019,14/11/2019,11.99,Vlambeer,2019,15.4671,53
+54,Ruiner,07/11/2019,14/11/2019,19.99,Devolver Digital,2019,25.7871,54
+55,The Messenger,14/11/2019,21/11/2019,19.99,Devolver Digital,2019,25.7871,55
+56,Bad North: Jotunn Edition,21/11/2019,29/11/2019,14.99,Raw Fury,2019,19.3371,56
+57,Rayman Legends,29/11/2019,06/12/2019,29.99,Ubisoft,2019,38.6871,57
+58,Jotun: Valhalla Edition,05/12/2019,12/12/2019,14.99,Thunder Lotus,2019,19.3371,58
+59,The Escapists,12/12/2019,19/12/2019,17.99,Team17,2019,23.207099999999997,59
+60,The Wolf Among Us,12/12/2019,19/12/2019,14.99,Telltale,2019,19.3371,60
+61,Into the Breach,19/12/2019,20/12/2019,14.99,Subset Games,2019,19.3371,61
+62,TowerFall Ascension,20/12/2019,21/12/2019,14.99,Unknown Publisher,2019,19.3371,62
+63,Superhot,21/12/2019,22/12/2019,24.99,Superhot Team,2019,32.2371,63
+64,Little Inferno,22/12/2019,23/12/2019,14.99,Tomorrow Corporation,2019,19.3371,64
+65,Ape Out,23/12/2019,24/12/2019,14.99,Devolver Digital,2019,19.3371,65
+66,Celeste (repeat),24/12/2019,25/12/2019,0.0,Unknown Publisher,2019,0.0,66
+67,Totally Accurate Battle Simulator,25/12/2019,26/12/2019,19.99,Landfall,2019,25.7871,67
+68,FTL: Faster Than Light,26/12/2019,27/12/2019,9.99,Subset Games,2019,12.8871,68
+69,Hyper Light Drifter,27/12/2019,28/12/2019,19.99,Heart Machine,2019,25.7871,69
+70,Shadow Tactics: Blades of the Shogun,28/12/2019,29/12/2019,39.99,Daedalic Entertainment,2019,51.58710000000001,70
+71,The Talos Principle,29/12/2019,30/12/2019,29.99,Devolver Digital,2019,38.6871,71
+72,Hello Neighbor,30/12/2019,31/12/2019,29.99,Tinybuild,2019,38.6871,72
+73,Yooka-Laylee and the Impossible Lair,31/12/2019,01/01/2020,29.99,Team17 Digital Ltd,2019,38.6871,73
+74,Darksiders,01/01/2020,09/01/2020,39.99,Thq Nordic,2020,50.7873,74
+75,Darksiders II,01/01/2020,09/01/2020,39.99,Thq Nordic,2020,50.7873,75
+76,Steep,01/01/2020,09/01/2020,29.99,Ubisoft,2020,38.0873,76
+77,Sundered: Eldritch Edition,09/01/2020,16/01/2020,19.99,Thunder Lotus,2020,25.3873,77
+78,Horace,16/01/2020,23/01/2020,14.99,505 Games,2020,19.037300000000002,78
+79,The Bridge,23/01/2020,30/01/2020,9.99,The Quantum Astrophysicists Guild,2020,12.6873,79
+80,Farming Simulator 19,30/01/2020,06/02/2020,17.99,Giants Software,2020,22.847299999999997,80
+81,Carcassonne,06/02/2020,13/02/2020,9.99,Twin Sails Interactive,2020,12.6873,81
+82,Ticket to Ride,06/02/2020,13/02/2020,14.99,Marmalade Game Studio Ltd,2020,19.037300000000002,82
+83,Aztez,13/02/2020,20/02/2020,19.99,Team Colorblind,2020,25.3873,83
+84,Kingdom Come: Deliverance,13/02/2020,20/02/2020,29.99,Warhorse Studios,2020,38.0873,84
+85,Assassin's Creed Syndicate,20/02/2020,27/02/2020,29.99,Ubisoft,2020,38.0873,85
+86,Faeria,20/02/2020,27/02/2020,19.99,Versus Evil,2020,25.3873,86
+87,InnerSpace,27/02/2020,05/03/2020,19.99,Aspyr,2020,25.3873,87
+88,GoNNER,05/03/2020,12/03/2020,9.99,Raw Fury,2020,12.6873,88
+89,Offworld Trading Company,05/03/2020,12/03/2020,29.99,Stardock Entertainment,2020,38.0873,89
+90,A Short Hike,12/03/2020,19/03/2020,7.99,Adamgryu,2020,10.1473,90
+91,Anodyne 2: Return to Dust,12/03/2020,19/03/2020,19.99,Analgesic Productions,2020,25.3873,91
+92,Mutazione,12/03/2020,19/03/2020,19.99,Akupara Games,2020,25.3873,92
+93,The Stanley Parable,19/03/2020,26/03/2020,14.99,Galactic Cafe,2020,19.037300000000002,93
+94,Watch Dogs,19/03/2020,26/03/2020,19.99,Ubisoft,2020,25.3873,94
+95,Figment,26/03/2020,02/04/2020,19.99,Bedtime Digital Games,2020,25.3873,95
+96,Tormentor x Punisher,26/03/2020,02/04/2020,7.99,Unknown Publisher,2020,10.1473,96
+97,World War Z,26/03/2020,02/04/2020,29.99,Saber Interactive Inc,2020,38.0873,97
+98,Drawful 2,02/04/2020,09/04/2020,9.99,"Jackbox Games, Inc.",2020,12.6873,98
+99,Gone Home,02/04/2020,09/04/2020,14.99,Fullbright,2020,19.037300000000002,99
+100,Hob,02/04/2020,09/04/2020,19.99,Arc Games,2020,25.3873,100
+101,Totally Reliable Delivery Service,02/04/2020,09/04/2020,14.99,Infogrames,2020,19.037300000000002,101
+102,Close to the Sun,09/04/2020,16/04/2020,19.99,Wired Productions,2020,25.3873,102
+103,Sherlock Holmes: Crimes and Punishments,09/04/2020,16/04/2020,29.99,Frogwares,2020,38.0873,103
+104,Just Cause 4,16/04/2020,23/04/2020,59.99,Square Enix,2020,76.18730000000001,104
+105,Wheels of Aurelia,16/04/2020,23/04/2020,14.99,Santa Ragione,2020,19.037300000000002,105
+106,For the King,23/04/2020,30/04/2020,19.99,Curve Games,2020,25.3873,106
+107,Amnesia: The Dark Descent,30/04/2020,07/05/2020,19.99,Frictional Games,2020,25.3873,107
+108,Crashlands,30/04/2020,07/05/2020,14.99,Butterscotch Shenanigans,2020,19.037300000000002,108
+109,Death Coming,07/05/2020,14/05/2020,6.99,Next Studios,2020,8.8773,109
+110,Grand Theft Auto V,14/05/2020,21/05/2020,29.99,Rockstar Games,2020,38.0873,110
+111,Sid Meier's Civilization VI,21/05/2020,28/05/2020,59.99,2K,2020,76.18730000000001,111
+112,Borderlands 2,28/05/2020,04/06/2020,19.99,2K,2020,25.3873,112
+113,Borderlands: The Handsome Collection,28/05/2020,04/06/2020,59.99,Unknown Publisher,2020,76.18730000000001,113
+114,Borderlands: The Pre-Sequel,28/05/2020,04/06/2020,39.99,2K,2020,50.7873,114
+115,Overcooked!,04/06/2020,11/06/2020,16.99,Team17 Digital Ltd,2020,21.577299999999997,115
+116,Ark: Survival Evolved,11/06/2020,18/06/2020,14.99,Studio Wildcard,2020,19.037300000000002,116
+117,Samurai Shodown NeoGeo Collection,11/06/2020,18/06/2020,39.99,Snk Corporation,2020,50.7873,117
+118,Pathway,18/06/2020,25/06/2020,15.99,Chucklefish,2020,20.3073,118
+119,AER: Memories of Old,25/06/2020,02/07/2020,14.99,Daedalic Entertainment,2020,19.037300000000002,119
+120,Stranger Things 3: The Game,25/06/2020,02/07/2020,0.0,Unknown Publisher,2020,0.0,120
+121,Hue,02/07/2020,09/07/2020,14.99,Curve Games,2020,19.037300000000002,121
+122,Killing Floor 2,09/07/2020,16/07/2020,29.99,Tripwire Interactive,2020,38.0873,122
+123,Lifeless Planet: Premier Edition,09/07/2020,16/07/2020,9.99,Serenity Forge,2020,12.6873,123
+124,The Escapists 2,09/07/2020,16/07/2020,19.99,Team17,2020,25.3873,124
+125,Torchlight II,16/07/2020,23/07/2020,19.99,Xd,2020,25.3873,125
+126,Next Up Hero,23/07/2020,30/07/2020,19.99,Digital Continue,2020,25.3873,126
+127,Tacoma,23/07/2020,30/07/2020,19.99,Fullbright,2020,25.3873,127
+128,20XX,30/07/2020,06/08/2020,14.99,Batterystaple Games,2020,19.037300000000002,128
+129,Barony,30/07/2020,06/08/2020,19.99,Turning Wheel Llc,2020,25.3873,129
+130,Superbrothers: Sword & Sworcery EP,30/07/2020,06/08/2020,7.99,Capybara Games,2020,10.1473,130
+131,3 out of 10: Season One,06/08/2020,13/08/2020,0.0,Unknown Publisher,2020,0.0,131
+132,Wilmot's Warehouse,06/08/2020,13/08/2020,14.99,Finji,2020,19.037300000000002,132
+133,Remnant: From the Ashes,13/08/2020,20/08/2020,39.99,Arc Games,2020,50.7873,133
+134,The Alto Collection,13/08/2020,20/08/2020,9.99,Snowman,2020,12.6873,134
+135,Enter the Gungeon,20/08/2020,27/08/2020,14.99,Devolver Digital,2020,19.037300000000002,135
+136,God's Trigger,20/08/2020,27/08/2020,14.99,Techland Publishing,2020,19.037300000000002,136
+137,Hitman (2016),27/08/2020,03/09/2020,0.0,Unknown Publisher,2020,0.0,137
+138,Shadowrun Collection,27/08/2020,03/09/2020,0.0,Unknown Publisher,2020,0.0,138
+139,Into the Breach,03/09/2020,10/09/2020,14.99,Subset Games,2020,19.037300000000002,139
+140,Railway Empire,10/09/2020,17/09/2020,29.99,Kalypso Media,2020,38.0873,140
+141,Where the Water Tastes Like Wine,10/09/2020,17/09/2020,19.99,Good Shepherd Entertainment,2020,25.3873,141
+142,A Total War Saga: Troy,13/09/2020,13/09/2020,49.99,Sega,2020,63.487300000000005,142
+143,Football Manager 2020,17/09/2020,24/09/2020,0.0,Sega,2020,0.0,143
+144,Stick It To The Man!,17/09/2020,24/09/2020,7.99,Ripstone,2020,10.1473,144
+145,Watch Dogs 2,17/09/2020,24/09/2020,49.99,Ubisoft,2020,63.487300000000005,145
+146,RollerCoaster Tycoon 3: Complete Edition,24/09/2020,01/10/2020,19.99,Unknown Publisher,2020,25.3873,146
+147,Pikuniku,01/10/2020,08/10/2020,12.99,Devolver Digital,2020,16.4973,147
+148,ABZU,08/10/2020,15/10/2020,19.99,505 Games,2020,25.3873,148
+149,Rising Storm 2: Vietnam,08/10/2020,15/10/2020,24.99,Tripwire Interactive,2020,31.737299999999998,149
+150,Amnesia: A Machine for Pigs,15/10/2020,22/10/2020,19.99,Frictional Games,2020,25.3873,150
+151,Kingdom New Lands,15/10/2020,22/10/2020,14.99,Raw Fury,2020,19.037300000000002,151
+152,Costume Quest 2,22/10/2020,29/10/2020,14.99,Midnight City,2020,19.037300000000002,152
+153,Layers of Fear 2,22/10/2020,29/10/2020,19.99,Bloober Team Sa,2020,25.3873,153
+154,Blair Witch,29/10/2020,05/11/2020,29.99,Bloober Team Na,2020,38.0873,154
+155,Ghostbusters: The Video Game Remastered,29/10/2020,05/11/2020,24.99,"Mad Dog Games, Llc",2020,31.737299999999998,155
+156,Dungeons 3,05/11/2020,12/11/2020,29.99,Kalypso Media,2020,38.0873,156
+157,The Textorcist: The Story of Ray Bibbia,12/11/2020,19/11/2020,14.99,Headup,2020,19.037300000000002,157
+158,Elite Dangerous,19/11/2020,26/11/2020,19.99,Frontier Developments,2020,25.3873,158
+159,The World Next Door,19/11/2020,26/11/2020,4.99,Viz Media,2020,6.3373,159
+160,MudRunner,26/11/2020,03/12/2020,19.99,Focus Entertainment,2020,25.3873,160
+161,Cave Story+,03/12/2020,10/12/2020,14.99,"Nicalis, Inc.",2020,19.037300000000002,161
+162,Pillars of Eternity: Definitive Edition,10/12/2020,17/12/2020,39.99,Unknown Publisher,2020,50.7873,162
+163,Tyranny: Gold Edition,10/12/2020,17/12/2020,49.99,Unknown Publisher,2020,63.487300000000005,163
+164,Cities: Skylines,17/12/2020,18/12/2020,29.99,Paradox Interactive,2020,38.0873,164
+165,Oddworld: New 'n' Tasty,18/12/2020,19/12/2020,19.99,"Oddworld Inhabitants, Inc.",2020,25.3873,165
+166,The Long Dark,19/12/2020,20/12/2020,19.99,Hinterland Studio Inc.,2020,25.3873,166
+167,Defense Grid: The Awakening,20/12/2020,21/12/2020,9.99,Hidden Path Entertainment,2020,12.6873,167
+168,Alien: Isolation,21/12/2020,22/12/2020,39.99,Sega,2020,50.7873,168
+169,Metro 2033 Redux,22/12/2020,23/12/2020,19.99,Deep Silver,2020,25.3873,169
+170,Tropico 5,23/12/2020,24/12/2020,19.99,Kalypso Media Digital,2020,25.3873,170
+171,Inside,24/12/2020,25/12/2020,24.99,Playdead,2020,31.737299999999998,171
+172,Darkest Dungeon,25/12/2020,26/12/2020,24.99,Red Hook Studios,2020,31.737299999999998,172
+173,My Time at Portia,26/12/2020,27/12/2020,29.99,Focus Entertainment,2020,38.0873,173
+174,Night in the Woods,27/12/2020,28/12/2020,19.99,Finji,2020,25.3873,174
+175,Stranded Deep,28/12/2020,29/12/2020,19.99,Beam Team Publishing,2020,25.3873,175
+176,Solitairica,29/12/2020,30/12/2020,9.99,Righteous Hammer Games,2020,12.6873,176
+177,Torchlight II,30/12/2020,31/12/2020,19.99,Xd,2020,25.3873,177
+178,Jurassic World Evolution,31/12/2020,07/01/2021,44.99,Frontier Developments,2020,57.1373,178
+179,Crying Suns,07/01/2021,14/01/2021,24.99,Humble Games,2021,30.487799999999996,179
+180,STAR WARS Battlefront II,14/01/2021,21/01/2021,39.99,Electronic Arts,2021,48.787800000000004,180
+181,Galactic Civilizations III,21/01/2021,28/01/2021,29.99,Stardock Entertainment,2021,36.587799999999994,181
+182,Dandara,28/01/2021,04/02/2021,14.99,Raw Fury,2021,18.2878,182
+183,For The King,04/02/2021,11/02/2021,19.99,Curve Games,2021,24.3878,183
+184,Metro: Last Light Redux,04/02/2021,11/02/2021,19.99,Deep Silver,2021,24.3878,184
+185,Halcyon 6: Starbase Commander,11/02/2021,18/02/2021,14.99,"Massive Damage, Inc.",2021,18.2878,185
+186,Absolute Drift,18/02/2021,25/02/2021,11.99,Funselektor Labs Inc.,2021,14.6278,186
+187,Rage 2,18/02/2021,25/02/2021,39.99,Bethesda Softworks,2021,48.787800000000004,187
+188,Sunless Sea,25/02/2021,04/03/2021,18.99,Failbetter Games,2021,23.167799999999996,188
+189,Wargame: Red Dragon,04/03/2021,11/03/2021,29.99,Eugen Systems,2021,36.587799999999994,189
+190,Surviving Mars,11/03/2021,18/03/2021,29.99,Paradox Interactive,2021,36.587799999999994,190
+191,The Fall,18/03/2021,25/03/2021,9.99,Over The Moon,2021,12.1878,191
+192,Creature in the Well,25/03/2021,01/04/2021,14.99,Flight School Studio,2021,18.2878,192
+193,Tales of the Neon Sea,01/04/2021,08/04/2021,14.99,Thermite Games,2021,18.2878,193
+194,3 out of 10: Season Two,08/04/2021,15/04/2021,0.0,Unknown Publisher,2021,0.0,194
+195,Deponia,15/04/2021,22/04/2021,9.99,Daedalic Entertainment,2021,12.1878,195
+196,Ken Follett's The Pillars of the Earth,15/04/2021,22/04/2021,19.99,Daedalic Entertainment,2021,24.3878,196
+197,The First Tree,15/04/2021,22/04/2021,9.99,David Wehle,2021,12.1878,197
+198,Alien: Isolation,22/04/2021,29/04/2021,39.99,Sega,2021,48.787800000000004,198
+199,Hand of Fate 2,22/04/2021,29/04/2021,29.99,Defiant Development,2021,36.587799999999994,199
+200,Idle Champions of the Forgotten Realms,29/04/2021,06/05/2021,0.0,Codename Entertainment Inc.,2021,0.0,200
+201,Pine,06/05/2021,13/05/2021,24.99,Maximum Entertainment,2021,30.487799999999996,201
+202,The Lion's Song,13/05/2021,20/05/2021,7.99,Mi'Pu'Mi Games Gmbh,2021,9.7478,202
+203,NBA 2K21,20/05/2021,27/05/2021,0.0,Unknown Publisher,2021,0.0,203
+204,Among Us,27/05/2021,03/06/2021,4.99,Innersloth,2021,6.0878000000000005,204
+205,Frostpunk,03/06/2021,10/06/2021,29.99,11 Bit Studios,2021,36.587799999999994,205
+206,Control,10/06/2021,17/06/2021,4.99,Valve,2021,6.0878000000000005,206
+207,Hell is Other Demons,17/06/2021,24/06/2021,9.99,Cuddle Monster Games,2021,12.1878,207
+208,Overcooked! 2,17/06/2021,24/06/2021,24.99,Team17,2021,30.487799999999996,208
+209,Horizon Chase Turbo,24/06/2021,01/07/2021,19.99,Aquiris,2021,24.3878,209
+210,Sonic Mania,24/06/2021,01/07/2021,19.99,Sega,2021,24.3878,210
+211,The Spectrum Retreat,01/07/2021,08/07/2021,12.99,Ripstone,2021,15.8478,211
+212,Bridge Constructor: The Walking Dead,08/07/2021,15/07/2021,9.99,Headup,2021,12.1878,212
+213,Ironcast,08/07/2021,15/07/2021,14.99,Ripstone,2021,18.2878,213
+214,Obduction,15/07/2021,22/07/2021,29.99,Cyan Inc.,2021,36.587799999999994,214
+215,Offworld Trading Company,15/07/2021,22/07/2021,29.99,Stardock Entertainment,2021,36.587799999999994,215
+216,Defense Grid: The Awakening (repeat),22/07/2021,29/07/2021,0.0,Unknown Publisher,2021,0.0,216
+217,Verdun,22/07/2021,29/07/2021,19.99,Blackmill Games,2021,24.3878,217
+218,Mothergunship,29/07/2021,05/08/2021,24.99,Terrible Posture Games,2021,30.487799999999996,218
+219,Train Sim World 2,29/07/2021,05/08/2021,19.99,Dovetail Games - Tsw,2021,24.3878,219
+220,A Plague Tale: Innocence,05/08/2021,12/08/2021,39.99,Focus Entertainment,2021,48.787800000000004,220
+221,Minit,05/08/2021,12/08/2021,9.99,Devolver Digital,2021,12.1878,221
+222,Rebel Galaxy,12/08/2021,19/08/2021,19.99,Double Damage Games,2021,24.3878,222
+223,Void Bastards,19/08/2021,26/08/2021,29.99,Blue Manchu,2021,36.587799999999994,223
+224,Yooka-Laylee,19/08/2021,26/08/2021,19.99,Playtonic Friends,2021,24.3878,224
+225,Automachef,26/08/2021,02/09/2021,14.99,Team17 Digital Ltd,2021,18.2878,225
+226,Saints Row: The Third Remastered,26/08/2021,02/09/2021,29.99,Deep Silver,2021,36.587799999999994,226
+227,Yoku's Island Express,02/09/2021,09/09/2021,19.99,Team17 Digital Ltd,2021,24.3878,227
+228,Nioh: The Complete Edition,09/09/2021,16/09/2021,49.99,"Koei Tecmo Games Co., Ltd.",2021,60.9878,228
+229,Sheltered,09/09/2021,16/09/2021,14.99,Team17 Digital Ltd,2021,18.2878,229
+230,Speed Brawl,16/09/2021,23/09/2021,19.99,Double Stallion,2021,24.3878,230
+231,Tharsis,16/09/2021,23/09/2021,14.99,Choice Provisions,2021,18.2878,231
+232,The Escapists,23/09/2021,30/09/2021,17.99,Team17,2021,21.947799999999997,232
+233,Europa Universalis IV,30/09/2021,07/10/2021,49.99,Paradox Interactive,2021,60.9878,233
+234,PC Building Simulator,07/10/2021,14/10/2021,19.99,The Irregular Corporation,2021,24.3878,234
+235,Stubbs the Zombie in Rebel Without a Pulse,14/10/2021,21/10/2021,19.99,Aspyr,2021,24.3878,235
+236,Among the Sleep: Enhanced Edition,21/10/2021,28/10/2021,16.99,Krillbite Studio,2021,20.7278,236
+237,DARQ,28/10/2021,04/11/2021,19.99,Unfold Games,2021,24.3878,237
+238,Aven Colony,04/11/2021,11/11/2021,29.99,Team17 Digital Ltd,2021,36.587799999999994,238
+239,Rogue Company Season 4 Epic Pack (DLC),11/11/2021,18/11/2021,0.0,Unknown Publisher,2021,0.0,239
+240,Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure,11/11/2021,18/11/2021,9.99,Unknown Publisher,2021,12.1878,240
+241,Guild of Dungeoneering,18/11/2021,25/11/2021,7.99,Gambrinous,2021,9.7478,241
+242,KID A MNESIA EXHIBITION,18/11/2021,25/11/2021,0.0,Unknown Publisher,2021,0.0,242
+243,Never Alone (Kisima Ingitchuna),18/11/2021,25/11/2021,14.99,E-Line Media,2021,18.2878,243
+244,Antstream,25/11/2021,02/12/2021,39.99,Antstream Ltd,2021,48.787800000000004,244
+245,theHunter: Call of the Wild,25/11/2021,02/12/2021,19.99,Unknown Publisher,2021,24.3878,245
+246,Dead by Daylight,02/12/2021,09/12/2021,19.99,Behaviour Interactive Inc.,2021,24.3878,246
+247,while True: learn(),02/12/2021,09/12/2021,12.99,Luden.Io,2021,15.8478,247
+248,Godfall: Challenger Edition,09/12/2021,16/12/2021,24.99,Unknown Publisher,2021,30.487799999999996,248
+249,Prison Architect,09/12/2021,16/12/2021,29.99,Paradox Interactive,2021,36.587799999999994,249
+250,Shenmue III,16/12/2021,17/12/2021,29.99,Inin,2021,36.587799999999994,250
+251,Neon Abyss,17/12/2021,18/12/2021,19.99,Team17,2021,24.3878,251
+252,Remnant: From the Ashes,18/12/2021,19/12/2021,39.99,Arc Games,2021,48.787800000000004,252
+253,The Vanishing of Ethan Carter,19/12/2021,20/12/2021,19.99,The Astronauts,2021,24.3878,253
+254,Loop Hero,20/12/2021,21/12/2021,14.99,Devolver Digital,2021,18.2878,254
+255,Second Extinction,21/12/2021,22/12/2021,0.0,Unknown Publisher,2021,0.0,255
+256,Mutant Year Zero: Road to Eden,22/12/2021,23/12/2021,34.99,Funcom,2021,42.6878,256
+257,Vampyr,23/12/2021,24/12/2021,39.99,Focus Entertainment,2021,48.787800000000004,257
+258,Pathfinder: Kingmaker - Enhanced Plus Edition,24/12/2021,25/12/2021,19.99,Knights Peak,2021,24.3878,258
+259,Prey,25/12/2021,26/12/2021,29.99,Bethesda Softworks,2021,36.587799999999994,259
+260,Control,26/12/2021,27/12/2021,4.99,Valve,2021,6.0878000000000005,260
+261,Mages of Mystralia,27/12/2021,28/12/2021,19.99,Borealys Games,2021,24.3878,261
+262,Moving Out,28/12/2021,29/12/2021,24.99,Team17,2021,30.487799999999996,262
+263,Salt and Sanctuary,29/12/2021,30/12/2021,17.99,Ska Studios,2021,21.947799999999997,263
+264,"Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)",30/12/2021,06/01/2022,0.0,Unknown Publisher,2021,0.0,264
+265,Tomb Raider GOTY,30/12/2021,06/01/2022,19.8,Unknown Publisher,2021,24.156,265
+266,Rise of the Tomb Raider,30/12/2021,06/01/2022,29.99,Crystal Dynamics,2021,36.587799999999994,266
+267,Shadow of the Tomb Raider,30/12/2021,06/01/2022,59.99,Crystal Dynamics,2021,73.1878,267
+268,Gods Will Fall,06/01/2022,13/01/2022,14.99,Deep Silver,2022,16.788800000000002,268
+269,Galactic Civilizations III,13/01/2022,20/01/2022,29.99,Stardock Entertainment,2022,33.5888,269
+270,Relicta,20/01/2022,27/01/2022,19.99,Ravenscourt,2022,22.3888,270
+271,Daemon X Machina,27/01/2022,03/02/2022,49.99,Xseed Games,2022,55.988800000000005,271
+272,Yooka-Laylee and the Impossible Lair,03/02/2022,10/02/2022,29.99,Team17 Digital Ltd,2022,33.5888,272
+273,Windbound,10/02/2022,17/02/2022,29.99,Deep Silver,2022,33.5888,273
+274,Brothers: A Tale of Two Sons,17/02/2022,24/02/2022,14.99,505 Games,2022,16.788800000000002,274
+275,Cris Tales,24/02/2022,03/03/2022,39.99,Maximum Entertainment,2022,44.78880000000001,275
+276,Black Widow: Recharged,03/03/2022,10/03/2022,9.99,Atari,2022,11.1888,276
+277,Centipede: Recharged,03/03/2022,10/03/2022,9.99,Atari,2022,11.1888,277
+278,Cities: Skylines,10/03/2022,17/03/2022,29.99,Paradox Interactive,2022,33.5888,278
+279,In Sound Mind,17/03/2022,24/03/2022,34.99,Maximum Entertainment,2022,39.18880000000001,279
+280,Demon's Tilt,24/03/2022,31/03/2022,19.99,Flarb Llc,2022,22.3888,280
+281,City of Brass (repeat),31/03/2022,07/04/2022,0.0,Unknown Publisher,2022,0.0,281
+282,Total War: Warhammer,31/03/2022,07/04/2022,59.99,Sega,2022,67.18880000000001,282
+283,Rogue Legacy,07/04/2022,14/04/2022,14.99,Cellar Door Games,2022,16.788800000000002,283
+284,The Vanishing of Ethan Carter,07/04/2022,14/04/2022,19.99,The Astronauts,2022,22.3888,284
+285,Insurmountable,14/04/2022,21/04/2022,24.99,Daedalic Entertainment,2022,27.9888,285
+286,XCOM 2,14/04/2022,21/04/2022,59.99,2K,2022,67.18880000000001,286
+287,Amnesia: Rebirth,21/04/2022,28/04/2022,29.99,Frictional Games,2022,33.5888,287
+288,Riverbond,21/04/2022,28/04/2022,24.99,Cococucumber,2022,27.9888,288
+289,Just Die Already,28/04/2022,05/05/2022,14.99,Curve Games,2022,16.788800000000002,289
+290,Paradigm,28/04/2022,05/05/2022,14.99,Jacob Janerka,2022,16.788800000000002,290
+291,Terraforming Mars,05/05/2022,12/05/2022,19.99,Twin Sails Interactive,2022,22.3888,291
+292,Jotun: Valhalla Edition,12/05/2022,19/05/2022,14.99,Thunder Lotus,2022,16.788800000000002,292
+293,Prey,12/05/2022,19/05/2022,29.99,Bethesda Softworks,2022,33.5888,293
+294,Redout: Enhanced Edition,12/05/2022,19/05/2022,19.99,34Bigthings Srl,2022,22.3888,294
+295,Borderlands 3,19/05/2022,26/05/2022,59.99,2K,2022,67.18880000000001,295
+296,Bioshock: The Collection,26/05/2022,02/06/2022,59.99,Unknown Publisher,2022,67.18880000000001,296
+297,BioShock,26/05/2022,02/06/2022,19.99,2K,2022,22.3888,297
+298,BioShock 2,26/05/2022,02/06/2022,19.99,2K,2022,22.3888,298
+299,BioShock Infinite,26/05/2022,02/06/2022,29.99,2K,2022,33.5888,299
+300,Wolfenstein: The New Order,02/06/2022,09/06/2022,19.99,Bethesda Softworks,2022,22.3888,300
+301,Maneater,09/06/2022,16/06/2022,39.99,Tripwire Interactive,2022,44.78880000000001,301
+302,Supraland,16/06/2022,23/06/2022,19.99,Supra Games,2022,22.3888,302
+303,A Game of Thrones: The Board Game Digital Edition,23/06/2022,30/06/2022,19.99,Twin Sails Interactive,2022,22.3888,303
+304,Car Mechanic Simulator 2018,23/06/2022,30/06/2022,19.99,Playway S.A.,2022,22.3888,304
+305,Geneforge 1: Mutagen,30/06/2022,07/07/2022,19.99,Spiderweb Software,2022,22.3888,305
+306,Hood: Outlaws & Legends,30/06/2022,07/07/2022,0.0,Unknown Publisher,2022,0.0,306
+307,Iratus: Lord of the Dead,30/06/2022,07/07/2022,29.99,Daedalic Entertainment,2022,33.5888,307
+308,Ancient Enemy,07/07/2022,14/07/2022,16.99,Grey Alien Games,2022,19.0288,308
+309,Killing Floor 2,07/07/2022,14/07/2022,29.99,Tripwire Interactive,2022,33.5888,309
+310,Shop Titans,14/07/2022,21/07/2022,0.0,"Kabam Games, Inc.",2022,0.0,310
+311,Wonder Boy: The Dragon's Trap,14/07/2022,21/07/2022,19.99,Dotemu,2022,22.3888,311
+312,Tannenberg,21/07/2022,28/07/2022,19.99,Blackmill Games,2022,22.3888,312
+313,Lawn Mowing Simulator,28/07/2022,04/08/2022,19.99,Curve Games,2022,22.3888,313
+314,Unrailed!,04/08/2022,11/08/2022,19.99,Daedalic Entertainment,2022,22.3888,314
+315,"Cook, Serve, Delicious! 3?!",11/08/2022,18/08/2022,19.99,Vertigo Gaming Inc.,2022,22.3888,315
+316,Doom 64,18/08/2022,25/08/2022,4.99,Bethesda Softworks,2022,5.588800000000001,316
+317,Rumbleverse Boom Boxer Pack (DLC),18/08/2022,25/08/2022,0.0,Unknown Publisher,2022,0.0,317
+318,Destiny 2,25/08/2022,01/09/2022,24.99,Bungie,2022,27.9888,318
+319,Ring of Pain,25/08/2022,01/09/2022,19.99,Humble Games,2022,22.3888,319
+320,Shadow of the Tomb Raider,01/09/2022,08/09/2022,59.99,Crystal Dynamics,2022,67.18880000000001,320
+321,Submerged: Hidden Depths,01/09/2022,08/09/2022,29.99,Uppercut Games Pty Ltd,2022,33.5888,321
+322,Hundred Days - Winemaking Simulator,08/09/2022,15/09/2022,24.99,Broken Arms Games,2022,27.9888,322
+323,Realm Royale Reforged Epic Launch Bundle (DLC),08/09/2022,15/09/2022,0.0,Unknown Publisher,2022,0.0,323
+324,Spirit of the North,15/09/2022,22/09/2022,19.99,Silver Lining Interactive,2022,22.3888,324
+325,The Captain,15/09/2022,22/09/2022,19.99,Tomorrow Corporation,2022,22.3888,325
+326,ARK: Survival Evolved (repeat),22/09/2022,29/09/2022,0.0,Unknown Publisher,2022,0.0,326
+327,Gloomhaven,22/09/2022,29/09/2022,34.99,Twin Sails Interactive,2022,39.18880000000001,327
+328,Runbow,29/09/2022,06/10/2022,14.99,13Am Games,2022,16.788800000000002,328
+329,The Drone Racing League Simulator,29/09/2022,06/10/2022,9.99,The Drone Racing League,2022,11.1888,329
+330,Rising Hell,06/10/2022,13/10/2022,9.99,Toge Productions,2022,11.1888,330
+331,Slain: Back from Hell,06/10/2022,13/10/2022,12.99,Silver Lining Interactive,2022,14.548800000000002,331
+332,Darkwood,13/10/2022,20/10/2022,14.99,Hooded Horse,2022,16.788800000000002,332
+333,ToeJam & Earl: Back in the Groove!,13/10/2022,20/10/2022,14.99,Humanature Studios,2022,16.788800000000002,333
+334,Evoland,20/10/2022,27/10/2022,9.99,Shiro Games,2022,11.1888,334
+335,Fallout 3,20/10/2022,27/10/2022,9.99,Bethesda Softworks,2022,11.1888,335
+336,Saturnalia,27/10/2022,03/11/2022,29.99,Santa Ragione,2022,33.5888,336
+337,"Warhammer 40,000: Mechanicus",27/10/2022,03/11/2022,29.99,Kasedo Games,2022,33.5888,337
+338,Filament,03/11/2022,10/11/2022,16.99,Kasedo Games,2022,19.0288,338
+339,Rising Storm 2: Vietnam,03/11/2022,10/11/2022,24.99,Tripwire Interactive,2022,27.9888,339
+340,Alba: A Wildlife Adventure,10/11/2022,17/11/2022,16.99,Ustwo Games,2022,19.0288,340
+341,Shadow Tactics: Blades of the Shogun (repeat),10/11/2022,17/11/2022,0.0,Unknown Publisher,2022,0.0,341
+342,Dark Deity,17/11/2022,24/11/2022,24.99,Indie.Io,2022,27.9888,342
+343,Evil Dead: The Game,17/11/2022,24/11/2022,39.99,Unknown Publisher,2022,44.78880000000001,343
+344,Star Wars: Squadrons,24/11/2022,01/12/2022,39.99,Electronic Arts,2022,44.78880000000001,344
+345,Fort Triumph,01/12/2022,08/12/2022,19.99,Cookiebyte Entertainment,2022,22.3888,345
+346,RPG in a Box,01/12/2022,08/12/2022,49.99,Quercus Quag Software,2022,55.988800000000005,346
+347,Saints Row 4 Re-Elected,08/12/2022,15/12/2022,0.0,Deep Silver,2022,0.0,347
+348,Wildcat Gun Machine,08/12/2022,15/12/2022,14.99,Daedalic Entertainment,2022,16.788800000000002,348
+349,Bloons TD 6,15/12/2022,15/12/2022,13.99,Ninja Kiwi,2022,15.668800000000001,349
+350,Horizon Chase Turbo,16/12/2022,16/12/2022,19.99,Aquiris,2022,22.3888,350
+351,Costume Quest 2,17/12/2022,17/12/2022,14.99,Midnight City,2022,16.788800000000002,351
+352,Sable,19/12/2022,20/12/2022,24.99,Raw Fury,2022,27.9888,352
+353,Them's Fightin' Herds,20/12/2022,21/12/2022,31.98,Gameplay Group International,2022,35.817600000000006,353
+354,Wolfenstein: The New Order,21/12/2022,22/12/2022,19.99,Bethesda Softworks,2022,22.3888,354
+355,LEGO Builder's Journey,22/12/2022,23/12/2022,19.99,Lego® Games,2022,22.3888,355
+356,Fallout Classic Collection,23/12/2022,24/12/2022,19.99,Unknown Publisher,2022,22.3888,356
+357,Encased,24/12/2022,25/12/2022,29.99,Prime Matter,2022,33.5888,357
+358,Metro: Last Light Redux,25/12/2022,26/12/2022,19.99,Deep Silver,2022,22.3888,358
+359,Death Stranding,26/12/2022,27/12/2022,39.99,505 Games,2022,44.78880000000001,359
+360,F.I.S.T.: Forged In Shadow Torch,27/12/2022,28/12/2022,15.99,Astrolabe Games,2022,17.908800000000003,360
+361,Severed Steel,28/12/2022,29/12/2022,24.99,Greylock Studio,2022,27.9888,361
+362,Dishonored,29/12/2022,05/01/2023,9.99,Bethesda Softworks,2022,11.1888,362
+363,Eximius: Seize the Frontline,29/12/2022,05/01/2023,19.99,Ammobox Studios,2022,22.3888,363
+364,Mortal Shell,29/12/2022,05/01/2023,29.99,Playstack,2022,33.5888,364
+365,Kerbal Space Program,05/01/2023,12/01/2023,39.99,Private Division,2023,43.18920000000001,365
+366,Shadow Tactics: Blades Of The Shogun - Aiko's Choice,05/01/2023,12/01/2023,19.99,Daedalic Entertainment,2023,21.589199999999998,366
+367,Divine Knockout,12/01/2023,19/01/2023,0.0,Unknown Publisher,2023,0.0,367
+368,First Class Trouble,12/01/2023,19/01/2023,14.99,Invisible Walls,2023,16.1892,368
+369,Epistory's Typing Chronicles,19/01/2023,26/01/2023,0.0,Unknown Publisher,2023,0.0,369
+370,Gamedec,19/01/2023,26/01/2023,6.99,Anshar Publishing,2023,7.549200000000001,370
+371,Adios,26/01/2023,02/02/2023,17.99,Mischief,2023,19.429199999999998,371
+372,Hell is Others,26/01/2023,02/02/2023,14.99,A List Games,2023,16.1892,372
+373,City of Gangsters,02/02/2023,09/02/2023,29.99,Kasedo Games,2023,32.3892,373
+374,Dishonored: Death of the Outsider,02/02/2023,09/02/2023,29.99,Bethesda Softworks,2023,32.3892,374
+375,Recipe for Disaster,09/02/2023,16/02/2023,16.99,Kasedo Games,2023,18.3492,375
+376,Warpips,16/02/2023,23/02/2023,16.99,Daedalic Entertainment,2023,18.3492,376
+377,Duskers,23/02/2023,02/03/2023,19.99,Misfits Attic,2023,21.589199999999998,377
+378,Rise of Industry,02/03/2023,09/03/2023,29.99,Kasedo Games,2023,32.3892,378
+379,Call of the Sea,09/03/2023,16/03/2023,19.99,Raw Fury,2023,21.589199999999998,379
+380,"Warhammer 40,000: Gladius - Relics Of War",16/03/2023,23/03/2023,39.99,Slitherine Ltd.,2023,43.18920000000001,380
+381,Chess Ultra,23/03/2023,30/03/2023,12.99,Ripstone,2023,14.029200000000001,381
+382,World of Warships â€” Starter Pack: Ishizuchi,23/03/2023,30/03/2023,21.6,Unknown Publisher,2023,23.328000000000003,382
+383,The Silent Age,30/03/2023,06/04/2023,9.99,Unknown Publisher,2023,10.789200000000001,383
+384,Tunche,30/03/2023,06/04/2023,19.99,Hypetrain Digital,2023,21.589199999999998,384
+385,Dying Light,06/04/2023,13/04/2023,24.99,Techland,2023,26.9892,385
+386,shapez,06/04/2023,13/04/2023,9.99,Tobspr Games,2023,10.789200000000001,386
+387,Mordhau,13/04/2023,20/04/2023,29.99,Triternion,2023,32.3892,387
+388,Second Extinction,13/04/2023,20/04/2023,0.0,Unknown Publisher,2023,0.0,388
+389,Beyond Blue,20/04/2023,27/04/2023,19.99,E-Line Media,2023,21.589199999999998,389
+390,Never Alone (Kisima Ingitchuna),20/04/2023,27/04/2023,14.99,E-Line Media,2023,16.1892,390
+391,Breathedge,27/04/2023,04/05/2023,24.99,Hypetrain Digital,2023,26.9892,391
+392,Poker Club,27/04/2023,04/05/2023,19.99,Ripstone,2023,21.589199999999998,392
+393,Against All Odds,04/05/2023,11/05/2023,4.99,25 Crimson,2023,5.389200000000001,393
+394,Horizon Chase Turbo,04/05/2023,11/05/2023,19.99,Aquiris,2023,21.589199999999998,394
+395,Kao the Kangaroo,04/05/2023,11/05/2023,29.99,Tate Multimedia,2023,32.3892,395
+396,The Sims 4 The Daring Lifestyle Bundle,11/05/2023,18/05/2023,0.0,Unknown Publisher,2023,0.0,396
+397,Death Stranding,18/05/2023,25/05/2023,39.99,505 Games,2023,43.18920000000001,397
+398,Fallout: New Vegas,25/05/2023,01/06/2023,9.99,Bethesda Softworks,2023,10.789200000000001,398
+399,Midnight Ghost Hunt,01/06/2023,08/06/2023,19.99,Coffee Stain Publishing,2023,21.589199999999998,399
+400,PAYDAY 2,08/06/2023,15/06/2023,9.99,Starbreeze Entertainment,2023,10.789200000000001,400
+401,Guacamelee! 2,15/06/2023,22/06/2023,19.99,Drinkbox Studios,2023,21.589199999999998,401
+402,Guacamelee!,15/06/2023,22/06/2023,19.99,Drinkbox Studios,2023,21.589199999999998,402
+403,TheHunter: Call of the Wild,22/06/2023,29/06/2023,19.99,Unknown Publisher,2023,21.589199999999998,403
+404,Idle Champions Of The Forgotten Realms Pack,22/06/2023,29/06/2023,0.0,Unknown Publisher,2023,0.0,404
+405,The Dungeon of Naheulbeuk: The Amulet of Chaos,29/06/2023,06/07/2023,34.99,Dear Villagers,2023,37.78920000000001,405
+406,Grime,06/07/2023,13/07/2023,24.99,Akupara Games,2023,26.9892,406
+407,Train Valley 2,13/07/2023,20/07/2023,14.99,Flazm,2023,16.1892,407
+408,Murder by Numbers,20/07/2023,27/07/2023,14.99,The Irregular Corporation,2023,16.1892,408
+409,The Elder Scrolls Online,20/07/2023,27/07/2023,19.99,Bethesda Softworks,2023,21.589199999999998,409
+410,Homeworld Remastered Collection,27/07/2023,03/08/2023,34.99,Gearbox Publishing,2023,37.78920000000001,410
+411,Severed Steel,27/07/2023,03/08/2023,24.99,Greylock Studio,2023,26.9892,411
+412,Bloons TD 6,03/08/2023,10/08/2023,13.99,Ninja Kiwi,2023,15.109200000000001,412
+413,Loop Hero,03/08/2023,10/08/2023,14.99,Devolver Digital,2023,16.1892,413
+414,Europa Universalis IV (repeat),10/08/2023,17/08/2023,0.0,Unknown Publisher,2023,0.0,414
+415,Orwell: Keeping an Eye on You,10/08/2023,17/08/2023,9.99,Daedalic Entertainment,2023,10.789200000000001,415
+416,Black Book,17/08/2023,24/08/2023,24.99,Hypetrain Digital,2023,26.9892,416
+417,Dodo Peak,17/08/2023,24/08/2023,9.99,Moving Pieces Interactive,2023,10.789200000000001,417
+418,Homeworld: Deserts of Kharak,24/08/2023,31/08/2023,49.99,Gearbox Publishing,2023,53.989200000000004,418
+419,Cave Story+,31/08/2023,07/09/2023,14.99,"Nicalis, Inc.",2023,16.1892,419
+420,Spelldrifter,31/08/2023,07/09/2023,19.99,Free Range Games,2023,21.589199999999998,420
+421,911 Operator,14/09/2023,21/09/2023,14.99,Games Operators,2023,16.1892,421
+422,Out of Line,14/09/2023,21/09/2023,8.99,Hatinh Interactive,2023,9.709200000000001,422
+423,The Forest Quartet,21/09/2023,28/09/2023,9.99,Bedtime Digital Games,2023,10.789200000000001,423
+424,Model Builder,28/09/2023,05/10/2023,19.99,Green Man Gaming Publishing,2023,21.589199999999998,424
+425,Soulstice,28/09/2023,05/10/2023,39.99,Maximum Entertainment,2023,43.18920000000001,425
+426,Godlike Burger,05/10/2023,12/10/2023,19.99,Daedalic Entertainment,2023,21.589199999999998,426
+427,Blazing Sails,12/10/2023,19/10/2023,14.99,Iceberg Interactive,2023,16.1892,427
+428,Q.U.B.E. Ultimate Bundle,12/10/2023,19/10/2023,0.0,Unknown Publisher,2023,0.0,428
+429,Eternal Threads,19/10/2023,26/10/2023,19.99,Secret Mode,2023,21.589199999999998,429
+430,The Evil Within,19/10/2023,26/10/2023,19.99,Bethesda Softworks,2023,21.589199999999998,430
+431,Tandem: A Tale of Shadows,26/10/2023,02/11/2023,9.99,Hatinh Interactive,2023,10.789200000000001,431
+432,The Evil Within 2,26/10/2023,02/11/2023,39.99,Bethesda Softworks,2023,43.18920000000001,432
+433,F.I.S.T.: Forged In Shadow Torch,02/11/2023,09/11/2023,15.99,Astrolabe Games,2023,17.2692,433
+434,Turnip Boy Commits Tax Evasion,02/11/2023,09/11/2023,14.99,Graffiti Games,2023,16.1892,434
+435,Earthlock,09/11/2023,16/11/2023,29.99,Snowcastle Games,2023,32.3892,435
+436,Golden Light,09/11/2023,16/11/2023,19.99,Mr. Pink,2023,21.589199999999998,436
+437,Deliver Us Mars,16/11/2023,23/11/2023,29.99,Frontier Foundry,2023,32.3892,437
+438,Surviving the Aftermath,16/11/2023,23/11/2023,29.99,Paradox Interactive,2023,32.3892,438
+439,Jitsu Squad,23/11/2023,30/11/2023,9.99,Tanuki Creative Studio,2023,10.789200000000001,439
+440,Mighty Fight Federation,23/11/2023,30/11/2023,29.99,Forthright Entertainment,2023,32.3892,440
+441,GigaBash,30/11/2023,07/12/2023,24.99,Passion Republic Games,2023,26.9892,441
+442,Predecessor,30/11/2023,07/12/2023,29.99,Omeda Studios,2023,32.3892,442
+443,Destiny 2: Legacy Collection,07/12/2023,14/12/2023,69.99,Unknown Publisher,2023,75.5892,443
+444,DNF Duel,20/12/2023,21/12/2023,49.99,Nexon,2023,53.989200000000004,444
+445,Melvor Idle,21/12/2023,22/12/2023,9.99,Jagex Ltd,2023,10.789200000000001,445
+446,20 Minutes Till Dawn,21/12/2023,31/12/2023,4.99,Erabit,2023,5.389200000000001,446
+447,A Plague Tale: Innocence (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,447
+448,Additional minor DLC / cosmetics slots (holiday pack group)*,21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,448
+449,Black Book (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,449
+450,Dishonored: Death of the Outsider,21/12/2023,31/12/2023,29.99,Bethesda Softworks,2023,32.3892,450
+451,Escape Academy,21/12/2023,31/12/2023,19.99,Iam8Bit Presents,2023,21.589199999999998,451
+452,Grime,21/12/2023,31/12/2023,24.99,Akupara Games,2023,26.9892,452
+453,Idle Champions of the Forgotten Realms (DLC pack),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,453
+454,Marvel's Guardians of the Galaxy,21/12/2023,31/12/2023,59.99,Eidos Interactive Corp.,2023,64.78920000000001,454
+455,theHunter: Call of the Wild (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,455
+456,Train Sim World 3 (example holiday slot)*,21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,456
+457,Train Valley 2,21/12/2023,31/12/2023,14.99,Flazm,2023,16.1892,457
+458,Turnip Boy Commits Tax Evasion (repeat),21/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,458
+459,Art of Rally,22/12/2023,23/12/2023,24.99,Funselektor Labs Inc.,2023,26.9892,459
+460,Fallout 3,23/12/2023,24/12/2023,9.99,Bethesda Softworks,2023,10.789200000000001,460
+461,Ghostwire: Tokyo,24/12/2023,25/12/2023,59.99,Bethesda Softworks,2023,64.78920000000001,461
+462,The Outer Worlds,25/12/2023,26/12/2023,29.99,Private Division,2023,32.3892,462
+463,Human Resource Machine,26/12/2023,27/12/2023,14.99,Tomorrow Corporation,2023,16.1892,463
+464,Cursed to Golf,27/12/2023,28/12/2023,19.99,Thunderful Publishing,2023,21.589199999999998,464
+465,Cat Quest,28/12/2023,29/12/2023,12.99,Kepler Interactive,2023,14.029200000000001,465
+466,Snakebird Complete,29/12/2023,30/12/2023,14.99,Unknown Publisher,2023,16.1892,466
+467,Saints Row (2022),30/12/2023,31/12/2023,0.0,Unknown Publisher,2023,0.0,467
+468,Ghostrunner,31/12/2023,01/01/2024,29.99,505 Games,2023,32.3892,468
+469,Escape Academy,01/01/2024,02/01/2024,19.99,Iam8Bit Presents,2024,20.7896,469
+470,20 Minutes Till Dawn,02/01/2024,03/01/2024,4.99,Erabit,2024,5.1896,470
+471,A Plague Tale: Innocence,03/01/2024,04/01/2024,39.99,Focus Entertainment,2024,41.589600000000004,471
+472,Marvel's Guardians of the Galaxy,04/01/2024,11/01/2024,59.99,Eidos Interactive Corp.,2024,62.3896,472
+473,Sail Forth,11/01/2024,18/01/2024,19.99,The Quantum Astrophysicists Guild,2024,20.7896,473
+474,LOVE,18/01/2024,25/01/2024,2.99,Wealthbird,2024,3.1096000000000004,474
+475,Infinifactory,25/01/2024,01/02/2024,24.99,Zachtronics,2024,25.9896,475
+476,Doors: Paradox,01/02/2024,08/02/2024,14.99,Snapbreak,2024,15.5896,476
+477,Lost Castle,08/02/2024,15/02/2024,9.99,Hunter Studio,2024,10.3896,477
+478,Doki Doki Literature Club Plus!,08/02/2024,15/02/2024,14.99,Serenity Forge,2024,15.5896,478
+479,Dakar Desert Rally,15/02/2024,22/02/2024,29.99,Saber Interactive,2024,31.1896,479
+480,Super Meat Boy Forever,22/02/2024,29/02/2024,4.99,Team Meat,2024,5.1896,480
+481,Aerial_Knight's Never Yield,29/02/2024,07/03/2024,11.99,Headup,2024,12.4696,481
+482,Thief (2014),04/03/2024,11/04/2024,0.0,Unknown Publisher,2024,0.0,482
+483,The Outer Worlds,04/03/2024,11/04/2024,29.99,Private Division,2024,31.1896,483
+484,Astro Duel,07/03/2024,14/03/2024,9.99,Wild Rooster,2024,10.3896,484
+485,The Bridge,14/03/2024,21/03/2024,9.99,The Quantum Astrophysicists Guild,2024,10.3896,485
+486,LISA: The Painful,14/03/2024,21/03/2024,19.99,Serenity Forge,2024,20.7896,486
+487,Deus Ex: Mankind Divided,14/03/2024,21/03/2024,29.99,Eidos Interactive Corp.,2024,31.1896,487
+488,Call of The Wild: The Angler,21/03/2024,28/03/2024,29.99,Avalanche Studios,2024,31.1896,488
+489,Invincible Presents: Atom Eve,21/03/2024,28/03/2024,9.99,Skybound Games,2024,10.3896,489
+490,Islets,28/03/2024,04/04/2024,19.99,Armor Games Studios,2024,20.7896,490
+491,Circus Electrique,04/04/2024,11/04/2024,19.99,Zen Studios,2024,20.7896,491
+492,Ghostrunner,11/04/2024,18/04/2024,29.99,505 Games,2024,31.1896,492
+493,The Big Con,18/04/2024,25/04/2024,14.99,Skybound Games,2024,15.5896,493
+494,Town of Salem 2,18/04/2024,25/04/2024,0.0,Digital Bandidos,2024,0.0,494
+495,Circus Electrique,18/04/2024,25/04/2024,19.99,Zen Studios,2024,20.7896,495
+496,Industria,25/04/2024,02/05/2024,19.99,Headup,2024,20.7896,496
+497,Orcs Must Die! 3,02/05/2024,09/05/2024,29.99,Robot Entertainment,2024,31.1896,497
+498,LISA: The Joyful,02/05/2024,09/05/2024,9.99,Serenity Forge,2024,10.3896,498
+499,Cat Quest II,02/05/2024,09/05/2024,14.99,Kepler Interactive,2024,15.5896,499
+500,Orcs Must Die! 2 (repeat),09/05/2024,16/05/2024,0.0,Unknown Publisher,2024,0.0,500
+501,Firestone: Online Idle RPG,09/05/2024,16/05/2024,0.0,Holyday Studios,2024,0.0,501
+502,Dragon Age: Inquisition,16/05/2024,23/05/2024,39.99,Electronic Arts,2024,41.589600000000004,502
+503,Farming Simulator 22,23/05/2024,30/05/2024,19.99,Giants Software,2024,20.7896,503
+504,Chivalry 2,30/05/2024,06/06/2024,39.99,Tripwire Presents,2024,41.589600000000004,504
+505,Marvel's Midnight Suns,30/05/2024,06/06/2024,59.99,2K,2024,62.3896,505
+506,Redout 2,06/06/2024,13/06/2024,19.99,34Bigthings Srl,2024,20.7896,506
+507,Idle Champions of the Forgotten Realms (DLC pack),13/06/2024,20/06/2024,0.0,Unknown Publisher,2024,0.0,507
+508,Freshly Frosted + Rumble Club pack,20/06/2024,27/06/2024,0.0,Unknown Publisher,2024,0.0,508
+509,Sunless Skies: Sovereign Edition,27/06/2024,04/07/2024,24.99,Failbetter Games,2024,25.9896,509
+510,The Falconeer,04/07/2024,11/07/2024,19.99,Wired Productions,2024,20.7896,510
+511,Floppy Knights,11/07/2024,18/07/2024,7.99,Rose City Games,2024,8.3096,511
+512,Arcade Paradise,18/07/2024,25/07/2024,19.99,Wired Productions,2024,20.7896,512
+513,Maid of Sker,18/07/2024,25/07/2024,24.99,Wales Interactive,2024,25.9896,513
+514,F.I.S.T.: Forged In Shadow Torch,25/07/2024,01/08/2024,15.99,Astrolabe Games,2024,16.6296,514
+515,LumbearJack,01/08/2024,08/08/2024,12.99,Armor Games Studios,2024,13.5096,515
+516,Rawmen: Food Fighter Arena,01/08/2024,08/08/2024,0.0,Tinybuild,2024,0.0,516
+517,DNF Duel,08/08/2024,15/08/2024,49.99,Nexon,2024,51.9896,517
+518,CYGNI: All Guns Blazing,08/08/2024,15/08/2024,29.99,Konami,2024,31.1896,518
+519,Death's Gambit: Afterlife,15/08/2024,22/08/2024,19.99,Serenity Forge,2024,20.7896,519
+520,World of Warships â€“ Starter Pack: Albany,15/08/2024,22/08/2024,23.6,Unknown Publisher,2024,24.544000000000004,520
+521,Gigantic: Rampage Edition,22/08/2024,29/08/2024,19.99,Arc Games,2024,20.7896,521
+522,The Callisto Protocol,22/08/2024,29/08/2024,59.99,"Krafton, Inc.",2024,62.3896,522
+523,Fallout Classic Edition,29/08/2024,05/09/2024,0.0,Unknown Publisher,2024,0.0,523
+524,Wild Card Football,29/08/2024,05/09/2024,0.0,Unknown Publisher,2024,0.0,524
+525,Football Manager 2024,05/09/2024,12/09/2024,5.99,Sega,2024,6.2296000000000005,525
+526,Sniper Ghost Warrior Contracts,05/09/2024,12/09/2024,29.99,Ci Games,2024,31.1896,526
+527,Rugrats: Adventures in Gameland,12/09/2024,19/09/2024,19.99,The Mix Games,2024,20.7896,527
+528,Super Crazy Rhythm Castle,12/09/2024,19/09/2024,19.99,Konami,2024,20.7896,528
+529,Toem,19/09/2024,26/09/2024,19.99,Something We Made,2024,20.7896,529
+530,The Last Stand: Aftermath,19/09/2024,26/09/2024,24.99,Armor Games Studios,2024,25.9896,530
+531,The Spirit and the Mouse,26/09/2024,03/10/2024,19.99,Armor Games Studios,2024,20.7896,531
+532,Bear and Breakfast,03/10/2024,10/10/2024,19.99,Armor Games Studios,2024,20.7896,532
+533,Outliver: Tribulation,10/10/2024,17/10/2024,7.99,Gbrossoft,2024,8.3096,533
+534,Empyrion - Galactic Survival,10/10/2024,17/10/2024,19.99,Eleon Game Studios,2024,20.7896,534
+535,Kardboard Kings: Card Shop Simulator,17/10/2024,17/10/2024,19.99,Akupara Games,2024,20.7896,535
+536,Invincible Presents: Atom Eve,17/10/2024,24/10/2024,9.99,Skybound Games,2024,10.3896,536
+537,Moving Out,24/10/2024,31/10/2024,24.99,Team17,2024,25.9896,537
+538,Ghostwire: Tokyo,31/10/2024,07/11/2024,59.99,Bethesda Softworks,2024,62.3896,538
+539,Witch It,31/10/2024,07/11/2024,19.99,Barrel Roll Games,2024,20.7896,539
+540,Deceive Inc.,07/11/2024,14/11/2024,19.99,Tripwire Presents,2024,20.7896,540
+541,Castlevania Anniversary Collection,14/11/2024,21/11/2024,19.99,Konami,2024,20.7896,541
+542,Snakebird Complete,14/11/2024,21/11/2024,14.99,Unknown Publisher,2024,15.5896,542
+543,Beholder,21/11/2024,28/11/2024,13.99,Alawar,2024,14.5496,543
+544,Brotato,28/11/2024,05/12/2024,4.99,Blobfish,2024,5.1896,544
+545,Lego Star Wars: The Skywalker Saga,05/12/2024,12/12/2024,49.99,Warner Bros. Games,2024,51.9896,545
+546,Bus Simulator 21 Next Stop,05/12/2024,12/12/2024,34.99,Astragon Entertainment,2024,36.3896,546
+547,The Lord of the Rings: Return to Moria,12/12/2024,19/12/2024,24.99,North Beach Games,2024,25.9896,547
+548,Vampire Survivors,19/12/2024,20/12/2024,4.99,Poncle,2024,5.1896,548
+549,Astrea: Six-Sided Oracles,20/12/2024,21/12/2024,24.99,Akupara Games,2024,25.9896,549
+550,TerraTech,21/12/2024,22/12/2024,24.99,Mythwright,2024,25.9896,550
+551,Wizard of Legend,22/12/2024,23/12/2024,15.99,Contingent99,2024,16.6296,551
+552,Dark and Darker,23/12/2024,24/12/2024,0.0,Ironmace,2024,0.0,552
+553,DREDGE,24/12/2024,25/12/2024,24.99,Team17,2024,25.9896,553
+554,Control,25/12/2024,26/12/2024,4.99,Valve,2024,5.1896,554
+555,Ghostrunner 2,26/12/2024,27/12/2024,39.99,505 Games,2024,41.589600000000004,555
+556,Hot Wheels Unleashed,27/12/2024,28/12/2024,39.99,Milestone S.R.L.,2024,41.589600000000004,556
+557,KILL KNIGHT,28/12/2024,29/12/2024,14.99,Playside,2024,15.5896,557
+558,Orcs Must Die! 3 (repeat),29/12/2024,30/12/2024,0.0,Unknown Publisher,2024,0.0,558
+559,REDACTED (mystery day 2024)*,30/12/2024,31/12/2024,0.0,Unknown Publisher,2024,0.0,559
+560,Sifu,31/12/2024,01/01/2025,39.99,Sloclap,2024,41.589600000000004,560
+561,Kingdom Come: Deliverance,01/01/2025,02/01/2025,29.99,Warhorse Studios,2025,30.2899,561
+562,Hell Let Loose,02/01/2025,09/01/2025,49.99,Team17,2025,50.489900000000006,562
+563,Turmoil,09/01/2025,16/01/2025,12.99,Kiwiclockwork Studios,2025,13.1199,563
+564,Escape Academy,16/01/2025,23/01/2025,19.99,Iam8Bit Presents,2025,20.189899999999998,564
+565,Behind the Frame: The Finest Scenery,23/01/2025,30/01/2025,12.99,Akupara Games,2025,13.1199,565
+566,Undying,30/01/2025,06/02/2025,19.99,Unknown Publisher,2025,20.189899999999998,566
+567,Beyond Blue,06/02/2025,13/02/2025,19.99,E-Line Media,2025,20.189899999999998,567
+568,Humankind,06/02/2025,13/02/2025,49.99,Amplitude Studios,2025,50.489900000000006,568
+569,F1 Manager 2024,13/02/2025,20/02/2025,34.99,Frontier Developments,2025,35.3399,569
+570,Garden Story,20/02/2025,27/02/2025,19.99,Rose City Games,2025,20.189899999999998,570
+571,World War Z Aftermath,20/02/2025,27/02/2025,39.99,Saber Interactive Inc,2025,40.389900000000004,571
+572,Mages of Mystralia,27/02/2025,06/03/2025,19.99,Borealys Games,2025,20.189899999999998,572
+573,Them's Fightin' Herds,06/03/2025,13/03/2025,31.98,Gameplay Group International,2025,32.2998,573
+574,Mortal Shell,13/03/2025,20/03/2025,29.99,Playstack,2025,30.2899,574
+575,World Of Warships â€“ Anniversary Party Flavor,13/03/2025,20/03/2025,0.0,Unknown Publisher,2025,0.0,575
+576,Jurassic World Evolution 2,20/03/2025,27/03/2025,59.99,Frontier Developments,2025,60.5899,576
+577,Cat Quest,27/03/2025,03/04/2025,12.99,Kepler Interactive,2025,13.1199,577
+578,"Neko Ghost, Jump!",27/03/2025,03/04/2025,9.99,Burgos Games,2025,10.0899,578
+579,Cat Quest 2,03/04/2025,10/04/2025,14.99,Kepler Interactive,2025,15.1399,579
+580,River City Girls,10/04/2025,17/04/2025,29.99,Wayforward,2025,30.2899,580
+581,Botanicula,17/04/2025,24/04/2025,14.99,Amanita Design,2025,15.1399,581
+582,Chuchel,24/04/2025,01/05/2025,9.99,Amanita Design,2025,10.0899,582
+583,Albion Online Welcome Gift,24/04/2025,01/05/2025,0.0,Unknown Publisher,2025,0.0,583
+584,Super Space Club,01/05/2025,08/05/2025,14.99,Grahamoflegend,2025,15.1399,584
+585,Deadtime Defenders,08/05/2025,15/05/2025,9.99,Arcane Embers,2025,10.0899,585
+586,Touch Type Tale,08/05/2025,15/05/2025,19.99,Mythwright,2025,20.189899999999998,586
+587,Happy Game,15/05/2025,22/05/2025,13.13,Amanita Design,2025,13.2613,587
+588,Dead Island 2,15/05/2025,22/05/2025,59.99,Deep Silver,2025,60.5899,588
+589,Deliver At All Costs,22/05/2025,29/05/2025,29.99,Konami,2025,30.2899,589
+590,Gigapocalypse,22/05/2025,29/05/2025,9.99,Headup,2025,10.0899,590
+591,Sifu,22/05/2025,29/05/2025,39.99,Sloclap,2025,40.389900000000004,591
+592,Limbo,29/05/2025,05/06/2025,12.49,Playdead,2025,12.6149,592
+593,Tiny Tina's Wonderlands,29/05/2025,05/06/2025,59.99,2K,2025,60.5899,593
+594,Deathloop,05/06/2025,12/06/2025,59.99,Bethesda Softworks,2025,60.5899,594
+595,Ogu and the Secret Forest,05/06/2025,12/06/2025,24.99,Sinkhole Studio,2025,25.2399,595
+596,Two Point Hospital,12/06/2025,19/06/2025,29.99,Sega,2025,30.2899,596
+597,The Operator,19/06/2025,26/06/2025,13.99,Bureau 81,2025,14.129900000000001,597
+598,Sable,26/06/2025,03/07/2025,24.99,Raw Fury,2025,25.2399,598
+599,Backpack Hero,03/07/2025,10/07/2025,19.99,Pretty Soon,2025,20.189899999999998,599
+600,Figment,03/07/2025,10/07/2025,19.99,Bedtime Digital Games,2025,20.189899999999998,600
+601,Figment 2,10/07/2025,17/07/2025,24.99,Bedtime Digital Games,2025,25.2399,601
+602,Sky Racket,10/07/2025,17/07/2025,14.99,Double Dash Studios,2025,15.1399,602
+603,Civilization 6 Platinum Edition,17/07/2025,24/07/2025,0.0,Unknown Publisher,2025,0.0,603
+604,Legion TD2,24/07/2025,31/07/2025,19.99,Autoattack Games,2025,20.189899999999998,604
+605,Keylocker,31/07/2025,07/08/2025,19.99,Serenity Forge,2025,20.189899999999998,605
+606,Pilgrims,31/07/2025,07/08/2025,6.99,Amanita Design,2025,7.0599,606
+607,112 Operator,07/08/2025,14/08/2025,24.99,Games Operators,2025,25.2399,607
+608,Road Redemption,07/08/2025,14/08/2025,19.99,Tripwire Presents,2025,20.189899999999998,608
+609,Hidden Folks,14/08/2025,21/08/2025,14.99,Adriaan De Jongh,2025,15.1399,609
+610,Totally Reliable Delivery Service,14/08/2025,21/08/2025,14.99,Infogrames,2025,15.1399,610
+611,Kamaeru: A Frog Refuge,21/08/2025,28/08/2025,19.99,Armor Games Studios,2025,20.189899999999998,611
+612,Strange Horticulture,21/08/2025,28/08/2025,15.99,Iceberg Interactive,2025,16.1499,612
+613,Machinarium,28/08/2025,04/09/2025,19.99,Amanita Design,2025,20.189899999999998,613
+614,Make Way,28/08/2025,04/09/2025,14.99,Secret Mode,2025,15.1399,614
+615,Monument Valley,04/09/2025,11/09/2025,7.99,Ustwo Games,2025,8.0699,615
+616,Ghostrunner 2,11/09/2025,18/09/2025,39.99,505 Games,2025,40.389900000000004,616
+617,Monument Valley 2,11/09/2025,18/09/2025,7.99,Ustwo Games,2025,8.0699,617
+618,The Battle of Polytopia,11/09/2025,18/09/2025,14.99,Midjiwan Ab,2025,15.1399,618
+619,Project Winter,18/09/2025,25/09/2025,9.99,Other Ocean Group,2025,10.0899,619
+620,Samorost 2,18/09/2025,25/09/2025,4.99,Amanita Design,2025,5.0399,620
+621,Eastern Exorcist,25/09/2025,02/10/2025,17.99,Wildfire Game（无锡野火数字科技有限公司）,2025,18.1699,621
+622,Jorelâ€™s Brother and The Most Important Game of the Galaxy,25/09/2025,02/10/2025,14.99,Unknown Publisher,2025,15.1399,622
+623,Nightingale,02/10/2025,09/10/2025,29.99,Inflexion Games,2025,30.2899,623
+624,Gravity Circuit,09/10/2025,16/10/2025,16.99,Pid Games,2025,17.159899999999997,624
+625,Amnesia: The Bunker,16/10/2025,23/10/2025,24.99,Frictional Games,2025,25.2399,625
+626,Samorost 3,16/10/2025,23/10/2025,19.99,Amanita Design,2025,20.189899999999998,626
+627,Fear the Spotlight,23/10/2025,30/10/2025,19.99,Blumhouse Games,2025,20.189899999999998,627
+628,Five Nights at Freddy's: Into the Pit,30/10/2025,06/11/2025,19.99,Mega Cat Studios,2025,20.189899999999998,628
+629,Bendy and the Ink Machine,30/10/2025,06/11/2025,19.99,Joey Drew Studios,2025,20.189899999999998,629
+630,Felix The Reaper,06/11/2025,13/11/2025,9.99,Daedalic Entertainment,2025,10.0899,630
+631,ScourgeBringer,13/11/2025,20/11/2025,16.99,Dear Villagers,2025,17.159899999999997,631
+632,Songs of Silence,13/11/2025,20/11/2025,29.99,Chimera Entertainment,2025,30.2899,632
+633,Zero Hour,13/11/2025,20/11/2025,9.99,Attritom7 Productions,2025,10.0899,633
+634,Zoeti,20/11/2025,27/11/2025,19.99,Akupara Games,2025,20.189899999999998,634
+635,Godzilla Voxel Wars,20/11/2025,27/11/2025,14.99,"Toho Co., Ltd.",2025,15.1399,635
+636,Universe for Sale,27/11/2025,04/12/2025,14.99,Akupara Games,2025,15.1399,636
+637,The Darkside Detective,04/12/2025,11/12/2025,14.99,Akupara Games,2025,15.1399,637
+638,The Jackbox Party Pack 4,04/12/2025,11/12/2025,24.99,"Jackbox Games, Inc.",2025,25.2399,638
+639,Hogwarts Legacy,11/12/2025,18/12/2025,59.99,Warner Bros. Games,2025,60.5899,639
+640,Jotunnslayer: Hordes of Hel,18/12/2025,19/12/2025,14.99,Grindstone,2025,15.1399,640
+641,Eternights,19/12/2025,20/12/2025,29.99,Studio Sai,2025,30.2899,641
+642,Blood West,20/12/2025,21/12/2025,24.99,New Blood Interactive,2025,25.2399,642
+643,Sorry We're Closed,21/12/2025,22/12/2025,24.99,Akupara Games,2025,25.2399,643
+644,Paradise Killer,22/12/2025,23/12/2025,19.99,Fellow Traveller,2025,20.189899999999998,644
+645,Bloodstained: Ritual of the Night,23/12/2025,24/12/2025,39.99,505 Games,2025,40.389900000000004,645
+646,The Callisto Protocol,24/12/2025,25/12/2025,59.99,"Krafton, Inc.",2025,60.5899,646
+647,Disco Elysium â€” The Final Cut,25/12/2025,26/12/2025,39.99,Unknown Publisher,2025,40.389900000000004,647
+648,We Were Here Together,26/12/2025,27/12/2025,12.99,Total Mayhem Games,2025,13.1199,648
+649,Cassette Beasts,27/12/2025,28/12/2025,19.99,Raw Fury,2025,20.189899999999998,649
+650,SKALD: Against the Black Priory,28/12/2025,29/12/2025,14.99,Raw Fury,2025,15.1399,650
+651,Viewfinder,29/12/2025,30/12/2025,24.99,Thunderful Publishing,2025,25.2399,651
+652,Trine Classic Collection,30/12/2025,31/12/2025,49.99,Unknown Publisher,2025,50.489900000000006,652
+653,Chivalry 2,31/12/2025,01/01/2026,39.99,Tripwire Presents,2025,40.389900000000004,653
+654,Wildgate,01/01/2026,08/01/2026,29.99,Dreamhaven,2026,29.99,654
+655,Total War: Three Kingdoms,01/01/2026,08/01/2026,59.99,Sega,2026,59.99,655
+656,Bloons TD 6,08/01/2026,15/01/2026,13.99,Ninja Kiwi,2026,13.99,656
+657,Styx: Master of Shadows,15/01/2026,22/01/2026,19.99,Cyanide Studio,2026,19.99,657
+658,Styx: Shards of Darkness - Deluxe Edition,15/01/2026,22/01/2026,19.99,Unknown Publisher,2026,19.99,658
+659,Rustler - Grand Theft Horse,22/01/2026,,24.99,Games Operators,2026,24.99,659

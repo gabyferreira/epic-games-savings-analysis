@@ -15,8 +15,8 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 | 📦 **Total Games Collected** | 659 |
 | 📉 **Average Game Price** | $21.18 |
 | 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
-| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
-| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
 | 📈 **Inflation-Adjusted Value** | $15,927.50 |
 | 💸 **Purchasing Power Gained** | $1,971.42 |
 <a name="stats_end"></a>

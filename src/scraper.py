@@ -15,13 +15,11 @@ from visualiser import generate_savings_chart
 logger = logging.getLogger(__name__)
 
 file_path = "data/epic_games_data_edited_active7.csv"
-#df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 try:
-    # 1. Force read using 'cp1252' (the specific Windows/Latin encoding that uses 0x92)
+    # Force read using 'cp1252' (the specific Windows/Latin encoding that uses 0x92)
     # This will correctly interpret that '0x92' as an apostrophe
     df_existing = pd.read_csv(file_path, encoding="cp1252", engine='python')
     
-    # 2. Immediately save it back as 'utf-8-sig'
     df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
     
     print("✅ Migration Successful! Your file is now in professional UTF-8 format.")
@@ -48,7 +46,6 @@ def update_csv():
             if discount == 0:  # 0 means 100% off in Epic's API logic
                 new_entries.append({
                     'game': game['title'],
-                    'seller': game.get('seller', {}).get('name', 'Unknown Publisher'),
                     'start_date': offer['startDate'],
                     'end_date': offer['endDate']
                 })
@@ -196,14 +193,14 @@ price_cache = load_cache()
 df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
 
-for col in ["price", "seller"]:
+for col in ["price", "publisher"]:
     if col not in df_existing.columns:
         df_existing[col] = pd.NA
 
 # 2. Identify rows that are missing ANY metadata
 needs_enrichment = (
     df_existing["price"].isna() | 
-    df_existing["seller"].isna()
+    df_existing["publisher"].isna()
 )
 
 if needs_enrichment.any():
@@ -226,7 +223,7 @@ if needs_enrichment.any():
         # Only save to the DataFrame if we got a real result back from Steam.
         # This keeps the CSV cell "Empty/Unknown" so the filter finds it again next time.
         if publisher not in ["Unknown Publisher", "Publisher Not Found"]:
-            df_existing.at[idx, 'seller'] = publisher
+            df_existing.at[idx, 'publisher'] = publisher
             # Explicitly sync the cache to ensure the real name is saved
             price_cache[title]['publisher'] = publisher
         else:
