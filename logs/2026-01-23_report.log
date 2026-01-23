@@ -121,3 +121,24 @@ Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
 | 📉 **Average Game Price** | $22.51 |
 | 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
 2026-01-23 11:06:08,929 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:10:08,999 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-01-23 17:10:09,372 - INFO - generated new fontManager
+2026-01-23 17:10:10,140 - INFO - No new games found.
+2026-01-23 17:10:10,362 - INFO - No new games found.
+2026-01-23 17:10:10,365 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:10:10,378 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:10:10,389 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:10:10,391 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:10:10,392 - INFO - ✅ README.md updated.
+2026-01-23 17:10:10,760 - INFO - 📈 Savings chart generated successfully.
