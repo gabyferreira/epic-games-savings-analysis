@@ -5,7 +5,7 @@ import os
 
 def generate_savings_chart(file_path, output_path='assets/savings_chart.png'):
     # Load data
-    df = pd.read_csv(file_path, encoding='latin1')
+    df = pd.read_csv(file_path, encoding='utf-8-sig')
     
     # Ensure date is a datetime object and sort
     df['start_date'] = pd.to_datetime(df['start_date'], dayfirst=True, errors='coerce')
@@ -32,5 +32,20 @@ def generate_savings_chart(file_path, output_path='assets/savings_chart.png'):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     # Save chart
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+def generate_monthly_bar_chart(df, output_path='assets/monthly_trends.png'):
+    df['month_name'] = df['start_date'].dt.month_name()
+    monthly_stats = df.groupby('month_name')['price'].sum().reindex([
+        'January', 'February', 'March', 'April', 'May', 'June', 
+        'July', 'August', 'September', 'October', 'November', 'December'
+    ])
+
+    plt.figure(figsize=(10, 5))
+    monthly_stats.plot(kind='bar', color='#f39c12')
+    plt.title('Total Savings Provided by Month')
+    plt.ylabel('Total Value ($)')
+    plt.xticks(rotation=45)
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()

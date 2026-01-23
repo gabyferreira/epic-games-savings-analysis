@@ -14,8 +14,23 @@ from visualiser import generate_savings_chart
 
 logger = logging.getLogger(__name__)
 
-file_path = "data/epic_games_data_edited_active.csv"
-df_existing = pd.read_csv(file_path, encoding='latin1' )
+file_path = "data/epic_games_data_edited_active7.csv"
+#df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
+try:
+    # 1. Force read using 'cp1252' (the specific Windows/Latin encoding that uses 0x92)
+    # This will correctly interpret that '0x92' as an apostrophe
+    df_existing = pd.read_csv(file_path, encoding="cp1252", engine='python')
+    
+    # 2. Immediately save it back as 'utf-8-sig'
+    df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
+    
+    print("✅ Migration Successful! Your file is now in professional UTF-8 format.")
+    print("🚀 You can now run your main scraper.py without errors.")
+    
+except Exception as e:
+    print(f"❌ Migration failed: {e}")
+
+
 def update_csv():
     base_url = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
     response = requests.get(base_url).json()
@@ -33,6 +48,7 @@ def update_csv():
             if discount == 0:  # 0 means 100% off in Epic's API logic
                 new_entries.append({
                     'game': game['title'],
+                    'seller': game.get('seller', {}).get('name', 'Unknown Publisher'),
                     'start_date': offer['startDate'],
                     'end_date': offer['endDate']
                 })
@@ -63,19 +79,15 @@ def update_csv():
         df_updated = pd.concat([df_existing, df_to_add], ignore_index=True)
         
         # IMPORTANT: index=False prevents pandas from adding an extra unnamed column
-        df_updated.to_csv(file_path, index=False, encoding='latin1')
+        df_updated.to_csv(file_path, index=False, encoding='utf-8-sig')
         logger.info(f"Added {len(df_to_add)} new games!")
         return df_updated
     else:
         logger.info("No new games found.")
         return df_existing
 
-df_existing = pd.read_csv(file_path, encoding="latin1")
+df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 df_existing = update_csv()
-
-def fetch_epic_free_games():
-    processed_list = df_existing['game']
-    return pd.DataFrame(processed_list)
 
 
 CACHE_FILE = "game_prices.json"
@@ -92,78 +104,148 @@ def save_to_cache(cache):
     with open(CACHE_FILE, 'w') as f:
         json.dump(cache, f, indent=4)
 
-def get_release_price_with_cache(game_title, cache):
-    # 1. Check if we already have it
-    if game_title in cache:
-        return cache[game_title]
 
-    # 2. If not in cache, prepare for API call
-    logger.info(f"Fetching from API: {game_title}...")
-    
-    # Stay safe: 1.5 second delay to avoid another 50-minute ban
-    time.sleep(5) 
-    
+def get_publisher_from_steam(game_title):
     try:
-        search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
-        res = requests.get(search_url, timeout=10).json()
+        search_url = f"https://store.steampowered.com/api/storesearch/?term={game_title}&l=english&cc=US"
+        search_res = requests.get(search_url, timeout=10).json()
         
-        if res:
-# STEP B: Create a dictionary of {Title: ID} from all search results
-            choices = {game['external']: game['gameID'] for game in res}
+        if search_res and search_res.get('items'):
+            # 1. Create a map of {Title: AppID} from Steam's search results
+            choices = {item['name']: item['id'] for item in search_res['items']}
             
-            # STEP C: Use Levenshtein to find the closest match
+            # 2. Use Levenshtein distance to find the best match among the results
             best_match, score = process.extractOne(game_title, choices.keys())
-# Only proceed if we are 85% sure it's the right game
-            if score >= 85:
-                game_id = choices[best_match]
-                
-                # STEP D: Get the specific price details using the best-match ID
-                detail_url = f"https://www.cheapshark.com/api/1.0/games?id={game_id}"
-                details = requests.get(detail_url, timeout=10).json()
-                price = float(details['deals'][0]['retailPrice'])
-                
-                # 3. Update the cache and save
-                cache[game_title] = price
-                save_to_cache(cache)
-                return price
-            else:
-                logger.info(f"Low match score ({score}) for {game_title}. Skipping.")
             
+            # 3. Only proceed if the match is high (e.g., 85% or better)
+            if score >= 85:
+                appid = choices[best_match]
+                details_url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
+                details_res = requests.get(details_url, timeout=10).json()
+                
+                if details_res and details_res.get(str(appid), {}).get('success'):
+                    publishers = details_res[str(appid)]['data'].get('publishers', [])
+                    return publishers[0] if publishers else "Unknown Publisher"
+            else:
+                logger.warning(f"Low match score ({score}) for {game_title} on Steam.")
+                
     except Exception as e:
-        logger.warning(f"Error for {game_title}: {e}")
+        logger.warning(f"Steam API error for {game_title}: {e}")
     
-    return None
+    return "Unknown Publisher"
+
+def get_game_metadata_with_cache(game_title, cache):
+    """
+    Checks cache for price and publisher. 
+    Fetches from APIs only if we haven't tried before.
+    """
+    # 1. Initialize the entry
+    if game_title not in cache or not isinstance(cache[game_title], dict):
+        cache[game_title] = {"price": None, "publisher": "Unknown Publisher"}
+
+    # 2. Fetch PRICE (CheapShark)
+    # Only fetch if price is exactly None. 
+    # If we found it, it's a float. If we tried and failed, it will be 0.0.
+    if cache[game_title].get("price") is None:
+        logger.info(f"💰 Fetching Price for: {game_title}")
+        time.sleep(10) 
+        try:
+            search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
+            res = requests.get(search_url, timeout=10).json()
+            if res:
+                choices = {game['external']: game['gameID'] for game in res}
+                best_match, score = process.extractOne(game_title, choices.keys())
+                if score >= 85:
+                    game_id = choices[best_match]
+                    detail_url = f"https://www.cheapshark.com/api/1.0/games?id={game_id}"
+                    details = requests.get(detail_url, timeout=10).json()
+                    cache[game_title]["price"] = float(details['deals'][0]['retailPrice'])
+                else:
+                    # Score too low? Mark as 0.0 so we don't try again
+                    cache[game_title]["price"] = 0.0
+            else:
+                # No results at all? Mark as 0.0
+                cache[game_title]["price"] = 0.0
+            
+            save_to_cache(cache)
+        except Exception as e:
+            logger.warning(f"Price API error for {game_title}: {e}")
+
+    # 3. Fetch PUBLISHER (Steam)
+    # Only fetch if it is the default "Unknown Publisher".
+    if cache[game_title].get("publisher") == "Unknown Publisher":
+        logger.info(f"🏢 Fetching Publisher for: {game_title}")
+        time.sleep(1.5)
+        publisher = get_publisher_from_steam(game_title)
+        
+        # If the fetch fails to find a real name, mark it as "Publisher Not Found"
+        if publisher == "Unknown Publisher":
+            cache[game_title]["publisher"] = "Publisher Not Found"
+        else:
+            cache[game_title]["publisher"] = publisher
+            
+        save_to_cache(cache)
+
+    return cache[game_title]
+
 
 # --- EXECUTION ---
-# Load your data
-df = update_csv() 
+# Load data
+update_csv() 
 price_cache = load_cache()
+df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
-if "price" not in df_existing.columns:
-    df_existing["price"] = pd.NA
 
-needs_price = df_existing["price"].isna() | (df_existing["price"].astype(str).str.strip() == "")
-logger.info(f"Rows missing price: {int(needs_price.sum())}")
+for col in ["price", "seller"]:
+    if col not in df_existing.columns:
+        df_existing[col] = pd.NA
 
-if needs_price.any():
-    missing_titles = df_existing.loc[needs_price, "game"].dropna().unique()
+# 2. Identify rows that are missing ANY metadata
+needs_enrichment = (
+    df_existing["price"].isna() | 
+    df_existing["seller"].isna()
+)
 
-    title_to_price = {}
-    for title in missing_titles:
-        title_to_price[title] = get_release_price_with_cache(title, price_cache)
+if needs_enrichment.any():
+    count = int(needs_enrichment.sum())
+    logger.info(f"🔍 Found {count} games needing metadata. Starting enrichment...")
+    
+    for idx in tqdm(df_existing[needs_enrichment].index):
+        title = df_existing.at[idx, 'game']
+        
+        # 1. Attempt to fetch metadata
+        metadata = get_game_metadata_with_cache(title, price_cache)
+        publisher = metadata.get("publisher", "Unknown Publisher")
+        price = metadata.get("price")
 
-    df_existing.loc[needs_price, "price"] = df_existing.loc[needs_price, "game"].map(title_to_price)
+        # 2. Update Price 
+        # (Usually fine to update even if 0, as it indicates 'checked')
+        df_existing.at[idx, 'price'] = price
 
-    df_existing.to_csv(file_path, index=False, encoding="latin1")
-    logger.info("Saved CSV with newly fetched prices.")
-else:
-    logger.info("No missing prices — nothing to fetch.")
+        # 3. SMART UPDATE for Publisher
+        # Only save to the DataFrame if we got a real result back from Steam.
+        # This keeps the CSV cell "Empty/Unknown" so the filter finds it again next time.
+        if publisher not in ["Unknown Publisher", "Publisher Not Found"]:
+            df_existing.at[idx, 'seller'] = publisher
+            # Explicitly sync the cache to ensure the real name is saved
+            price_cache[title]['publisher'] = publisher
+        else:
+            logger.warning(f"⚠️ Metadata for '{title}' incomplete. Will retry in next run.")
+        
+        # 4. Frequent Cache Saving
+        # During a 600-game backfill, save the cache every loop so you don't 
+        # lose progress if the script is interrupted.
+        save_to_cache(price_cache)
+
+    # 5. Final Save of the CSV
+    df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
+    logger.info("✅ Metadata enrichment session complete.")
 
 
 df_existing = validate_and_clean_data(df_existing)
 
 # 6. SAVE the final, validated version
-df_existing.to_csv(file_path, index=False, encoding="latin1")
+df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
 logger.info("✅ Update complete: Data scraped, enriched, and validated.")
 summary = generate_summary_stats(df_existing)
 logger.info(summary)

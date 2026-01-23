@@ -1,4 +1,4 @@
-# 🎮 Epic Games Store: Automated Savings Tracker
+﻿# 🎮 Epic Games Store: Automated Savings Tracker
 
 [![Data Update](https://github.com/gabyferreira/epic-games-savings-analysis/actions/workflows/update_data.yml/badge.svg)](https://github.com/gabyferreira/epic-games-savings-analysis/actions/workflows/update_data.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -11,10 +11,14 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 <a name="stats_start"></a>
 | Metric | Statistics |
 | :--- | :--- |
-| 💰 **Total Market Value** | $14,832.99 |
+| 💰 **Total Market Value** | **$13,956.08** |
 | 📦 **Total Games Collected** | 659 |
-| 📉 **Average Game Price** | $22.51 |
-| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
 <a name="stats_end"></a>
 ---
 

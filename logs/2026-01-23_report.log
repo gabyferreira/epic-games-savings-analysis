@@ -121,3 +121,2363 @@ Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
 | 📉 **Average Game Price** | $22.51 |
 | 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
 2026-01-23 11:06:08,929 - INFO - ✅ README.md updated with live stats.
+2026-01-23 13:42:04,384 - INFO - No new games found.
+2026-01-23 13:42:05,235 - INFO - No new games found.
+2026-01-23 13:42:05,237 - INFO - Rows missing price: 0
+2026-01-23 13:42:05,237 - INFO - No missing prices — nothing to fetch.
+2026-01-23 13:42:05,237 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 13:42:05,238 - INFO - ✅ Success: All games have titles.
+2026-01-23 13:42:05,238 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 13:42:05,239 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 13:42:05,239 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 13:42:05,242 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 13:42:05,245 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 13:48:06,382 - INFO - No new games found.
+2026-01-23 13:48:06,385 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:10:46,457 - INFO - No new games found.
+2026-01-23 14:10:46,460 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:17:04,116 - INFO - No new games found.
+2026-01-23 14:17:04,118 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:17:44,744 - INFO - No new games found.
+2026-01-23 14:17:45,246 - INFO - No new games found.
+2026-01-23 14:17:45,249 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:17:45,255 - INFO - 💰 Fetching Price for: Subnautica
+2026-01-23 14:17:50,721 - INFO - 🏢 Fetching Publisher for: Subnautica
+2026-01-23 14:17:52,688 - INFO - 💰 Fetching Price for: Super Meat Boy
+2026-01-23 14:17:58,188 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 14:18:00,107 - INFO - 💰 Fetching Price for: What Remains of Edith Finch
+2026-01-23 14:18:05,597 - INFO - 🏢 Fetching Publisher for: What Remains of Edith Finch
+2026-01-23 14:18:07,546 - INFO - 💰 Fetching Price for: The Jackbox Party Pack
+2026-01-23 14:18:13,000 - INFO - 🏢 Fetching Publisher for: The Jackbox Party Pack
+2026-01-23 14:18:14,935 - INFO - 💰 Fetching Price for: Axiom Verge
+2026-01-23 14:18:20,368 - INFO - 🏢 Fetching Publisher for: Axiom Verge
+2026-01-23 14:18:22,265 - INFO - 💰 Fetching Price for: Thimbleweed Park
+2026-01-23 14:18:27,732 - INFO - 🏢 Fetching Publisher for: Thimbleweed Park
+2026-01-23 14:18:29,730 - INFO - 💰 Fetching Price for: Slime Rancher
+2026-01-23 14:18:35,192 - INFO - 🏢 Fetching Publisher for: Slime Rancher
+2026-01-23 14:18:37,177 - INFO - 💰 Fetching Price for: Oxenfree
+2026-01-23 14:18:42,628 - INFO - 🏢 Fetching Publisher for: Oxenfree
+2026-01-23 14:18:44,538 - INFO - 💰 Fetching Price for: The Witness
+2026-01-23 14:19:17,242 - INFO - No new games found.
+2026-01-23 14:19:17,559 - INFO - No new games found.
+2026-01-23 14:19:17,562 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:19:17,567 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 14:19:19,531 - INFO - 💰 Fetching Price for: The Witness
+2026-01-23 14:19:30,009 - INFO - 🏢 Fetching Publisher for: The Witness
+2026-01-23 14:19:31,943 - INFO - 💰 Fetching Price for: Transistor
+2026-01-23 14:19:42,442 - INFO - 🏢 Fetching Publisher for: Transistor
+2026-01-23 14:19:44,348 - INFO - 💰 Fetching Price for: World of Goo
+2026-01-23 14:20:26,027 - INFO - No new games found.
+2026-01-23 14:20:26,500 - INFO - No new games found.
+2026-01-23 14:20:26,503 - INFO - 🔍 Found 659 games missing publisher info. Starting enrichment...
+2026-01-23 14:20:26,509 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 14:20:28,430 - INFO - 💰 Fetching Price for: World of Goo
+2026-01-23 14:20:38,849 - INFO - 🏢 Fetching Publisher for: World of Goo
+2026-01-23 14:20:40,759 - INFO - 💰 Fetching Price for: Stories Untold
+2026-01-23 14:20:51,240 - INFO - 🏢 Fetching Publisher for: Stories Untold
+2026-01-23 14:20:53,216 - INFO - 💰 Fetching Price for: RiME
+2026-01-23 14:21:03,698 - INFO - 🏢 Fetching Publisher for: RiME
+2026-01-23 14:21:05,676 - INFO - 💰 Fetching Price for: City of Brass
+2026-01-23 14:21:16,117 - INFO - 🏢 Fetching Publisher for: City of Brass
+2026-01-23 14:21:18,103 - INFO - 💰 Fetching Price for: Kingdom: New Lands
+2026-01-23 14:21:28,545 - INFO - 🏢 Fetching Publisher for: Kingdom: New Lands
+2026-01-23 14:21:30,518 - INFO - 💰 Fetching Price for: Enter the Gungeon
+2026-01-23 14:21:40,958 - INFO - 🏢 Fetching Publisher for: Enter the Gungeon
+2026-01-23 14:21:42,855 - INFO - 💰 Fetching Price for: Rebel Galaxy
+2026-01-23 14:21:53,304 - INFO - 🏢 Fetching Publisher for: Rebel Galaxy
+2026-01-23 14:21:55,251 - INFO - 💰 Fetching Price for: Last Day of June
+2026-01-23 14:22:05,727 - INFO - 🏢 Fetching Publisher for: Last Day of June
+2026-01-23 14:22:07,716 - INFO - 💰 Fetching Price for: Overcooked!
+2026-01-23 14:22:18,180 - INFO - 🏢 Fetching Publisher for: Overcooked!
+2026-01-23 14:22:20,141 - INFO - 💰 Fetching Price for: Torchlight
+2026-01-23 14:22:30,572 - INFO - 🏢 Fetching Publisher for: Torchlight
+2026-01-23 14:22:32,549 - INFO - 💰 Fetching Price for: Limbo
+2026-01-23 14:22:43,125 - INFO - 🏢 Fetching Publisher for: Limbo
+2026-01-23 14:22:45,081 - INFO - 💰 Fetching Price for: Moonlighter
+2026-01-23 14:22:55,510 - INFO - 🏢 Fetching Publisher for: Moonlighter
+2026-01-23 14:22:57,426 - INFO - 💰 Fetching Price for: This War of Mine
+2026-01-23 14:23:07,924 - INFO - 🏢 Fetching Publisher for: This War of Mine
+2026-01-23 14:23:09,874 - INFO - 💰 Fetching Price for: Alan Wake
+2026-01-23 14:23:20,429 - INFO - 🏢 Fetching Publisher for: Alan Wake
+2026-01-23 14:23:22,455 - INFO - 💰 Fetching Price for: For Honor
+2026-01-23 14:23:32,950 - INFO - 🏢 Fetching Publisher for: For Honor
+2026-01-23 14:23:34,959 - INFO - 💰 Fetching Price for: GNOG
+2026-01-23 14:23:45,415 - INFO - 🏢 Fetching Publisher for: GNOG
+2026-01-23 14:23:47,348 - INFO - 💰 Fetching Price for: Hyper Light Drifter
+2026-01-23 14:23:57,855 - INFO - 🏢 Fetching Publisher for: Hyper Light Drifter
+2026-01-23 14:23:59,799 - INFO - 💰 Fetching Price for: Mutant Year Zero: Road to Eden
+2026-01-23 14:24:10,302 - INFO - 🏢 Fetching Publisher for: Mutant Year Zero: Road to Eden
+2026-01-23 14:24:12,222 - INFO - 💰 Fetching Price for: Fez
+2026-01-23 14:24:22,704 - INFO - 🏢 Fetching Publisher for: Fez
+2026-01-23 14:24:24,642 - INFO - 💰 Fetching Price for: Celeste
+2026-01-23 14:24:35,079 - INFO - 🏢 Fetching Publisher for: Celeste
+2026-01-23 14:24:37,031 - INFO - 💰 Fetching Price for: Inside
+2026-01-23 14:24:47,513 - INFO - 🏢 Fetching Publisher for: Inside
+2026-01-23 14:24:49,484 - INFO - 💰 Fetching Price for: ABZU
+2026-01-23 14:24:59,924 - INFO - 🏢 Fetching Publisher for: ABZU
+2026-01-23 14:25:01,882 - INFO - 💰 Fetching Price for: The End is Nigh
+2026-01-23 14:25:12,380 - INFO - 🏢 Fetching Publisher for: The End is Nigh
+2026-01-23 14:25:14,338 - INFO - 💰 Fetching Price for: Conarium
+2026-01-23 14:25:24,916 - INFO - 🏢 Fetching Publisher for: Conarium
+2026-01-23 14:25:26,850 - INFO - 💰 Fetching Price for: Batman: Arkham Asylum
+2026-01-23 14:25:37,364 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Asylum
+2026-01-23 14:25:39,303 - INFO - 💰 Fetching Price for: Batman: Arkham City
+2026-01-23 14:25:49,752 - INFO - 🏢 Fetching Publisher for: Batman: Arkham City
+2026-01-23 14:25:51,752 - INFO - 💰 Fetching Price for: Batman: Arkham Collection
+2026-01-23 14:26:02,278 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Collection
+2026-01-23 14:26:04,217 - INFO - 💰 Fetching Price for: BATMAN: ARKHAM KNIGHT
+2026-01-23 14:26:14,666 - INFO - 🏢 Fetching Publisher for: BATMAN: ARKHAM KNIGHT
+2026-01-23 14:26:16,699 - INFO - 💰 Fetching Price for: LEGO Batman Trilogy
+2026-01-23 14:26:27,224 - INFO - 🏢 Fetching Publisher for: LEGO Batman Trilogy
+2026-01-23 14:26:29,160 - INFO - 💰 Fetching Price for: LEGO Batman: The Video Game
+2026-01-23 14:26:39,618 - INFO - 🏢 Fetching Publisher for: LEGO Batman: The Video Game
+2026-01-23 14:26:41,337 - INFO - 💰 Fetching Price for: LEGO Batman 2: DC Super Heroes
+2026-01-23 14:26:51,854 - INFO - 🏢 Fetching Publisher for: LEGO Batman 2: DC Super Heroes
+2026-01-23 14:26:53,808 - INFO - 💰 Fetching Price for: LEGO Batman 3: Beyond Gotham
+2026-01-23 14:27:04,272 - INFO - 🏢 Fetching Publisher for: LEGO Batman 3: Beyond Gotham
+2026-01-23 14:27:06,255 - INFO - 💰 Fetching Price for: Everything
+2026-01-23 14:27:16,883 - INFO - 🏢 Fetching Publisher for: Everything
+2026-01-23 14:27:18,800 - INFO - 💰 Fetching Price for: Metro 2033 Redux
+2026-01-23 14:27:29,275 - INFO - 🏢 Fetching Publisher for: Metro 2033 Redux
+2026-01-23 14:27:31,257 - INFO - 💰 Fetching Price for: Minit
+2026-01-23 14:27:41,769 - INFO - 🏢 Fetching Publisher for: Minit
+2026-01-23 14:27:43,715 - INFO - 💰 Fetching Price for: Surviving Mars
+2026-01-23 14:27:54,381 - INFO - 🏢 Fetching Publisher for: Surviving Mars
+2026-01-23 14:27:56,292 - INFO - 💰 Fetching Price for: Alan Wake's: American Nightmare
+2026-01-23 14:28:06,749 - INFO - 🏢 Fetching Publisher for: Alan Wake's: American Nightmare
+2026-01-23 14:28:08,733 - INFO - 💰 Fetching Price for: Layers of Fear
+2026-01-23 14:28:19,192 - INFO - 🏢 Fetching Publisher for: Layers of Fear
+2026-01-23 14:28:21,161 - INFO - 💰 Fetching Price for: Observer
+2026-01-23 14:28:31,670 - INFO - 🏢 Fetching Publisher for: Observer
+2026-01-23 14:28:33,648 - INFO - 💰 Fetching Price for: Costume Quest
+2026-01-23 14:28:44,093 - INFO - 🏢 Fetching Publisher for: Costume Quest
+2026-01-23 14:28:46,082 - INFO - 💰 Fetching Price for: Q.U.B.E. 2
+2026-01-23 14:28:56,948 - INFO - 🏢 Fetching Publisher for: Q.U.B.E. 2
+2026-01-23 14:28:58,884 - INFO - 💰 Fetching Price for: SOMA
+2026-01-23 14:29:09,360 - INFO - 🏢 Fetching Publisher for: SOMA
+2026-01-23 14:29:11,315 - INFO - 💰 Fetching Price for: Nuclear Throne
+2026-01-23 14:29:21,787 - INFO - 🏢 Fetching Publisher for: Nuclear Throne
+2026-01-23 14:29:23,702 - INFO - 💰 Fetching Price for: Ruiner
+2026-01-23 14:29:34,184 - INFO - 🏢 Fetching Publisher for: Ruiner
+2026-01-23 14:29:36,115 - INFO - 💰 Fetching Price for: The Messenger
+2026-01-23 14:29:46,597 - INFO - 🏢 Fetching Publisher for: The Messenger
+2026-01-23 14:29:48,599 - INFO - 💰 Fetching Price for: Bad North: Jotunn Edition
+2026-01-23 14:29:59,084 - INFO - 🏢 Fetching Publisher for: Bad North: Jotunn Edition
+2026-01-23 14:30:01,158 - INFO - 💰 Fetching Price for: Rayman Legends
+2026-01-23 14:30:11,594 - INFO - 🏢 Fetching Publisher for: Rayman Legends
+2026-01-23 14:30:13,457 - INFO - 💰 Fetching Price for: Jotun: Valhalla Edition
+2026-01-23 14:30:23,907 - INFO - 🏢 Fetching Publisher for: Jotun: Valhalla Edition
+2026-01-23 14:30:25,855 - INFO - 💰 Fetching Price for: The Escapists
+2026-01-23 14:30:36,305 - INFO - 🏢 Fetching Publisher for: The Escapists
+2026-01-23 14:30:38,238 - INFO - 💰 Fetching Price for: The Wolf Among Us
+2026-01-23 14:30:48,742 - INFO - 🏢 Fetching Publisher for: The Wolf Among Us
+2026-01-23 14:30:50,691 - INFO - 💰 Fetching Price for: Into the Breach
+2026-01-23 14:31:01,124 - INFO - 🏢 Fetching Publisher for: Into the Breach
+2026-01-23 14:31:03,094 - INFO - 💰 Fetching Price for: TowerFall Ascension
+2026-01-23 14:31:13,583 - INFO - 🏢 Fetching Publisher for: TowerFall Ascension
+2026-01-23 14:31:15,347 - INFO - 💰 Fetching Price for: Superhot
+2026-01-23 14:31:25,928 - INFO - 🏢 Fetching Publisher for: Superhot
+2026-01-23 14:31:27,870 - INFO - 💰 Fetching Price for: Little Inferno
+2026-01-23 14:31:38,313 - INFO - 🏢 Fetching Publisher for: Little Inferno
+2026-01-23 14:31:40,224 - INFO - 💰 Fetching Price for: Ape Out
+2026-01-23 14:31:50,683 - INFO - 🏢 Fetching Publisher for: Ape Out
+2026-01-23 14:31:52,692 - INFO - 💰 Fetching Price for: Celeste (repeat)
+2026-01-23 14:32:02,978 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 14:32:04,697 - INFO - 💰 Fetching Price for: Totally Accurate Battle Simulator
+2026-01-23 14:32:15,130 - INFO - 🏢 Fetching Publisher for: Totally Accurate Battle Simulator
+2026-01-23 14:32:17,046 - INFO - 💰 Fetching Price for: FTL: Faster Than Light
+2026-01-23 14:32:27,565 - INFO - 🏢 Fetching Publisher for: FTL: Faster Than Light
+2026-01-23 14:32:29,490 - INFO - 💰 Fetching Price for: Shadow Tactics: Blades of the Shogun
+2026-01-23 14:32:39,954 - INFO - 🏢 Fetching Publisher for: Shadow Tactics: Blades of the Shogun
+2026-01-23 14:32:41,866 - INFO - 💰 Fetching Price for: The Talos Principle
+2026-01-23 14:32:52,329 - INFO - 🏢 Fetching Publisher for: The Talos Principle
+2026-01-23 14:32:54,275 - INFO - 💰 Fetching Price for: Hello Neighbor
+2026-01-23 14:33:06,487 - INFO - 🏢 Fetching Publisher for: Hello Neighbor
+2026-01-23 14:33:08,415 - INFO - 💰 Fetching Price for: Yooka-Laylee and the Impossible Lair
+2026-01-23 14:33:18,907 - INFO - 🏢 Fetching Publisher for: Yooka-Laylee and the Impossible Lair
+2026-01-23 14:33:20,836 - INFO - 💰 Fetching Price for: Darksiders
+2026-01-23 14:33:31,425 - INFO - 🏢 Fetching Publisher for: Darksiders
+2026-01-23 14:33:33,367 - INFO - 💰 Fetching Price for: Darksiders II
+2026-01-23 14:33:43,825 - INFO - 🏢 Fetching Publisher for: Darksiders II
+2026-01-23 14:33:45,780 - INFO - 💰 Fetching Price for: Steep
+2026-01-23 14:33:56,258 - INFO - 🏢 Fetching Publisher for: Steep
+2026-01-23 14:33:58,185 - INFO - 💰 Fetching Price for: Sundered: Eldritch Edition
+2026-01-23 14:34:08,647 - INFO - 🏢 Fetching Publisher for: Sundered: Eldritch Edition
+2026-01-23 14:34:10,605 - INFO - 💰 Fetching Price for: Horace
+2026-01-23 14:34:21,223 - INFO - 🏢 Fetching Publisher for: Horace
+2026-01-23 14:34:23,163 - INFO - 💰 Fetching Price for: The Bridge
+2026-01-23 14:34:33,697 - INFO - 🏢 Fetching Publisher for: The Bridge
+2026-01-23 14:34:35,633 - INFO - 💰 Fetching Price for: Farming Simulator 19
+2026-01-23 14:34:46,093 - INFO - 🏢 Fetching Publisher for: Farming Simulator 19
+2026-01-23 14:34:48,050 - INFO - 💰 Fetching Price for: Carcassonne
+2026-01-23 14:34:58,540 - INFO - 🏢 Fetching Publisher for: Carcassonne
+2026-01-23 14:35:00,476 - INFO - 💰 Fetching Price for: Ticket to Ride
+2026-01-23 14:35:10,960 - INFO - 🏢 Fetching Publisher for: Ticket to Ride
+2026-01-23 14:35:12,956 - INFO - 💰 Fetching Price for: Aztez
+2026-01-23 14:35:23,438 - INFO - 🏢 Fetching Publisher for: Aztez
+2026-01-23 14:35:25,380 - INFO - 💰 Fetching Price for: Kingdom Come: Deliverance
+2026-01-23 14:35:37,652 - INFO - 🏢 Fetching Publisher for: Kingdom Come: Deliverance
+2026-01-23 14:35:39,617 - INFO - 💰 Fetching Price for: Assassin's Creed Syndicate
+2026-01-23 14:35:50,129 - INFO - 🏢 Fetching Publisher for: Assassin's Creed Syndicate
+2026-01-23 14:35:52,087 - INFO - 💰 Fetching Price for: Faeria
+2026-01-23 14:36:05,678 - INFO - 🏢 Fetching Publisher for: Faeria
+2026-01-23 14:36:07,661 - INFO - 💰 Fetching Price for: InnerSpace
+2026-01-23 14:36:18,126 - INFO - 🏢 Fetching Publisher for: InnerSpace
+2026-01-23 14:36:20,109 - INFO - 💰 Fetching Price for: GoNNER
+2026-01-23 14:36:30,587 - INFO - 🏢 Fetching Publisher for: GoNNER
+2026-01-23 14:36:32,546 - INFO - 💰 Fetching Price for: Offworld Trading Company
+2026-01-23 14:36:43,031 - INFO - 🏢 Fetching Publisher for: Offworld Trading Company
+2026-01-23 14:36:45,161 - INFO - 💰 Fetching Price for: A Short Hike
+2026-01-23 14:36:58,716 - INFO - 🏢 Fetching Publisher for: A Short Hike
+2026-01-23 14:37:00,645 - INFO - 💰 Fetching Price for: Anodyne 2: Return to Dust
+2026-01-23 14:37:11,103 - INFO - 🏢 Fetching Publisher for: Anodyne 2: Return to Dust
+2026-01-23 14:37:13,054 - INFO - 💰 Fetching Price for: Mutazione
+2026-01-23 14:37:23,507 - INFO - 🏢 Fetching Publisher for: Mutazione
+2026-01-23 14:37:25,499 - INFO - 💰 Fetching Price for: The Stanley Parable
+2026-01-23 14:37:35,977 - INFO - 🏢 Fetching Publisher for: The Stanley Parable
+2026-01-23 14:37:37,958 - INFO - 💰 Fetching Price for: Watch Dogs
+2026-01-23 14:37:50,268 - INFO - 🏢 Fetching Publisher for: Watch Dogs
+2026-01-23 14:37:52,376 - INFO - 💰 Fetching Price for: Figment
+2026-01-23 14:38:05,672 - INFO - 🏢 Fetching Publisher for: Figment
+2026-01-23 14:38:07,664 - INFO - 💰 Fetching Price for: Tormentor x Punisher
+2026-01-23 14:38:18,151 - INFO - 🏢 Fetching Publisher for: Tormentor x Punisher
+2026-01-23 14:38:19,983 - INFO - 💰 Fetching Price for: World War Z
+2026-01-23 14:38:30,466 - INFO - 🏢 Fetching Publisher for: World War Z
+2026-01-23 14:38:32,385 - INFO - 💰 Fetching Price for: Drawful 2
+2026-01-23 14:38:42,862 - INFO - 🏢 Fetching Publisher for: Drawful 2
+2026-01-23 14:38:44,778 - INFO - 💰 Fetching Price for: Gone Home
+2026-01-23 14:38:55,243 - INFO - 🏢 Fetching Publisher for: Gone Home
+2026-01-23 14:38:57,246 - INFO - 💰 Fetching Price for: Hob
+2026-01-23 14:39:07,731 - INFO - 🏢 Fetching Publisher for: Hob
+2026-01-23 14:39:09,721 - INFO - 💰 Fetching Price for: Totally Reliable Delivery Service
+2026-01-23 14:39:20,203 - INFO - 🏢 Fetching Publisher for: Totally Reliable Delivery Service
+2026-01-23 14:39:22,144 - INFO - 💰 Fetching Price for: Close to the Sun
+2026-01-23 14:39:32,576 - INFO - 🏢 Fetching Publisher for: Close to the Sun
+2026-01-23 14:39:34,524 - INFO - 💰 Fetching Price for: Sherlock Holmes: Crimes and Punishments
+2026-01-23 14:39:44,983 - INFO - 🏢 Fetching Publisher for: Sherlock Holmes: Crimes and Punishments
+2026-01-23 14:39:46,906 - INFO - 💰 Fetching Price for: Just Cause 4
+2026-01-23 14:39:57,358 - INFO - 🏢 Fetching Publisher for: Just Cause 4
+2026-01-23 14:39:59,308 - INFO - 💰 Fetching Price for: Wheels of Aurelia
+2026-01-23 14:40:09,795 - INFO - 🏢 Fetching Publisher for: Wheels of Aurelia
+2026-01-23 14:40:11,738 - INFO - 💰 Fetching Price for: For the King
+2026-01-23 14:40:22,465 - INFO - 🏢 Fetching Publisher for: For the King
+2026-01-23 14:40:24,441 - INFO - 💰 Fetching Price for: Amnesia: The Dark Descent
+2026-01-23 14:40:34,907 - INFO - 🏢 Fetching Publisher for: Amnesia: The Dark Descent
+2026-01-23 14:40:36,884 - INFO - 💰 Fetching Price for: Crashlands
+2026-01-23 14:40:47,410 - INFO - 🏢 Fetching Publisher for: Crashlands
+2026-01-23 14:40:49,323 - INFO - 💰 Fetching Price for: Death Coming
+2026-01-23 14:40:59,810 - INFO - 🏢 Fetching Publisher for: Death Coming
+2026-01-23 14:41:01,750 - INFO - 💰 Fetching Price for: Grand Theft Auto V
+2026-01-23 14:41:12,191 - INFO - 🏢 Fetching Publisher for: Grand Theft Auto V
+2026-01-23 14:41:14,095 - INFO - 💰 Fetching Price for: Sid Meier's Civilization VI
+2026-01-23 14:41:24,596 - INFO - 🏢 Fetching Publisher for: Sid Meier's Civilization VI
+2026-01-23 14:41:26,576 - INFO - 💰 Fetching Price for: Borderlands 2
+2026-01-23 14:41:37,120 - INFO - 🏢 Fetching Publisher for: Borderlands 2
+2026-01-23 14:41:39,085 - INFO - 💰 Fetching Price for: Borderlands: The Handsome Collection
+2026-01-23 14:41:49,579 - INFO - 🏢 Fetching Publisher for: Borderlands: The Handsome Collection
+2026-01-23 14:41:51,278 - INFO - 💰 Fetching Price for: Borderlands: The Pre-Sequel
+2026-01-23 14:42:01,810 - INFO - 🏢 Fetching Publisher for: Borderlands: The Pre-Sequel
+2026-01-23 14:42:03,729 - INFO - 💰 Fetching Price for: Ark: Survival Evolved
+2026-01-23 14:42:14,212 - INFO - 🏢 Fetching Publisher for: Ark: Survival Evolved
+2026-01-23 14:42:16,153 - INFO - 💰 Fetching Price for: Samurai Shodown NeoGeo Collection
+2026-01-23 14:42:26,672 - INFO - 🏢 Fetching Publisher for: Samurai Shodown NeoGeo Collection
+2026-01-23 14:42:28,682 - INFO - 💰 Fetching Price for: Pathway
+2026-01-23 14:42:39,170 - INFO - 🏢 Fetching Publisher for: Pathway
+2026-01-23 14:42:41,399 - INFO - 💰 Fetching Price for: AER: Memories of Old
+2026-01-23 14:42:51,903 - INFO - 🏢 Fetching Publisher for: AER: Memories of Old
+2026-01-23 14:42:53,863 - INFO - 💰 Fetching Price for: Stranger Things 3: The Game
+2026-01-23 14:43:04,132 - INFO - 🏢 Fetching Publisher for: Stranger Things 3: The Game
+2026-01-23 14:43:05,862 - INFO - 💰 Fetching Price for: Hue
+2026-01-23 14:43:16,372 - INFO - 🏢 Fetching Publisher for: Hue
+2026-01-23 14:43:18,330 - INFO - 💰 Fetching Price for: Killing Floor 2
+2026-01-23 14:43:28,841 - INFO - 🏢 Fetching Publisher for: Killing Floor 2
+2026-01-23 14:43:30,789 - INFO - 💰 Fetching Price for: Lifeless Planet: Premier Edition
+2026-01-23 14:43:41,828 - INFO - 🏢 Fetching Publisher for: Lifeless Planet: Premier Edition
+2026-01-23 14:43:43,789 - INFO - 💰 Fetching Price for: The Escapists 2
+2026-01-23 14:43:54,229 - INFO - 🏢 Fetching Publisher for: The Escapists 2
+2026-01-23 14:43:56,196 - INFO - 💰 Fetching Price for: Torchlight II
+2026-01-23 14:44:06,687 - INFO - 🏢 Fetching Publisher for: Torchlight II
+2026-01-23 14:44:08,731 - INFO - 💰 Fetching Price for: Next Up Hero
+2026-01-23 14:44:19,200 - INFO - 🏢 Fetching Publisher for: Next Up Hero
+2026-01-23 14:44:21,115 - INFO - 💰 Fetching Price for: Tacoma
+2026-01-23 14:44:31,577 - INFO - 🏢 Fetching Publisher for: Tacoma
+2026-01-23 14:44:33,540 - INFO - 💰 Fetching Price for: 20XX
+2026-01-23 14:44:44,046 - INFO - 🏢 Fetching Publisher for: 20XX
+2026-01-23 14:44:46,098 - INFO - 💰 Fetching Price for: Barony
+2026-01-23 14:44:56,595 - INFO - 🏢 Fetching Publisher for: Barony
+2026-01-23 14:44:58,546 - INFO - 💰 Fetching Price for: Superbrothers: Sword & Sworcery EP
+2026-01-23 14:45:09,039 - INFO - 🏢 Fetching Publisher for: Superbrothers: Sword & Sworcery EP
+2026-01-23 14:45:11,038 - INFO - 💰 Fetching Price for: 3 out of 10: Season One
+2026-01-23 14:45:21,315 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season One
+2026-01-23 14:45:23,061 - INFO - 💰 Fetching Price for: Wilmot's Warehouse
+2026-01-23 14:45:33,519 - INFO - 🏢 Fetching Publisher for: Wilmot's Warehouse
+2026-01-23 14:45:35,531 - INFO - 💰 Fetching Price for: Remnant: From the Ashes
+2026-01-23 14:45:46,012 - INFO - 🏢 Fetching Publisher for: Remnant: From the Ashes
+2026-01-23 14:45:47,961 - INFO - 💰 Fetching Price for: The Alto Collection
+2026-01-23 14:45:58,432 - INFO - 🏢 Fetching Publisher for: The Alto Collection
+2026-01-23 14:46:00,313 - INFO - 💰 Fetching Price for: God's Trigger
+2026-01-23 14:46:10,775 - INFO - 🏢 Fetching Publisher for: God's Trigger
+2026-01-23 14:46:12,766 - INFO - 💰 Fetching Price for: Hitman (2016)
+2026-01-23 14:46:23,070 - INFO - 🏢 Fetching Publisher for: Hitman (2016)
+2026-01-23 14:46:24,783 - INFO - 💰 Fetching Price for: Shadowrun Collection
+2026-01-23 14:46:35,082 - INFO - 🏢 Fetching Publisher for: Shadowrun Collection
+2026-01-23 14:46:36,808 - INFO - 💰 Fetching Price for: Railway Empire
+2026-01-23 14:46:47,264 - INFO - 🏢 Fetching Publisher for: Railway Empire
+2026-01-23 14:46:49,282 - INFO - 💰 Fetching Price for: Where the Water Tastes Like Wine
+2026-01-23 14:46:59,758 - INFO - 🏢 Fetching Publisher for: Where the Water Tastes Like Wine
+2026-01-23 14:47:01,705 - INFO - 💰 Fetching Price for: A Total War Saga: Troy
+2026-01-23 14:47:12,180 - INFO - 🏢 Fetching Publisher for: A Total War Saga: Troy
+2026-01-23 14:47:14,178 - INFO - 💰 Fetching Price for: Football Manager 2020
+2026-01-23 14:47:24,442 - INFO - 🏢 Fetching Publisher for: Football Manager 2020
+2026-01-23 14:47:26,404 - INFO - 💰 Fetching Price for: Stick It To The Man!
+2026-01-23 14:47:36,837 - INFO - 🏢 Fetching Publisher for: Stick It To The Man!
+2026-01-23 14:47:38,784 - INFO - 💰 Fetching Price for: Watch Dogs 2
+2026-01-23 14:47:49,205 - INFO - 🏢 Fetching Publisher for: Watch Dogs 2
+2026-01-23 14:47:51,216 - INFO - 💰 Fetching Price for: RollerCoaster Tycoon 3: Complete Edition
+2026-01-23 14:48:01,990 - INFO - 🏢 Fetching Publisher for: RollerCoaster Tycoon 3: Complete Edition
+2026-01-23 14:48:03,770 - INFO - 💰 Fetching Price for: Pikuniku
+2026-01-23 14:48:14,224 - INFO - 🏢 Fetching Publisher for: Pikuniku
+2026-01-23 14:48:16,175 - INFO - 💰 Fetching Price for: Rising Storm 2: Vietnam
+2026-01-23 14:48:26,667 - INFO - 🏢 Fetching Publisher for: Rising Storm 2: Vietnam
+2026-01-23 14:48:28,609 - INFO - 💰 Fetching Price for: Amnesia: A Machine for Pigs
+2026-01-23 14:48:39,069 - INFO - 🏢 Fetching Publisher for: Amnesia: A Machine for Pigs
+2026-01-23 14:48:41,025 - INFO - 💰 Fetching Price for: Kingdom New Lands
+2026-01-23 14:48:51,528 - INFO - 🏢 Fetching Publisher for: Kingdom New Lands
+2026-01-23 14:48:53,503 - INFO - 💰 Fetching Price for: Costume Quest 2
+2026-01-23 14:49:07,659 - INFO - 🏢 Fetching Publisher for: Costume Quest 2
+2026-01-23 14:49:09,622 - INFO - 💰 Fetching Price for: Layers of Fear 2
+2026-01-23 14:49:20,131 - INFO - 🏢 Fetching Publisher for: Layers of Fear 2
+2026-01-23 14:49:22,102 - INFO - 💰 Fetching Price for: Blair Witch
+2026-01-23 14:49:32,582 - INFO - 🏢 Fetching Publisher for: Blair Witch
+2026-01-23 14:49:34,496 - INFO - 💰 Fetching Price for: Ghostbusters: The Video Game Remastered
+2026-01-23 14:49:44,954 - INFO - 🏢 Fetching Publisher for: Ghostbusters: The Video Game Remastered
+2026-01-23 14:49:46,917 - INFO - 💰 Fetching Price for: Dungeons 3
+2026-01-23 14:49:58,192 - INFO - 🏢 Fetching Publisher for: Dungeons 3
+2026-01-23 14:50:00,190 - INFO - 💰 Fetching Price for: The Textorcist: The Story of Ray Bibbia
+2026-01-23 14:50:10,652 - INFO - 🏢 Fetching Publisher for: The Textorcist: The Story of Ray Bibbia
+2026-01-23 14:50:12,618 - INFO - 💰 Fetching Price for: Elite Dangerous
+2026-01-23 14:50:23,084 - INFO - 🏢 Fetching Publisher for: Elite Dangerous
+2026-01-23 14:50:25,046 - INFO - 💰 Fetching Price for: The World Next Door
+2026-01-23 14:50:35,498 - INFO - 🏢 Fetching Publisher for: The World Next Door
+2026-01-23 14:50:37,408 - INFO - 💰 Fetching Price for: MudRunner
+2026-01-23 14:50:47,885 - INFO - 🏢 Fetching Publisher for: MudRunner
+2026-01-23 14:50:49,798 - INFO - 💰 Fetching Price for: Cave Story+
+2026-01-23 14:51:00,622 - INFO - 🏢 Fetching Publisher for: Cave Story+
+2026-01-23 14:51:02,594 - INFO - 💰 Fetching Price for: Pillars of Eternity: Definitive Edition
+2026-01-23 14:51:13,010 - INFO - 🏢 Fetching Publisher for: Pillars of Eternity: Definitive Edition
+2026-01-23 14:51:14,726 - INFO - 💰 Fetching Price for: Tyranny: Gold Edition
+2026-01-23 14:51:25,190 - INFO - 🏢 Fetching Publisher for: Tyranny: Gold Edition
+2026-01-23 14:51:26,931 - INFO - 💰 Fetching Price for: Cities: Skylines
+2026-01-23 14:51:37,414 - INFO - 🏢 Fetching Publisher for: Cities: Skylines
+2026-01-23 14:51:39,844 - INFO - 💰 Fetching Price for: Oddworld: New 'n' Tasty
+2026-01-23 14:51:50,332 - INFO - 🏢 Fetching Publisher for: Oddworld: New 'n' Tasty
+2026-01-23 14:51:52,268 - INFO - 💰 Fetching Price for: The Long Dark
+2026-01-23 14:52:02,750 - INFO - 🏢 Fetching Publisher for: The Long Dark
+2026-01-23 14:52:04,690 - INFO - 💰 Fetching Price for: Defense Grid: The Awakening
+2026-01-23 14:52:15,202 - INFO - 🏢 Fetching Publisher for: Defense Grid: The Awakening
+2026-01-23 14:52:17,146 - INFO - 💰 Fetching Price for: Alien: Isolation
+2026-01-23 14:52:27,728 - INFO - 🏢 Fetching Publisher for: Alien: Isolation
+2026-01-23 14:52:29,674 - INFO - 💰 Fetching Price for: Tropico 5
+2026-01-23 14:52:40,201 - INFO - 🏢 Fetching Publisher for: Tropico 5
+2026-01-23 14:52:42,118 - INFO - 💰 Fetching Price for: Darkest Dungeon
+2026-01-23 14:52:52,619 - INFO - 🏢 Fetching Publisher for: Darkest Dungeon
+2026-01-23 14:52:54,617 - INFO - 💰 Fetching Price for: My Time at Portia
+2026-01-23 14:53:05,140 - INFO - 🏢 Fetching Publisher for: My Time at Portia
+2026-01-23 14:53:07,061 - INFO - 💰 Fetching Price for: Night in the Woods
+2026-01-23 14:53:17,527 - INFO - 🏢 Fetching Publisher for: Night in the Woods
+2026-01-23 14:53:19,438 - INFO - 💰 Fetching Price for: Stranded Deep
+2026-01-23 14:53:30,162 - INFO - 🏢 Fetching Publisher for: Stranded Deep
+2026-01-23 14:53:32,165 - INFO - 💰 Fetching Price for: Solitairica
+2026-01-23 14:53:42,775 - INFO - 🏢 Fetching Publisher for: Solitairica
+2026-01-23 14:53:44,723 - INFO - 💰 Fetching Price for: Jurassic World Evolution
+2026-01-23 14:53:55,254 - INFO - 🏢 Fetching Publisher for: Jurassic World Evolution
+2026-01-23 14:53:57,186 - INFO - 💰 Fetching Price for: Crying Suns
+2026-01-23 14:54:07,700 - INFO - 🏢 Fetching Publisher for: Crying Suns
+2026-01-23 14:54:09,676 - INFO - 💰 Fetching Price for: STAR WARS Battlefront II
+2026-01-23 14:54:20,150 - INFO - 🏢 Fetching Publisher for: STAR WARS Battlefront II
+2026-01-23 14:54:22,111 - INFO - 💰 Fetching Price for: Galactic Civilizations III
+2026-01-23 14:54:32,664 - INFO - 🏢 Fetching Publisher for: Galactic Civilizations III
+2026-01-23 14:54:34,658 - INFO - 💰 Fetching Price for: Dandara
+2026-01-23 14:54:45,127 - INFO - 🏢 Fetching Publisher for: Dandara
+2026-01-23 14:54:47,136 - INFO - 💰 Fetching Price for: For The King
+2026-01-23 14:54:57,550 - INFO - 🏢 Fetching Publisher for: For The King
+2026-01-23 14:54:59,498 - INFO - 💰 Fetching Price for: Metro: Last Light Redux
+2026-01-23 14:55:10,033 - INFO - 🏢 Fetching Publisher for: Metro: Last Light Redux
+2026-01-23 14:55:11,900 - INFO - 💰 Fetching Price for: Halcyon 6: Starbase Commander
+2026-01-23 14:55:22,662 - INFO - 🏢 Fetching Publisher for: Halcyon 6: Starbase Commander
+2026-01-23 14:55:24,620 - INFO - 💰 Fetching Price for: Absolute Drift
+2026-01-23 14:55:35,592 - INFO - 🏢 Fetching Publisher for: Absolute Drift
+2026-01-23 14:55:37,994 - INFO - 💰 Fetching Price for: Rage 2
+2026-01-23 14:55:48,635 - INFO - 🏢 Fetching Publisher for: Rage 2
+2026-01-23 14:55:50,614 - INFO - 💰 Fetching Price for: Sunless Sea
+2026-01-23 14:56:01,264 - INFO - 🏢 Fetching Publisher for: Sunless Sea
+2026-01-23 14:56:03,204 - INFO - 💰 Fetching Price for: Wargame: Red Dragon
+2026-01-23 14:56:14,278 - INFO - 🏢 Fetching Publisher for: Wargame: Red Dragon
+2026-01-23 14:56:16,248 - INFO - 💰 Fetching Price for: The Fall
+2026-01-23 14:56:26,782 - INFO - 🏢 Fetching Publisher for: The Fall
+2026-01-23 14:56:28,769 - INFO - 💰 Fetching Price for: Creature in the Well
+2026-01-23 14:56:39,295 - INFO - 🏢 Fetching Publisher for: Creature in the Well
+2026-01-23 14:56:41,256 - INFO - 💰 Fetching Price for: Tales of the Neon Sea
+2026-01-23 14:56:51,731 - INFO - 🏢 Fetching Publisher for: Tales of the Neon Sea
+2026-01-23 14:56:53,818 - INFO - 💰 Fetching Price for: 3 out of 10: Season Two
+2026-01-23 14:57:04,127 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season Two
+2026-01-23 14:57:05,832 - INFO - 💰 Fetching Price for: Deponia
+2026-01-23 14:57:16,430 - INFO - 🏢 Fetching Publisher for: Deponia
+2026-01-23 14:57:18,444 - INFO - 💰 Fetching Price for: Ken Follett's The Pillars of the Earth
+2026-01-23 14:57:28,975 - INFO - 🏢 Fetching Publisher for: Ken Follett's The Pillars of the Earth
+2026-01-23 14:57:30,907 - INFO - 💰 Fetching Price for: The First Tree
+2026-01-23 14:57:41,475 - INFO - 🏢 Fetching Publisher for: The First Tree
+2026-01-23 14:57:43,399 - INFO - 💰 Fetching Price for: Hand of Fate 2
+2026-01-23 14:57:54,070 - INFO - 🏢 Fetching Publisher for: Hand of Fate 2
+2026-01-23 14:57:56,030 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms
+2026-01-23 14:58:06,369 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms
+2026-01-23 14:58:08,289 - INFO - 💰 Fetching Price for: Pine
+2026-01-23 14:58:19,055 - INFO - 🏢 Fetching Publisher for: Pine
+2026-01-23 14:58:21,046 - INFO - 💰 Fetching Price for: The Lion's Song
+2026-01-23 14:58:31,591 - INFO - 🏢 Fetching Publisher for: The Lion's Song
+2026-01-23 14:58:33,561 - INFO - 💰 Fetching Price for: NBA 2K21
+2026-01-23 14:58:43,805 - INFO - 🏢 Fetching Publisher for: NBA 2K21
+2026-01-23 14:58:45,481 - INFO - 💰 Fetching Price for: Among Us
+2026-01-23 14:58:56,002 - INFO - 🏢 Fetching Publisher for: Among Us
+2026-01-23 14:58:57,914 - INFO - 💰 Fetching Price for: Frostpunk
+2026-01-23 14:59:08,471 - INFO - 🏢 Fetching Publisher for: Frostpunk
+2026-01-23 14:59:10,432 - INFO - 💰 Fetching Price for: Control
+2026-01-23 14:59:20,923 - INFO - 🏢 Fetching Publisher for: Control
+2026-01-23 14:59:22,902 - INFO - 💰 Fetching Price for: Hell is Other Demons
+2026-01-23 14:59:35,070 - INFO - 🏢 Fetching Publisher for: Hell is Other Demons
+2026-01-23 14:59:37,087 - INFO - 💰 Fetching Price for: Overcooked! 2
+2026-01-23 14:59:47,606 - INFO - 🏢 Fetching Publisher for: Overcooked! 2
+2026-01-23 14:59:49,522 - INFO - 💰 Fetching Price for: Horizon Chase Turbo
+2026-01-23 15:00:01,936 - INFO - 🏢 Fetching Publisher for: Horizon Chase Turbo
+2026-01-23 15:00:03,920 - INFO - 💰 Fetching Price for: Sonic Mania
+2026-01-23 15:00:14,435 - INFO - 🏢 Fetching Publisher for: Sonic Mania
+2026-01-23 15:00:16,402 - INFO - 💰 Fetching Price for: The Spectrum Retreat
+2026-01-23 15:00:27,539 - INFO - 🏢 Fetching Publisher for: The Spectrum Retreat
+2026-01-23 15:00:29,796 - INFO - 💰 Fetching Price for: Bridge Constructor: The Walking Dead
+2026-01-23 15:00:40,917 - INFO - 🏢 Fetching Publisher for: Bridge Constructor: The Walking Dead
+2026-01-23 15:00:42,879 - INFO - 💰 Fetching Price for: Ironcast
+2026-01-23 15:00:53,677 - INFO - 🏢 Fetching Publisher for: Ironcast
+2026-01-23 15:00:55,665 - INFO - 💰 Fetching Price for: Obduction
+2026-01-23 15:01:06,805 - INFO - 🏢 Fetching Publisher for: Obduction
+2026-01-23 15:01:08,753 - INFO - 💰 Fetching Price for: Defense Grid: The Awakening (repeat)
+2026-01-23 15:01:19,010 - INFO - 🏢 Fetching Publisher for: Defense Grid: The Awakening (repeat)
+2026-01-23 15:01:20,741 - INFO - 💰 Fetching Price for: Verdun
+2026-01-23 15:01:31,384 - INFO - 🏢 Fetching Publisher for: Verdun
+2026-01-23 15:01:33,332 - INFO - 💰 Fetching Price for: Mothergunship
+2026-01-23 15:01:44,333 - INFO - 🏢 Fetching Publisher for: Mothergunship
+2026-01-23 15:01:46,295 - INFO - 💰 Fetching Price for: Train Sim World 2
+2026-01-23 15:01:56,978 - INFO - 🏢 Fetching Publisher for: Train Sim World 2
+2026-01-23 15:01:59,056 - INFO - 💰 Fetching Price for: A Plague Tale: Innocence
+2026-01-23 15:02:09,524 - INFO - 🏢 Fetching Publisher for: A Plague Tale: Innocence
+2026-01-23 15:02:11,457 - INFO - 💰 Fetching Price for: Void Bastards
+2026-01-23 15:02:21,908 - INFO - 🏢 Fetching Publisher for: Void Bastards
+2026-01-23 15:02:23,834 - INFO - 💰 Fetching Price for: Yooka-Laylee
+2026-01-23 15:02:34,323 - INFO - 🏢 Fetching Publisher for: Yooka-Laylee
+2026-01-23 15:02:36,305 - INFO - 💰 Fetching Price for: Automachef
+2026-01-23 15:02:46,804 - INFO - 🏢 Fetching Publisher for: Automachef
+2026-01-23 15:02:48,762 - INFO - 💰 Fetching Price for: Saints Row: The Third Remastered
+2026-01-23 15:02:59,249 - INFO - 🏢 Fetching Publisher for: Saints Row: The Third Remastered
+2026-01-23 15:03:01,145 - INFO - 💰 Fetching Price for: Yoku's Island Express
+2026-01-23 15:03:11,757 - INFO - 🏢 Fetching Publisher for: Yoku's Island Express
+2026-01-23 15:03:13,676 - INFO - 💰 Fetching Price for: Nioh: The Complete Edition
+2026-01-23 15:03:24,131 - INFO - 🏢 Fetching Publisher for: Nioh: The Complete Edition
+2026-01-23 15:03:26,123 - INFO - 💰 Fetching Price for: Sheltered
+2026-01-23 15:03:37,089 - INFO - 🏢 Fetching Publisher for: Sheltered
+2026-01-23 15:03:39,084 - INFO - 💰 Fetching Price for: Speed Brawl
+2026-01-23 15:03:49,684 - INFO - 🏢 Fetching Publisher for: Speed Brawl
+2026-01-23 15:03:51,641 - INFO - 💰 Fetching Price for: Tharsis
+2026-01-23 15:04:02,200 - INFO - 🏢 Fetching Publisher for: Tharsis
+2026-01-23 15:04:04,120 - INFO - 💰 Fetching Price for: Europa Universalis IV
+2026-01-23 15:04:14,652 - INFO - 🏢 Fetching Publisher for: Europa Universalis IV
+2026-01-23 15:04:16,918 - INFO - 💰 Fetching Price for: PC Building Simulator
+2026-01-23 15:04:27,430 - INFO - 🏢 Fetching Publisher for: PC Building Simulator
+2026-01-23 15:04:29,492 - INFO - 💰 Fetching Price for: Stubbs the Zombie in Rebel Without a Pulse
+2026-01-23 15:04:40,078 - INFO - 🏢 Fetching Publisher for: Stubbs the Zombie in Rebel Without a Pulse
+2026-01-23 15:04:42,089 - INFO - 💰 Fetching Price for: Among the Sleep: Enhanced Edition
+2026-01-23 15:04:52,613 - INFO - 🏢 Fetching Publisher for: Among the Sleep: Enhanced Edition
+2026-01-23 15:04:54,642 - INFO - 💰 Fetching Price for: DARQ
+2026-01-23 15:05:05,181 - INFO - 🏢 Fetching Publisher for: DARQ
+2026-01-23 15:05:07,103 - INFO - 💰 Fetching Price for: Aven Colony
+2026-01-23 15:05:17,644 - INFO - 🏢 Fetching Publisher for: Aven Colony
+2026-01-23 15:05:19,577 - INFO - 💰 Fetching Price for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 15:05:29,883 - INFO - 🏢 Fetching Publisher for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 15:05:31,725 - INFO - 💰 Fetching Price for: Tiny Tinas Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 15:05:41,936 - INFO - 🏢 Fetching Publisher for: Tiny Tinas Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 15:05:43,678 - INFO - 💰 Fetching Price for: Guild of Dungeoneering
+2026-01-23 15:05:54,386 - INFO - 🏢 Fetching Publisher for: Guild of Dungeoneering
+2026-01-23 15:05:56,407 - INFO - 💰 Fetching Price for: KID A MNESIA EXHIBITION
+2026-01-23 15:06:06,784 - INFO - 🏢 Fetching Publisher for: KID A MNESIA EXHIBITION
+2026-01-23 15:06:08,495 - INFO - 💰 Fetching Price for: Never Alone (Kisima Ingitchuna)
+2026-01-23 15:06:19,012 - INFO - 🏢 Fetching Publisher for: Never Alone (Kisima Ingitchuna)
+2026-01-23 15:06:21,004 - INFO - 💰 Fetching Price for: Antstream
+2026-01-23 15:06:31,533 - INFO - 🏢 Fetching Publisher for: Antstream
+2026-01-23 15:06:33,587 - INFO - 💰 Fetching Price for: theHunter: Call of the Wild
+2026-01-23 15:06:44,094 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild
+2026-01-23 15:06:45,828 - INFO - 💰 Fetching Price for: Dead by Daylight
+2026-01-23 15:06:56,335 - INFO - 🏢 Fetching Publisher for: Dead by Daylight
+2026-01-23 15:06:58,422 - INFO - 💰 Fetching Price for: while True: learn()
+2026-01-23 15:07:08,964 - INFO - 🏢 Fetching Publisher for: while True: learn()
+2026-01-23 15:07:10,935 - INFO - 💰 Fetching Price for: Godfall: Challenger Edition
+2026-01-23 15:07:21,512 - INFO - 🏢 Fetching Publisher for: Godfall: Challenger Edition
+2026-01-23 15:07:23,259 - INFO - 💰 Fetching Price for: Prison Architect
+2026-01-23 15:07:33,840 - INFO - 🏢 Fetching Publisher for: Prison Architect
+2026-01-23 15:07:35,755 - INFO - 💰 Fetching Price for: Shenmue III
+2026-01-23 15:07:46,425 - INFO - 🏢 Fetching Publisher for: Shenmue III
+2026-01-23 15:07:48,423 - INFO - 💰 Fetching Price for: Neon Abyss
+2026-01-23 15:07:58,943 - INFO - 🏢 Fetching Publisher for: Neon Abyss
+2026-01-23 15:08:00,924 - INFO - 💰 Fetching Price for: The Vanishing of Ethan Carter
+2026-01-23 15:08:11,532 - INFO - 🏢 Fetching Publisher for: The Vanishing of Ethan Carter
+2026-01-23 15:08:13,511 - INFO - 💰 Fetching Price for: Loop Hero
+2026-01-23 15:08:24,885 - INFO - 🏢 Fetching Publisher for: Loop Hero
+2026-01-23 15:08:26,790 - INFO - 💰 Fetching Price for: Second Extinction
+2026-01-23 15:08:37,130 - INFO - 🏢 Fetching Publisher for: Second Extinction
+2026-01-23 15:08:38,855 - INFO - 💰 Fetching Price for: Vampyr
+2026-01-23 15:08:49,837 - INFO - 🏢 Fetching Publisher for: Vampyr
+2026-01-23 15:08:51,793 - INFO - 💰 Fetching Price for: Pathfinder: Kingmaker - Enhanced Plus Edition
+2026-01-23 15:09:02,303 - INFO - 🏢 Fetching Publisher for: Pathfinder: Kingmaker - Enhanced Plus Edition
+2026-01-23 15:09:04,211 - INFO - 💰 Fetching Price for: Prey
+2026-01-23 15:09:14,708 - INFO - 🏢 Fetching Publisher for: Prey
+2026-01-23 15:09:16,652 - INFO - 💰 Fetching Price for: Mages of Mystralia
+2026-01-23 15:09:27,247 - INFO - 🏢 Fetching Publisher for: Mages of Mystralia
+2026-01-23 15:09:29,211 - INFO - 💰 Fetching Price for: Moving Out
+2026-01-23 15:09:39,826 - INFO - 🏢 Fetching Publisher for: Moving Out
+2026-01-23 15:09:41,734 - INFO - 💰 Fetching Price for: Salt and Sanctuary
+2026-01-23 15:09:52,210 - INFO - 🏢 Fetching Publisher for: Salt and Sanctuary
+2026-01-23 15:09:54,160 - INFO - 💰 Fetching Price for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 15:10:04,565 - INFO - 🏢 Fetching Publisher for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 15:10:06,298 - INFO - 💰 Fetching Price for: Tomb Raider GOTY
+2026-01-23 15:10:16,794 - INFO - 🏢 Fetching Publisher for: Tomb Raider GOTY
+2026-01-23 15:10:18,499 - INFO - 💰 Fetching Price for: Rise of the Tomb Raider
+2026-01-23 15:10:28,986 - INFO - 🏢 Fetching Publisher for: Rise of the Tomb Raider
+2026-01-23 15:10:30,940 - INFO - 💰 Fetching Price for: Shadow of the Tomb Raider
+2026-01-23 15:10:41,483 - INFO - 🏢 Fetching Publisher for: Shadow of the Tomb Raider
+2026-01-23 15:10:43,403 - INFO - 💰 Fetching Price for: Gods Will Fall
+2026-01-23 15:10:53,899 - INFO - 🏢 Fetching Publisher for: Gods Will Fall
+2026-01-23 15:10:55,993 - INFO - 💰 Fetching Price for: Relicta
+2026-01-23 15:11:06,570 - INFO - 🏢 Fetching Publisher for: Relicta
+2026-01-23 15:11:08,454 - INFO - 💰 Fetching Price for: Daemon X Machina
+2026-01-23 15:11:18,981 - INFO - 🏢 Fetching Publisher for: Daemon X Machina
+2026-01-23 15:11:21,050 - INFO - 💰 Fetching Price for: Windbound
+2026-01-23 15:11:31,534 - INFO - 🏢 Fetching Publisher for: Windbound
+2026-01-23 15:11:33,527 - INFO - 💰 Fetching Price for: Brothers: A Tale of Two Sons
+2026-01-23 15:11:44,051 - INFO - 🏢 Fetching Publisher for: Brothers: A Tale of Two Sons
+2026-01-23 15:11:46,028 - INFO - 💰 Fetching Price for: Cris Tales
+2026-01-23 15:11:56,591 - INFO - 🏢 Fetching Publisher for: Cris Tales
+2026-01-23 15:11:58,535 - INFO - 💰 Fetching Price for: Black Widow: Recharged
+2026-01-23 15:12:09,355 - INFO - 🏢 Fetching Publisher for: Black Widow: Recharged
+2026-01-23 15:12:11,316 - INFO - 💰 Fetching Price for: Centipede: Recharged
+2026-01-23 15:12:21,918 - INFO - 🏢 Fetching Publisher for: Centipede: Recharged
+2026-01-23 15:12:23,848 - INFO - 💰 Fetching Price for: In Sound Mind
+2026-01-23 15:12:34,338 - INFO - 🏢 Fetching Publisher for: In Sound Mind
+2026-01-23 15:12:36,276 - INFO - 💰 Fetching Price for: Demon's Tilt
+2026-01-23 15:12:46,788 - INFO - 🏢 Fetching Publisher for: Demon's Tilt
+2026-01-23 15:12:48,741 - INFO - 💰 Fetching Price for: City of Brass (repeat)
+2026-01-23 15:12:59,076 - INFO - 🏢 Fetching Publisher for: City of Brass (repeat)
+2026-01-23 15:13:00,804 - INFO - 💰 Fetching Price for: Total War: Warhammer
+2026-01-23 15:13:11,290 - INFO - 🏢 Fetching Publisher for: Total War: Warhammer
+2026-01-23 15:13:13,261 - INFO - 💰 Fetching Price for: Rogue Legacy
+2026-01-23 15:13:23,827 - INFO - 🏢 Fetching Publisher for: Rogue Legacy
+2026-01-23 15:13:25,836 - INFO - 💰 Fetching Price for: Insurmountable
+2026-01-23 15:13:36,366 - INFO - 🏢 Fetching Publisher for: Insurmountable
+2026-01-23 15:13:38,333 - INFO - 💰 Fetching Price for: XCOM 2
+2026-01-23 15:13:48,790 - INFO - 🏢 Fetching Publisher for: XCOM 2
+2026-01-23 15:13:50,766 - INFO - 💰 Fetching Price for: Amnesia: Rebirth
+2026-01-23 15:14:01,255 - INFO - 🏢 Fetching Publisher for: Amnesia: Rebirth
+2026-01-23 15:14:03,153 - INFO - 💰 Fetching Price for: Riverbond
+2026-01-23 15:14:13,656 - INFO - 🏢 Fetching Publisher for: Riverbond
+2026-01-23 15:14:15,625 - INFO - 💰 Fetching Price for: Just Die Already
+2026-01-23 15:14:26,155 - INFO - 🏢 Fetching Publisher for: Just Die Already
+2026-01-23 15:14:28,195 - INFO - 💰 Fetching Price for: Paradigm
+2026-01-23 15:14:38,720 - INFO - 🏢 Fetching Publisher for: Paradigm
+2026-01-23 15:14:40,706 - INFO - 💰 Fetching Price for: Terraforming Mars
+2026-01-23 15:14:51,292 - INFO - 🏢 Fetching Publisher for: Terraforming Mars
+2026-01-23 15:14:53,276 - INFO - 💰 Fetching Price for: Redout: Enhanced Edition
+2026-01-23 15:15:03,811 - INFO - 🏢 Fetching Publisher for: Redout: Enhanced Edition
+2026-01-23 15:15:05,766 - INFO - 💰 Fetching Price for: Borderlands 3
+2026-01-23 15:15:16,373 - INFO - 🏢 Fetching Publisher for: Borderlands 3
+2026-01-23 15:15:18,347 - INFO - 💰 Fetching Price for: Bioshock: The Collection
+2026-01-23 15:15:28,829 - INFO - 🏢 Fetching Publisher for: Bioshock: The Collection
+2026-01-23 15:15:30,552 - INFO - 💰 Fetching Price for: BioShock
+2026-01-23 15:15:41,147 - INFO - 🏢 Fetching Publisher for: BioShock
+2026-01-23 15:15:43,090 - INFO - 💰 Fetching Price for: BioShock 2
+2026-01-23 15:15:53,660 - INFO - 🏢 Fetching Publisher for: BioShock 2
+2026-01-23 15:15:55,616 - INFO - 💰 Fetching Price for: BioShock Infinite
+2026-01-23 15:16:07,778 - INFO - 🏢 Fetching Publisher for: BioShock Infinite
+2026-01-23 15:16:09,749 - INFO - 💰 Fetching Price for: Wolfenstein: The New Order
+2026-01-23 15:16:21,314 - INFO - 🏢 Fetching Publisher for: Wolfenstein: The New Order
+2026-01-23 15:16:23,278 - INFO - 💰 Fetching Price for: Maneater
+2026-01-23 15:16:33,783 - INFO - 🏢 Fetching Publisher for: Maneater
+2026-01-23 15:16:35,696 - INFO - 💰 Fetching Price for: Supraland
+2026-01-23 15:16:46,224 - INFO - 🏢 Fetching Publisher for: Supraland
+2026-01-23 15:16:48,172 - INFO - 💰 Fetching Price for: A Game of Thrones: The Board Game Digital Edition
+2026-01-23 15:16:58,665 - INFO - 🏢 Fetching Publisher for: A Game of Thrones: The Board Game Digital Edition
+2026-01-23 15:17:00,607 - INFO - 💰 Fetching Price for: Car Mechanic Simulator 2018
+2026-01-23 15:17:11,073 - INFO - 🏢 Fetching Publisher for: Car Mechanic Simulator 2018
+2026-01-23 15:17:13,048 - INFO - 💰 Fetching Price for: Geneforge 1: Mutagen
+2026-01-23 15:17:23,529 - INFO - 🏢 Fetching Publisher for: Geneforge 1: Mutagen
+2026-01-23 15:17:25,474 - INFO - 💰 Fetching Price for: Hood: Outlaws & Legends
+2026-01-23 15:17:35,721 - INFO - 🏢 Fetching Publisher for: Hood: Outlaws & Legends
+2026-01-23 15:17:37,438 - INFO - 💰 Fetching Price for: Iratus: Lord of the Dead
+2026-01-23 15:17:48,074 - INFO - 🏢 Fetching Publisher for: Iratus: Lord of the Dead
+2026-01-23 15:17:50,072 - INFO - 💰 Fetching Price for: Ancient Enemy
+2026-01-23 15:18:00,590 - INFO - 🏢 Fetching Publisher for: Ancient Enemy
+2026-01-23 15:18:02,511 - INFO - 💰 Fetching Price for: Shop Titans
+2026-01-23 15:18:12,784 - INFO - 🏢 Fetching Publisher for: Shop Titans
+2026-01-23 15:18:14,789 - INFO - 💰 Fetching Price for: Wonder Boy: The Dragon's Trap
+2026-01-23 15:18:25,348 - INFO - 🏢 Fetching Publisher for: Wonder Boy: The Dragon's Trap
+2026-01-23 15:18:27,298 - INFO - 💰 Fetching Price for: Tannenberg
+2026-01-23 15:18:39,331 - INFO - 🏢 Fetching Publisher for: Tannenberg
+2026-01-23 15:18:41,302 - INFO - 💰 Fetching Price for: Lawn Mowing Simulator
+2026-01-23 15:18:51,833 - INFO - 🏢 Fetching Publisher for: Lawn Mowing Simulator
+2026-01-23 15:18:53,813 - INFO - 💰 Fetching Price for: Unrailed!
+2026-01-23 15:19:05,692 - INFO - 🏢 Fetching Publisher for: Unrailed!
+2026-01-23 15:19:07,662 - INFO - 💰 Fetching Price for: Cook, Serve, Delicious! 3?!
+2026-01-23 15:19:18,177 - INFO - 🏢 Fetching Publisher for: Cook, Serve, Delicious! 3?!
+2026-01-23 15:19:20,167 - INFO - 💰 Fetching Price for: Doom 64
+2026-01-23 15:19:30,691 - INFO - 🏢 Fetching Publisher for: Doom 64
+2026-01-23 15:19:32,644 - INFO - 💰 Fetching Price for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 15:19:44,029 - INFO - 🏢 Fetching Publisher for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 15:19:45,777 - INFO - 💰 Fetching Price for: Destiny 2
+2026-01-23 15:19:56,246 - INFO - 🏢 Fetching Publisher for: Destiny 2
+2026-01-23 15:19:58,233 - INFO - 💰 Fetching Price for: Ring of Pain
+2026-01-23 15:20:08,701 - INFO - 🏢 Fetching Publisher for: Ring of Pain
+2026-01-23 15:20:10,616 - INFO - 💰 Fetching Price for: Submerged: Hidden Depths
+2026-01-23 15:20:21,148 - INFO - 🏢 Fetching Publisher for: Submerged: Hidden Depths
+2026-01-23 15:20:23,087 - INFO - 💰 Fetching Price for: Hundred Days - Winemaking Simulator
+2026-01-23 15:20:33,542 - INFO - 🏢 Fetching Publisher for: Hundred Days - Winemaking Simulator
+2026-01-23 15:20:35,499 - INFO - 💰 Fetching Price for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 15:20:45,858 - INFO - 🏢 Fetching Publisher for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 15:20:47,581 - INFO - 💰 Fetching Price for: Spirit of the North
+2026-01-23 15:20:58,138 - INFO - 🏢 Fetching Publisher for: Spirit of the North
+2026-01-23 15:21:00,116 - INFO - 💰 Fetching Price for: The Captain
+2026-01-23 15:21:10,756 - INFO - 🏢 Fetching Publisher for: The Captain
+2026-01-23 15:21:12,863 - INFO - 💰 Fetching Price for: ARK: Survival Evolved (repeat)
+2026-01-23 15:21:23,177 - INFO - 🏢 Fetching Publisher for: ARK: Survival Evolved (repeat)
+2026-01-23 15:21:24,919 - INFO - 💰 Fetching Price for: Gloomhaven
+2026-01-23 15:21:35,459 - INFO - 🏢 Fetching Publisher for: Gloomhaven
+2026-01-23 15:21:37,438 - INFO - 💰 Fetching Price for: Runbow
+2026-01-23 15:21:47,998 - INFO - 🏢 Fetching Publisher for: Runbow
+2026-01-23 15:21:49,960 - INFO - 💰 Fetching Price for: The Drone Racing League Simulator
+2026-01-23 15:22:00,555 - INFO - 🏢 Fetching Publisher for: The Drone Racing League Simulator
+2026-01-23 15:22:02,485 - INFO - 💰 Fetching Price for: Rising Hell
+2026-01-23 15:22:13,064 - INFO - 🏢 Fetching Publisher for: Rising Hell
+2026-01-23 15:22:15,030 - INFO - 💰 Fetching Price for: Slain: Back from Hell
+2026-01-23 15:22:25,582 - INFO - 🏢 Fetching Publisher for: Slain: Back from Hell
+2026-01-23 15:22:27,542 - INFO - 💰 Fetching Price for: Darkwood
+2026-01-23 15:22:38,061 - INFO - 🏢 Fetching Publisher for: Darkwood
+2026-01-23 15:22:39,991 - INFO - 💰 Fetching Price for: ToeJam & Earl: Back in the Groove!
+2026-01-23 15:22:50,508 - INFO - 🏢 Fetching Publisher for: ToeJam & Earl: Back in the Groove!
+2026-01-23 15:22:52,446 - INFO - 💰 Fetching Price for: Evoland
+2026-01-23 15:23:02,985 - INFO - 🏢 Fetching Publisher for: Evoland
+2026-01-23 15:23:04,980 - INFO - 💰 Fetching Price for: Fallout 3
+2026-01-23 15:23:15,439 - INFO - 🏢 Fetching Publisher for: Fallout 3
+2026-01-23 15:23:17,484 - INFO - 💰 Fetching Price for: Saturnalia
+2026-01-23 15:23:27,938 - INFO - 🏢 Fetching Publisher for: Saturnalia
+2026-01-23 15:23:29,921 - INFO - 💰 Fetching Price for: Warhammer 40,000: Mechanicus
+2026-01-23 15:23:40,984 - INFO - 🏢 Fetching Publisher for: Warhammer 40,000: Mechanicus
+2026-01-23 15:23:42,999 - INFO - 💰 Fetching Price for: Filament
+2026-01-23 15:23:53,534 - INFO - 🏢 Fetching Publisher for: Filament
+2026-01-23 15:23:55,453 - INFO - 💰 Fetching Price for: Alba: A Wildlife Adventure
+2026-01-23 15:24:06,278 - INFO - 🏢 Fetching Publisher for: Alba: A Wildlife Adventure
+2026-01-23 15:24:08,234 - INFO - 💰 Fetching Price for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 15:24:18,535 - INFO - 🏢 Fetching Publisher for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 15:24:20,291 - INFO - 💰 Fetching Price for: Dark Deity
+2026-01-23 15:24:30,860 - INFO - 🏢 Fetching Publisher for: Dark Deity
+2026-01-23 15:24:32,798 - INFO - 💰 Fetching Price for: Evil Dead: The Game
+2026-01-23 15:24:43,357 - INFO - 🏢 Fetching Publisher for: Evil Dead: The Game
+2026-01-23 15:24:45,088 - INFO - 💰 Fetching Price for: Star Wars: Squadrons
+2026-01-23 15:24:56,028 - INFO - 🏢 Fetching Publisher for: Star Wars: Squadrons
+2026-01-23 15:24:58,027 - INFO - 💰 Fetching Price for: Fort Triumph
+2026-01-23 15:25:08,872 - INFO - 🏢 Fetching Publisher for: Fort Triumph
+2026-01-23 15:25:10,787 - INFO - 💰 Fetching Price for: RPG in a Box
+2026-01-23 15:25:21,320 - INFO - 🏢 Fetching Publisher for: RPG in a Box
+2026-01-23 15:25:23,257 - INFO - 💰 Fetching Price for: Saints Row 4 Re-Elected
+2026-01-23 15:25:33,531 - INFO - 🏢 Fetching Publisher for: Saints Row 4 Re-Elected
+2026-01-23 15:25:35,494 - INFO - 💰 Fetching Price for: Wildcat Gun Machine
+2026-01-23 15:25:45,998 - INFO - 🏢 Fetching Publisher for: Wildcat Gun Machine
+2026-01-23 15:25:47,940 - INFO - 💰 Fetching Price for: Bloons TD 6
+2026-01-23 15:25:58,434 - INFO - 🏢 Fetching Publisher for: Bloons TD 6
+2026-01-23 15:26:00,410 - INFO - 💰 Fetching Price for: Sable
+2026-01-23 15:26:11,101 - INFO - 🏢 Fetching Publisher for: Sable
+2026-01-23 15:26:13,038 - INFO - 💰 Fetching Price for: Them's Fightin' Herds
+2026-01-23 15:26:23,515 - INFO - 🏢 Fetching Publisher for: Them's Fightin' Herds
+2026-01-23 15:26:25,518 - INFO - 💰 Fetching Price for: LEGO Builder's Journey
+2026-01-23 15:26:36,053 - INFO - 🏢 Fetching Publisher for: LEGO Builder's Journey
+2026-01-23 15:26:38,009 - INFO - 💰 Fetching Price for: Fallout Classic Collection
+2026-01-23 15:26:48,581 - INFO - 🏢 Fetching Publisher for: Fallout Classic Collection
+2026-01-23 15:26:50,509 - INFO - 💰 Fetching Price for: Encased
+2026-01-23 15:27:01,062 - INFO - 🏢 Fetching Publisher for: Encased
+2026-01-23 15:27:02,987 - INFO - 💰 Fetching Price for: Death Stranding
+2026-01-23 15:27:13,534 - INFO - 🏢 Fetching Publisher for: Death Stranding
+2026-01-23 15:27:15,464 - INFO - 💰 Fetching Price for: F.I.S.T.: Forged In Shadow Torch
+2026-01-23 15:27:25,987 - INFO - 🏢 Fetching Publisher for: F.I.S.T.: Forged In Shadow Torch
+2026-01-23 15:27:27,898 - INFO - 💰 Fetching Price for: Severed Steel
+2026-01-23 15:27:38,351 - INFO - 🏢 Fetching Publisher for: Severed Steel
+2026-01-23 15:27:40,283 - INFO - 💰 Fetching Price for: Dishonored
+2026-01-23 15:27:50,691 - INFO - 🏢 Fetching Publisher for: Dishonored
+2026-01-23 15:27:52,660 - INFO - 💰 Fetching Price for: Eximius: Seize the Frontline
+2026-01-23 15:28:03,120 - INFO - 🏢 Fetching Publisher for: Eximius: Seize the Frontline
+2026-01-23 15:28:05,080 - INFO - 💰 Fetching Price for: Mortal Shell
+2026-01-23 15:28:15,555 - INFO - 🏢 Fetching Publisher for: Mortal Shell
+2026-01-23 15:28:17,545 - INFO - 💰 Fetching Price for: Kerbal Space Program
+2026-01-23 15:28:28,013 - INFO - 🏢 Fetching Publisher for: Kerbal Space Program
+2026-01-23 15:28:30,009 - INFO - 💰 Fetching Price for: Shadow Tactics: Blades Of The Shogun - Aiko's Choice
+2026-01-23 15:28:41,152 - INFO - 🏢 Fetching Publisher for: Shadow Tactics: Blades Of The Shogun - Aiko's Choice
+2026-01-23 15:28:43,110 - INFO - 💰 Fetching Price for: Divine Knockout
+2026-01-23 15:28:53,364 - INFO - 🏢 Fetching Publisher for: Divine Knockout
+2026-01-23 15:28:55,078 - INFO - 💰 Fetching Price for: First Class Trouble
+2026-01-23 15:29:05,540 - INFO - 🏢 Fetching Publisher for: First Class Trouble
+2026-01-23 15:29:07,541 - INFO - 💰 Fetching Price for: Epistory's Typing Chronicles
+2026-01-23 15:29:17,825 - INFO - 🏢 Fetching Publisher for: Epistory's Typing Chronicles
+2026-01-23 15:29:19,643 - INFO - 💰 Fetching Price for: Gamedec
+2026-01-23 15:29:30,644 - INFO - 🏢 Fetching Publisher for: Gamedec
+2026-01-23 15:29:32,636 - INFO - 💰 Fetching Price for: Adios
+2026-01-23 15:29:43,119 - INFO - 🏢 Fetching Publisher for: Adios
+2026-01-23 15:29:45,084 - INFO - 💰 Fetching Price for: Hell is Others
+2026-01-23 15:29:55,527 - INFO - 🏢 Fetching Publisher for: Hell is Others
+2026-01-23 15:29:57,590 - INFO - 💰 Fetching Price for: City of Gangsters
+2026-01-23 15:30:08,093 - INFO - 🏢 Fetching Publisher for: City of Gangsters
+2026-01-23 15:30:10,101 - INFO - 💰 Fetching Price for: Dishonored: Death of the Outsider
+2026-01-23 15:30:20,526 - INFO - 🏢 Fetching Publisher for: Dishonored: Death of the Outsider
+2026-01-23 15:30:22,497 - INFO - 💰 Fetching Price for: Recipe for Disaster
+2026-01-23 15:30:32,928 - INFO - 🏢 Fetching Publisher for: Recipe for Disaster
+2026-01-23 15:30:34,878 - INFO - 💰 Fetching Price for: Warpips
+2026-01-23 15:30:45,311 - INFO - 🏢 Fetching Publisher for: Warpips
+2026-01-23 15:30:47,309 - INFO - 💰 Fetching Price for: Duskers
+2026-01-23 15:30:57,802 - INFO - 🏢 Fetching Publisher for: Duskers
+2026-01-23 15:30:59,843 - INFO - 💰 Fetching Price for: Rise of Industry
+2026-01-23 15:31:10,352 - INFO - 🏢 Fetching Publisher for: Rise of Industry
+2026-01-23 15:31:12,321 - INFO - 💰 Fetching Price for: Call of the Sea
+2026-01-23 15:31:22,771 - INFO - 🏢 Fetching Publisher for: Call of the Sea
+2026-01-23 15:31:24,693 - INFO - 💰 Fetching Price for: Warhammer 40,000: Gladius - Relics Of War
+2026-01-23 15:31:35,172 - INFO - 🏢 Fetching Publisher for: Warhammer 40,000: Gladius - Relics Of War
+2026-01-23 15:31:37,118 - INFO - 💰 Fetching Price for: Chess Ultra
+2026-01-23 15:31:47,580 - INFO - 🏢 Fetching Publisher for: Chess Ultra
+2026-01-23 15:31:49,516 - INFO - 💰 Fetching Price for: World of Warships  Starter Pack: Ishizuchi
+2026-01-23 15:31:59,729 - INFO - 🏢 Fetching Publisher for: World of Warships  Starter Pack: Ishizuchi
+2026-01-23 15:32:01,627 - INFO - 💰 Fetching Price for: The Silent Age
+2026-01-23 15:32:12,079 - INFO - 🏢 Fetching Publisher for: The Silent Age
+2026-01-23 15:32:13,991 - INFO - 💰 Fetching Price for: Tunche
+2026-01-23 15:32:24,436 - INFO - 🏢 Fetching Publisher for: Tunche
+2026-01-23 15:32:26,446 - INFO - 💰 Fetching Price for: Dying Light
+2026-01-23 15:32:36,978 - INFO - 🏢 Fetching Publisher for: Dying Light
+2026-01-23 15:32:38,895 - INFO - 💰 Fetching Price for: shapez
+2026-01-23 15:32:49,349 - INFO - 🏢 Fetching Publisher for: shapez
+2026-01-23 15:32:51,324 - INFO - 💰 Fetching Price for: Mordhau
+2026-01-23 15:33:01,793 - INFO - 🏢 Fetching Publisher for: Mordhau
+2026-01-23 15:33:03,733 - INFO - 💰 Fetching Price for: Second Extinction
+2026-01-23 15:33:13,959 - INFO - 🏢 Fetching Publisher for: Second Extinction
+2026-01-23 15:33:15,675 - INFO - 💰 Fetching Price for: Beyond Blue
+2026-01-23 15:33:26,128 - INFO - 🏢 Fetching Publisher for: Beyond Blue
+2026-01-23 15:33:28,085 - INFO - 💰 Fetching Price for: Breathedge
+2026-01-23 15:33:38,594 - INFO - 🏢 Fetching Publisher for: Breathedge
+2026-01-23 15:33:40,524 - INFO - 💰 Fetching Price for: Poker Club
+2026-01-23 15:33:52,737 - INFO - 🏢 Fetching Publisher for: Poker Club
+2026-01-23 15:33:54,713 - INFO - 💰 Fetching Price for: Against All Odds
+2026-01-23 15:34:05,215 - INFO - 🏢 Fetching Publisher for: Against All Odds
+2026-01-23 15:34:07,182 - INFO - 💰 Fetching Price for: Kao the Kangaroo
+2026-01-23 15:34:17,664 - INFO - 🏢 Fetching Publisher for: Kao the Kangaroo
+2026-01-23 15:34:19,620 - INFO - 💰 Fetching Price for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 15:34:29,915 - INFO - 🏢 Fetching Publisher for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 15:34:31,647 - INFO - 💰 Fetching Price for: Fallout: New Vegas
+2026-01-23 15:34:42,131 - INFO - 🏢 Fetching Publisher for: Fallout: New Vegas
+2026-01-23 15:34:44,219 - INFO - 💰 Fetching Price for: Midnight Ghost Hunt
+2026-01-23 15:34:54,712 - INFO - 🏢 Fetching Publisher for: Midnight Ghost Hunt
+2026-01-23 15:34:56,629 - INFO - 💰 Fetching Price for: PAYDAY 2
+2026-01-23 15:35:08,020 - INFO - 🏢 Fetching Publisher for: PAYDAY 2
+2026-01-23 15:35:10,193 - INFO - 💰 Fetching Price for: Guacamelee! 2
+2026-01-23 15:35:20,675 - INFO - 🏢 Fetching Publisher for: Guacamelee! 2
+2026-01-23 15:35:22,594 - INFO - 💰 Fetching Price for: Guacamelee!
+2026-01-23 15:35:32,925 - INFO - 🏢 Fetching Publisher for: Guacamelee!
+2026-01-23 15:35:34,873 - INFO - 💰 Fetching Price for: TheHunter: Call of the Wild
+2026-01-23 15:35:46,017 - INFO - 🏢 Fetching Publisher for: TheHunter: Call of the Wild
+2026-01-23 15:35:47,757 - INFO - 💰 Fetching Price for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 15:35:58,037 - INFO - 🏢 Fetching Publisher for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 15:35:59,819 - INFO - 💰 Fetching Price for: The Dungeon of Naheulbeuk: The Amulet of Chaos
+2026-01-23 15:36:10,292 - INFO - 🏢 Fetching Publisher for: The Dungeon of Naheulbeuk: The Amulet of Chaos
+2026-01-23 15:36:12,350 - INFO - 💰 Fetching Price for: Grime
+2026-01-23 15:36:22,800 - INFO - 🏢 Fetching Publisher for: Grime
+2026-01-23 15:36:24,709 - INFO - 💰 Fetching Price for: Train Valley 2
+2026-01-23 15:36:35,197 - INFO - 🏢 Fetching Publisher for: Train Valley 2
+2026-01-23 15:36:37,174 - INFO - 💰 Fetching Price for: Murder by Numbers
+2026-01-23 15:36:47,639 - INFO - 🏢 Fetching Publisher for: Murder by Numbers
+2026-01-23 15:36:49,548 - INFO - 💰 Fetching Price for: The Elder Scrolls Online
+2026-01-23 15:37:00,014 - INFO - 🏢 Fetching Publisher for: The Elder Scrolls Online
+2026-01-23 15:37:02,050 - INFO - 💰 Fetching Price for: Homeworld Remastered Collection
+2026-01-23 15:37:12,502 - INFO - 🏢 Fetching Publisher for: Homeworld Remastered Collection
+2026-01-23 15:37:14,444 - INFO - 💰 Fetching Price for: Europa Universalis IV (repeat)
+2026-01-23 15:37:25,042 - INFO - 🏢 Fetching Publisher for: Europa Universalis IV (repeat)
+2026-01-23 15:37:26,746 - INFO - 💰 Fetching Price for: Orwell: Keeping an Eye on You
+2026-01-23 15:37:37,187 - INFO - 🏢 Fetching Publisher for: Orwell: Keeping an Eye on You
+2026-01-23 15:37:39,217 - INFO - 💰 Fetching Price for: Black Book
+2026-01-23 15:37:49,677 - INFO - 🏢 Fetching Publisher for: Black Book
+2026-01-23 15:37:51,618 - INFO - 💰 Fetching Price for: Dodo Peak
+2026-01-23 15:38:02,073 - INFO - 🏢 Fetching Publisher for: Dodo Peak
+2026-01-23 15:38:04,000 - INFO - 💰 Fetching Price for: Homeworld: Deserts of Kharak
+2026-01-23 15:38:14,606 - INFO - 🏢 Fetching Publisher for: Homeworld: Deserts of Kharak
+2026-01-23 15:38:16,545 - INFO - 💰 Fetching Price for: Spelldrifter
+2026-01-23 15:38:27,002 - INFO - 🏢 Fetching Publisher for: Spelldrifter
+2026-01-23 15:38:29,060 - INFO - 💰 Fetching Price for: 911 Operator
+2026-01-23 15:38:39,499 - INFO - 🏢 Fetching Publisher for: 911 Operator
+2026-01-23 15:38:41,524 - INFO - 💰 Fetching Price for: Out of Line
+2026-01-23 15:38:51,985 - INFO - 🏢 Fetching Publisher for: Out of Line
+2026-01-23 15:38:53,896 - INFO - 💰 Fetching Price for: The Forest Quartet
+2026-01-23 15:39:04,342 - INFO - 🏢 Fetching Publisher for: The Forest Quartet
+2026-01-23 15:39:06,311 - INFO - 💰 Fetching Price for: Model Builder
+2026-01-23 15:39:17,373 - INFO - 🏢 Fetching Publisher for: Model Builder
+2026-01-23 15:39:19,345 - INFO - 💰 Fetching Price for: Soulstice
+2026-01-23 15:39:29,784 - INFO - 🏢 Fetching Publisher for: Soulstice
+2026-01-23 15:39:31,720 - INFO - 💰 Fetching Price for: Godlike Burger
+2026-01-23 15:39:42,189 - INFO - 🏢 Fetching Publisher for: Godlike Burger
+2026-01-23 15:39:44,115 - INFO - 💰 Fetching Price for: Blazing Sails
+2026-01-23 15:39:54,590 - INFO - 🏢 Fetching Publisher for: Blazing Sails
+2026-01-23 15:39:56,550 - INFO - 💰 Fetching Price for: Q.U.B.E. Ultimate Bundle
+2026-01-23 15:40:06,802 - INFO - 🏢 Fetching Publisher for: Q.U.B.E. Ultimate Bundle
+2026-01-23 15:40:08,530 - INFO - 💰 Fetching Price for: Eternal Threads
+2026-01-23 15:40:19,044 - INFO - 🏢 Fetching Publisher for: Eternal Threads
+2026-01-23 15:40:21,014 - INFO - 💰 Fetching Price for: The Evil Within
+2026-01-23 15:40:31,487 - INFO - 🏢 Fetching Publisher for: The Evil Within
+2026-01-23 15:40:33,447 - INFO - 💰 Fetching Price for: Tandem: A Tale of Shadows
+2026-01-23 15:40:43,925 - INFO - 🏢 Fetching Publisher for: Tandem: A Tale of Shadows
+2026-01-23 15:40:45,875 - INFO - 💰 Fetching Price for: The Evil Within 2
+2026-01-23 15:40:56,384 - INFO - 🏢 Fetching Publisher for: The Evil Within 2
+2026-01-23 15:40:58,295 - INFO - 💰 Fetching Price for: Turnip Boy Commits Tax Evasion
+2026-01-23 15:41:08,753 - INFO - 🏢 Fetching Publisher for: Turnip Boy Commits Tax Evasion
+2026-01-23 15:41:10,656 - INFO - 💰 Fetching Price for: Earthlock
+2026-01-23 15:41:21,125 - INFO - 🏢 Fetching Publisher for: Earthlock
+2026-01-23 15:41:23,079 - INFO - 💰 Fetching Price for: Golden Light
+2026-01-23 15:41:33,537 - INFO - 🏢 Fetching Publisher for: Golden Light
+2026-01-23 15:41:35,504 - INFO - 💰 Fetching Price for: Deliver Us Mars
+2026-01-23 15:41:46,028 - INFO - 🏢 Fetching Publisher for: Deliver Us Mars
+2026-01-23 15:41:47,960 - INFO - 💰 Fetching Price for: Surviving the Aftermath
+2026-01-23 15:41:58,408 - INFO - 🏢 Fetching Publisher for: Surviving the Aftermath
+2026-01-23 15:42:00,373 - INFO - 💰 Fetching Price for: Jitsu Squad
+2026-01-23 15:42:10,826 - INFO - 🏢 Fetching Publisher for: Jitsu Squad
+2026-01-23 15:42:12,782 - INFO - 💰 Fetching Price for: Mighty Fight Federation
+2026-01-23 15:42:23,285 - INFO - 🏢 Fetching Publisher for: Mighty Fight Federation
+2026-01-23 15:42:25,302 - INFO - 💰 Fetching Price for: GigaBash
+2026-01-23 15:42:35,768 - INFO - 🏢 Fetching Publisher for: GigaBash
+2026-01-23 15:42:37,920 - INFO - 💰 Fetching Price for: Predecessor
+2026-01-23 15:42:48,425 - INFO - 🏢 Fetching Publisher for: Predecessor
+2026-01-23 15:42:50,369 - INFO - 💰 Fetching Price for: Destiny 2: Legacy Collection
+2026-01-23 15:43:00,842 - INFO - 🏢 Fetching Publisher for: Destiny 2: Legacy Collection
+2026-01-23 15:43:02,564 - INFO - 💰 Fetching Price for: DNF Duel
+2026-01-23 15:43:13,081 - INFO - 🏢 Fetching Publisher for: DNF Duel
+2026-01-23 15:43:15,016 - INFO - 💰 Fetching Price for: Melvor Idle
+2026-01-23 15:43:25,517 - INFO - 🏢 Fetching Publisher for: Melvor Idle
+2026-01-23 15:43:27,465 - INFO - 💰 Fetching Price for: 20 Minutes Till Dawn
+2026-01-23 15:43:37,907 - INFO - 🏢 Fetching Publisher for: 20 Minutes Till Dawn
+2026-01-23 15:43:39,875 - INFO - 💰 Fetching Price for: A Plague Tale: Innocence (repeat)
+2026-01-23 15:43:50,130 - INFO - 🏢 Fetching Publisher for: A Plague Tale: Innocence (repeat)
+2026-01-23 15:43:51,863 - INFO - 💰 Fetching Price for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 15:44:02,109 - INFO - 🏢 Fetching Publisher for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 15:44:03,852 - INFO - 💰 Fetching Price for: Black Book (repeat)
+2026-01-23 15:44:14,094 - INFO - 🏢 Fetching Publisher for: Black Book (repeat)
+2026-01-23 15:44:15,793 - INFO - 💰 Fetching Price for: Escape Academy
+2026-01-23 15:44:26,266 - INFO - 🏢 Fetching Publisher for: Escape Academy
+2026-01-23 15:44:28,204 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 15:44:38,477 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 15:44:40,199 - INFO - 💰 Fetching Price for: Marvel's Guardians of the Galaxy
+2026-01-23 15:44:50,658 - INFO - 🏢 Fetching Publisher for: Marvel's Guardians of the Galaxy
+2026-01-23 15:44:52,634 - INFO - 💰 Fetching Price for: theHunter: Call of the Wild (repeat)
+2026-01-23 15:45:03,075 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild (repeat)
+2026-01-23 15:45:04,858 - INFO - 💰 Fetching Price for: Train Sim World 3 (example holiday slot)*
+2026-01-23 15:45:15,177 - INFO - 🏢 Fetching Publisher for: Train Sim World 3 (example holiday slot)*
+2026-01-23 15:45:16,902 - INFO - 💰 Fetching Price for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 15:45:27,152 - INFO - 🏢 Fetching Publisher for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 15:45:28,861 - INFO - 💰 Fetching Price for: Art of Rally
+2026-01-23 15:45:39,325 - INFO - 🏢 Fetching Publisher for: Art of Rally
+2026-01-23 15:45:41,252 - INFO - 💰 Fetching Price for: Ghostwire: Tokyo
+2026-01-23 15:45:51,765 - INFO - 🏢 Fetching Publisher for: Ghostwire: Tokyo
+2026-01-23 15:45:53,776 - INFO - 💰 Fetching Price for: The Outer Worlds
+2026-01-23 15:46:04,309 - INFO - 🏢 Fetching Publisher for: The Outer Worlds
+2026-01-23 15:46:06,266 - INFO - 💰 Fetching Price for: Human Resource Machine
+2026-01-23 15:46:16,742 - INFO - 🏢 Fetching Publisher for: Human Resource Machine
+2026-01-23 15:46:18,680 - INFO - 💰 Fetching Price for: Cursed to Golf
+2026-01-23 15:46:29,191 - INFO - 🏢 Fetching Publisher for: Cursed to Golf
+2026-01-23 15:46:31,251 - INFO - 💰 Fetching Price for: Cat Quest
+2026-01-23 15:46:41,739 - INFO - 🏢 Fetching Publisher for: Cat Quest
+2026-01-23 15:46:43,704 - INFO - 💰 Fetching Price for: Snakebird Complete
+2026-01-23 15:46:54,144 - INFO - 🏢 Fetching Publisher for: Snakebird Complete
+2026-01-23 15:46:55,907 - INFO - 💰 Fetching Price for: Saints Row (2022)
+2026-01-23 15:47:06,178 - INFO - 🏢 Fetching Publisher for: Saints Row (2022)
+2026-01-23 15:47:07,892 - INFO - 💰 Fetching Price for: Ghostrunner
+2026-01-23 15:47:18,534 - INFO - 🏢 Fetching Publisher for: Ghostrunner
+2026-01-23 15:47:20,491 - INFO - 💰 Fetching Price for: Sail Forth
+2026-01-23 15:47:30,957 - INFO - 🏢 Fetching Publisher for: Sail Forth
+2026-01-23 15:47:32,924 - INFO - 💰 Fetching Price for: LOVE
+2026-01-23 15:47:43,480 - INFO - 🏢 Fetching Publisher for: LOVE
+2026-01-23 15:47:45,425 - INFO - 💰 Fetching Price for: Infinifactory
+2026-01-23 15:47:56,074 - INFO - 🏢 Fetching Publisher for: Infinifactory
+2026-01-23 15:47:58,082 - INFO - 💰 Fetching Price for: Doors: Paradox
+2026-01-23 15:48:08,533 - INFO - 🏢 Fetching Publisher for: Doors: Paradox
+2026-01-23 15:48:10,477 - INFO - 💰 Fetching Price for: Lost Castle
+2026-01-23 15:48:20,921 - INFO - 🏢 Fetching Publisher for: Lost Castle
+2026-01-23 15:48:22,885 - INFO - 💰 Fetching Price for: Doki Doki Literature Club Plus!
+2026-01-23 15:48:33,339 - INFO - 🏢 Fetching Publisher for: Doki Doki Literature Club Plus!
+2026-01-23 15:48:35,296 - INFO - 💰 Fetching Price for: Dakar Desert Rally
+2026-01-23 15:48:47,119 - INFO - 🏢 Fetching Publisher for: Dakar Desert Rally
+2026-01-23 15:48:49,049 - INFO - 💰 Fetching Price for: Super Meat Boy Forever
+2026-01-23 15:48:59,481 - INFO - 🏢 Fetching Publisher for: Super Meat Boy Forever
+2026-01-23 15:49:01,538 - INFO - 💰 Fetching Price for: Aerial_Knight's Never Yield
+2026-01-23 15:49:11,975 - INFO - 🏢 Fetching Publisher for: Aerial_Knight's Never Yield
+2026-01-23 15:49:13,912 - INFO - 💰 Fetching Price for: Thief (2014)
+2026-01-23 15:49:24,188 - INFO - 🏢 Fetching Publisher for: Thief (2014)
+2026-01-23 15:49:26,136 - INFO - 💰 Fetching Price for: Astro Duel
+2026-01-23 15:49:36,592 - INFO - 🏢 Fetching Publisher for: Astro Duel
+2026-01-23 15:49:38,542 - INFO - 💰 Fetching Price for: LISA: The Painful
+2026-01-23 15:49:49,058 - INFO - 🏢 Fetching Publisher for: LISA: The Painful
+2026-01-23 15:49:51,083 - INFO - 💰 Fetching Price for: Deus Ex: Mankind Divided
+2026-01-23 15:50:01,650 - INFO - 🏢 Fetching Publisher for: Deus Ex: Mankind Divided
+2026-01-23 15:50:03,701 - INFO - 💰 Fetching Price for: Call of The Wild: The Angler
+2026-01-23 15:50:14,168 - INFO - 🏢 Fetching Publisher for: Call of The Wild: The Angler
+2026-01-23 15:50:16,159 - INFO - 💰 Fetching Price for: Invincible Presents: Atom Eve
+2026-01-23 15:50:26,635 - INFO - 🏢 Fetching Publisher for: Invincible Presents: Atom Eve
+2026-01-23 15:50:28,596 - INFO - 💰 Fetching Price for: Islets
+2026-01-23 15:50:39,023 - INFO - 🏢 Fetching Publisher for: Islets
+2026-01-23 15:50:40,963 - INFO - 💰 Fetching Price for: Circus Electrique
+2026-01-23 15:50:51,598 - INFO - 🏢 Fetching Publisher for: Circus Electrique
+2026-01-23 15:50:53,549 - INFO - 💰 Fetching Price for: The Big Con
+2026-01-23 15:51:05,371 - INFO - 🏢 Fetching Publisher for: The Big Con
+2026-01-23 15:51:07,307 - INFO - 💰 Fetching Price for: Town of Salem 2
+2026-01-23 15:51:17,540 - INFO - 🏢 Fetching Publisher for: Town of Salem 2
+2026-01-23 15:51:19,559 - INFO - 💰 Fetching Price for: Industria
+2026-01-23 15:51:30,049 - INFO - 🏢 Fetching Publisher for: Industria
+2026-01-23 15:51:31,981 - INFO - 💰 Fetching Price for: Orcs Must Die! 3
+2026-01-23 15:51:42,483 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 3
+2026-01-23 15:51:44,414 - INFO - 💰 Fetching Price for: LISA: The Joyful
+2026-01-23 15:51:54,889 - INFO - 🏢 Fetching Publisher for: LISA: The Joyful
+2026-01-23 15:51:57,204 - INFO - 💰 Fetching Price for: Cat Quest II
+2026-01-23 15:52:07,781 - INFO - 🏢 Fetching Publisher for: Cat Quest II
+2026-01-23 15:52:09,887 - INFO - 💰 Fetching Price for: Orcs Must Die! 2 (repeat)
+2026-01-23 15:52:20,157 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 2 (repeat)
+2026-01-23 15:52:21,912 - INFO - 💰 Fetching Price for: Firestone: Online Idle RPG
+2026-01-23 15:52:32,293 - INFO - 🏢 Fetching Publisher for: Firestone: Online Idle RPG
+2026-01-23 15:52:34,296 - INFO - 💰 Fetching Price for: Dragon Age: Inquisition
+2026-01-23 15:52:45,314 - INFO - 🏢 Fetching Publisher for: Dragon Age: Inquisition
+2026-01-23 15:52:47,339 - INFO - 💰 Fetching Price for: Farming Simulator 22
+2026-01-23 15:52:57,820 - INFO - 🏢 Fetching Publisher for: Farming Simulator 22
+2026-01-23 15:52:59,819 - INFO - 💰 Fetching Price for: Chivalry 2
+2026-01-23 15:53:10,301 - INFO - 🏢 Fetching Publisher for: Chivalry 2
+2026-01-23 15:53:12,222 - INFO - 💰 Fetching Price for: Marvel's Midnight Suns
+2026-01-23 15:53:22,707 - INFO - 🏢 Fetching Publisher for: Marvel's Midnight Suns
+2026-01-23 15:53:24,700 - INFO - 💰 Fetching Price for: Redout 2
+2026-01-23 15:53:35,196 - INFO - 🏢 Fetching Publisher for: Redout 2
+2026-01-23 15:53:37,142 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 15:53:47,237 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 15:53:48,996 - INFO - 💰 Fetching Price for: Freshly Frosted + Rumble Club pack
+2026-01-23 15:53:59,230 - INFO - 🏢 Fetching Publisher for: Freshly Frosted + Rumble Club pack
+2026-01-23 15:54:00,983 - INFO - 💰 Fetching Price for: Sunless Skies: Sovereign Edition
+2026-01-23 15:54:11,483 - INFO - 🏢 Fetching Publisher for: Sunless Skies: Sovereign Edition
+2026-01-23 15:54:13,451 - INFO - 💰 Fetching Price for: The Falconeer
+2026-01-23 15:54:24,720 - INFO - 🏢 Fetching Publisher for: The Falconeer
+2026-01-23 15:54:26,738 - INFO - 💰 Fetching Price for: Floppy Knights
+2026-01-23 15:54:37,280 - INFO - 🏢 Fetching Publisher for: Floppy Knights
+2026-01-23 15:54:39,219 - INFO - 💰 Fetching Price for: Arcade Paradise
+2026-01-23 15:54:49,715 - INFO - 🏢 Fetching Publisher for: Arcade Paradise
+2026-01-23 15:54:51,733 - INFO - 💰 Fetching Price for: Maid of Sker
+2026-01-23 15:55:06,044 - INFO - 🏢 Fetching Publisher for: Maid of Sker
+2026-01-23 15:55:08,160 - INFO - 💰 Fetching Price for: LumbearJack
+2026-01-23 15:55:18,641 - INFO - 🏢 Fetching Publisher for: LumbearJack
+2026-01-23 15:55:20,582 - INFO - 💰 Fetching Price for: Rawmen: Food Fighter Arena
+2026-01-23 15:55:30,837 - INFO - 🏢 Fetching Publisher for: Rawmen: Food Fighter Arena
+2026-01-23 15:55:32,780 - INFO - 💰 Fetching Price for: CYGNI: All Guns Blazing
+2026-01-23 15:55:43,288 - INFO - 🏢 Fetching Publisher for: CYGNI: All Guns Blazing
+2026-01-23 15:55:45,240 - INFO - 💰 Fetching Price for: Death's Gambit: Afterlife
+2026-01-23 15:55:55,685 - INFO - 🏢 Fetching Publisher for: Death's Gambit: Afterlife
+2026-01-23 15:55:57,884 - INFO - 💰 Fetching Price for: World of Warships  Starter Pack: Albany
+2026-01-23 15:56:08,104 - INFO - 🏢 Fetching Publisher for: World of Warships  Starter Pack: Albany
+2026-01-23 15:56:10,069 - INFO - 💰 Fetching Price for: Gigantic: Rampage Edition
+2026-01-23 15:56:20,550 - INFO - 🏢 Fetching Publisher for: Gigantic: Rampage Edition
+2026-01-23 15:56:22,658 - INFO - 💰 Fetching Price for: The Callisto Protocol
+2026-01-23 15:56:33,190 - INFO - 🏢 Fetching Publisher for: The Callisto Protocol
+2026-01-23 15:56:35,153 - INFO - 💰 Fetching Price for: Fallout Classic Edition
+2026-01-23 15:56:45,414 - INFO - 🏢 Fetching Publisher for: Fallout Classic Edition
+2026-01-23 15:56:47,126 - INFO - 💰 Fetching Price for: Wild Card Football
+2026-01-23 15:56:57,399 - INFO - 🏢 Fetching Publisher for: Wild Card Football
+2026-01-23 15:56:59,130 - INFO - 💰 Fetching Price for: Football Manager 2024
+2026-01-23 15:57:09,600 - INFO - 🏢 Fetching Publisher for: Football Manager 2024
+2026-01-23 15:57:11,748 - INFO - 💰 Fetching Price for: Sniper Ghost Warrior Contracts
+2026-01-23 15:57:22,228 - INFO - 🏢 Fetching Publisher for: Sniper Ghost Warrior Contracts
+2026-01-23 15:57:24,227 - INFO - 💰 Fetching Price for: Rugrats: Adventures in Gameland
+2026-01-23 15:57:35,321 - INFO - 🏢 Fetching Publisher for: Rugrats: Adventures in Gameland
+2026-01-23 15:57:37,292 - INFO - 💰 Fetching Price for: Super Crazy Rhythm Castle
+2026-01-23 15:57:47,792 - INFO - 🏢 Fetching Publisher for: Super Crazy Rhythm Castle
+2026-01-23 15:57:49,762 - INFO - 💰 Fetching Price for: Toem
+2026-01-23 15:58:00,203 - INFO - 🏢 Fetching Publisher for: Toem
+2026-01-23 15:58:02,199 - INFO - 💰 Fetching Price for: The Last Stand: Aftermath
+2026-01-23 15:58:12,708 - INFO - 🏢 Fetching Publisher for: The Last Stand: Aftermath
+2026-01-23 15:58:14,651 - INFO - 💰 Fetching Price for: The Spirit and the Mouse
+2026-01-23 15:58:25,228 - INFO - 🏢 Fetching Publisher for: The Spirit and the Mouse
+2026-01-23 15:58:27,177 - INFO - 💰 Fetching Price for: Bear and Breakfast
+2026-01-23 15:58:37,661 - INFO - 🏢 Fetching Publisher for: Bear and Breakfast
+2026-01-23 15:58:39,612 - INFO - 💰 Fetching Price for: Outliver: Tribulation
+2026-01-23 15:58:50,072 - INFO - 🏢 Fetching Publisher for: Outliver: Tribulation
+2026-01-23 15:58:52,057 - INFO - 💰 Fetching Price for: Empyrion - Galactic Survival
+2026-01-23 15:59:05,280 - INFO - 🏢 Fetching Publisher for: Empyrion - Galactic Survival
+2026-01-23 15:59:07,255 - INFO - 💰 Fetching Price for: Kardboard Kings: Card Shop Simulator
+2026-01-23 15:59:18,020 - INFO - 🏢 Fetching Publisher for: Kardboard Kings: Card Shop Simulator
+2026-01-23 15:59:19,982 - INFO - 💰 Fetching Price for: Witch It
+2026-01-23 15:59:30,466 - INFO - 🏢 Fetching Publisher for: Witch It
+2026-01-23 15:59:32,383 - INFO - 💰 Fetching Price for: Deceive Inc.
+2026-01-23 15:59:42,887 - INFO - 🏢 Fetching Publisher for: Deceive Inc.
+2026-01-23 15:59:44,857 - INFO - 💰 Fetching Price for: Castlevania Anniversary Collection
+2026-01-23 15:59:55,364 - INFO - 🏢 Fetching Publisher for: Castlevania Anniversary Collection
+2026-01-23 15:59:57,305 - INFO - 🏢 Fetching Publisher for: Snakebird Complete
+2026-01-23 15:59:59,024 - INFO - 💰 Fetching Price for: Beholder
+2026-01-23 16:00:11,035 - INFO - 🏢 Fetching Publisher for: Beholder
+2026-01-23 16:00:13,002 - INFO - 💰 Fetching Price for: Brotato
+2026-01-23 16:00:23,444 - INFO - 🏢 Fetching Publisher for: Brotato
+2026-01-23 16:00:25,445 - INFO - 💰 Fetching Price for: Lego Star Wars: The Skywalker Saga
+2026-01-23 16:00:35,944 - INFO - 🏢 Fetching Publisher for: Lego Star Wars: The Skywalker Saga
+2026-01-23 16:00:37,947 - INFO - 💰 Fetching Price for: Bus Simulator 21 Next Stop
+2026-01-23 16:00:48,443 - INFO - 🏢 Fetching Publisher for: Bus Simulator 21 Next Stop
+2026-01-23 16:00:50,414 - INFO - 💰 Fetching Price for: The Lord of the Rings: Return to Moria
+2026-01-23 16:01:00,904 - INFO - 🏢 Fetching Publisher for: The Lord of the Rings: Return to Moria
+2026-01-23 16:01:02,880 - INFO - 💰 Fetching Price for: Vampire Survivors
+2026-01-23 16:01:13,333 - INFO - 🏢 Fetching Publisher for: Vampire Survivors
+2026-01-23 16:01:15,272 - INFO - 💰 Fetching Price for: Astrea: Six-Sided Oracles
+2026-01-23 16:01:27,039 - INFO - 🏢 Fetching Publisher for: Astrea: Six-Sided Oracles
+2026-01-23 16:01:29,011 - INFO - 💰 Fetching Price for: TerraTech
+2026-01-23 16:01:39,470 - INFO - 🏢 Fetching Publisher for: TerraTech
+2026-01-23 16:01:41,432 - INFO - 💰 Fetching Price for: Wizard of Legend
+2026-01-23 16:01:52,085 - INFO - 🏢 Fetching Publisher for: Wizard of Legend
+2026-01-23 16:01:54,074 - INFO - 💰 Fetching Price for: Dark and Darker
+2026-01-23 16:02:04,300 - INFO - 🏢 Fetching Publisher for: Dark and Darker
+2026-01-23 16:02:06,339 - INFO - 💰 Fetching Price for: DREDGE
+2026-01-23 16:02:16,796 - INFO - 🏢 Fetching Publisher for: DREDGE
+2026-01-23 16:02:18,745 - INFO - 💰 Fetching Price for: Ghostrunner 2
+2026-01-23 16:02:29,249 - INFO - 🏢 Fetching Publisher for: Ghostrunner 2
+2026-01-23 16:02:31,306 - INFO - 💰 Fetching Price for: Hot Wheels Unleashed
+2026-01-23 16:02:41,819 - INFO - 🏢 Fetching Publisher for: Hot Wheels Unleashed
+2026-01-23 16:02:43,995 - INFO - 💰 Fetching Price for: KILL KNIGHT
+2026-01-23 16:02:54,594 - INFO - 🏢 Fetching Publisher for: KILL KNIGHT
+2026-01-23 16:02:56,529 - INFO - 💰 Fetching Price for: Orcs Must Die! 3 (repeat)
+2026-01-23 16:03:06,784 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 3 (repeat)
+2026-01-23 16:03:08,513 - INFO - 💰 Fetching Price for: REDACTED (mystery day 2024)*
+2026-01-23 16:03:18,800 - INFO - 🏢 Fetching Publisher for: REDACTED (mystery day 2024)*
+2026-01-23 16:03:20,521 - INFO - 💰 Fetching Price for: Sifu
+2026-01-23 16:03:30,971 - INFO - 🏢 Fetching Publisher for: Sifu
+2026-01-23 16:03:32,957 - INFO - 💰 Fetching Price for: Hell Let Loose
+2026-01-23 16:03:43,462 - INFO - 🏢 Fetching Publisher for: Hell Let Loose
+2026-01-23 16:03:45,430 - INFO - 💰 Fetching Price for: Turmoil
+2026-01-23 16:03:55,858 - INFO - 🏢 Fetching Publisher for: Turmoil
+2026-01-23 16:03:57,770 - INFO - 💰 Fetching Price for: Behind the Frame: The Finest Scenery
+2026-01-23 16:04:08,232 - INFO - 🏢 Fetching Publisher for: Behind the Frame: The Finest Scenery
+2026-01-23 16:04:10,325 - INFO - 💰 Fetching Price for: Undying
+2026-01-23 16:04:20,802 - INFO - 🏢 Fetching Publisher for: Undying
+2026-01-23 16:04:22,794 - INFO - 💰 Fetching Price for: Humankind
+2026-01-23 16:04:33,281 - INFO - 🏢 Fetching Publisher for: Humankind
+2026-01-23 16:04:35,434 - INFO - 💰 Fetching Price for: F1 Manager 2024
+2026-01-23 16:04:46,240 - INFO - 🏢 Fetching Publisher for: F1 Manager 2024
+2026-01-23 16:04:48,214 - INFO - 💰 Fetching Price for: Garden Story
+2026-01-23 16:04:58,663 - INFO - 🏢 Fetching Publisher for: Garden Story
+2026-01-23 16:05:00,599 - INFO - 💰 Fetching Price for: World War Z Aftermath
+2026-01-23 16:05:11,081 - INFO - 🏢 Fetching Publisher for: World War Z Aftermath
+2026-01-23 16:05:13,032 - INFO - 💰 Fetching Price for: World Of Warships  Anniversary Party Flavor
+2026-01-23 16:05:23,223 - INFO - 🏢 Fetching Publisher for: World Of Warships  Anniversary Party Flavor
+2026-01-23 16:05:24,957 - INFO - 💰 Fetching Price for: Jurassic World Evolution 2
+2026-01-23 16:05:35,454 - INFO - 🏢 Fetching Publisher for: Jurassic World Evolution 2
+2026-01-23 16:05:37,377 - INFO - 💰 Fetching Price for: Neko Ghost, Jump!
+2026-01-23 16:05:47,849 - INFO - 🏢 Fetching Publisher for: Neko Ghost, Jump!
+2026-01-23 16:05:49,786 - INFO - 💰 Fetching Price for: Cat Quest 2
+2026-01-23 16:06:00,140 - INFO - 🏢 Fetching Publisher for: Cat Quest 2
+2026-01-23 16:06:02,119 - INFO - 💰 Fetching Price for: River City Girls
+2026-01-23 16:06:12,568 - INFO - 🏢 Fetching Publisher for: River City Girls
+2026-01-23 16:06:14,436 - INFO - 💰 Fetching Price for: Botanicula
+2026-01-23 16:06:24,889 - INFO - 🏢 Fetching Publisher for: Botanicula
+2026-01-23 16:06:26,818 - INFO - 💰 Fetching Price for: Chuchel
+2026-01-23 16:06:37,335 - INFO - 🏢 Fetching Publisher for: Chuchel
+2026-01-23 16:06:39,334 - INFO - 💰 Fetching Price for: Albion Online Welcome Gift
+2026-01-23 16:06:49,615 - INFO - 🏢 Fetching Publisher for: Albion Online Welcome Gift
+2026-01-23 16:06:51,339 - INFO - 💰 Fetching Price for: Super Space Club
+2026-01-23 16:07:02,135 - INFO - 🏢 Fetching Publisher for: Super Space Club
+2026-01-23 16:07:04,049 - INFO - 💰 Fetching Price for: Deadtime Defenders
+2026-01-23 16:07:14,478 - INFO - 🏢 Fetching Publisher for: Deadtime Defenders
+2026-01-23 16:07:16,716 - INFO - 💰 Fetching Price for: Touch Type Tale
+2026-01-23 16:07:27,252 - INFO - 🏢 Fetching Publisher for: Touch Type Tale
+2026-01-23 16:07:29,234 - INFO - 💰 Fetching Price for: Happy Game
+2026-01-23 16:07:39,689 - INFO - 🏢 Fetching Publisher for: Happy Game
+2026-01-23 16:07:41,632 - INFO - 💰 Fetching Price for: Dead Island 2
+2026-01-23 16:07:52,100 - INFO - 🏢 Fetching Publisher for: Dead Island 2
+2026-01-23 16:07:54,042 - INFO - 💰 Fetching Price for: Deliver At All Costs
+2026-01-23 16:08:06,675 - INFO - 🏢 Fetching Publisher for: Deliver At All Costs
+2026-01-23 16:08:08,625 - INFO - 💰 Fetching Price for: Gigapocalypse
+2026-01-23 16:08:19,056 - INFO - 🏢 Fetching Publisher for: Gigapocalypse
+2026-01-23 16:08:20,987 - INFO - 💰 Fetching Price for: Tiny Tina's Wonderlands
+2026-01-23 16:08:33,133 - INFO - 🏢 Fetching Publisher for: Tiny Tina's Wonderlands
+2026-01-23 16:08:35,131 - INFO - 💰 Fetching Price for: Deathloop
+2026-01-23 16:08:45,570 - INFO - 🏢 Fetching Publisher for: Deathloop
+2026-01-23 16:08:47,586 - INFO - 💰 Fetching Price for: Ogu and the Secret Forest
+2026-01-23 16:08:58,088 - INFO - 🏢 Fetching Publisher for: Ogu and the Secret Forest
+2026-01-23 16:08:59,994 - INFO - 💰 Fetching Price for: Two Point Hospital
+2026-01-23 16:09:10,491 - INFO - 🏢 Fetching Publisher for: Two Point Hospital
+2026-01-23 16:09:12,436 - INFO - 💰 Fetching Price for: The Operator
+2026-01-23 16:09:22,859 - INFO - 🏢 Fetching Publisher for: The Operator
+2026-01-23 16:09:24,763 - INFO - 💰 Fetching Price for: Backpack Hero
+2026-01-23 16:09:35,237 - INFO - 🏢 Fetching Publisher for: Backpack Hero
+2026-01-23 16:09:37,148 - INFO - 💰 Fetching Price for: Figment 2
+2026-01-23 16:09:47,597 - INFO - 🏢 Fetching Publisher for: Figment 2
+2026-01-23 16:09:49,535 - INFO - 💰 Fetching Price for: Sky Racket
+2026-01-23 16:09:59,999 - INFO - 🏢 Fetching Publisher for: Sky Racket
+2026-01-23 16:10:02,070 - INFO - 💰 Fetching Price for: Civilization 6 Platinum Edition
+2026-01-23 16:10:12,301 - INFO - 🏢 Fetching Publisher for: Civilization 6 Platinum Edition
+2026-01-23 16:10:14,067 - INFO - 💰 Fetching Price for: Legion TD2
+2026-01-23 16:10:24,525 - INFO - 🏢 Fetching Publisher for: Legion TD2
+2026-01-23 16:10:26,461 - INFO - 💰 Fetching Price for: Keylocker
+2026-01-23 16:10:36,904 - INFO - 🏢 Fetching Publisher for: Keylocker
+2026-01-23 16:10:38,912 - INFO - 💰 Fetching Price for: Pilgrims
+2026-01-23 16:10:49,338 - INFO - 🏢 Fetching Publisher for: Pilgrims
+2026-01-23 16:10:51,289 - INFO - 💰 Fetching Price for: 112 Operator
+2026-01-23 16:11:07,073 - INFO - 🏢 Fetching Publisher for: 112 Operator
+2026-01-23 16:11:09,079 - INFO - 💰 Fetching Price for: Road Redemption
+2026-01-23 16:11:19,526 - INFO - 🏢 Fetching Publisher for: Road Redemption
+2026-01-23 16:11:21,556 - INFO - 💰 Fetching Price for: Hidden Folks
+2026-01-23 16:11:32,001 - INFO - 🏢 Fetching Publisher for: Hidden Folks
+2026-01-23 16:11:33,914 - INFO - 💰 Fetching Price for: Kamaeru: A Frog Refuge
+2026-01-23 16:11:44,403 - INFO - 🏢 Fetching Publisher for: Kamaeru: A Frog Refuge
+2026-01-23 16:11:46,352 - INFO - 💰 Fetching Price for: Strange Horticulture
+2026-01-23 16:11:56,823 - INFO - 🏢 Fetching Publisher for: Strange Horticulture
+2026-01-23 16:11:58,771 - INFO - 💰 Fetching Price for: Machinarium
+2026-01-23 16:12:09,269 - INFO - 🏢 Fetching Publisher for: Machinarium
+2026-01-23 16:12:11,281 - INFO - 💰 Fetching Price for: Make Way
+2026-01-23 16:12:21,797 - INFO - 🏢 Fetching Publisher for: Make Way
+2026-01-23 16:12:23,769 - INFO - 💰 Fetching Price for: Monument Valley
+2026-01-23 16:12:34,249 - INFO - 🏢 Fetching Publisher for: Monument Valley
+2026-01-23 16:12:36,235 - INFO - 💰 Fetching Price for: Monument Valley 2
+2026-01-23 16:12:46,692 - INFO - 🏢 Fetching Publisher for: Monument Valley 2
+2026-01-23 16:12:48,716 - INFO - 💰 Fetching Price for: The Battle of Polytopia
+2026-01-23 16:12:59,187 - INFO - 🏢 Fetching Publisher for: The Battle of Polytopia
+2026-01-23 16:13:01,113 - INFO - 💰 Fetching Price for: Project Winter
+2026-01-23 16:13:11,604 - INFO - 🏢 Fetching Publisher for: Project Winter
+2026-01-23 16:13:13,524 - INFO - 💰 Fetching Price for: Samorost 2
+2026-01-23 16:13:23,963 - INFO - 🏢 Fetching Publisher for: Samorost 2
+2026-01-23 16:13:26,175 - INFO - 💰 Fetching Price for: Eastern Exorcist
+2026-01-23 16:13:36,620 - INFO - 🏢 Fetching Publisher for: Eastern Exorcist
+2026-01-23 16:13:38,544 - INFO - 💰 Fetching Price for: Jorels Brother and The Most Important Game of the Galaxy
+2026-01-23 16:13:48,736 - INFO - 🏢 Fetching Publisher for: Jorels Brother and The Most Important Game of the Galaxy
+2026-01-23 16:13:50,466 - INFO - 💰 Fetching Price for: Nightingale
+2026-01-23 16:14:00,967 - INFO - 🏢 Fetching Publisher for: Nightingale
+2026-01-23 16:14:02,910 - INFO - 💰 Fetching Price for: Gravity Circuit
+2026-01-23 16:14:13,367 - INFO - 🏢 Fetching Publisher for: Gravity Circuit
+2026-01-23 16:14:15,319 - INFO - 💰 Fetching Price for: Amnesia: The Bunker
+2026-01-23 16:14:25,769 - INFO - 🏢 Fetching Publisher for: Amnesia: The Bunker
+2026-01-23 16:14:27,730 - INFO - 💰 Fetching Price for: Samorost 3
+2026-01-23 16:14:38,185 - INFO - 🏢 Fetching Publisher for: Samorost 3
+2026-01-23 16:14:40,159 - INFO - 💰 Fetching Price for: Fear the Spotlight
+2026-01-23 16:14:50,628 - INFO - 🏢 Fetching Publisher for: Fear the Spotlight
+2026-01-23 16:14:52,596 - INFO - 💰 Fetching Price for: Five Nights at Freddy's: Into the Pit
+2026-01-23 16:15:03,092 - INFO - 🏢 Fetching Publisher for: Five Nights at Freddy's: Into the Pit
+2026-01-23 16:15:05,067 - INFO - 💰 Fetching Price for: Bendy and the Ink Machine
+2026-01-23 16:15:15,566 - INFO - 🏢 Fetching Publisher for: Bendy and the Ink Machine
+2026-01-23 16:15:17,498 - INFO - 💰 Fetching Price for: Felix The Reaper
+2026-01-23 16:15:27,967 - INFO - 🏢 Fetching Publisher for: Felix The Reaper
+2026-01-23 16:15:29,884 - INFO - 💰 Fetching Price for: ScourgeBringer
+2026-01-23 16:15:40,312 - INFO - 🏢 Fetching Publisher for: ScourgeBringer
+2026-01-23 16:15:42,329 - INFO - 💰 Fetching Price for: Songs of Silence
+2026-01-23 16:15:52,839 - INFO - 🏢 Fetching Publisher for: Songs of Silence
+2026-01-23 16:15:54,750 - INFO - 💰 Fetching Price for: Zero Hour
+2026-01-23 16:16:05,194 - INFO - 🏢 Fetching Publisher for: Zero Hour
+2026-01-23 16:16:07,172 - INFO - 💰 Fetching Price for: Zoeti
+2026-01-23 16:16:17,647 - INFO - 🏢 Fetching Publisher for: Zoeti
+2026-01-23 16:16:19,601 - INFO - 💰 Fetching Price for: Godzilla Voxel Wars
+2026-01-23 16:16:30,058 - INFO - 🏢 Fetching Publisher for: Godzilla Voxel Wars
+2026-01-23 16:16:31,973 - INFO - 💰 Fetching Price for: Universe for Sale
+2026-01-23 16:16:42,568 - INFO - 🏢 Fetching Publisher for: Universe for Sale
+2026-01-23 16:16:44,498 - INFO - 💰 Fetching Price for: The Darkside Detective
+2026-01-23 16:16:55,033 - INFO - 🏢 Fetching Publisher for: The Darkside Detective
+2026-01-23 16:16:56,921 - INFO - 💰 Fetching Price for: The Jackbox Party Pack 4
+2026-01-23 16:17:07,391 - INFO - 🏢 Fetching Publisher for: The Jackbox Party Pack 4
+2026-01-23 16:17:09,385 - INFO - 💰 Fetching Price for: Hogwarts Legacy
+2026-01-23 16:17:19,814 - INFO - 🏢 Fetching Publisher for: Hogwarts Legacy
+2026-01-23 16:17:21,730 - INFO - 💰 Fetching Price for: Jotunnslayer: Hordes of Hel
+2026-01-23 16:17:32,211 - INFO - 🏢 Fetching Publisher for: Jotunnslayer: Hordes of Hel
+2026-01-23 16:17:34,191 - INFO - 💰 Fetching Price for: Eternights
+2026-01-23 16:17:44,760 - INFO - 🏢 Fetching Publisher for: Eternights
+2026-01-23 16:17:46,741 - INFO - 💰 Fetching Price for: Blood West
+2026-01-23 16:17:57,344 - INFO - 🏢 Fetching Publisher for: Blood West
+2026-01-23 16:17:59,310 - INFO - 💰 Fetching Price for: Sorry We're Closed
+2026-01-23 16:18:09,881 - INFO - 🏢 Fetching Publisher for: Sorry We're Closed
+2026-01-23 16:18:11,817 - INFO - 💰 Fetching Price for: Paradise Killer
+2026-01-23 16:18:22,489 - INFO - 🏢 Fetching Publisher for: Paradise Killer
+2026-01-23 16:18:24,477 - INFO - 💰 Fetching Price for: Bloodstained: Ritual of the Night
+2026-01-23 16:18:35,000 - INFO - 🏢 Fetching Publisher for: Bloodstained: Ritual of the Night
+2026-01-23 16:18:37,024 - INFO - 💰 Fetching Price for: Disco Elysium  The Final Cut
+2026-01-23 16:18:47,228 - INFO - 🏢 Fetching Publisher for: Disco Elysium  The Final Cut
+2026-01-23 16:18:49,234 - INFO - 💰 Fetching Price for: We Were Here Together
+2026-01-23 16:18:59,675 - INFO - 🏢 Fetching Publisher for: We Were Here Together
+2026-01-23 16:19:01,791 - INFO - 💰 Fetching Price for: Cassette Beasts
+2026-01-23 16:19:13,561 - INFO - 🏢 Fetching Publisher for: Cassette Beasts
+2026-01-23 16:19:15,580 - INFO - 💰 Fetching Price for: SKALD: Against the Black Priory
+2026-01-23 16:19:26,049 - INFO - 🏢 Fetching Publisher for: SKALD: Against the Black Priory
+2026-01-23 16:19:27,989 - INFO - 💰 Fetching Price for: Viewfinder
+2026-01-23 16:19:38,546 - INFO - 🏢 Fetching Publisher for: Viewfinder
+2026-01-23 16:19:40,482 - INFO - 💰 Fetching Price for: Trine Classic Collection
+2026-01-23 16:19:51,002 - INFO - 🏢 Fetching Publisher for: Trine Classic Collection
+2026-01-23 16:19:52,720 - INFO - 💰 Fetching Price for: Wildgate
+2026-01-23 16:20:03,263 - INFO - 🏢 Fetching Publisher for: Wildgate
+2026-01-23 16:20:05,699 - INFO - 💰 Fetching Price for: Total War: Three Kingdoms
+2026-01-23 16:20:16,238 - INFO - 🏢 Fetching Publisher for: Total War: Three Kingdoms
+2026-01-23 16:20:18,314 - INFO - 💰 Fetching Price for: Styx: Master of Shadows
+2026-01-23 16:20:28,772 - INFO - 🏢 Fetching Publisher for: Styx: Master of Shadows
+2026-01-23 16:20:30,874 - INFO - 💰 Fetching Price for: Styx: Shards of Darkness - Deluxe Edition
+2026-01-23 16:20:41,433 - INFO - 🏢 Fetching Publisher for: Styx: Shards of Darkness - Deluxe Edition
+2026-01-23 16:20:43,146 - INFO - 💰 Fetching Price for: Rustler - Grand Theft Horse
+2026-01-23 16:20:53,616 - INFO - 🏢 Fetching Publisher for: Rustler - Grand Theft Horse
+2026-01-23 16:40:47,637 - INFO - Added 1 new games!
+2026-01-23 16:40:47,909 - INFO - No new games found.
+2026-01-23 16:40:47,923 - INFO - 🔍 Found 79 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 16:40:47,930 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 16:40:49,862 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Asylum
+2026-01-23 16:40:51,795 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Collection
+2026-01-23 16:40:53,721 - INFO - 🏢 Fetching Publisher for: LEGO Batman Trilogy
+2026-01-23 16:40:55,734 - INFO - 🏢 Fetching Publisher for: LEGO Batman: The Video Game
+2026-01-23 16:40:57,528 - INFO - 🏢 Fetching Publisher for: TowerFall Ascension
+2026-01-23 16:40:59,260 - INFO - 💰 Fetching Price for: Celeste (repeat)
+2026-01-23 16:41:09,575 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 16:41:11,405 - INFO - 🏢 Fetching Publisher for: Tormentor x Punisher
+2026-01-23 16:41:13,107 - INFO - 🏢 Fetching Publisher for: Borderlands: The Handsome Collection
+2026-01-23 16:41:14,855 - INFO - 💰 Fetching Price for: Stranger Things 3: The Game
+2026-01-23 16:41:25,325 - INFO - 🏢 Fetching Publisher for: Stranger Things 3: The Game
+2026-01-23 16:41:27,021 - INFO - 💰 Fetching Price for: 3 out of 10: Season One
+2026-01-23 16:41:38,652 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season One
+2026-01-23 16:41:40,734 - INFO - 💰 Fetching Price for: Hitman (2016)
+2026-01-23 16:41:51,003 - INFO - 🏢 Fetching Publisher for: Hitman (2016)
+2026-01-23 16:41:52,819 - INFO - 💰 Fetching Price for: Shadowrun Collection
+2026-01-23 16:42:03,139 - INFO - 🏢 Fetching Publisher for: Shadowrun Collection
+2026-01-23 16:42:04,937 - INFO - 💰 Fetching Price for: Football Manager 2020
+2026-01-23 16:42:15,304 - INFO - 🏢 Fetching Publisher for: RollerCoaster Tycoon 3: Complete Edition
+2026-01-23 16:42:17,085 - INFO - 🏢 Fetching Publisher for: Pillars of Eternity: Definitive Edition
+2026-01-23 16:42:18,822 - INFO - 🏢 Fetching Publisher for: Tyranny: Gold Edition
+2026-01-23 16:42:20,538 - INFO - 💰 Fetching Price for: 3 out of 10: Season Two
+2026-01-23 16:42:30,899 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season Two
+2026-01-23 16:42:32,613 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms
+2026-01-23 16:42:42,985 - INFO - 💰 Fetching Price for: NBA 2K21
+2026-01-23 16:42:53,567 - INFO - 🏢 Fetching Publisher for: NBA 2K21
+2026-01-23 16:42:55,267 - INFO - 💰 Fetching Price for: Defense Grid: The Awakening (repeat)
+2026-01-23 16:43:05,559 - INFO - 🏢 Fetching Publisher for: Defense Grid: The Awakening (repeat)
+2026-01-23 16:43:07,273 - INFO - 💰 Fetching Price for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 16:43:19,084 - INFO - 🏢 Fetching Publisher for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 16:43:20,821 - INFO - 💰 Fetching Price for: Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 16:43:31,330 - INFO - 🏢 Fetching Publisher for: Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 16:43:34,322 - INFO - 💰 Fetching Price for: KID A MNESIA EXHIBITION
+2026-01-23 16:43:44,598 - INFO - 🏢 Fetching Publisher for: KID A MNESIA EXHIBITION
+2026-01-23 16:43:46,293 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild
+2026-01-23 16:43:48,156 - INFO - 🏢 Fetching Publisher for: Godfall: Challenger Edition
+2026-01-23 16:43:49,924 - INFO - 💰 Fetching Price for: Second Extinction
+2026-01-23 16:44:00,162 - INFO - 🏢 Fetching Publisher for: Second Extinction
+2026-01-23 16:44:01,887 - INFO - 💰 Fetching Price for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 16:44:12,170 - INFO - 🏢 Fetching Publisher for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 16:44:13,918 - INFO - 🏢 Fetching Publisher for: Tomb Raider GOTY
+2026-01-23 16:44:15,746 - INFO - 💰 Fetching Price for: City of Brass (repeat)
+2026-01-23 16:44:26,028 - INFO - 🏢 Fetching Publisher for: City of Brass (repeat)
+2026-01-23 16:44:27,754 - INFO - 🏢 Fetching Publisher for: Bioshock: The Collection
+2026-01-23 16:44:29,490 - INFO - 💰 Fetching Price for: Hood: Outlaws & Legends
+2026-01-23 16:44:39,732 - INFO - 🏢 Fetching Publisher for: Hood: Outlaws & Legends
+2026-01-23 16:44:41,446 - INFO - 💰 Fetching Price for: Shop Titans
+2026-01-23 16:44:51,690 - INFO - 💰 Fetching Price for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 16:45:01,979 - INFO - 🏢 Fetching Publisher for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 16:45:03,724 - INFO - 💰 Fetching Price for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 16:45:14,004 - INFO - 🏢 Fetching Publisher for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 16:45:15,757 - INFO - 💰 Fetching Price for: ARK: Survival Evolved (repeat)
+2026-01-23 16:45:26,045 - INFO - 🏢 Fetching Publisher for: ARK: Survival Evolved (repeat)
+2026-01-23 16:45:27,781 - INFO - 💰 Fetching Price for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 16:45:38,106 - INFO - 🏢 Fetching Publisher for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 16:45:39,848 - INFO - 🏢 Fetching Publisher for: Evil Dead: The Game
+2026-01-23 16:45:41,561 - INFO - 💰 Fetching Price for: Saints Row 4 Re-Elected
+2026-01-23 16:45:51,814 - INFO - 🏢 Fetching Publisher for: Fallout Classic Collection
+2026-01-23 16:45:53,796 - INFO - 💰 Fetching Price for: Divine Knockout
+2026-01-23 16:46:04,102 - INFO - 🏢 Fetching Publisher for: Divine Knockout
+2026-01-23 16:46:05,816 - INFO - 💰 Fetching Price for: Epistory's Typing Chronicles
+2026-01-23 16:46:16,118 - INFO - 🏢 Fetching Publisher for: Epistory's Typing Chronicles
+2026-01-23 16:46:17,890 - INFO - 💰 Fetching Price for: World of Warships — Starter Pack: Ishizuchi
+2026-01-23 16:46:28,451 - INFO - 🏢 Fetching Publisher for: World of Warships — Starter Pack: Ishizuchi
+2026-01-23 16:46:30,368 - INFO - 🏢 Fetching Publisher for: The Silent Age
+2026-01-23 16:46:32,256 - INFO - 💰 Fetching Price for: Second Extinction
+2026-01-23 16:46:42,349 - INFO - 🏢 Fetching Publisher for: Second Extinction
+2026-01-23 16:46:44,082 - INFO - 💰 Fetching Price for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 16:46:54,341 - INFO - 🏢 Fetching Publisher for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 16:46:56,139 - INFO - 🏢 Fetching Publisher for: TheHunter: Call of the Wild
+2026-01-23 16:46:57,849 - INFO - 💰 Fetching Price for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 16:47:08,147 - INFO - 🏢 Fetching Publisher for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 16:47:09,887 - INFO - 💰 Fetching Price for: Europa Universalis IV (repeat)
+2026-01-23 16:47:20,186 - INFO - 🏢 Fetching Publisher for: Europa Universalis IV (repeat)
+2026-01-23 16:47:21,953 - INFO - 💰 Fetching Price for: Q.U.B.E. Ultimate Bundle
+2026-01-23 16:47:32,207 - INFO - 🏢 Fetching Publisher for: Q.U.B.E. Ultimate Bundle
+2026-01-23 16:47:33,955 - INFO - 🏢 Fetching Publisher for: Destiny 2: Legacy Collection
+2026-01-23 16:47:35,667 - INFO - 💰 Fetching Price for: A Plague Tale: Innocence (repeat)
+2026-01-23 16:47:45,939 - INFO - 🏢 Fetching Publisher for: A Plague Tale: Innocence (repeat)
+2026-01-23 16:47:47,701 - INFO - 💰 Fetching Price for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 16:47:58,059 - INFO - 🏢 Fetching Publisher for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 16:47:59,789 - INFO - 💰 Fetching Price for: Black Book (repeat)
+2026-01-23 16:48:10,745 - INFO - 🏢 Fetching Publisher for: Black Book (repeat)
+2026-01-23 16:48:12,474 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 16:48:22,801 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 16:48:24,542 - INFO - 💰 Fetching Price for: theHunter: Call of the Wild (repeat)
+2026-01-23 16:48:34,839 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild (repeat)
+2026-01-23 16:48:36,747 - INFO - 💰 Fetching Price for: Train Sim World 3 (example holiday slot)*
+2026-01-23 16:48:47,037 - INFO - 🏢 Fetching Publisher for: Train Sim World 3 (example holiday slot)*
+2026-01-23 16:48:48,779 - INFO - 💰 Fetching Price for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 16:48:59,074 - INFO - 🏢 Fetching Publisher for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 16:49:00,827 - INFO - 🏢 Fetching Publisher for: Snakebird Complete
+2026-01-23 16:49:02,553 - INFO - 💰 Fetching Price for: Saints Row (2022)
+2026-01-23 16:49:12,829 - INFO - 🏢 Fetching Publisher for: Saints Row (2022)
+2026-01-23 16:49:14,555 - INFO - 💰 Fetching Price for: Thief (2014)
+2026-01-23 16:49:24,791 - INFO - 🏢 Fetching Publisher for: Thief (2014)
+2026-01-23 16:49:26,732 - INFO - 💰 Fetching Price for: Town of Salem 2
+2026-01-23 16:49:36,989 - INFO - 💰 Fetching Price for: Orcs Must Die! 2 (repeat)
+2026-01-23 16:49:47,278 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 2 (repeat)
+2026-01-23 16:49:49,039 - INFO - 💰 Fetching Price for: Firestone: Online Idle RPG
+2026-01-23 16:49:59,414 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 16:50:09,513 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 16:50:11,237 - INFO - 💰 Fetching Price for: Freshly Frosted + Rumble Club pack
+2026-01-23 16:50:21,489 - INFO - 🏢 Fetching Publisher for: Freshly Frosted + Rumble Club pack
+2026-01-23 16:50:23,224 - INFO - 💰 Fetching Price for: Rawmen: Food Fighter Arena
+2026-01-23 16:50:33,493 - INFO - 💰 Fetching Price for: World of Warships – Starter Pack: Albany
+2026-01-23 16:50:44,294 - INFO - 🏢 Fetching Publisher for: World of Warships – Starter Pack: Albany
+2026-01-23 16:50:46,023 - INFO - 💰 Fetching Price for: Fallout Classic Edition
+2026-01-23 16:50:56,282 - INFO - 🏢 Fetching Publisher for: Fallout Classic Edition
+2026-01-23 16:50:58,021 - INFO - 💰 Fetching Price for: Wild Card Football
+2026-01-23 16:51:08,260 - INFO - 🏢 Fetching Publisher for: Wild Card Football
+2026-01-23 16:51:09,986 - INFO - 🏢 Fetching Publisher for: Snakebird Complete
+2026-01-23 16:51:11,712 - INFO - 💰 Fetching Price for: Dark and Darker
+2026-01-23 16:51:21,980 - INFO - 💰 Fetching Price for: Orcs Must Die! 3 (repeat)
+2026-01-23 16:51:32,238 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 3 (repeat)
+2026-01-23 16:51:33,999 - INFO - 💰 Fetching Price for: REDACTED (mystery day 2024)*
+2026-01-23 16:51:44,260 - INFO - 🏢 Fetching Publisher for: REDACTED (mystery day 2024)*
+2026-01-23 16:51:46,096 - INFO - 🏢 Fetching Publisher for: Undying
+2026-01-23 16:51:48,071 - INFO - 💰 Fetching Price for: World Of Warships – Anniversary Party Flavor
+2026-01-23 16:51:58,872 - INFO - 🏢 Fetching Publisher for: World Of Warships – Anniversary Party Flavor
+2026-01-23 16:52:00,606 - INFO - 💰 Fetching Price for: Albion Online Welcome Gift
+2026-01-23 16:52:10,850 - INFO - 🏢 Fetching Publisher for: Albion Online Welcome Gift
+2026-01-23 16:52:12,601 - INFO - 💰 Fetching Price for: Civilization 6 Platinum Edition
+2026-01-23 16:52:22,861 - INFO - 🏢 Fetching Publisher for: Civilization 6 Platinum Edition
+2026-01-23 16:52:24,586 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 16:52:24,586 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 16:52:24,587 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 16:52:24,587 - WARNING - ⚠️ DATA QUALITY WARNING: 68 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 16:52:24,588 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 16:52:24,588 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 16:52:24,588 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 16:52:24,591 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 16:52:24,593 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 16:57:52,671 - INFO - No new games found.
+2026-01-23 16:57:52,977 - INFO - No new games found.
+2026-01-23 16:57:52,980 - INFO - 🔍 Found 76 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 16:57:52,986 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 16:57:54,970 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Asylum
+2026-01-23 16:57:56,951 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Collection
+2026-01-23 16:59:47,838 - INFO - No new games found.
+2026-01-23 16:59:48,161 - INFO - No new games found.
+2026-01-23 16:59:48,164 - INFO - 🔍 Found 52 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 16:59:48,169 - INFO - 💰 Fetching Price for: Celeste (repeat)
+2026-01-23 16:59:58,403 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 17:00:00,123 - INFO - 💰 Fetching Price for: Stranger Things 3: The Game
+2026-01-23 17:00:28,193 - INFO - No new games found.
+2026-01-23 17:00:28,463 - INFO - No new games found.
+2026-01-23 17:00:28,466 - INFO - 🔍 Found 52 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:00:28,472 - INFO - 💰 Fetching Price for: Celeste (repeat)
+2026-01-23 17:00:38,561 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 17:00:40,353 - INFO - 💰 Fetching Price for: Stranger Things 3: The Game
+2026-01-23 17:00:50,839 - INFO - 🏢 Fetching Publisher for: Stranger Things 3: The Game
+2026-01-23 17:00:52,557 - INFO - 💰 Fetching Price for: 3 out of 10: Season One
+2026-01-23 17:01:02,825 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season One
+2026-01-23 17:01:04,552 - INFO - 💰 Fetching Price for: Hitman (2016)
+2026-01-23 17:01:14,983 - INFO - 🏢 Fetching Publisher for: Hitman (2016)
+2026-01-23 17:01:16,748 - INFO - 💰 Fetching Price for: Shadowrun Collection
+2026-01-23 17:01:27,038 - INFO - 🏢 Fetching Publisher for: Shadowrun Collection
+2026-01-23 17:01:28,792 - INFO - 💰 Fetching Price for: Football Manager 2020
+2026-01-23 17:09:49,643 - INFO - No new games found.
+2026-01-23 17:09:49,944 - INFO - No new games found.
+2026-01-23 17:09:49,947 - INFO - 🔍 Found 76 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:09:49,953 - INFO - 🏢 Fetching Publisher for: Super Meat Boy
+2026-01-23 17:09:52,017 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Asylum
+2026-01-23 17:09:54,050 - INFO - 🏢 Fetching Publisher for: Batman: Arkham Collection
+2026-01-23 17:09:56,021 - INFO - 🏢 Fetching Publisher for: LEGO Batman Trilogy
+2026-01-23 17:09:57,936 - INFO - 🏢 Fetching Publisher for: LEGO Batman: The Video Game
+2026-01-23 17:09:59,711 - INFO - 🏢 Fetching Publisher for: TowerFall Ascension
+2026-01-23 17:10:01,492 - INFO - 💰 Fetching Price for: Celeste (repeat)
+2026-01-23 17:10:11,641 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 17:10:17,138 - INFO - No new games found.
+2026-01-23 17:10:17,418 - INFO - No new games found.
+2026-01-23 17:10:17,421 - INFO - 🔍 Found 76 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:10:17,427 - INFO - 🏢 Fetching Publisher for: Celeste (repeat)
+2026-01-23 17:10:19,174 - INFO - 🏢 Fetching Publisher for: Tormentor x Punisher
+2026-01-23 17:10:20,950 - INFO - 🏢 Fetching Publisher for: Borderlands: The Handsome Collection
+2026-01-23 17:11:57,697 - INFO - No new games found.
+2026-01-23 17:11:58,024 - INFO - No new games found.
+2026-01-23 17:11:58,027 - INFO - 🔍 Found 76 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:11:58,034 - INFO - 🏢 Fetching Publisher for: Borderlands: The Handsome Collection
+2026-01-23 17:11:59,816 - INFO - 💰 Fetching Price for: Stranger Things 3: The Game
+2026-01-23 17:12:09,905 - INFO - 🏢 Fetching Publisher for: Stranger Things 3: The Game
+2026-01-23 17:12:11,615 - INFO - 💰 Fetching Price for: 3 out of 10: Season One
+2026-01-23 17:12:21,718 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season One
+2026-01-23 17:12:23,505 - INFO - 💰 Fetching Price for: Hitman (2016)
+2026-01-23 17:12:33,601 - INFO - 🏢 Fetching Publisher for: Hitman (2016)
+2026-01-23 17:12:35,320 - INFO - 💰 Fetching Price for: Shadowrun Collection
+2026-01-23 17:12:45,426 - INFO - 🏢 Fetching Publisher for: Shadowrun Collection
+2026-01-23 17:12:47,150 - INFO - 💰 Fetching Price for: Football Manager 2020
+2026-01-23 17:12:57,443 - INFO - 🏢 Fetching Publisher for: RollerCoaster Tycoon 3: Complete Edition
+2026-01-23 17:12:59,190 - INFO - 🏢 Fetching Publisher for: Pillars of Eternity: Definitive Edition
+2026-01-23 17:13:00,918 - INFO - 🏢 Fetching Publisher for: Tyranny: Gold Edition
+2026-01-23 17:13:02,685 - INFO - 💰 Fetching Price for: 3 out of 10: Season Two
+2026-01-23 17:13:12,975 - INFO - 🏢 Fetching Publisher for: 3 out of 10: Season Two
+2026-01-23 17:13:14,728 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms
+2026-01-23 17:13:24,996 - INFO - 💰 Fetching Price for: NBA 2K21
+2026-01-23 17:13:35,244 - INFO - 🏢 Fetching Publisher for: NBA 2K21
+2026-01-23 17:13:37,085 - INFO - 💰 Fetching Price for: Defense Grid: The Awakening (repeat)
+2026-01-23 17:13:47,345 - INFO - 🏢 Fetching Publisher for: Defense Grid: The Awakening (repeat)
+2026-01-23 17:13:49,067 - INFO - 💰 Fetching Price for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 17:13:59,342 - INFO - 🏢 Fetching Publisher for: Rogue Company Season 4 Epic Pack (DLC)
+2026-01-23 17:14:01,119 - INFO - 💰 Fetching Price for: KID A MNESIA EXHIBITION
+2026-01-23 17:14:11,382 - INFO - 🏢 Fetching Publisher for: KID A MNESIA EXHIBITION
+2026-01-23 17:14:13,114 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild
+2026-01-23 17:14:14,855 - INFO - 🏢 Fetching Publisher for: Godfall: Challenger Edition
+2026-01-23 17:14:16,586 - INFO - 💰 Fetching Price for: Second Extinction
+2026-01-23 17:14:26,923 - INFO - 🏢 Fetching Publisher for: Second Extinction
+2026-01-23 17:14:28,676 - INFO - 💰 Fetching Price for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 17:14:38,970 - INFO - 🏢 Fetching Publisher for: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-01-23 17:14:40,706 - INFO - 🏢 Fetching Publisher for: Tomb Raider GOTY
+2026-01-23 17:14:42,434 - INFO - 💰 Fetching Price for: City of Brass (repeat)
+2026-01-23 17:14:52,718 - INFO - 🏢 Fetching Publisher for: City of Brass (repeat)
+2026-01-23 17:14:54,518 - INFO - 🏢 Fetching Publisher for: Bioshock: The Collection
+2026-01-23 17:14:56,240 - INFO - 💰 Fetching Price for: Hood: Outlaws & Legends
+2026-01-23 17:15:06,665 - INFO - 🏢 Fetching Publisher for: Hood: Outlaws & Legends
+2026-01-23 17:15:08,381 - INFO - 💰 Fetching Price for: Shop Titans
+2026-01-23 17:15:18,669 - INFO - 💰 Fetching Price for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 17:15:28,907 - INFO - 🏢 Fetching Publisher for: Rumbleverse Boom Boxer Pack (DLC)
+2026-01-23 17:15:30,630 - INFO - 💰 Fetching Price for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 17:15:40,902 - INFO - 🏢 Fetching Publisher for: Realm Royale Reforged Epic Launch Bundle (DLC)
+2026-01-23 17:15:42,620 - INFO - 💰 Fetching Price for: ARK: Survival Evolved (repeat)
+2026-01-23 17:15:52,896 - INFO - 🏢 Fetching Publisher for: ARK: Survival Evolved (repeat)
+2026-01-23 17:15:54,616 - INFO - 💰 Fetching Price for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 17:16:04,872 - INFO - 🏢 Fetching Publisher for: Shadow Tactics: Blades of the Shogun (repeat)
+2026-01-23 17:16:06,620 - INFO - 🏢 Fetching Publisher for: Evil Dead: The Game
+2026-01-23 17:16:08,362 - INFO - 💰 Fetching Price for: Saints Row 4 Re-Elected
+2026-01-23 17:16:18,637 - INFO - 🏢 Fetching Publisher for: Fallout Classic Collection
+2026-01-23 17:16:20,665 - INFO - 💰 Fetching Price for: Divine Knockout
+2026-01-23 17:16:31,012 - INFO - 🏢 Fetching Publisher for: Divine Knockout
+2026-01-23 17:16:32,708 - INFO - 💰 Fetching Price for: Epistory's Typing Chronicles
+2026-01-23 17:16:43,034 - INFO - 🏢 Fetching Publisher for: Epistory's Typing Chronicles
+2026-01-23 17:16:44,750 - INFO - 🏢 Fetching Publisher for: The Silent Age
+2026-01-23 17:16:46,675 - INFO - 💰 Fetching Price for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 17:16:56,949 - INFO - 🏢 Fetching Publisher for: The Sims 4 The Daring Lifestyle Bundle
+2026-01-23 17:16:58,682 - INFO - 🏢 Fetching Publisher for: TheHunter: Call of the Wild
+2026-01-23 17:17:00,409 - INFO - 💰 Fetching Price for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 17:17:10,697 - INFO - 🏢 Fetching Publisher for: Idle Champions Of The Forgotten Realms Pack
+2026-01-23 17:17:12,433 - INFO - 💰 Fetching Price for: Europa Universalis IV (repeat)
+2026-01-23 17:17:22,734 - INFO - 🏢 Fetching Publisher for: Europa Universalis IV (repeat)
+2026-01-23 17:17:24,481 - INFO - 💰 Fetching Price for: Q.U.B.E. Ultimate Bundle
+2026-01-23 17:17:34,864 - INFO - 🏢 Fetching Publisher for: Q.U.B.E. Ultimate Bundle
+2026-01-23 17:17:36,611 - INFO - 🏢 Fetching Publisher for: Destiny 2: Legacy Collection
+2026-01-23 17:17:38,333 - INFO - 💰 Fetching Price for: A Plague Tale: Innocence (repeat)
+2026-01-23 17:17:48,618 - INFO - 🏢 Fetching Publisher for: A Plague Tale: Innocence (repeat)
+2026-01-23 17:17:50,325 - INFO - 💰 Fetching Price for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 17:18:00,629 - INFO - 🏢 Fetching Publisher for: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-01-23 17:18:02,348 - INFO - 💰 Fetching Price for: Black Book (repeat)
+2026-01-23 17:18:12,609 - INFO - 🏢 Fetching Publisher for: Black Book (repeat)
+2026-01-23 17:18:14,338 - INFO - 💰 Fetching Price for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 17:18:24,621 - INFO - 🏢 Fetching Publisher for: Idle Champions of the Forgotten Realms (DLC pack)
+2026-01-23 17:18:26,351 - INFO - 💰 Fetching Price for: theHunter: Call of the Wild (repeat)
+2026-01-23 17:18:36,651 - INFO - 🏢 Fetching Publisher for: theHunter: Call of the Wild (repeat)
+2026-01-23 17:18:38,389 - INFO - 💰 Fetching Price for: Train Sim World 3 (example holiday slot)*
+2026-01-23 17:18:48,659 - INFO - 🏢 Fetching Publisher for: Train Sim World 3 (example holiday slot)*
+2026-01-23 17:18:50,406 - INFO - 💰 Fetching Price for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 17:19:00,750 - INFO - 🏢 Fetching Publisher for: Turnip Boy Commits Tax Evasion (repeat)
+2026-01-23 17:19:02,480 - INFO - 🏢 Fetching Publisher for: Snakebird Complete
+2026-01-23 17:19:04,199 - INFO - 💰 Fetching Price for: Saints Row (2022)
+2026-01-23 17:19:14,495 - INFO - 🏢 Fetching Publisher for: Saints Row (2022)
+2026-01-23 17:19:16,218 - INFO - 💰 Fetching Price for: Thief (2014)
+2026-01-23 17:19:26,460 - INFO - 🏢 Fetching Publisher for: Thief (2014)
+2026-01-23 17:19:28,469 - INFO - 💰 Fetching Price for: Town of Salem 2
+2026-01-23 17:19:38,784 - INFO - 💰 Fetching Price for: Orcs Must Die! 2 (repeat)
+2026-01-23 17:19:49,031 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 2 (repeat)
+2026-01-23 17:19:50,730 - INFO - 💰 Fetching Price for: Firestone: Online Idle RPG
+2026-01-23 17:20:00,974 - INFO - 💰 Fetching Price for: Freshly Frosted + Rumble Club pack
+2026-01-23 17:20:12,814 - INFO - 🏢 Fetching Publisher for: Freshly Frosted + Rumble Club pack
+2026-01-23 17:20:14,510 - INFO - 💰 Fetching Price for: Rawmen: Food Fighter Arena
+2026-01-23 17:20:24,779 - INFO - 💰 Fetching Price for: World of Warships â€“ Starter Pack: Albany
+2026-01-23 17:20:35,281 - INFO - 🏢 Fetching Publisher for: World of Warships â€“ Starter Pack: Albany
+2026-01-23 17:20:37,017 - INFO - 💰 Fetching Price for: Fallout Classic Edition
+2026-01-23 17:20:47,279 - INFO - 🏢 Fetching Publisher for: Fallout Classic Edition
+2026-01-23 17:20:49,021 - INFO - 💰 Fetching Price for: Wild Card Football
+2026-01-23 17:20:59,302 - INFO - 🏢 Fetching Publisher for: Wild Card Football
+2026-01-23 17:21:00,991 - INFO - 💰 Fetching Price for: Dark and Darker
+2026-01-23 17:21:11,295 - INFO - 💰 Fetching Price for: Orcs Must Die! 3 (repeat)
+2026-01-23 17:21:21,546 - INFO - 🏢 Fetching Publisher for: Orcs Must Die! 3 (repeat)
+2026-01-23 17:21:23,263 - INFO - 💰 Fetching Price for: REDACTED (mystery day 2024)*
+2026-01-23 17:21:33,503 - INFO - 🏢 Fetching Publisher for: REDACTED (mystery day 2024)*
+2026-01-23 17:21:35,289 - INFO - 🏢 Fetching Publisher for: Undying
+2026-01-23 17:21:37,204 - INFO - 💰 Fetching Price for: World Of Warships â€“ Anniversary Party Flavor
+2026-01-23 17:21:47,449 - INFO - 🏢 Fetching Publisher for: World Of Warships â€“ Anniversary Party Flavor
+2026-01-23 17:21:49,165 - INFO - 💰 Fetching Price for: Albion Online Welcome Gift
+2026-01-23 17:21:59,446 - INFO - 🏢 Fetching Publisher for: Albion Online Welcome Gift
+2026-01-23 17:22:01,174 - INFO - 💰 Fetching Price for: Civilization 6 Platinum Edition
+2026-01-23 17:22:11,424 - INFO - 🏢 Fetching Publisher for: Civilization 6 Platinum Edition
+2026-01-23 17:22:13,148 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 17:22:13,148 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:22:13,149 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:22:13,149 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:22:13,150 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:22:13,150 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:22:13,151 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:22:15,916 - INFO - No new games found.
+2026-01-23 17:22:16,302 - INFO - No new games found.
+2026-01-23 17:22:16,304 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:22:16,304 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:22:16,305 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:22:16,306 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:22:16,307 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:22:16,307 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:22:16,307 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:24:36,676 - INFO - No new games found.
+2026-01-23 17:24:36,986 - INFO - No new games found.
+2026-01-23 17:24:36,989 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:24:36,989 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:24:36,990 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:24:36,990 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:24:36,991 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:24:36,991 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:24:36,991 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:24:37,010 - INFO - Adding missing 'id' column to DataFrame.
+2026-01-23 17:24:37,011 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:24:37,014 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:24:37,019 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,992.46** |
+| 📦 **Total Games Collected** | 621 |
+| 📉 **Average Game Price** | $20.92 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($716.18), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (68 games) |
+| 📈 **Inflation-Adjusted Value** | $14,955.69 |
+| 💸 **Purchasing Power Gained** | $1,963.23 |
+2026-01-23 17:24:37,020 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:24:37,310 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:27:11,836 - INFO - No new games found.
+2026-01-23 17:27:12,161 - INFO - No new games found.
+2026-01-23 17:27:12,164 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:27:12,165 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:27:12,166 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:27:12,166 - WARNING - ⚠️ DATA QUALITY WARNING: 659 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:27:12,167 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:27:12,168 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 17:27:12,168 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 17:27:12,176 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:27:12,178 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:27:12,180 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,832.99** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($14,832.99) |
+| 👑 **MVP Publisher** | Unknown Publisher (659 games) |
+| 📈 **Inflation-Adjusted Value** | $16,906.66 |
+| 💸 **Purchasing Power Gained** | $2,073.67 |
+2026-01-23 17:27:12,181 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:27:12,480 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:28:55,083 - INFO - No new games found.
+2026-01-23 17:28:55,409 - INFO - No new games found.
+2026-01-23 17:28:55,412 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:28:55,412 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:28:55,414 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:28:55,414 - WARNING - ⚠️ DATA QUALITY WARNING: 659 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:28:55,415 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:28:55,415 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 17:28:55,416 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 17:28:55,423 - INFO - Adding missing 'id' column to DataFrame.
+2026-01-23 17:28:55,424 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:28:55,426 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:28:55,428 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,832.99** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($14,832.99) |
+| 👑 **MVP Publisher** | Unknown Publisher (659 games) |
+| 📈 **Inflation-Adjusted Value** | $16,906.66 |
+| 💸 **Purchasing Power Gained** | $2,073.67 |
+2026-01-23 17:28:55,429 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:28:55,711 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:29:42,455 - INFO - No new games found.
+2026-01-23 17:29:42,821 - INFO - No new games found.
+2026-01-23 17:29:42,824 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:29:42,824 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:29:42,825 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:29:42,825 - WARNING - ⚠️ DATA QUALITY WARNING: 659 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:29:42,826 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:29:42,826 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 17:29:42,827 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 17:29:42,834 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:29:42,837 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:29:42,839 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,832.99** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($14,832.99) |
+| 👑 **MVP Publisher** | Unknown Publisher (659 games) |
+| 📈 **Inflation-Adjusted Value** | $16,906.66 |
+| 💸 **Purchasing Power Gained** | $2,073.67 |
+2026-01-23 17:29:42,841 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:29:43,100 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:30:50,408 - INFO - Added 1 new games!
+2026-01-23 17:30:50,701 - INFO - No new games found.
+2026-01-23 17:30:50,714 - INFO - 🔍 Found 660 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:30:50,725 - INFO - 💰 Fetching Price for: Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:31:01,239 - INFO - 🏢 Fetching Publisher for: Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:31:02,960 - INFO - 💰 Fetching Price for: World of Warships â€” Starter Pack: Ishizuchi
+2026-01-23 17:31:13,428 - INFO - 🏢 Fetching Publisher for: World of Warships â€” Starter Pack: Ishizuchi
+2026-01-23 17:31:15,170 - INFO - 💰 Fetching Price for: Jorelâ€™s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:31:25,652 - INFO - 🏢 Fetching Publisher for: Jorelâ€™s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:31:27,486 - INFO - 💰 Fetching Price for: Disco Elysium â€” The Final Cut
+2026-01-23 17:31:37,925 - INFO - 🏢 Fetching Publisher for: Disco Elysium â€” The Final Cut
+2026-01-23 17:31:39,724 - INFO - 🏢 Fetching Publisher for: Trine Classic Collection
+2026-01-23 17:31:41,614 - INFO - 🏢 Fetching Publisher for: Styx: Shards of Darkness - Deluxe Edition
+2026-01-23 17:31:43,370 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 17:31:43,371 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:31:43,372 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:31:43,372 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:31:43,373 - WARNING - 🧹 CLEANUP: Removed 34 duplicate rows.
+2026-01-23 17:31:43,374 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:31:43,374 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:31:43,393 - WARNING - ❌ LOGIC ERROR: 89 games end before they start!
+2026-01-23 17:31:43,394 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:31:43,396 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:31:43,398 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($857.74), Bethesda Softworks ($434.84), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (71 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:31:43,399 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:31:43,692 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:33:23,603 - INFO - No new games found.
+2026-01-23 17:33:23,927 - INFO - No new games found.
+2026-01-23 17:33:23,930 - INFO - 🔍 Found 626 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:33:23,940 - INFO - 💰 Fetching Price for: Tiny TinaÃ¢â‚¬â„¢s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:33:34,341 - INFO - 🏢 Fetching Publisher for: Tiny TinaÃ¢â‚¬â„¢s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:33:36,117 - INFO - 💰 Fetching Price for: World of Warships Ã¢â‚¬â€ Starter Pack: Ishizuchi
+2026-01-23 17:33:46,516 - INFO - 🏢 Fetching Publisher for: World of Warships Ã¢â‚¬â€ Starter Pack: Ishizuchi
+2026-01-23 17:33:48,252 - INFO - 💰 Fetching Price for: World of Warships Ã¢â‚¬â€œ Starter Pack: Albany
+2026-01-23 17:33:58,564 - INFO - 🏢 Fetching Publisher for: World of Warships Ã¢â‚¬â€œ Starter Pack: Albany
+2026-01-23 17:34:00,315 - INFO - 💰 Fetching Price for: World Of Warships Ã¢â‚¬â€œ Anniversary Party Flavor
+2026-01-23 17:34:10,565 - INFO - 🏢 Fetching Publisher for: World Of Warships Ã¢â‚¬â€œ Anniversary Party Flavor
+2026-01-23 17:34:12,351 - INFO - 💰 Fetching Price for: JorelÃ¢â‚¬â„¢s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:34:22,757 - INFO - 🏢 Fetching Publisher for: JorelÃ¢â‚¬â„¢s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:34:24,490 - INFO - 💰 Fetching Price for: Disco Elysium Ã¢â‚¬â€ The Final Cut
+2026-01-23 17:34:34,959 - INFO - 🏢 Fetching Publisher for: Disco Elysium Ã¢â‚¬â€ The Final Cut
+2026-01-23 17:34:36,705 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 17:34:36,705 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:34:36,706 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:34:36,706 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:34:36,707 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:34:36,708 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:34:36,708 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:34:36,714 - WARNING - ❌ LOGIC ERROR: 89 games end before they start!
+2026-01-23 17:34:36,715 - INFO - Adding missing 'id' column to DataFrame.
+2026-01-23 17:34:36,715 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:34:36,718 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:34:36,720 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($857.74), Bethesda Softworks ($434.84), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (71 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:34:36,721 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:34:36,988 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:35:15,061 - INFO - Added 1 new games!
+2026-01-23 17:35:15,427 - INFO - No new games found.
+2026-01-23 17:35:15,439 - INFO - 🔍 Found 72 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:35:15,445 - INFO - 💰 Fetching Price for: Tiny TinaÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:35:25,839 - INFO - 🏢 Fetching Publisher for: Tiny TinaÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-01-23 17:35:27,554 - INFO - 💰 Fetching Price for: World of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ Starter Pack: Ishizuchi
+2026-01-23 17:35:37,994 - INFO - 🏢 Fetching Publisher for: World of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ Starter Pack: Ishizuchi
+2026-01-23 17:35:39,704 - INFO - 💰 Fetching Price for: World of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Starter Pack: Albany
+2026-01-23 17:35:50,054 - INFO - 🏢 Fetching Publisher for: World of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Starter Pack: Albany
+2026-01-23 17:35:51,771 - INFO - 💰 Fetching Price for: World Of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Anniversary Party Flavor
+2026-01-23 17:36:02,073 - INFO - 🏢 Fetching Publisher for: World Of Warships ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Anniversary Party Flavor
+2026-01-23 17:36:03,954 - INFO - 💰 Fetching Price for: JorelÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:36:14,296 - INFO - 🏢 Fetching Publisher for: JorelÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:36:16,025 - INFO - 💰 Fetching Price for: Disco Elysium ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ The Final Cut
+2026-01-23 17:36:26,403 - INFO - 🏢 Fetching Publisher for: Disco Elysium ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ The Final Cut
+2026-01-23 17:36:28,160 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 17:36:28,161 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:36:28,162 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:36:28,162 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:36:28,163 - WARNING - 🧹 CLEANUP: Removed 1 duplicate rows.
+2026-01-23 17:36:28,164 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:36:28,164 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:36:28,173 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:36:28,176 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:36:28,178 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($857.74), Bethesda Softworks ($434.84), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (71 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:36:28,179 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:36:28,451 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:37:46,148 - INFO - No new games found.
+2026-01-23 17:37:46,415 - INFO - No new games found.
+2026-01-23 17:37:46,418 - INFO - ✨ All data rows are complete. No API calls needed.
+2026-01-23 17:37:46,419 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:37:46,420 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:37:46,420 - WARNING - ⚠️ DATA QUALITY WARNING: 659 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:37:46,421 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:37:46,421 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 17:37:46,421 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 17:37:46,429 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:37:46,432 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:37:46,433 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,832.99** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($14,832.99) |
+| 👑 **MVP Publisher** | Unknown Publisher (659 games) |
+| 📈 **Inflation-Adjusted Value** | $16,906.66 |
+| 💸 **Purchasing Power Gained** | $2,073.67 |
+2026-01-23 17:37:46,434 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:37:46,850 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:38:26,229 - INFO - Added 1 new games!
+2026-01-23 17:38:26,600 - INFO - No new games found.
+2026-01-23 17:38:26,613 - INFO - 🔍 Found 660 games needing metadata (Price/Publisher). Starting enrichment...
+2026-01-23 17:38:26,638 - INFO - ✅ Metadata enrichment complete and saved to CSV.
+2026-01-23 17:38:26,638 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:38:26,640 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:38:26,640 - INFO - ✅ Data Quality: All games have publishers.
+2026-01-23 17:38:26,641 - WARNING - 🧹 CLEANUP: Removed 34 duplicate rows.
+2026-01-23 17:38:26,642 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:38:26,642 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:38:26,650 - WARNING - ❌ LOGIC ERROR: 89 games end before they start!
+2026-01-23 17:38:26,651 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:38:26,654 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:38:26,656 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($857.74), Bethesda Softworks ($434.84), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (71 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:38:26,657 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:38:27,259 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:43:23,403 - INFO - No new games found.
+2026-01-23 17:43:23,728 - INFO - No new games found.
+2026-01-23 17:43:23,731 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:43:23,732 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:43:23,732 - WARNING - ⚠️ DATA QUALITY WARNING: 659 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:43:23,733 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:43:23,734 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 17:43:23,734 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 17:43:23,741 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:43:23,744 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:43:23,746 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,832.99** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($14,832.99) |
+| 👑 **MVP Publisher** | Unknown Publisher (659 games) |
+| 📈 **Inflation-Adjusted Value** | $16,906.66 |
+| 💸 **Purchasing Power Gained** | $2,073.67 |
+2026-01-23 17:43:23,747 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:43:24,140 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:45:17,556 - INFO - No new games found.
+2026-01-23 17:45:17,857 - INFO - No new games found.
+2026-01-23 17:45:17,860 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 17:45:17,872 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 17:45:18,017 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 17:45:18,027 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:18,036 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 17:45:18,042 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 17:45:18,132 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 17:45:18,148 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:18,270 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 17:45:18,341 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:18,370 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 17:45:18,415 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 17:45:18,441 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 17:45:18,446 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:18,485 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:18,566 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:18,571 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:18,698 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 17:45:18,736 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 17:45:18,788 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:18,881 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:45:18,886 - WARNING - ⚠️ Metadata for 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure' incomplete. Will retry in next run.
+2026-01-23 17:45:18,895 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 17:45:18,918 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:45:18,931 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:18,966 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:45:19,003 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,008 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 17:45:19,075 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,137 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:19,179 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 17:45:19,225 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,250 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,263 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,324 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,332 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 17:45:19,386 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:19,431 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 17:45:19,440 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 17:45:19,500 - WARNING - ⚠️ Metadata for 'World of Warships â€” Starter Pack: Ishizuchi' incomplete. Will retry in next run.
+2026-01-23 17:45:19,504 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 17:45:19,525 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:45:19,561 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 17:45:19,591 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:45:19,595 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 17:45:19,636 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,697 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 17:45:19,762 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:19,778 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,783 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 17:45:19,787 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,805 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,814 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,818 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 17:45:19,827 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,860 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:45:19,865 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 17:45:19,927 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 17:45:20,008 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:20,036 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:45:20,040 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 17:45:20,089 - WARNING - ⚠️ Metadata for 'World of Warships â€“ Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 17:45:20,103 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:20,107 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 17:45:20,184 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:45:20,249 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:45:20,255 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 17:45:20,285 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 17:45:20,323 - WARNING - ⚠️ Metadata for 'World Of Warships â€“ Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 17:45:20,356 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 17:45:20,439 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:20,521 - WARNING - ⚠️ Metadata for 'Jorelâ€™s Brother and The Most Important Game of the Galaxy' incomplete. Will retry in next run.
+2026-01-23 17:45:20,626 - WARNING - ⚠️ Metadata for 'Disco Elysium â€” The Final Cut' incomplete. Will retry in next run.
+2026-01-23 17:45:20,646 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:45:20,676 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 17:45:20,688 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:45:20,688 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:45:20,689 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:45:20,689 - WARNING - ⚠️ DATA QUALITY WARNING: 74 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:45:20,690 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:45:20,690 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:45:20,691 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:45:20,698 - INFO - Adding missing 'id' column to DataFrame.
+2026-01-23 17:45:20,698 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:45:20,712 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:45:20,715 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:45:20,716 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:45:20,970 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:46:01,005 - INFO - No new games found.
+2026-01-23 17:46:01,343 - INFO - No new games found.
+2026-01-23 17:46:01,346 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:46:01,348 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:46:01,348 - WARNING - ⚠️ DATA QUALITY WARNING: 74 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:46:01,349 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:46:01,349 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:46:01,350 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:46:01,357 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:46:01,361 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:46:01,363 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:46:01,364 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:46:02,578 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:50:46,165 - INFO - No new games found.
+2026-01-23 17:50:46,441 - INFO - No new games found.
+2026-01-23 17:50:46,444 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 17:50:46,455 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 17:50:46,598 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 17:50:46,608 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:46,617 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 17:50:46,622 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 17:50:46,712 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 17:50:46,729 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:46,849 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 17:50:46,921 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:46,949 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 17:50:46,995 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 17:50:47,020 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,025 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:47,063 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:47,129 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:47,134 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:47,262 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 17:50:47,299 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 17:50:47,352 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,447 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,452 - WARNING - ⚠️ Metadata for 'Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure' incomplete. Will retry in next run.
+2026-01-23 17:50:47,461 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 17:50:47,474 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:50:47,491 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:47,521 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:50:47,560 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,565 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 17:50:47,630 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,693 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:47,734 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 17:50:47,778 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,804 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,816 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,878 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:47,887 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 17:50:47,941 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:47,986 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 17:50:47,995 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 17:50:48,047 - WARNING - ⚠️ Metadata for 'World of Warships â€” Starter Pack: Ishizuchi' incomplete. Will retry in next run.
+2026-01-23 17:50:48,052 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 17:50:48,078 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:50:48,111 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 17:50:48,139 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:50:48,144 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 17:50:48,184 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,244 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 17:50:48,304 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:48,320 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,325 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 17:50:48,330 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,347 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,356 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,360 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 17:50:48,369 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,404 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:50:48,409 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,482 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,561 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,590 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,595 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 17:50:48,645 - WARNING - ⚠️ Metadata for 'World of Warships â€“ Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 17:50:48,658 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:48,662 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 17:50:48,739 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:50:48,805 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:50:48,810 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 17:50:48,839 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 17:50:48,879 - WARNING - ⚠️ Metadata for 'World Of Warships â€“ Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 17:50:48,912 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 17:50:48,995 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:49,072 - WARNING - ⚠️ Metadata for 'Jorelâ€™s Brother and The Most Important Game of the Galaxy' incomplete. Will retry in next run.
+2026-01-23 17:50:49,174 - WARNING - ⚠️ Metadata for 'Disco Elysium â€” The Final Cut' incomplete. Will retry in next run.
+2026-01-23 17:50:49,196 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:50:49,221 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 17:50:49,233 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:50:49,233 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:50:49,235 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:50:49,235 - WARNING - ⚠️ DATA QUALITY WARNING: 74 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:50:49,235 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:50:49,236 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:50:49,236 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:50:49,244 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:50:49,246 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:50:49,248 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:50:49,249 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:50:49,512 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:51:18,399 - INFO - Added 1 new games!
+2026-01-23 17:51:18,675 - INFO - No new games found.
+2026-01-23 17:51:18,688 - INFO - 🔍 Found 1 games needing metadata. Starting enrichment...
+2026-01-23 17:51:18,701 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:51:18,701 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:51:18,703 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:51:18,703 - WARNING - ⚠️ DATA QUALITY WARNING: 74 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:51:18,704 - WARNING - 🧹 CLEANUP: Removed 34 duplicate rows.
+2026-01-23 17:51:18,705 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:51:18,706 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:51:18,715 - WARNING - ❌ LOGIC ERROR: 89 games end before they start!
+2026-01-23 17:51:18,716 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:51:18,718 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:51:18,720 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($857.74), Bethesda Softworks ($434.84), 2K ($429.90) |
+| 👑 **MVP Publisher** | Unknown Publisher (71 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:51:18,721 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:51:18,992 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:52:32,339 - INFO - No new games found.
+2026-01-23 17:52:32,649 - INFO - No new games found.
+2026-01-23 17:52:32,651 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 17:52:32,662 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 17:52:32,795 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 17:52:32,804 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:32,813 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 17:52:32,827 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 17:52:32,922 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 17:52:32,938 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,060 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 17:52:33,130 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:33,158 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 17:52:33,204 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 17:52:33,228 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,232 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:33,271 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:33,338 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:33,342 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:33,470 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 17:52:33,508 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 17:52:33,564 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,659 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,672 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 17:52:33,692 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:52:33,709 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:33,742 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:52:33,785 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,790 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 17:52:33,854 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:33,915 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:33,956 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 17:52:34,002 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,028 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,041 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,101 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,110 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 17:52:34,163 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:34,222 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 17:52:34,232 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 17:52:34,296 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 17:52:34,317 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:52:34,351 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 17:52:34,382 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:52:34,386 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 17:52:34,430 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,488 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 17:52:34,551 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 17:52:34,570 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,575 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 17:52:34,579 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,598 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,608 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,612 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 17:52:34,621 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,655 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:52:34,659 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,720 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,801 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,830 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:52:34,835 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 17:52:34,885 - INFO - 🏢 Fetching Publisher for: World of Warships – Starter Pack: Albany
+2026-01-23 17:52:36,662 - WARNING - ⚠️ Metadata for 'World of Warships – Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 17:52:36,675 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:36,680 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 17:52:36,760 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:52:36,828 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:52:36,832 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 17:52:36,862 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 17:52:36,898 - INFO - 💰 Fetching Price for: World Of Warships – Anniversary Party Flavor
+2026-01-23 17:52:47,225 - INFO - 🏢 Fetching Publisher for: World Of Warships – Anniversary Party Flavor
+2026-01-23 17:52:48,947 - WARNING - ⚠️ Metadata for 'World Of Warships – Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 17:52:48,985 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 17:52:49,084 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 17:52:49,168 - INFO - 💰 Fetching Price for: Jorel’s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:52:59,841 - INFO - 🏢 Fetching Publisher for: Jorel’s Brother and The Most Important Game of the Galaxy
+2026-01-23 17:53:01,948 - INFO - 💰 Fetching Price for: Disco Elysium — The Final Cut
+2026-01-23 17:53:12,473 - INFO - 🏢 Fetching Publisher for: Disco Elysium — The Final Cut
+2026-01-23 17:53:14,405 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:53:14,431 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 17:53:14,444 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:53:14,445 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:53:14,446 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:53:14,446 - WARNING - ⚠️ DATA QUALITY WARNING: 70 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:53:14,447 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 17:53:14,447 - WARNING - ⚠️  PRICE WARNING: 52 games have a price of $0.0 or None.
+2026-01-23 17:53:14,447 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:53:14,456 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:53:14,459 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:53:14,461 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:53:14,462 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:53:14,788 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:53:42,941 - INFO - Added 1 new games!
+2026-01-23 17:53:43,209 - INFO - No new games found.
+2026-01-23 17:53:43,225 - INFO - 🔍 Found 1 games needing metadata. Starting enrichment...
+2026-01-23 17:53:43,238 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:53:43,238 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:53:43,239 - INFO - ✅ Data Quality: All games have titles.
+2026-01-23 17:53:43,240 - WARNING - ⚠️ DATA QUALITY WARNING: 70 games have 'Unknown' or missing publishers. These will appear as 'Unknown' in your Top Contributors list.
+2026-01-23 17:53:43,240 - WARNING - 🧹 CLEANUP: Removed 34 duplicate rows.
+2026-01-23 17:53:43,241 - WARNING - ⚠️  PRICE WARNING: 50 games have a price of $0.0 or None.
+2026-01-23 17:53:43,242 - WARNING - Sample missing: ['Celeste (repeat)', 'Stranger Things 3: The Game', '3 out of 10: Season One']
+2026-01-23 17:53:43,249 - WARNING - ❌ LOGIC ERROR: 89 games end before they start!
+2026-01-23 17:53:43,250 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:53:43,252 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:53:43,254 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($771.17), 2K ($439.89), Bethesda Softworks ($434.84) |
+| 👑 **MVP Publisher** | Unknown Publisher (67 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:53:43,256 - INFO - ✅ README.md updated with live stats.
+2026-01-23 17:53:43,988 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:57:44,641 - INFO - Added 1 new games!
+2026-01-23 17:57:44,947 - INFO - No new games found.
+2026-01-23 17:57:44,960 - INFO - 🔍 Found 1 games needing metadata. Starting enrichment...
+2026-01-23 17:57:44,974 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:57:44,974 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:57:44,976 - WARNING - 🧹 CLEANUP: Removed 1 duplicates.
+2026-01-23 17:57:44,983 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:57:44,987 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:57:44,989 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,194.89** |
+| 📦 **Total Games Collected** | 626 |
+| 📉 **Average Game Price** | $21.08 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($771.17), 2K ($439.89), Bethesda Softworks ($434.84) |
+| 👑 **MVP Publisher** | Unknown Publisher (67 games) |
+| 📈 **Inflation-Adjusted Value** | $13,818.02 |
+| 💸 **Purchasing Power Gained** | $623.13 |
+2026-01-23 17:57:44,990 - INFO - ✅ README.md updated.
+2026-01-23 17:57:45,256 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:58:09,053 - INFO - No new games found.
+2026-01-23 17:58:09,406 - INFO - No new games found.
+2026-01-23 17:58:09,409 - INFO - 🔍 Found 659 games needing metadata. Starting enrichment...
+2026-01-23 17:58:09,419 - WARNING - ⚠️ Metadata for 'Super Meat Boy' incomplete. Will retry in next run.
+2026-01-23 17:58:09,561 - WARNING - ⚠️ Metadata for 'Batman: Arkham Asylum' incomplete. Will retry in next run.
+2026-01-23 17:58:09,570 - WARNING - ⚠️ Metadata for 'Batman: Arkham Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:09,579 - WARNING - ⚠️ Metadata for 'LEGO Batman Trilogy' incomplete. Will retry in next run.
+2026-01-23 17:58:09,583 - WARNING - ⚠️ Metadata for 'LEGO Batman: The Video Game' incomplete. Will retry in next run.
+2026-01-23 17:58:09,672 - WARNING - ⚠️ Metadata for 'TowerFall Ascension' incomplete. Will retry in next run.
+2026-01-23 17:58:09,690 - WARNING - ⚠️ Metadata for 'Celeste (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:09,813 - WARNING - ⚠️ Metadata for 'Tormentor x Punisher' incomplete. Will retry in next run.
+2026-01-23 17:58:09,882 - WARNING - ⚠️ Metadata for 'Borderlands: The Handsome Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:09,911 - WARNING - ⚠️ Metadata for 'Stranger Things 3: The Game' incomplete. Will retry in next run.
+2026-01-23 17:58:09,957 - WARNING - ⚠️ Metadata for '3 out of 10: Season One' incomplete. Will retry in next run.
+2026-01-23 17:58:09,982 - WARNING - ⚠️ Metadata for 'Hitman (2016)' incomplete. Will retry in next run.
+2026-01-23 17:58:09,987 - WARNING - ⚠️ Metadata for 'Shadowrun Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:10,029 - WARNING - ⚠️ Metadata for 'RollerCoaster Tycoon 3: Complete Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:10,096 - WARNING - ⚠️ Metadata for 'Pillars of Eternity: Definitive Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:10,100 - WARNING - ⚠️ Metadata for 'Tyranny: Gold Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:10,227 - WARNING - ⚠️ Metadata for '3 out of 10: Season Two' incomplete. Will retry in next run.
+2026-01-23 17:58:10,264 - WARNING - ⚠️ Metadata for 'NBA 2K21' incomplete. Will retry in next run.
+2026-01-23 17:58:10,319 - WARNING - ⚠️ Metadata for 'Defense Grid: The Awakening (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,415 - WARNING - ⚠️ Metadata for 'Rogue Company Season 4 Epic Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,429 - WARNING - ⚠️ Metadata for 'KID A MNESIA EXHIBITION' incomplete. Will retry in next run.
+2026-01-23 17:58:10,442 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:58:10,454 - WARNING - ⚠️ Metadata for 'Godfall: Challenger Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:10,484 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:58:10,529 - WARNING - ⚠️ Metadata for 'Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,535 - WARNING - ⚠️ Metadata for 'Tomb Raider GOTY' incomplete. Will retry in next run.
+2026-01-23 17:58:10,602 - WARNING - ⚠️ Metadata for 'City of Brass (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,666 - WARNING - ⚠️ Metadata for 'Bioshock: The Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:10,708 - WARNING - ⚠️ Metadata for 'Hood: Outlaws & Legends' incomplete. Will retry in next run.
+2026-01-23 17:58:10,754 - WARNING - ⚠️ Metadata for 'Rumbleverse Boom Boxer Pack (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,779 - WARNING - ⚠️ Metadata for 'Realm Royale Reforged Epic Launch Bundle (DLC)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,793 - WARNING - ⚠️ Metadata for 'ARK: Survival Evolved (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,855 - WARNING - ⚠️ Metadata for 'Shadow Tactics: Blades of the Shogun (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:10,865 - WARNING - ⚠️ Metadata for 'Evil Dead: The Game' incomplete. Will retry in next run.
+2026-01-23 17:58:10,919 - WARNING - ⚠️ Metadata for 'Fallout Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:10,964 - WARNING - ⚠️ Metadata for 'Divine Knockout' incomplete. Will retry in next run.
+2026-01-23 17:58:10,973 - WARNING - ⚠️ Metadata for 'Epistory's Typing Chronicles' incomplete. Will retry in next run.
+2026-01-23 17:58:11,032 - WARNING - ⚠️ Metadata for 'The Silent Age' incomplete. Will retry in next run.
+2026-01-23 17:58:11,053 - WARNING - ⚠️ Metadata for 'Second Extinction' incomplete. Will retry in next run.
+2026-01-23 17:58:11,087 - WARNING - ⚠️ Metadata for 'The Sims 4 The Daring Lifestyle Bundle' incomplete. Will retry in next run.
+2026-01-23 17:58:11,115 - WARNING - ⚠️ Metadata for 'TheHunter: Call of the Wild' incomplete. Will retry in next run.
+2026-01-23 17:58:11,120 - WARNING - ⚠️ Metadata for 'Idle Champions Of The Forgotten Realms Pack' incomplete. Will retry in next run.
+2026-01-23 17:58:11,162 - WARNING - ⚠️ Metadata for 'Europa Universalis IV (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,219 - WARNING - ⚠️ Metadata for 'Q.U.B.E. Ultimate Bundle' incomplete. Will retry in next run.
+2026-01-23 17:58:11,284 - WARNING - ⚠️ Metadata for 'Destiny 2: Legacy Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:11,302 - WARNING - ⚠️ Metadata for 'A Plague Tale: Innocence (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,306 - WARNING - ⚠️ Metadata for 'Additional minor DLC / cosmetics slots (holiday pack group)*' incomplete. Will retry in next run.
+2026-01-23 17:58:11,311 - WARNING - ⚠️ Metadata for 'Black Book (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,329 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,338 - WARNING - ⚠️ Metadata for 'theHunter: Call of the Wild (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,343 - WARNING - ⚠️ Metadata for 'Train Sim World 3 (example holiday slot)*' incomplete. Will retry in next run.
+2026-01-23 17:58:11,352 - WARNING - ⚠️ Metadata for 'Turnip Boy Commits Tax Evasion (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,386 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:58:11,391 - WARNING - ⚠️ Metadata for 'Saints Row (2022)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,456 - WARNING - ⚠️ Metadata for 'Thief (2014)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,542 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 2 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,576 - WARNING - ⚠️ Metadata for 'Idle Champions of the Forgotten Realms (DLC pack)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,581 - WARNING - ⚠️ Metadata for 'Freshly Frosted + Rumble Club pack' incomplete. Will retry in next run.
+2026-01-23 17:58:11,631 - WARNING - ⚠️ Metadata for 'World of Warships – Starter Pack: Albany' incomplete. Will retry in next run.
+2026-01-23 17:58:11,644 - WARNING - ⚠️ Metadata for 'Fallout Classic Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:11,649 - WARNING - ⚠️ Metadata for 'Wild Card Football' incomplete. Will retry in next run.
+2026-01-23 17:58:11,724 - WARNING - ⚠️ Metadata for 'Snakebird Complete' incomplete. Will retry in next run.
+2026-01-23 17:58:11,792 - WARNING - ⚠️ Metadata for 'Orcs Must Die! 3 (repeat)' incomplete. Will retry in next run.
+2026-01-23 17:58:11,796 - WARNING - ⚠️ Metadata for 'REDACTED (mystery day 2024)*' incomplete. Will retry in next run.
+2026-01-23 17:58:11,825 - WARNING - ⚠️ Metadata for 'Undying' incomplete. Will retry in next run.
+2026-01-23 17:58:11,862 - WARNING - ⚠️ Metadata for 'World Of Warships – Anniversary Party Flavor' incomplete. Will retry in next run.
+2026-01-23 17:58:11,895 - WARNING - ⚠️ Metadata for 'Albion Online Welcome Gift' incomplete. Will retry in next run.
+2026-01-23 17:58:11,983 - WARNING - ⚠️ Metadata for 'Civilization 6 Platinum Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:12,194 - WARNING - ⚠️ Metadata for 'Trine Classic Collection' incomplete. Will retry in next run.
+2026-01-23 17:58:12,219 - WARNING - ⚠️ Metadata for 'Styx: Shards of Darkness - Deluxe Edition' incomplete. Will retry in next run.
+2026-01-23 17:58:12,230 - INFO - ✅ Metadata enrichment session complete.
+2026-01-23 17:58:12,230 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:58:12,239 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:58:12,614 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:58:12,617 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:58:12,618 - INFO - ✅ README.md updated.
+2026-01-23 17:58:12,883 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:58:40,585 - INFO - No new games found.
+2026-01-23 17:58:40,884 - INFO - No new games found.
+2026-01-23 17:58:40,887 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:58:40,896 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:58:40,904 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:58:40,906 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:58:40,907 - INFO - ✅ README.md updated.
+2026-01-23 17:58:41,485 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 17:59:20,539 - INFO - No new games found.
+2026-01-23 17:59:20,847 - INFO - No new games found.
+2026-01-23 17:59:20,851 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 17:59:20,859 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 17:59:20,866 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 17:59:20,868 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 17:59:20,869 - INFO - ✅ README.md updated.
+2026-01-23 17:59:21,133 - INFO - 📈 Savings chart generated successfully.
+2026-01-23 18:00:05,460 - INFO - No new games found.
+2026-01-23 18:00:05,737 - INFO - No new games found.
+2026-01-23 18:00:05,741 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 18:00:05,750 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 18:00:05,756 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 18:00:05,758 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,956.08** |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $21.18 |
+| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
+| 🏢 **Top 3 Contributors** | Unknown Publisher ($786.16), Bethesda Softworks ($504.82), 2K ($439.89) |
+| 👑 **MVP Publisher** | Unknown Publisher (70 games) |
+| 📈 **Inflation-Adjusted Value** | $15,927.50 |
+| 💸 **Purchasing Power Gained** | $1,971.42 |
+2026-01-23 18:00:05,759 - INFO - ✅ README.md updated.
+2026-01-23 18:00:06,025 - INFO - 📈 Savings chart generated successfully.
