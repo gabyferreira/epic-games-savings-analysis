@@ -121,3 +121,26 @@ Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
 | 📉 **Average Game Price** | $22.51 |
 | 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
 2026-01-23 11:06:08,929 - INFO - ✅ README.md updated with live stats.
+2026-01-23 16:56:53,384 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-01-23 16:56:53,531 - INFO - generated new fontManager
+2026-01-23 16:56:54,172 - INFO - No new games found.
+2026-01-23 16:56:54,450 - INFO - No new games found.
+2026-01-23 16:56:54,452 - INFO - Rows missing price: 0
+2026-01-23 16:56:54,452 - INFO - No missing prices — nothing to fetch.
+2026-01-23 16:56:54,452 - INFO - 
+--- Starting Data Quality Checks ---
+2026-01-23 16:56:54,453 - INFO - ✅ Success: All games have titles.
+2026-01-23 16:56:54,454 - INFO - ✅ Success: No duplicate giveaway instances found.
+2026-01-23 16:56:54,455 - WARNING - ⚠️  PRICE WARNING: 15 games have a price of $0.0 or None.
+2026-01-23 16:56:54,455 - WARNING - Sample missing: ['3 out of 10: Season One', '3 out of 10: Season Two', 'Tiny Tina\x92s Assault on Dragon Keep: A Wonderlands One-Shot Adventure']
+2026-01-23 16:56:54,459 - INFO - --- Data Quality Checks Complete ---
+
+2026-01-23 16:56:54,462 - INFO - ✅ Update complete: Data scraped, enriched, and validated.
+2026-01-23 16:56:54,462 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | $14,832.99 |
+| 📦 **Total Games Collected** | 659 |
+| 📉 **Average Game Price** | $22.51 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+2026-01-23 16:56:54,463 - INFO - ✅ README.md updated with live stats.
+2026-01-23 16:56:54,829 - INFO - 📈 Savings chart generated successfully.
