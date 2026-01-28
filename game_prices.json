@@ -17,7 +17,7 @@
     },
     "Styx: Shards of Darkness - Deluxe Edition": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Nacon"
     },
     "Subnautica": {
         "price": 29.99,
@@ -25,7 +25,7 @@
     },
     "Super Meat Boy": {
         "price": 14.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Team Meat"
     },
     "What Remains of Edith Finch": {
         "price": 19.99,
@@ -157,7 +157,7 @@
     },
     "Batman: Arkham Asylum": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "WB Games"
     },
     "Batman: Arkham City": {
         "price": 19.99,
@@ -165,7 +165,7 @@
     },
     "Batman: Arkham Collection": {
         "price": 59.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "WB Games"
     },
     "BATMAN: ARKHAM KNIGHT": {
         "price": 19.99,
@@ -173,11 +173,11 @@
     },
     "LEGO Batman Trilogy": {
         "price": 49.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Warner Bros. Interactive Entertainment"
     },
     "LEGO Batman: The Video Game": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Warner Bros. Interactive Entertainment"
     },
     "LEGO Batman 2: DC Super Heroes": {
         "price": 19.99,
@@ -265,7 +265,7 @@
     },
     "TowerFall Ascension": {
         "price": 14.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Maddy Makes Games"
     },
     "Superhot": {
         "price": 24.99,
@@ -393,7 +393,7 @@
     },
     "Tormentor x Punisher": {
         "price": 7.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Raw Fury"
     },
     "World War Z": {
         "price": 29.99,
@@ -461,7 +461,7 @@
     },
     "Borderlands: The Handsome Collection": {
         "price": 59.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "2K"
     },
     "Borderlands: The Pre-Sequel": {
         "price": 39.99,
@@ -557,7 +557,7 @@
     },
     "RollerCoaster Tycoon 3: Complete Edition": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Frontier Developments"
     },
     "Pikuniku": {
         "price": 12.99,
@@ -617,11 +617,11 @@
     },
     "Pillars of Eternity: Definitive Edition": {
         "price": 39.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Paradox Interactive"
     },
     "Tyranny: Gold Edition": {
         "price": 49.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Paradox Interactive"
     },
     "Cities: Skylines": {
         "price": 29.99,
@@ -881,7 +881,7 @@
     },
     "theHunter: Call of the Wild": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Expansive Worlds"
     },
     "Dead by Daylight": {
         "price": 19.99,
@@ -893,7 +893,7 @@
     },
     "Godfall: Challenger Edition": {
         "price": 24.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Gearbox Publishing"
     },
     "Prison Architect": {
         "price": 29.99,
@@ -937,7 +937,7 @@
     },
     "Tomb Raider GOTY": {
         "price": 19.8,
-        "publisher": "Publisher Not Found"
+        "publisher": "Square Enix Europe"
     },
     "Rise of the Tomb Raider": {
         "price": 29.99,
@@ -1029,7 +1029,7 @@
     },
     "Bioshock: The Collection": {
         "price": 59.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "2K"
     },
     "BioShock": {
         "price": 19.99,
@@ -1181,7 +1181,7 @@
     },
     "Evil Dead: The Game": {
         "price": 39.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Boss Team Games"
     },
     "Star Wars: Squadrons": {
         "price": 39.99,
@@ -1217,7 +1217,7 @@
     },
     "Fallout Classic Collection": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Bethesda Softworks"
     },
     "Encased": {
         "price": 29.99,
@@ -1309,7 +1309,7 @@
     },
     "The Silent Age": {
         "price": 9.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Meridian4"
     },
     "Tunche": {
         "price": 19.99,
@@ -1369,7 +1369,7 @@
     },
     "TheHunter: Call of the Wild": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Expansive Worlds"
     },
     "The Dungeon of Naheulbeuk: The Amulet of Chaos": {
         "price": 34.99,
@@ -1497,7 +1497,7 @@
     },
     "Destiny 2: Legacy Collection": {
         "price": 69.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Bungie Inc."
     },
     "DNF Duel": {
         "price": 49.99,
@@ -1545,7 +1545,7 @@
     },
     "Snakebird Complete": {
         "price": 14.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Noumenon Games"
     },
     "Ghostrunner": {
         "price": 29.99,
@@ -1821,7 +1821,7 @@
     },
     "Undying": {
         "price": 19.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Skystone Games"
     },
     "Humankind": {
         "price": 49.99,
@@ -2097,7 +2097,7 @@
     },
     "Trine Classic Collection": {
         "price": 49.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Frozenbyte"
     },
     "Wildgate": {
         "price": 29.99,
@@ -2117,71 +2117,71 @@
     },
     "Celeste (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Maddy Makes Games"
     },
     "Stranger Things 3: The Game": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Netflix Games"
     },
     "3 out of 10: Season One": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Terrible Posture Games"
     },
     "Hitman (2016)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 29.99,
+        "publisher": "Square Enix"
     },
     "Shadowrun Collection": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 39.99,
+        "publisher": "Paradox Interactive"
     },
     "Football Manager 2020": {
-        "price": 0.0,
+        "price": 5.49,
         "publisher": "SEGA"
     },
     "3 out of 10: Season Two": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Terrible Posture Games"
     },
     "Idle Champions of the Forgotten Realms": {
-        "price": 0.0,
+        "price": 11.99,
         "publisher": "Codename Entertainment Inc."
     },
     "NBA 2K21": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 69.99,
+        "publisher": "2K"
     },
     "Defense Grid: The Awakening (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Hidden Path Entertainment"
     },
     "Rogue Company Season 4 Epic Pack (DLC)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 9.99,
+        "publisher": "Hi-Rez Studios"
     },
     "Tiny Tina\u0092s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
-        "price": null,
+        "price": 9.99,
         "publisher": "Unknown Publisher"
     },
     "KID A MNESIA EXHIBITION": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Epic Games"
     },
     "Second Extinction": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Systemic Reaction"
     },
     "Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 39.99,
+        "publisher": "Square Enix Europe"
     },
     "City of Brass (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Uppercut Games"
     },
     "Hood: Outlaws & Legends": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Focus Entertainment"
     },
     "Shop Titans": {
         "price": 0.0,
@@ -2189,19 +2189,19 @@
     },
     "Rumbleverse Boom Boxer Pack (DLC)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Epic Games Publishing"
     },
     "Realm Royale Reforged Epic Launch Bundle (DLC)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Hi Rez Studios"
     },
     "ARK: Survival Evolved (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Studio Wildcard"
     },
     "Shadow Tactics: Blades of the Shogun (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Daedalic Entertainment"
     },
     "Saints Row 4 Re-Elected": {
         "price": 0.0,
@@ -2209,11 +2209,11 @@
     },
     "Divine Knockout": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Hi Rez Studios"
     },
     "Epistory's Typing Chronicles": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Fishing Cactus"
     },
     "World of Warships \u0097 Starter Pack: Ishizuchi": {
         "price": null,
@@ -2221,23 +2221,23 @@
     },
     "The Sims 4 The Daring Lifestyle Bundle": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Electronic Arts"
     },
     "Idle Champions Of The Forgotten Realms Pack": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 5.99,
+        "publisher": "Codename Entertainment Inc."
     },
     "Europa Universalis IV (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Paradox Interactive"
     },
     "Q.U.B.E. Ultimate Bundle": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 19.99,
+        "publisher": "Toxic Games"
     },
     "A Plague Tale: Innocence (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Focus Entertainment"
     },
     "Additional minor DLC / cosmetics slots (holiday pack group)*": {
         "price": 0.0,
@@ -2245,47 +2245,47 @@
     },
     "Black Book (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "HypeTrain Digital"
     },
     "Idle Champions of the Forgotten Realms (DLC pack)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 5.99,
+        "publisher": "Codename Entertainment Inc."
     },
     "theHunter: Call of the Wild (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Expansive Worlds"
     },
-    "Train Sim World 3 (example holiday slot)*": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+    "Train Sim World 3": {
+        "price": 24.99,
+        "publisher": "Dovetail Games"
     },
     "Turnip Boy Commits Tax Evasion (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Graffiti Games"
     },
     "Saints Row (2022)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 29.99,
+        "publisher": "Deep Silver Volition"
     },
     "Thief (2014)": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 19.99,
+        "publisher": "Square Enix"
     },
     "Town of Salem 2": {
-        "price": 0.0,
+        "price": 12.99,
         "publisher": "Digital Bandidos"
     },
     "Orcs Must Die! 2 (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Robot Entertainment"
     },
     "Firestone: Online Idle RPG": {
         "price": 0.0,
         "publisher": "Holyday Studios"
     },
     "Freshly Frosted + Rumble Club pack": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 9.99,
+        "publisher": "The Quantum Astrophysicists Guild"
     },
     "Rawmen: Food Fighter Arena": {
         "price": 0.0,
@@ -2296,12 +2296,12 @@
         "publisher": "Unknown Publisher"
     },
     "Fallout Classic Edition": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 19.99,
+        "publisher": "Bethesda Softworks"
     },
     "Wild Card Football": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 29.99,
+        "publisher": "Saber Interactive"
     },
     "Dark and Darker": {
         "price": 0.0,
@@ -2309,11 +2309,11 @@
     },
     "Orcs Must Die! 3 (repeat)": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Robot Entertainment"
     },
     "REDACTED (mystery day 2024)*": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 24.99,
+        "publisher": "KRAFTON"
     },
     "World Of Warships \u0096 Anniversary Party Flavor": {
         "price": null,
@@ -2321,11 +2321,11 @@
     },
     "Albion Online Welcome Gift": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Sandbox Interactive"
     },
     "Civilization 6 Platinum Edition": {
-        "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "price": 79.99,
+        "publisher": "2K"
     },
     "Jorel\u0092s Brother and The Most Important Game of the Galaxy": {
         "price": null,
@@ -2345,19 +2345,19 @@
     },
     "World of Warships \u2013 Starter Pack: Albany": {
         "price": 23.6,
-        "publisher": "Publisher Not Found"
+        "publisher": "Wargaming Group Limited"
     },
     "World Of Warships \u2013 Anniversary Party Flavor": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Wargaming Group Limited"
     },
     "World of Warships \u00e2\u20ac\u201c Starter Pack: Albany": {
         "price": 23.6,
-        "publisher": "Publisher Not Found"
+        "publisher": "Wargaming Group Limited"
     },
     "World Of Warships \u00e2\u20ac\u201c Anniversary Party Flavor": {
         "price": 0.0,
-        "publisher": "Publisher Not Found"
+        "publisher": "Wargaming Group Limited"
     },
     "Tiny Tina\u00e2\u20ac\u2122s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
@@ -2393,11 +2393,11 @@
     },
     "Jorel\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s Brother and The Most Important Game of the Galaxy": {
         "price": 14.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Double Dash Studios"
     },
     "Disco Elysium \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac The Final Cut": {
         "price": 39.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "ZA/UM"
     },
     "Tiny Tina\u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
@@ -2430,5 +2430,21 @@
     "Disco Elysium \u2014 The Final Cut": {
         "price": 39.99,
         "publisher": "ZA/UM"
+    },
+    "Tomb Raider Trilogy": {
+        "price": 50.47,
+        "publisher": "Publisher Not Found"
+    },
+    "ARK: Survival Evolved": {
+        "price": 14.99,
+        "publisher": "Studio Wildcard"
+    },
+    "Orcs Must Die! 2": {
+        "price": 14.99,
+        "publisher": "Robot Entertainment"
+    },
+    "[REDACTED]": {
+        "price": 24.99,
+        "publisher": "KRAFTON, Inc."
     }
 }

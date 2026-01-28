@@ -11,14 +11,16 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 <a name="stats_start"></a>
 | Metric | Statistics |
 | :--- | :--- |
-| 💰 **Total Market Value** | **$13,956.08** |
-| 📦 **Total Games Collected** | 659 |
-| 📉 **Average Game Price** | $21.18 |
-| 🏆 **Most Valuable Game** | Destiny 2: Legacy Collection ($69.99) |
-| 🏢 **Top 3 Contributors** | Unknown Publisher ($872.73), Bethesda Softworks ($504.82), 2K ($429.90) |
-| 👑 **MVP Publisher** | Unknown Publisher (74 games) |
-| 📈 **Inflation-Adjusted Value** | $15,927.50 |
-| 💸 **Purchasing Power Gained** | $1,971.42 |
+| 💰 **Total Market Value** | **$14,465.05** |
+| 📦 **Total Games Collected** | 646 |
+| 📉 **Average Game Price** | $22.39 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | 2K ($639.88), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 👑 **MVP Publisher** | Bethesda Softworks (20 games) |
+| 📈 **Inflation-Adjusted Value** | $16,464.36 |
+| 💸 **Purchasing Power Gained** | $1,999.31 |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,318.17 in savings. |
+
 <a name="stats_end"></a>
 ---
 

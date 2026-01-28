@@ -14,7 +14,7 @@ from visualiser import generate_savings_chart
 
 logger = logging.getLogger(__name__)
 
-file_path = "data/epic_games_data_edited_active7.csv"
+file_path = "data/epic_games_data_edited_active8.csv"
 try:
     # Force read using 'cp1252' (the specific Windows/Latin encoding that uses 0x92)
     # This will correctly interpret that '0x92' as an apostrophe
@@ -56,6 +56,11 @@ def update_csv():
         dayfirst=True, 
         errors='coerce'
     ).dt.strftime('%d-%m-%Y') #need to do this so that it is read like a date
+    df_existing['end_date'] = pd.to_datetime(
+        df_existing['end_date'], 
+        dayfirst=True, 
+        errors='coerce'
+    ).dt.strftime('%d-%m-%Y')
     df_new['start_date'] = pd.to_datetime(df_new['start_date']).dt.strftime('%d-%m-%Y')
     df_new['end_date'] = pd.to_datetime(df_new['end_date']).dt.strftime('%d-%m-%Y')
     df_to_add = df_new[~df_new['start_date'].isin(df_existing['start_date'])]
@@ -188,7 +193,6 @@ def get_game_metadata_with_cache(game_title, cache):
 
 # --- EXECUTION ---
 # Load data
-update_csv() 
 price_cache = load_cache()
 df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
@@ -228,6 +232,7 @@ if needs_enrichment.any():
             price_cache[title]['publisher'] = publisher
         else:
             logger.warning(f"⚠️ Metadata for '{title}' incomplete. Will retry in next run.")
+            
         
         # 4. Frequent Cache Saving
         # During a 600-game backfill, save the cache every loop so you don't 

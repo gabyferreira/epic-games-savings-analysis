@@ -126,6 +126,8 @@ def generate_summary_stats(df):
     else:
         mvp_display = "N/A"
 
+    seasonality_insight = analyze_seasonality(df)
+
     stats = (
         "| Metric | Statistics |\n"
         "| :--- | :--- |\n"
@@ -136,7 +138,8 @@ def generate_summary_stats(df):
         f"| 🏢 **Top 3 Contributors** | {publisher_stats} |\n"
         f"| 👑 **MVP Publisher** | {mvp_display} |\n"
         f"| 📈 **Inflation-Adjusted Value** | ${real_total:,.2f} |\n"
-        f"| 💸 **Purchasing Power Gained** | ${inflation_impact:,.2f} |"
+        f"| 💸 **Purchasing Power Gained** | ${inflation_impact:,.2f} |\n"
+        f"| 🗓️ **Peak Saving Month** | {seasonality_insight} |\n"
     )
     return stats
 
@@ -163,3 +166,17 @@ def update_readme(stats_text):
     with open(readme_path, "w", encoding="utf-8-sig") as f:
         f.write(updated_content)
     logger.info("✅ README.md updated.")
+
+def analyze_seasonality(df):
+    """Calculates which month historically provides the most value."""
+    # Ensure date is correct
+    df['start_date'] = pd.to_datetime(df['start_date'], dayfirst=True)
+    
+    # Group by month and sum the price
+    monthly_trends = df.groupby(df['start_date'].dt.strftime('%B'))['price'].sum()
+    
+    # Sort by value to find the 'Saving King'
+    top_month = monthly_trends.idxmax()
+    top_value = monthly_trends.max()
+    
+    return f"🎄 **Seasonality Peak:** {top_month} is historically the best month, offering ${top_value:,.2f} in savings."
