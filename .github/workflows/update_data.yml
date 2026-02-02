@@ -3,7 +3,7 @@ name: Daily Price and Game Update
 on:
   schedule:
     - cron: '30 16 * * *' # Runs everyday at 4:30 PM UTC
-  workflow_dispatch:      # Allows you to run it manually for testing
+  workflow_dispatch:      # Allows manual testing
 
 permissions:
   contents: write
@@ -22,9 +22,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests thefuzz python-Levenshtein tqdm matplotlib seaborn
+          # Added python-dotenv and ensured all others are present
+          pip install pandas requests thefuzz python-Levenshtein tqdm matplotlib seaborn python-dotenv
 
       - name: Run update script
+        env:
+          # This maps your GitHub Repository Secrets to the script's environment
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
         run: python src/scraper.py
 
       - name: Commit and Push changes
@@ -32,7 +37,7 @@ jobs:
           git config --global user.name "DataBot"
           git config --global user.email "bot@github.com"
           
-          # Stage EVERYTHING: Data, Cache, Logs, README table, and the new Chart
+          # Stage EVERYTHING: Data, Cache, Logs, README, and Charts
           git add data/ game_prices.json logs/ README.md assets/
           
           # Commit only if there are changes; exit cleanly if nothing new

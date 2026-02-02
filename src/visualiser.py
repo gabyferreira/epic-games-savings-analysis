@@ -7,6 +7,8 @@ import matplotlib.dates as mdates
 from processor import preprocess_for_plotting
 from datetime import datetime
 
+plt.rcParams['font.family'] = 'sans-serif'
+
 STEAM_SALES = [
     ("2018-12-20", "2019-01-03"), ("2019-06-25", "2019-07-09"),
     ("2019-12-19", "2020-01-02"), ("2020-06-25", "2020-07-09"),
