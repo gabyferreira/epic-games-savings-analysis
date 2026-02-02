@@ -1541,3 +1541,27 @@
 2026-02-02 16:58:23,898 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2026-02-02 16:58:23,899 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2026-02-02 16:58:26,221 - INFO - 📈 All charts generated successfully.
+2026-02-02 17:25:38,676 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-02-02 17:25:38,800 - INFO - generated new fontManager
+2026-02-02 17:25:39,604 - INFO - No new games found.
+2026-02-02 17:25:40,180 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-02 17:25:40,194 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-02 17:25:40,222 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,490.04** |
+| 📦 **Total Games Collected** | 647 |
+| 📉 **Average Game Price** | $22.40 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | 2K ($639.88), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 👑 **MVP Publisher** | Bethesda Softworks (20 games) |
+| 📈 **Inflation-Adjusted Value** | $16,489.35 |
+| 💸 **Purchasing Power Gained** | $1,999.31 |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,318.17 in savings. |
+| 🏆 **Generosity Leaderboard** | 2K (Score: 92.9), Bethesda Softworks (Score: 71.3), Paradox Interactive (Score: 60.8) |
+
+2026-02-02 17:25:40,222 - INFO - ✅ README.md updated.
+2026-02-02 17:25:40,239 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-02 17:25:40,240 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-02 17:25:43,680 - INFO - 📈 All charts generated successfully.
