@@ -7,12 +7,49 @@ import time
 import json
 import os
 from thefuzz import process
-from processor import validate_and_clean_data, generate_summary_stats, update_readme
+from processor import validate_and_clean_data, generate_summary_stats, update_readme, calculate_generosity_index, preprocess_for_plotting
 import logging
-from visualiser import generate_savings_chart
-
+from visualiser import (generate_savings_chart, generate_generosity_chart, 
+                        generate_monthly_bar_chart, generate_velocity_chart, 
+                        generate_inflation_comparison_chart, generate_market_timing_chart,
+                        generate_maturity_histogram)
+from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
+
+load_dotenv()
+IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
+IGDB_CLIENT_SECRET = os.getenv('IGDB_CLIENT_SECRET')
+
+def get_igdb_token():
+    """Gets a temporary access token from Twitch."""
+    auth_url = f"https://id.twitch.tv/oauth2/token?client_id={IGDB_CLIENT_ID}&client_secret={IGDB_CLIENT_SECRET}&grant_type=client_credentials"
+    try:
+        res = requests.post(auth_url, timeout=10).json()
+        return res.get('access_token')
+    except Exception as e:
+        logger.error(f"❌ IGDB Auth Failed: {e}")
+        return None
+
+def fetch_release_date_from_igdb(game_title, token):
+    """Queries IGDB for the earliest release date."""
+    if not token: return None
+    url = "https://api.igdb.com/v4/games"
+    headers = {
+        'Client-ID': IGDB_CLIENT_ID,
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'text/plain'
+    }
+    # Query: Search name, get first_release_date (Unix timestamp)
+    query = f'search "{game_title}"; fields first_release_date; limit 1;'
+    try:
+        res = requests.post(url, headers=headers, data=query, timeout=10).json()
+        if res and 'first_release_date' in res[0]:
+            ts = res[0]['first_release_date']
+            return datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d')
+    except Exception as e:
+        logger.warning(f"IGDB Error for {game_title}: {e}")
+    return None
 
 file_path = "data/epic_games_data_edited_active8.csv"
 try:
@@ -136,21 +173,26 @@ def get_publisher_from_steam(game_title):
     
     return "Unknown Publisher"
 
-def get_game_metadata_with_cache(game_title, cache):
+def get_game_metadata_with_cache(game_title, cache, igdb_token):
     """
-    Checks cache for price and publisher. 
-    Fetches from APIs only if we haven't tried before.
+    Checks cache for price, publisher, and release date.
+    Fetches from APIs only if data is missing.
     """
-    # 1. Initialize the entry
-    if game_title not in cache or not isinstance(cache[game_title], dict):
-        cache[game_title] = {"price": None, "publisher": "Unknown Publisher"}
+    # Initialize entry if new
+    if game_title not in cache:
+        cache[game_title] = {
+            "price": None, 
+            "publisher": "Unknown Publisher", 
+            "original_release_date": None
+        }
 
-    # 2. Fetch PRICE (CheapShark)
-    # Only fetch if price is exactly None. 
-    # If we found it, it's a float. If we tried and failed, it will be 0.0.
+    # 1. Fetch PRICE (CheapShark)
     if cache[game_title].get("price") is None:
+        # Only fetch if price is exactly None.
+
+        # If we found it, it's a float. If we tried and failed, it will be 0.0.
         logger.info(f"💰 Fetching Price for: {game_title}")
-        time.sleep(10) 
+        time.sleep(10)
         try:
             search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
             res = requests.get(search_url, timeout=10).json()
@@ -167,94 +209,96 @@ def get_game_metadata_with_cache(game_title, cache):
                     cache[game_title]["price"] = 0.0
             else:
                 # No results at all? Mark as 0.0
-                cache[game_title]["price"] = 0.0
-            
+                cache[game_title]["price"] = 0.0          
             save_to_cache(cache)
         except Exception as e:
             logger.warning(f"Price API error for {game_title}: {e}")
 
-    # 3. Fetch PUBLISHER (Steam)
-    # Only fetch if it is the default "Unknown Publisher".
-    if cache[game_title].get("publisher") == "Unknown Publisher":
+    # 2. Fetch PUBLISHER (Steam)
+    if cache[game_title].get("publisher") in ["Unknown Publisher", "Publisher Not Found"]:
         logger.info(f"🏢 Fetching Publisher for: {game_title}")
-        time.sleep(1.5)
+        time.sleep(1.5) # Respect Steam's rate limits
         publisher = get_publisher_from_steam(game_title)
         
-        # If the fetch fails to find a real name, mark it as "Publisher Not Found"
         if publisher == "Unknown Publisher":
             cache[game_title]["publisher"] = "Publisher Not Found"
         else:
             cache[game_title]["publisher"] = publisher
             
+        # CHECKPOINT: Save immediately after a successful (or failed) fetch
         save_to_cache(cache)
 
+    # 3. Fetch RELEASE DATE (IGDB) - NEW!
+    if cache[game_title].get("original_release_date") is None:
+        logger.info(f"📅 Release Date: {game_title}")
+        time.sleep(0.25) # Rate limit protection
+        release_date = fetch_release_date_from_igdb(game_title, igdb_token)
+        if release_date:
+            cache[game_title]["original_release_date"] = release_date
+        else:
+            cache[game_title]["original_release_date"] = "Date Not Found"
+
+    save_to_cache(cache)
     return cache[game_title]
+
 
 
 # --- EXECUTION ---
 # Load data
 price_cache = load_cache()
+igdb_token = get_igdb_token()
 df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
-
-for col in ["price", "publisher"]:
+# 2. Ensure all columns exist
+for col in ["price", "publisher", "original_release_date"]:
     if col not in df_existing.columns:
         df_existing[col] = pd.NA
 
-# 2. Identify rows that are missing ANY metadata
+# 3. Find games needing ANY piece of data
 needs_enrichment = (
     df_existing["price"].isna() | 
-    df_existing["publisher"].isna()
+    df_existing["publisher"].isna() |
+    df_existing["original_release_date"].isna()
 )
 
 if needs_enrichment.any():
     count = int(needs_enrichment.sum())
-    logger.info(f"🔍 Found {count} games needing metadata. Starting enrichment...")
+    logger.info(f"🔍 Found {count} games needing metadata. Starting IGDB + Steam + CheapShark enrichment...")
     
     for idx in tqdm(df_existing[needs_enrichment].index):
         title = df_existing.at[idx, 'game']
+        metadata = get_game_metadata_with_cache(title, price_cache, igdb_token)
         
-        # 1. Attempt to fetch metadata
-        metadata = get_game_metadata_with_cache(title, price_cache)
-        publisher = metadata.get("publisher", "Unknown Publisher")
-        price = metadata.get("price")
-
-        # 2. Update Price 
-        # (Usually fine to update even if 0, as it indicates 'checked')
-        df_existing.at[idx, 'price'] = price
-
-        # 3. SMART UPDATE for Publisher
-        # Only save to the DataFrame if we got a real result back from Steam.
-        # This keeps the CSV cell "Empty/Unknown" so the filter finds it again next time.
-        if publisher not in ["Unknown Publisher", "Publisher Not Found"]:
-            df_existing.at[idx, 'publisher'] = publisher
-            # Explicitly sync the cache to ensure the real name is saved
-            price_cache[title]['publisher'] = publisher
-        else:
-            logger.warning(f"⚠️ Metadata for '{title}' incomplete. Will retry in next run.")
-            
+        # Apply updates to DataFrame
+        df_existing.at[idx, 'price'] = metadata.get("price")
+        df_existing.at[idx, 'original_release_date'] = metadata.get("original_release_date")
         
-        # 4. Frequent Cache Saving
-        # During a 600-game backfill, save the cache every loop so you don't 
-        # lose progress if the script is interrupted.
-        save_to_cache(price_cache)
+        pub = metadata.get("publisher")
+        if pub not in ["Unknown Publisher", "Publisher Not Found"]:
+            df_existing.at[idx, 'publisher'] = pub
 
-    # 5. Final Save of the CSV
     df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
-    logger.info("✅ Metadata enrichment session complete.")
 
-
+# --- 4. ANALYTICS & CHARTS ---
 df_existing = validate_and_clean_data(df_existing)
+generosity_df = calculate_generosity_index(df_existing)
 
-# 6. SAVE the final, validated version
+# Save the final validated CSV
 df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
-logger.info("✅ Update complete: Data scraped, enriched, and validated.")
-summary = generate_summary_stats(df_existing)
+
+summary = generate_summary_stats(df_existing, generosity_df)
 logger.info(summary)
 update_readme(summary)
+clean_df = preprocess_for_plotting(df_existing)
 
 try:
-    generate_savings_chart(file_path)
-    logger.info("📈 Savings chart generated successfully.")
+    generate_monthly_bar_chart(clean_df)
+    generate_savings_chart(clean_df) 
+    generate_generosity_chart(generosity_df)
+    generate_velocity_chart(clean_df)
+    generate_inflation_comparison_chart(clean_df)
+    generate_market_timing_chart(clean_df)
+    generate_maturity_histogram(clean_df)
+    logger.info("📈 All charts generated successfully.")
 except Exception as e:
     logger.error(f"❌ Failed to generate chart: {e}")

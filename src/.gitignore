@@ -1,0 +1,15 @@
+# Credentials
+.env
+
+# Python stuff
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local Data (Optional)
+# If you want others to see your data, don't ignore .csv files. 
+# If it's private, uncomment the line below:
+# *.csv
+
+# macOS noise
+.DS_St

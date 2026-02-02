@@ -100,7 +100,7 @@ def enforce_schema(df):
         
     return df
 
-def generate_summary_stats(df):
+def generate_summary_stats(df, generosity_df):
     """Builds the Markdown dashboard table."""
     total_games = len(df)
     total_value = df['price'].sum()
@@ -128,6 +128,14 @@ def generate_summary_stats(df):
 
     seasonality_insight = analyze_seasonality(df)
 
+    gen_stats = calculate_generosity_index(df)
+    top_gen = gen_stats.head(3)
+
+    gen_display = ", ".join([
+        f"{name} (Score: {row['generosity_score']:.1f})" 
+        for name, row in top_gen.iterrows()
+        ])
+
     stats = (
         "| Metric | Statistics |\n"
         "| :--- | :--- |\n"
@@ -140,6 +148,7 @@ def generate_summary_stats(df):
         f"| 📈 **Inflation-Adjusted Value** | ${real_total:,.2f} |\n"
         f"| 💸 **Purchasing Power Gained** | ${inflation_impact:,.2f} |\n"
         f"| 🗓️ **Peak Saving Month** | {seasonality_insight} |\n"
+        f"| 🏆 **Generosity Leaderboard** | {gen_display} |\n"
     )
     return stats
 
@@ -180,3 +189,84 @@ def analyze_seasonality(df):
     top_value = monthly_trends.max()
     
     return f"🎄 **Seasonality Peak:** {top_month} is historically the best month, offering ${top_value:,.2f} in savings."
+
+def calculate_generosity_index(df):
+    """
+    Ranks publishers by a 'Generosity Score'.
+    Single Source of Truth for both README stats and Visualiser charts.
+    """
+    # 1. CLEANUP: Filter out 'Unknown' and ensure we use the 'seller' column
+    # We also check if the dataframe is empty to prevent crashes
+    value_score = 70
+    quality_score = 30
+    df_filtered = df[df['publisher'] != "Unknown Publisher"].copy()
+    if df_filtered.empty:
+        return pd.DataFrame()
+
+    # 2. AGGREGATE: Group by Seller
+    # We use 'price' for both total and mean to keep the index consistent
+    pub_stats = df_filtered.groupby('publisher').agg({
+        'game': 'count',
+        'price': ['sum', 'mean']
+    })
+    
+    # Flatten the multi-index columns created by .agg
+    pub_stats.columns = ['game_count', 'total_value', 'avg_quality']
+
+    # 3. NORMALIZE & SCORE: The 70/30 Logic
+    max_total = pub_stats['total_value'].max()
+    max_quality = pub_stats['avg_quality'].max()
+
+    # Apply the weights (0.7 and 0.3)
+    pub_stats['generosity_score'] = (
+        (pub_stats['total_value'] / max_total * value_score) + 
+        (pub_stats['avg_quality'] / max_quality * quality_score)
+    )
+
+    # 4. RETURN: Sorted by the new index
+    return pub_stats.sort_values(by='generosity_score', ascending=False)
+
+
+def calculate_inflation_story(df):
+    """
+    Calculates the gap between 'Nominal' (Face Value) and 'Real' (2026 Purchasing Power).
+    """
+    # Sum up the two columns we created in clean_metadata_and_inflation
+    nominal_total = df['price'].sum()
+    real_total = df['real_value'].sum()
+    
+    # Calculate the 'Bonus' value created by inflation
+    inflation_bonus = real_total - nominal_total
+    
+    # Calculate the percentage increase
+    pct_increase = (inflation_bonus / nominal_total) * 100 if nominal_total > 0 else 0
+    
+    return {
+        "nominal": nominal_total,
+        "real": real_total,
+        "bonus": inflation_bonus,
+        "percentage": pct_increase
+    }
+
+
+def preprocess_for_plotting(df):
+    """
+    Agresively standardizes data types and removes unplottable rows.
+    """
+    df_clean = df.copy()
+
+    # 1. Force Numeric
+    # 'coerce' turns trash strings into NaN, then we drop them
+    df_clean['price'] = pd.to_numeric(df_clean['price'], errors='coerce')
+    
+    # 2. Force Dates
+    df_clean['start_date'] = pd.to_datetime(df_clean['start_date'], dayfirst=True, format='mixed', errors='coerce')
+    
+    # 3. THE CRITICAL STEP: Drop rows that failed conversion
+    # Matplotlib warns when it sees NaN or Strings where numbers should be.
+    df_clean = df_clean.dropna(subset=['price', 'start_date'])
+
+    # 4. Final cast to ensure they aren't "Objects"
+    df_clean['price'] = df_clean['price'].astype(float)
+    
+    return df_clean

@@ -20,6 +20,7 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 | 📈 **Inflation-Adjusted Value** | $16,489.35 |
 | 💸 **Purchasing Power Gained** | $1,999.31 |
 | 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,318.17 in savings. |
+| 🏆 **Generosity Leaderboard** | 2K (Score: 92.9), Bethesda Softworks (Score: 71.3), Paradox Interactive (Score: 60.8) |
 
 <a name="stats_end"></a>
 ---
