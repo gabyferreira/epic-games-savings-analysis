@@ -37,11 +37,11 @@ This project is built as a modular **ETL (Extract, Transform, Load)** pipeline:
     * **Logic:** Identifies active "free-to-keep" promotions.
 
 2. **Enrichment & Data Fusion (Transformation)** 🧪
-    This stage performs Data Reconciliation to build a comprehensive metadata profile for every title:
-    * **Economic Indexing:** Calculates Real Value by applying historical CPI-based multipliers to adjust 2018–2025 prices into 2026 purchasing power.
-    * **Cross-Platform Mapping:** Looks up prices from CheapShark, publisher info from Steam, and ratings and release dates from IGDB/Twitch.
-    * **Fuzzy Matching:** Uses a Levenshtein Distance algorithm to resolve naming inconsistencies (e.g., matching "STAR WARS™: Squadrons" to "Star Wars: Squadrons").
-    * **State Persistence:** Saves data in JSON files so it doesn’t have to download the same information over and over.
+    * This stage performs Data Reconciliation to build a comprehensive metadata profile for every title:
+       * **Economic Indexing:** Calculates Real Value by applying historical CPI-based multipliers to adjust 2018–2025 prices into 2026 purchasing power.
+       * **Cross-Platform Mapping:** Looks up prices from CheapShark, publisher info from Steam, and ratings and release dates from IGDB/Twitch.
+       * **Fuzzy Matching:** Uses a Levenshtein Distance algorithm to resolve naming inconsistencies (e.g., matching "STAR WARS™: Squadrons" to "Star Wars: Squadrons").
+       * **State Persistence:** Saves data in JSON files so it doesn’t have to download the same information over and over.
 
 3. **Analytics & Visualisation** 📈
     The program takes the raw CSV data and turns it into useful insights.
