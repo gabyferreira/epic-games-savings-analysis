@@ -33,9 +33,9 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 This project is built as a modular **ETL (Extract, Transform, Load)** pipeline:
 
 1. **Extraction** 🛰️
-* **Source:** Direct polling of the Epic Games Store GraphQL API.
+**Source:** Direct polling of the Epic Games Store GraphQL API.
 
-* **Logic:** Identifies active "free-to-keep" promotions.
+**Logic:** Identifies active "free-to-keep" promotions.
 
 2. **Enrichment & Data Fusion (Transformation)** 🧪
 This stage performs Data Reconciliation to build a comprehensive metadata profile for every title:
