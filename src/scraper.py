@@ -12,7 +12,7 @@ import logging
 from visualiser import (generate_savings_chart, generate_generosity_chart, 
                         generate_monthly_bar_chart, generate_velocity_chart, 
                         generate_inflation_comparison_chart, generate_market_timing_chart,
-                        generate_maturity_histogram)
+                        generate_maturity_histogram, generate_quality_pulse_chart)
 from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
@@ -20,6 +20,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
 IGDB_CLIENT_SECRET = os.getenv('IGDB_CLIENT_SECRET')
+
 
 def get_igdb_token():
     """Gets a temporary access token from Twitch."""
@@ -31,25 +32,49 @@ def get_igdb_token():
         logger.error(f"❌ IGDB Auth Failed: {e}")
         return None
 
-def fetch_release_date_from_igdb(game_title, token):
-    """Queries IGDB for the earliest release date."""
-    if not token: return None
+
+def fetch_metadata_from_igdb(game_title, token):
+    """Queries IGDB with fuzzy matching to find the best metadata match."""
+    if not token: return None, None
     url = "https://api.igdb.com/v4/games"
     headers = {
         'Client-ID': IGDB_CLIENT_ID,
         'Authorization': f'Bearer {token}',
         'Content-Type': 'text/plain'
     }
-    # Query: Search name, get first_release_date (Unix timestamp)
-    query = f'search "{game_title}"; fields first_release_date; limit 1;'
+    
+    # We query for the top 5 names to compare them locally
+    query = f'search "{game_title}"; fields name, first_release_date, aggregated_rating; limit 5;'
+    
     try:
         res = requests.post(url, headers=headers, data=query, timeout=10).json()
-        if res and 'first_release_date' in res[0]:
-            ts = res[0]['first_release_date']
-            return datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d')
+        if res:
+            # 1. Create a dictionary of {Candidate Name: Candidate Data}
+            choices = {game['name']: game for game in res}
+            
+            # 2. Use Levenshtein to find the best string match
+            best_match, score_match = process.extractOne(game_title, choices.keys())
+            
+            # 3. Validation: Only accept if the match is strong (e.g., > 80%)
+            if score_match >= 80:
+                logger.info(f"🎯 IGDB Match: '{best_match}' ({score_match}%)")
+                game_data = choices[best_match]
+                
+                # Extract and format date
+                ts = game_data.get('first_release_date')
+                date_str = datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d') if ts else None
+                
+                # Extract rating
+                rating = game_data.get('aggregated_rating')
+                
+                return date_str, rating
+            else:
+                logger.warning(f"⚠️ Poor IGDB match ({score_match}%) for {game_title}")
+                
     except Exception as e:
         logger.warning(f"IGDB Error for {game_title}: {e}")
-    return None
+        
+    return None, None
 
 file_path = "data/epic_games_data_edited_active8.csv"
 try:
@@ -175,40 +200,36 @@ def get_publisher_from_steam(game_title):
 
 def get_game_metadata_with_cache(game_title, cache, igdb_token):
     """
-    Checks cache for price, publisher, and release date.
+    Checks cache for price, publisher, release date, and quality score.
     Fetches from APIs only if data is missing.
     """
-    # Initialize entry if new
+    # Initialize entry if new (added aggregated_rating to the template)
     if game_title not in cache:
         cache[game_title] = {
             "price": None, 
             "publisher": "Unknown Publisher", 
-            "original_release_date": None
+            "original_release_date": None,
+            "aggregated_rating": None  # <--- Ensure this exists
         }
 
     # 1. Fetch PRICE (CheapShark)
     if cache[game_title].get("price") is None:
-        # Only fetch if price is exactly None.
-
-        # If we found it, it's a float. If we tried and failed, it will be 0.0.
         logger.info(f"💰 Fetching Price for: {game_title}")
-        time.sleep(10)
+        time.sleep(1.0) # Reduced from 10 to 1.0 (10s is very long for CheapShark!)
         try:
             search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
             res = requests.get(search_url, timeout=10).json()
             if res:
                 choices = {game['external']: game['gameID'] for game in res}
-                best_match, score = process.extractOne(game_title, choices.keys())
-                if score >= 85:
+                best_match, score_match = process.extractOne(game_title, choices.keys())
+                if score_match >= 85:
                     game_id = choices[best_match]
                     detail_url = f"https://www.cheapshark.com/api/1.0/games?id={game_id}"
                     details = requests.get(detail_url, timeout=10).json()
                     cache[game_title]["price"] = float(details['deals'][0]['retailPrice'])
                 else:
-                    # Score too low? Mark as 0.0 so we don't try again
                     cache[game_title]["price"] = 0.0
             else:
-                # No results at all? Mark as 0.0
                 cache[game_title]["price"] = 0.0          
             save_to_cache(cache)
         except Exception as e:
@@ -217,28 +238,45 @@ def get_game_metadata_with_cache(game_title, cache, igdb_token):
     # 2. Fetch PUBLISHER (Steam)
     if cache[game_title].get("publisher") in ["Unknown Publisher", "Publisher Not Found"]:
         logger.info(f"🏢 Fetching Publisher for: {game_title}")
-        time.sleep(1.5) # Respect Steam's rate limits
+        time.sleep(1.5) 
         publisher = get_publisher_from_steam(game_title)
-        
-        if publisher == "Unknown Publisher":
-            cache[game_title]["publisher"] = "Publisher Not Found"
-        else:
-            cache[game_title]["publisher"] = publisher
-            
-        # CHECKPOINT: Save immediately after a successful (or failed) fetch
+        cache[game_title]["publisher"] = publisher if publisher != "Unknown Publisher" else "Publisher Not Found"
         save_to_cache(cache)
 
-    # 3. Fetch RELEASE DATE (IGDB) - NEW!
-    if cache[game_title].get("original_release_date") is None:
-        logger.info(f"📅 Release Date: {game_title}")
-        time.sleep(0.25) # Rate limit protection
-        release_date = fetch_release_date_from_igdb(game_title, igdb_token)
-        if release_date:
-            cache[game_title]["original_release_date"] = release_date
-        else:
-            cache[game_title]["original_release_date"] = "Date Not Found"
+    # 3. Fetch RELEASE DATE & SCORE (IGDB)
+    # Note: Using 'igdb_token' to match your function arguments
+    current_date = cache[game_title].get("original_release_date")
+    current_score = cache[game_title].get("aggregated_rating")
 
-    save_to_cache(cache)
+    # 2. Determine if we REALLY need to hit the API
+    # We skip if the date is found OR if we've already tried and failed ("Date Not Found")
+    date_is_done = current_date is not None and current_date != "" 
+    
+    # We skip if the score is a number OR if we've explicitly marked it as failed
+    score_is_done = isinstance(current_score, (int, float)) or current_score == "Score Not Found"
+
+    # --- THE "SKIP" GATE ---
+    if date_is_done and score_is_done:
+        # We have everything (or have already tried everything), skip the API
+        return cache[game_title]
+
+    # 3. If we got here, we need to fetch
+    if igdb_token:
+        logger.info(f"🔍 Fetching Metadata (Date & Score) for: {game_title}")
+        time.sleep(0.25) 
+        
+        release_date, score = fetch_metadata_from_igdb(game_title, igdb_token)
+
+        # Update Date if it was missing or "Date Not Found"
+        if not date_is_done:
+            cache[game_title]["original_release_date"] = release_date or "Date Not Found"
+
+        # Update Score if it was missing or "Score Not Found"
+        if not score_is_done:
+            cache[game_title]["aggregated_rating"] = score if score is not None else "Score Not Found"
+
+        save_to_cache(cache)
+
     return cache[game_title]
 
 
@@ -250,7 +288,7 @@ igdb_token = get_igdb_token()
 df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
 # 2. Ensure all columns exist
-for col in ["price", "publisher", "original_release_date"]:
+for col in ["price", "publisher", "original_release_date", "aggregated_rating"]:
     if col not in df_existing.columns:
         df_existing[col] = pd.NA
 
@@ -258,7 +296,8 @@ for col in ["price", "publisher", "original_release_date"]:
 needs_enrichment = (
     df_existing["price"].isna() | 
     df_existing["publisher"].isna() |
-    df_existing["original_release_date"].isna()
+    df_existing["original_release_date"].isna() |
+    df_existing["aggregated_rating"].isna()
 )
 
 if needs_enrichment.any():
@@ -272,6 +311,7 @@ if needs_enrichment.any():
         # Apply updates to DataFrame
         df_existing.at[idx, 'price'] = metadata.get("price")
         df_existing.at[idx, 'original_release_date'] = metadata.get("original_release_date")
+        df_existing.at[idx, 'aggregated_rating'] = metadata.get("aggregated_rating")
         
         pub = metadata.get("publisher")
         if pub not in ["Unknown Publisher", "Publisher Not Found"]:
@@ -299,6 +339,7 @@ try:
     generate_inflation_comparison_chart(clean_df)
     generate_market_timing_chart(clean_df)
     generate_maturity_histogram(clean_df)
+    generate_quality_pulse_chart(clean_df)
     logger.info("📈 All charts generated successfully.")
 except Exception as e:
     logger.error(f"❌ Failed to generate chart: {e}")

@@ -2,197 +2,236 @@
     "Prey": {
         "price": 29.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2017-05-04"
+        "original_release_date": "2006-07-11",
+        "aggregated_rating": 76.75
     },
     "Control": {
-        "price": 4.99,
-        "publisher": "Valve",
-        "original_release_date": "1992-11-17"
+        "price": 39.99,
+        "publisher": "Remedy Entertainment",
+        "original_release_date": "2019-08-27",
+        "aggregated_rating": 83
     },
     "Shadow of the Tomb Raider": {
         "price": 59.99,
         "publisher": "Crystal Dynamics",
-        "original_release_date": "2018-09-14"
+        "original_release_date": "2018-09-14",
+        "aggregated_rating": 80.0
     },
     "Styx: Master of Shadows": {
         "price": 19.99,
         "publisher": "Cyanide Studio",
-        "original_release_date": "2014-10-07"
+        "original_release_date": "2014-10-07",
+        "aggregated_rating": 74.22222222222223
     },
     "Styx: Shards of Darkness - Deluxe Edition": {
         "price": 19.99,
         "publisher": "Nacon",
-        "original_release_date": "2017-03-14"
+        "original_release_date": "2017-03-14",
+        "aggregated_rating": 71
     },
     "Subnautica": {
         "price": 29.99,
         "publisher": "Unknown Worlds Entertainment",
-        "original_release_date": "2021-05-14"
+        "original_release_date": "2018-01-23",
+        "aggregated_rating": 83.9090909090909
     },
     "Super Meat Boy": {
         "price": 14.99,
         "publisher": "Team Meat",
-        "original_release_date": "2010-04-03"
+        "original_release_date": "2010-10-20",
+        "aggregated_rating": 85.25
     },
     "What Remains of Edith Finch": {
         "price": 19.99,
         "publisher": "Annapurna Interactive",
-        "original_release_date": "2017-04-24"
+        "original_release_date": "2017-04-24",
+        "aggregated_rating": 86.95238095238095
     },
     "The Jackbox Party Pack": {
         "price": 24.99,
         "publisher": "Jackbox Games, Inc.",
-        "original_release_date": "2014-11-18"
+        "original_release_date": "2014-11-18",
+        "aggregated_rating": 73.5
     },
     "Axiom Verge": {
         "price": 19.99,
         "publisher": "Thomas Happ Games LLC",
-        "original_release_date": "2015-03-31"
+        "original_release_date": "2015-03-31",
+        "aggregated_rating": 83.86666666666666
     },
     "Thimbleweed Park": {
         "price": 19.99,
         "publisher": "Terrible Toybox",
-        "original_release_date": "2017-03-30"
+        "original_release_date": "2017-03-30",
+        "aggregated_rating": 82.61538461538461
     },
     "Slime Rancher": {
         "price": 19.99,
         "publisher": "Monomi Park",
-        "original_release_date": "2017-08-01"
+        "original_release_date": "2017-08-01",
+        "aggregated_rating": 77.66666666666667
     },
     "Oxenfree": {
         "price": 9.99,
         "publisher": "Night School Studio",
-        "original_release_date": "2016-01-14"
+        "original_release_date": "2016-01-14",
+        "aggregated_rating": 78.5625
     },
     "The Witness": {
         "price": 39.99,
         "publisher": "Thekla, Inc.",
-        "original_release_date": "2016-01-26"
+        "original_release_date": "1983-12-31",
+        "aggregated_rating": 96.28571428571429
     },
     "Transistor": {
         "price": 19.99,
         "publisher": "Supergiant Games",
-        "original_release_date": "2014-05-20"
+        "original_release_date": "2014-05-20",
+        "aggregated_rating": 85.25
     },
     "World of Goo": {
         "price": 14.99,
         "publisher": "2D BOY ",
-        "original_release_date": "2024-09-16"
+        "original_release_date": "2008-10-13",
+        "aggregated_rating": 86.75
     },
     "Stories Untold": {
         "price": 9.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2017-02-27"
+        "original_release_date": "2017-02-27",
+        "aggregated_rating": 78.33333333333333
     },
     "RiME": {
         "price": 29.99,
         "publisher": "Grey Box",
-        "original_release_date": "2018-09-28"
+        "original_release_date": "2018-09-28",
+        "aggregated_rating": 73
     },
     "City of Brass": {
         "price": 19.99,
         "publisher": "Uppercut Games Pty Ltd",
-        "original_release_date": "2018-05-04"
+        "original_release_date": "2018-05-04",
+        "aggregated_rating": 68.125
     },
     "Kingdom: New Lands": {
         "price": 14.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2016-08-09"
+        "original_release_date": "2016-08-09",
+        "aggregated_rating": 75.0
     },
     "Enter the Gungeon": {
         "price": 14.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2016-04-05"
+        "original_release_date": "2016-04-05",
+        "aggregated_rating": 82.46153846153847
     },
     "Rebel Galaxy": {
         "price": 19.99,
         "publisher": "Double Damage Games",
-        "original_release_date": "2015-10-20"
+        "original_release_date": "2015-10-20",
+        "aggregated_rating": 72.14285714285714
     },
     "Last Day of June": {
         "price": 19.99,
         "publisher": "505 Games",
-        "original_release_date": "2017-08-31"
+        "original_release_date": "2017-08-31",
+        "aggregated_rating": 76.33333333333333
     },
     "Overcooked!": {
         "price": 16.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2019-10-17"
+        "original_release_date": "2016-08-03",
+        "aggregated_rating": 81.53846153846153
     },
     "Torchlight": {
         "price": 14.99,
         "publisher": "XD",
-        "original_release_date": "2012-09-20"
+        "original_release_date": "2009-10-27",
+        "aggregated_rating": 83.33333333333333
     },
     "Limbo": {
         "price": 12.49,
         "publisher": "Playdead",
-        "original_release_date": "2010-07-21"
+        "original_release_date": "2012-08-02",
+        "aggregated_rating": 84
     },
     "Moonlighter": {
         "price": 19.99,
         "publisher": "11 bit studios",
-        "original_release_date": "2004-12-16"
+        "original_release_date": "1999-10-15",
+        "aggregated_rating": 82
     },
     "This War of Mine": {
         "price": 19.99,
         "publisher": "11 bit studios",
-        "original_release_date": "2015-03-09"
+        "original_release_date": "2014-11-14",
+        "aggregated_rating": 82.0
     },
     "Alan Wake": {
         "price": 14.99,
         "publisher": "Remedy Entertainment",
-        "original_release_date": "2023-10-27"
+        "original_release_date": "2010-05-14",
+        "aggregated_rating": 83.0
     },
     "For Honor": {
         "price": 29.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2022-03-17"
+        "original_release_date": "2022-03-17",
+        "aggregated_rating": 77
     },
     "GNOG": {
         "price": 9.99,
         "publisher": "KO_OP",
-        "original_release_date": "2017-05-02"
+        "original_release_date": "2017-05-02",
+        "aggregated_rating": 75.0
     },
     "Hyper Light Drifter": {
         "price": 19.99,
         "publisher": "Heart Machine",
-        "original_release_date": "2018-09-06"
+        "original_release_date": "2016-03-31",
+        "aggregated_rating": 88.9090909090909
     },
     "Mutant Year Zero: Road to Eden": {
         "price": 34.99,
         "publisher": "Funcom",
-        "original_release_date": "2018-12-04"
+        "original_release_date": "2018-12-04",
+        "aggregated_rating": 81.25
     },
     "Fez": {
         "price": 9.99,
         "publisher": "Trapdoor",
-        "original_release_date": "2012-04-12"
+        "original_release_date": "2012-04-13",
+        "aggregated_rating": 85.5
     },
     "Celeste": {
         "price": 19.99,
         "publisher": "Maddy Makes Games Inc.",
-        "original_release_date": "2018-01-25"
+        "original_release_date": "2018-01-25",
+        "aggregated_rating": 91.3
     },
     "Inside": {
         "price": 24.99,
         "publisher": "Playdead",
-        "original_release_date": "2020-08-26"
+        "original_release_date": "2016-06-29",
+        "aggregated_rating": 92
     },
     "ABZU": {
         "price": 19.99,
         "publisher": "505 Games",
-        "original_release_date": "2016-08-02"
+        "original_release_date": "2016-08-02",
+        "aggregated_rating": 80.85185185185185
     },
     "The End is Nigh": {
         "price": 14.99,
         "publisher": "Edmund McMillen",
-        "original_release_date": "2017-07-12"
+        "original_release_date": "2017-07-12",
+        "aggregated_rating": 74.33333333333333
     },
     "Conarium": {
         "price": 19.99,
         "publisher": "Iceberg Interactive",
-        "original_release_date": "2017-06-06"
+        "original_release_date": "2017-06-06",
+        "aggregated_rating": 72.0
     },
     "Batman: Arkham Asylum": {
         "price": 19.99,
@@ -205,7 +244,8 @@
     "Batman: Arkham Collection": {
         "price": 59.99,
         "publisher": "WB Games",
-        "original_release_date": "2018-11-27"
+        "original_release_date": "2018-11-27",
+        "aggregated_rating": 99
     },
     "BATMAN: ARKHAM KNIGHT": {
         "price": 19.99,
@@ -214,7 +254,8 @@
     "LEGO Batman Trilogy": {
         "price": 49.99,
         "publisher": "Warner Bros. Interactive Entertainment",
-        "original_release_date": "2014-11-11"
+        "original_release_date": "2014-11-11",
+        "aggregated_rating": "Score Not Found"
     },
     "LEGO Batman: The Video Game": {
         "price": 19.99,
@@ -231,937 +272,1124 @@
     "Everything": {
         "price": 14.99,
         "publisher": "David OReilly",
-        "original_release_date": "2017-03-21"
+        "original_release_date": "2017-03-21",
+        "aggregated_rating": 72.0
     },
     "Metro 2033 Redux": {
         "price": 19.99,
         "publisher": "Deep Silver",
-        "original_release_date": "2014-08-26"
+        "original_release_date": "2014-08-26",
+        "aggregated_rating": 80
     },
     "Minit": {
         "price": 9.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2018-04-03"
+        "original_release_date": "2018-04-03",
+        "aggregated_rating": 77.85714285714286
     },
     "Surviving Mars": {
         "price": 29.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2018-03-15"
+        "original_release_date": "2018-03-15",
+        "aggregated_rating": 73.57142857142857
     },
     "Alan Wake's: American Nightmare": {
         "price": 8.99,
         "publisher": "Remedy Entertainment",
-        "original_release_date": "2012-02-22"
+        "original_release_date": "2012-02-22",
+        "aggregated_rating": 79.28571428571429
     },
     "Layers of Fear": {
         "price": 29.99,
         "publisher": "Bloober Team SA",
-        "original_release_date": "2023-06-15"
+        "original_release_date": "2016-02-15",
+        "aggregated_rating": 76.11764705882354
     },
     "Observer": {
         "price": 29.99,
         "publisher": "Bloober Team ",
-        "original_release_date": "2023-09-09"
+        "original_release_date": "2017-08-15",
+        "aggregated_rating": 74.0
     },
     "Costume Quest": {
         "price": 9.99,
         "publisher": "Double Fine Productions",
-        "original_release_date": "2010-10-19"
+        "original_release_date": "2010-10-19",
+        "aggregated_rating": 80.0
     },
     "Q.U.B.E. 2": {
         "price": 24.99,
         "publisher": "Trapped Nerve Games",
-        "original_release_date": "2018-03-13"
+        "original_release_date": "2018-03-13",
+        "aggregated_rating": 72.83333333333333
     },
     "SOMA": {
         "price": 29.99,
         "publisher": "Frictional Games",
-        "original_release_date": "2015-09-21"
+        "original_release_date": "2015-09-21",
+        "aggregated_rating": 81.25
     },
     "Nuclear Throne": {
         "price": 11.99,
         "publisher": "Vlambeer",
-        "original_release_date": "2017-11-12"
+        "original_release_date": "2015-12-05",
+        "aggregated_rating": 84.0
     },
     "Ruiner": {
         "price": 19.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2017-09-26"
+        "original_release_date": "2017-09-26",
+        "aggregated_rating": 76.16666666666667
     },
     "The Messenger": {
         "price": 19.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2000-12-31"
+        "original_release_date": "2018-08-30",
+        "aggregated_rating": 87.0
     },
     "Bad North: Jotunn Edition": {
         "price": 14.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2019-07-24"
+        "original_release_date": "2018-08-20",
+        "aggregated_rating": 67
     },
     "Rayman Legends": {
         "price": 29.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2013-08-30"
+        "original_release_date": "2013-08-29",
+        "aggregated_rating": 81
     },
     "Jotun: Valhalla Edition": {
         "price": 14.99,
         "publisher": "Thunder Lotus",
-        "original_release_date": "2015-09-29"
+        "original_release_date": "2016-09-09",
+        "aggregated_rating": 75.4
     },
     "The Escapists": {
         "price": 17.99,
         "publisher": "Team17",
-        "original_release_date": "2019-10-17"
+        "original_release_date": "2015-02-13",
+        "aggregated_rating": 68.9090909090909
     },
     "The Wolf Among Us": {
         "price": 14.99,
         "publisher": "Telltale",
-        "original_release_date": "2014-07-08"
+        "original_release_date": "2013-10-11",
+        "aggregated_rating": 79.52272727272727
     },
     "Into the Breach": {
         "price": 14.99,
         "publisher": "Subset Games",
-        "original_release_date": "2025-01-03"
+        "original_release_date": "2018-02-27",
+        "aggregated_rating": 90.0
     },
     "TowerFall Ascension": {
         "price": 14.99,
         "publisher": "Maddy Makes Games",
-        "original_release_date": "2014-03-11"
+        "original_release_date": "2014-03-11",
+        "aggregated_rating": 87.0
     },
     "Superhot": {
         "price": 24.99,
         "publisher": "SUPERHOT Team",
-        "original_release_date": "2016-02-25"
+        "original_release_date": "2016-02-25",
+        "aggregated_rating": 84.72222222222223
     },
     "Little Inferno": {
         "price": 14.99,
         "publisher": "Tomorrow Corporation",
-        "original_release_date": "2012-11-18"
+        "original_release_date": "2012-11-18",
+        "aggregated_rating": 65.0
     },
     "Ape Out": {
         "price": 14.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2019-02-28"
+        "original_release_date": "2019-02-28",
+        "aggregated_rating": 81.83333333333333
     },
     "Totally Accurate Battle Simulator": {
         "price": 19.99,
         "publisher": "Landfall",
-        "original_release_date": "2021-04-01"
+        "original_release_date": "2021-04-01",
+        "aggregated_rating": 73
     },
     "FTL: Faster Than Light": {
         "price": 9.99,
         "publisher": "Subset Games",
-        "original_release_date": "2012-09-14"
+        "original_release_date": "2012-09-14",
+        "aggregated_rating": 88.8
     },
     "Shadow Tactics: Blades of the Shogun": {
         "price": 39.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2016-12-06"
+        "original_release_date": "2016-12-06",
+        "aggregated_rating": 86.72727272727273
     },
     "The Talos Principle": {
         "price": 29.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2014-12-11"
+        "original_release_date": "2014-12-11",
+        "aggregated_rating": 87.33333333333333
     },
     "Hello Neighbor": {
         "price": 29.99,
         "publisher": "tinyBuild",
-        "original_release_date": "2019-12-31"
+        "original_release_date": "2017-12-08",
+        "aggregated_rating": 36.75
     },
     "Yooka-Laylee and the Impossible Lair": {
         "price": 29.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2019-10-07"
+        "original_release_date": "2019-10-07",
+        "aggregated_rating": 86.11111111111111
     },
     "Darksiders": {
         "price": 39.99,
         "publisher": "THQ Nordic",
-        "original_release_date": "2021-04-15"
+        "original_release_date": "2010-01-05",
+        "aggregated_rating": 81.625
     },
     "Darksiders II": {
         "price": 39.99,
         "publisher": "THQ Nordic",
-        "original_release_date": "2012-08-14"
+        "original_release_date": "2012-08-14",
+        "aggregated_rating": 85.75
     },
     "Steep": {
         "price": 29.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2016-12-01"
+        "original_release_date": "2016-12-01",
+        "aggregated_rating": 72.89473684210526
     },
     "Sundered: Eldritch Edition": {
         "price": 19.99,
         "publisher": "Thunder Lotus",
-        "original_release_date": "2018-12-19"
+        "original_release_date": "2018-12-19",
+        "aggregated_rating": 61
     },
     "Horace": {
         "price": 14.99,
         "publisher": "505 Games",
-        "original_release_date": "2019-07-18"
+        "original_release_date": "2019-07-18",
+        "aggregated_rating": 80.0
     },
     "The Bridge": {
         "price": 9.99,
         "publisher": "The Quantum Astrophysicists Guild",
-        "original_release_date": "2013-02-22"
+        "original_release_date": "2013-02-22",
+        "aggregated_rating": 69.0
     },
     "Farming Simulator 19": {
         "price": 17.99,
         "publisher": "Giants Software",
-        "original_release_date": "2020-12-28"
+        "original_release_date": "2018-11-19",
+        "aggregated_rating": 68.2
     },
     "Carcassonne": {
         "price": 9.99,
         "publisher": "Twin Sails Interactive",
-        "original_release_date": "2012-10-23"
+        "original_release_date": "2010-06-03",
+        "aggregated_rating": 80
     },
     "Ticket to Ride": {
         "price": 14.99,
         "publisher": "Marmalade Game Studio Ltd",
-        "original_release_date": "2015-11-19"
+        "original_release_date": "2015-11-19",
+        "aggregated_rating": 70
     },
     "Aztez": {
         "price": 19.99,
         "publisher": "Team Colorblind",
-        "original_release_date": "2017-08-01"
+        "original_release_date": "2017-08-01",
+        "aggregated_rating": 90.0
     },
     "Kingdom Come: Deliverance": {
         "price": 29.99,
         "publisher": "Warhorse Studios",
-        "original_release_date": "2025-02-04"
+        "original_release_date": "2018-02-13",
+        "aggregated_rating": 73.72727272727273
     },
     "Assassin's Creed Syndicate": {
         "price": 29.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2015-10-23"
+        "original_release_date": "2015-10-23",
+        "aggregated_rating": 72.15789473684211
     },
     "Faeria": {
         "price": 19.99,
         "publisher": "Versus Evil",
-        "original_release_date": "2017-03-08"
+        "original_release_date": "2017-03-08",
+        "aggregated_rating": 82.5
     },
     "InnerSpace": {
         "price": 19.99,
         "publisher": "Aspyr",
-        "original_release_date": "2018-01-16"
+        "original_release_date": "2018-01-16",
+        "aggregated_rating": 61.25
     },
     "GoNNER": {
         "price": 9.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2016-10-12"
+        "original_release_date": "2016-10-12",
+        "aggregated_rating": 82.75
     },
     "Offworld Trading Company": {
         "price": 29.99,
         "publisher": "Stardock Entertainment",
-        "original_release_date": "2016-04-28"
+        "original_release_date": "2016-04-28",
+        "aggregated_rating": 89.33333333333333
     },
     "A Short Hike": {
         "price": 7.99,
         "publisher": "adamgryu",
-        "original_release_date": "2019-07-30"
+        "original_release_date": "2019-07-30",
+        "aggregated_rating": 77.5
     },
     "Anodyne 2: Return to Dust": {
         "price": 19.99,
         "publisher": "Analgesic Productions",
-        "original_release_date": "2019-08-12"
+        "original_release_date": "2019-08-12",
+        "aggregated_rating": 70.0
     },
     "Mutazione": {
         "price": 19.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2019-09-19"
+        "original_release_date": "2019-09-19",
+        "aggregated_rating": 90.0
     },
     "The Stanley Parable": {
         "price": 14.99,
         "publisher": "Galactic Cafe",
-        "original_release_date": "2013-10-17"
+        "original_release_date": "2011-08-01",
+        "aggregated_rating": 90.0
     },
     "Watch Dogs": {
         "price": 19.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2014-05-27"
+        "original_release_date": "2014-05-26",
+        "aggregated_rating": 81.0952380952381
     },
     "Figment": {
         "price": 19.99,
         "publisher": "Bedtime Digital Games",
-        "original_release_date": "2017-09-22"
+        "original_release_date": "2017-09-22",
+        "aggregated_rating": 88.66666666666667
     },
     "Tormentor x Punisher": {
         "price": 7.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2017-06-02"
+        "original_release_date": "2017-06-02",
+        "aggregated_rating": 80
     },
     "World War Z": {
         "price": 29.99,
         "publisher": "Saber Interactive Inc",
-        "original_release_date": "2020-05-05"
+        "original_release_date": "2019-04-16",
+        "aggregated_rating": 74.0
     },
     "Drawful 2": {
         "price": 9.99,
         "publisher": "Jackbox Games, Inc.",
-        "original_release_date": "2016-06-21"
+        "original_release_date": "2016-06-21",
+        "aggregated_rating": 77.5
     },
     "Gone Home": {
         "price": 14.99,
         "publisher": "Fullbright",
-        "original_release_date": "2013-08-15"
+        "original_release_date": "2013-08-15",
+        "aggregated_rating": 73.8
     },
     "Hob": {
         "price": 19.99,
         "publisher": "Arc Games",
-        "original_release_date": "2017-09-26"
+        "original_release_date": "2017-09-26",
+        "aggregated_rating": 72.125
     },
     "Totally Reliable Delivery Service": {
         "price": 14.99,
         "publisher": "Infogrames",
-        "original_release_date": "2020-04-01"
+        "original_release_date": "2020-04-01",
+        "aggregated_rating": 50.0
     },
     "Close to the Sun": {
         "price": 19.99,
         "publisher": "Wired Productions",
-        "original_release_date": "2019-05-02"
+        "original_release_date": "2019-05-02",
+        "aggregated_rating": 60.6
     },
     "Sherlock Holmes: Crimes and Punishments": {
         "price": 29.99,
         "publisher": "Frogwares",
-        "original_release_date": "2014-09-29"
+        "original_release_date": "2014-09-29",
+        "aggregated_rating": 74.71428571428571
     },
     "Just Cause 4": {
         "price": 59.99,
         "publisher": "Square Enix",
-        "original_release_date": "2018-12-04"
+        "original_release_date": "2018-12-04",
+        "aggregated_rating": 69.4
     },
     "Wheels of Aurelia": {
         "price": 14.99,
         "publisher": "Santa Ragione",
-        "original_release_date": "2016-09-20"
+        "original_release_date": "2016-09-20",
+        "aggregated_rating": 60.0
     },
     "For the King": {
         "price": 19.99,
-        "publisher": "Curve Games",
-        "original_release_date": "1998-12-14"
+        "publisher": "IronOak Games",
+        "original_release_date": "2018-04-19",
+        "aggregated_rating": 76
     },
     "Amnesia: The Dark Descent": {
         "price": 19.99,
         "publisher": "Frictional Games",
-        "original_release_date": "2010-09-08"
+        "original_release_date": "2010-09-08",
+        "aggregated_rating": 89.0
     },
     "Crashlands": {
         "price": 14.99,
         "publisher": "Butterscotch Shenanigans",
-        "original_release_date": "2021-02-25"
+        "original_release_date": "2016-01-20",
+        "aggregated_rating": 79.5
     },
     "Death Coming": {
         "price": 6.99,
         "publisher": "NEXT Studios",
-        "original_release_date": "2017-11-06"
+        "original_release_date": "2017-11-06",
+        "aggregated_rating": 70
     },
     "Grand Theft Auto V": {
         "price": 29.99,
         "publisher": "Rockstar Games",
-        "original_release_date": "2015-04-14"
+        "original_release_date": "2022-04-12",
+        "aggregated_rating": 88
     },
     "Sid Meier's Civilization VI": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2016-10-20"
+        "original_release_date": "2016-10-20",
+        "aggregated_rating": 87.4
     },
     "Borderlands 2": {
         "price": 19.99,
         "publisher": "2K",
-        "original_release_date": "2012-09-18"
+        "original_release_date": "2012-09-18",
+        "aggregated_rating": 80.70588235294117
     },
     "Borderlands: The Handsome Collection": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2015-03-24"
+        "original_release_date": "2015-03-24",
+        "aggregated_rating": 84.0
     },
     "Borderlands: The Pre-Sequel": {
         "price": 39.99,
         "publisher": "2K",
-        "original_release_date": "2014-10-13"
+        "original_release_date": "2014-10-14",
+        "aggregated_rating": 75.46666666666667
     },
     "Ark: Survival Evolved": {
         "price": 14.99,
         "publisher": "Studio Wildcard",
-        "original_release_date": "2017-08-27"
+        "original_release_date": "2017-08-27",
+        "aggregated_rating": 68.875
     },
     "Samurai Shodown NeoGeo Collection": {
         "price": 39.99,
         "publisher": "SNK CORPORATION",
-        "original_release_date": "2020-06-18"
+        "original_release_date": "2020-06-18",
+        "aggregated_rating": 80.0
     },
     "Pathway": {
         "price": 15.99,
         "publisher": "Chucklefish",
-        "original_release_date": "2020-05-05"
+        "original_release_date": "2019-11-4",
+        "aggregated_rating": 74
     },
     "AER: Memories of Old": {
         "price": 14.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2017-10-25"
+        "original_release_date": "2017-10-25",
+        "aggregated_rating": 68.0
     },
     "Hue": {
         "price": 14.99,
         "publisher": "Curve Games",
-        "original_release_date": "2021-06-22"
+        "original_release_date": "2016-08-30",
+        "aggregated_rating": 77.875
     },
     "Killing Floor 2": {
         "price": 29.99,
         "publisher": "Tripwire Interactive",
-        "original_release_date": "2016-11-18"
+        "original_release_date": "2016-11-18",
+        "aggregated_rating": 80.76923076923077
     },
     "Lifeless Planet: Premier Edition": {
         "price": 9.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2015-05-13"
+        "original_release_date": "2015-05-13",
+        "aggregated_rating": 64.75
     },
     "The Escapists 2": {
         "price": 19.99,
         "publisher": "Team17",
-        "original_release_date": "2019-10-17"
+        "original_release_date": "2017-08-22",
+        "aggregated_rating": 75.44444444444444
     },
     "Torchlight II": {
         "price": 19.99,
         "publisher": "XD",
-        "original_release_date": "2012-09-20"
+        "original_release_date": "2012-09-20",
+        "aggregated_rating": 85.61538461538461
     },
     "Next Up Hero": {
         "price": 19.99,
         "publisher": "Digital Continue",
-        "original_release_date": "2018-03-16"
+        "original_release_date": "2018-06-28",
+        "aggregated_rating": 74.0
     },
     "Tacoma": {
         "price": 19.99,
         "publisher": "Fullbright",
-        "original_release_date": "2017-08-02"
+        "original_release_date": "2017-08-02",
+        "aggregated_rating": 78.1875
     },
     "20XX": {
         "price": 14.99,
         "publisher": "Batterystaple Games",
-        "original_release_date": "2017-08-16"
+        "original_release_date": "2017-08-16",
+        "aggregated_rating": 75.33333333333333
     },
     "Barony": {
         "price": 19.99,
         "publisher": "Turning Wheel LLC",
-        "original_release_date": "2015-06-23"
+        "original_release_date": "2015-06-23",
+        "aggregated_rating": 72
     },
     "Superbrothers: Sword & Sworcery EP": {
         "price": 7.99,
         "publisher": "Capybara Games",
-        "original_release_date": "2011-03-24"
+        "original_release_date": "2011-03-24",
+        "aggregated_rating": 77
     },
     "Wilmot's Warehouse": {
         "price": 14.99,
         "publisher": "Finji",
-        "original_release_date": "2019-08-28"
+        "original_release_date": "2019-08-28",
+        "aggregated_rating": 85.0
     },
     "Remnant: From the Ashes": {
         "price": 39.99,
         "publisher": "Arc Games",
-        "original_release_date": "2019-08-20"
+        "original_release_date": "2019-08-20",
+        "aggregated_rating": 76.35714285714286
     },
     "The Alto Collection": {
         "price": 9.99,
         "publisher": "Snowman",
-        "original_release_date": "2020-08-13"
+        "original_release_date": "2020-08-13",
+        "aggregated_rating": 80
     },
     "God's Trigger": {
         "price": 14.99,
         "publisher": "Techland Publishing",
-        "original_release_date": "2019-04-18"
+        "original_release_date": "2019-04-18",
+        "aggregated_rating": 90.0
     },
     "Railway Empire": {
         "price": 29.99,
         "publisher": "Kalypso Media",
-        "original_release_date": "2018-01-26"
+        "original_release_date": "2018-01-26",
+        "aggregated_rating": 85.0
     },
     "Where the Water Tastes Like Wine": {
         "price": 19.99,
         "publisher": "Good Shepherd Entertainment",
-        "original_release_date": "2018-02-28"
+        "original_release_date": "2018-02-28",
+        "aggregated_rating": 70.33333333333333
     },
     "A Total War Saga: Troy": {
         "price": 49.99,
         "publisher": "SEGA",
-        "original_release_date": "2020-08-13"
+        "original_release_date": "2020-08-13",
+        "aggregated_rating": 76.25
     },
     "Watch Dogs 2": {
         "price": 49.99,
         "publisher": "Ubisoft",
-        "original_release_date": "2016-11-15"
+        "original_release_date": "2016-11-15",
+        "aggregated_rating": 81.33333333333333
     },
     "RollerCoaster Tycoon 3: Complete Edition": {
         "price": 19.99,
         "publisher": "Frontier Developments",
-        "original_release_date": "2020-09-24"
+        "original_release_date": "2020-09-24",
+        "aggregated_rating": 80.0
     },
     "Pikuniku": {
         "price": 12.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2019-01-24"
+        "original_release_date": "2019-01-24",
+        "aggregated_rating": 74.8
     },
     "Rising Storm 2: Vietnam": {
         "price": 24.99,
         "publisher": "Tripwire Interactive",
-        "original_release_date": "2017-05-30"
+        "original_release_date": "2017-05-30",
+        "aggregated_rating": 72.5
     },
     "Amnesia: A Machine for Pigs": {
         "price": 19.99,
         "publisher": "Frictional Games",
-        "original_release_date": "2013-09-10"
+        "original_release_date": "2013-09-10",
+        "aggregated_rating": 72.625
     },
     "Kingdom New Lands": {
         "price": 14.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2016-08-09"
+        "original_release_date": "2016-08-09",
+        "aggregated_rating": 75.0
     },
     "Costume Quest 2": {
         "price": 14.99,
         "publisher": "Midnight City",
-        "original_release_date": "2014-10-07"
+        "original_release_date": "2014-10-07",
+        "aggregated_rating": 65.0
     },
     "Layers of Fear 2": {
         "price": 19.99,
         "publisher": "Bloober Team SA",
-        "original_release_date": "2023-06-15"
+        "original_release_date": "2019-05-28",
+        "aggregated_rating": 63.81818181818182
     },
     "Blair Witch": {
         "price": 29.99,
         "publisher": "Bloober Team NA",
-        "original_release_date": "2000-10-03"
+        "original_release_date": "2019-08-30",
+        "aggregated_rating": 72.0909090909091
     },
     "Ghostbusters: The Video Game Remastered": {
         "price": 24.99,
         "publisher": "Mad Dog Games, LLC",
-        "original_release_date": "2019-10-03"
+        "original_release_date": "2019-10-03",
+        "aggregated_rating": 60.0
     },
     "Dungeons 3": {
         "price": 29.99,
         "publisher": "Kalypso Media",
-        "original_release_date": "2025-08-29"
+        "original_release_date": "2017-10-13",
+        "aggregated_rating": 74.0
     },
     "The Textorcist: The Story of Ray Bibbia": {
         "price": 14.99,
         "publisher": "Headup",
-        "original_release_date": "2019-02-14"
+        "original_release_date": "2019-02-14",
+        "aggregated_rating": 82.5
     },
     "Elite Dangerous": {
         "price": 19.99,
         "publisher": "Frontier Developments",
-        "original_release_date": "2014-12-16"
+        "original_release_date": "2014-12-16",
+        "aggregated_rating": 81.95238095238095
     },
     "The World Next Door": {
         "price": 4.99,
         "publisher": "VIZ Media",
-        "original_release_date": "2019-03-28"
+        "original_release_date": "2019-03-28",
+        "aggregated_rating": 64.2
     },
     "MudRunner": {
         "price": 19.99,
         "publisher": "Focus Entertainment",
-        "original_release_date": "2017-10-31"
+        "original_release_date": "2017-10-31",
+        "aggregated_rating": 70.0
     },
     "Cave Story+": {
         "price": 14.99,
         "publisher": "Nicalis, Inc.",
-        "original_release_date": "2004-12-20"
+        "original_release_date": "2011-11-22",
+        "aggregated_rating": 81.0
     },
     "Pillars of Eternity: Definitive Edition": {
         "price": 39.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2017-11-15"
+        "original_release_date": "2017-11-15",
+        "aggregated_rating": 79
     },
     "Tyranny: Gold Edition": {
         "price": 49.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2018-11-08"
+        "original_release_date": "2018-11-08",
+        "aggregated_rating": 81
     },
     "Cities: Skylines": {
         "price": 29.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2017-10-09"
+        "original_release_date": "2015-03-10",
+        "aggregated_rating": 76.23076923076923
     },
     "Oddworld: New 'n' Tasty": {
         "price": 19.99,
         "publisher": "Oddworld Inhabitants, Inc.",
-        "original_release_date": "2014-07-22"
+        "original_release_date": "2014-07-22",
+        "aggregated_rating": 75.83333333333333
     },
     "The Long Dark": {
         "price": 19.99,
         "publisher": "Hinterland Studio Inc.",
-        "original_release_date": "2014-09-22"
+        "original_release_date": "2017-08-01",
+        "aggregated_rating": 82.0
     },
     "Defense Grid: The Awakening": {
         "price": 9.99,
         "publisher": "Hidden Path Entertainment",
-        "original_release_date": "2008-12-08"
+        "original_release_date": "2008-12-08",
+        "aggregated_rating": 86.0
     },
     "Alien: Isolation": {
         "price": 39.99,
         "publisher": "SEGA",
-        "original_release_date": "2021-12-16"
+        "original_release_date": "2014-10-06",
+        "aggregated_rating": 85.63157894736842
     },
     "Tropico 5": {
         "price": 19.99,
         "publisher": "Kalypso Media Digital",
-        "original_release_date": "2015-02-12"
+        "original_release_date": "2014-05-23",
+        "aggregated_rating": 72.35714285714286
     },
     "Darkest Dungeon": {
         "price": 24.99,
         "publisher": "Red Hook Studios",
-        "original_release_date": "2023-05-08"
+        "original_release_date": "2016-01-19",
+        "aggregated_rating": 83.1
     },
     "My Time at Portia": {
         "price": 29.99,
         "publisher": "Focus Entertainment",
-        "original_release_date": "2019-01-15"
+        "original_release_date": "2019-01-15",
+        "aggregated_rating": 70.2
     },
     "Night in the Woods": {
         "price": 19.99,
         "publisher": "Finji",
-        "original_release_date": "2013-12-21"
+        "original_release_date": "2017-02-21",
+        "aggregated_rating": 88.33333333333333
     },
     "Stranded Deep": {
         "price": 19.99,
         "publisher": "Beam Team Publishing",
-        "original_release_date": "2015-01-23"
+        "original_release_date": "2015-01-23",
+        "aggregated_rating": 58
     },
     "Solitairica": {
         "price": 9.99,
         "publisher": "Righteous Hammer Games",
-        "original_release_date": "2016-05-31"
+        "original_release_date": "2016-05-31",
+        "aggregated_rating": 80.0
     },
     "Jurassic World Evolution": {
         "price": 44.99,
         "publisher": "Frontier Developments",
-        "original_release_date": "2019-12-16"
+        "original_release_date": "2018-06-11",
+        "aggregated_rating": 74.15384615384616
     },
     "Crying Suns": {
         "price": 24.99,
         "publisher": "Humble Games",
-        "original_release_date": "2019-09-18"
+        "original_release_date": "2019-09-18",
+        "aggregated_rating": 79.5
     },
     "STAR WARS Battlefront II": {
         "price": 39.99,
         "publisher": "Electronic Arts",
-        "original_release_date": "2005-10-31"
+        "original_release_date": "2017-11-17",
+        "aggregated_rating": 71.82352941176471
     },
     "Galactic Civilizations III": {
         "price": 29.99,
         "publisher": "Stardock Entertainment",
-        "original_release_date": "2014-03-27"
+        "original_release_date": "2014-03-27",
+        "aggregated_rating": 77.5
     },
     "Dandara": {
         "price": 14.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2018-02-06"
+        "original_release_date": "2018-02-06",
+        "aggregated_rating": 69.2
     },
     "For The King": {
         "price": 19.99,
-        "publisher": "Curve Games",
-        "original_release_date": "1998-12-14"
+        "publisher": "IronOak Games",
+        "original_release_date": "2018-04-19",
+        "aggregated_rating": 78
     },
     "Metro: Last Light Redux": {
         "price": 19.99,
         "publisher": "Deep Silver",
-        "original_release_date": "2014-08-26"
+        "original_release_date": "2014-08-26",
+        "aggregated_rating": 80
     },
     "Halcyon 6: Starbase Commander": {
         "price": 14.99,
         "publisher": "Massive Damage, Inc.",
-        "original_release_date": "2016-09-08"
+        "original_release_date": "2016-09-08",
+        "aggregated_rating": 66.0
     },
     "Absolute Drift": {
         "price": 11.99,
         "publisher": "Funselektor Labs Inc.",
-        "original_release_date": "2015-07-29"
+        "original_release_date": "2015-07-29",
+        "aggregated_rating": 60.0
     },
     "Rage 2": {
         "price": 39.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2019-05-13"
+        "original_release_date": "2019-05-13",
+        "aggregated_rating": 68.63636363636364
     },
     "Sunless Sea": {
         "price": 18.99,
         "publisher": "Failbetter Games",
-        "original_release_date": "2015-02-06"
+        "original_release_date": "2015-02-06",
+        "aggregated_rating": 85.0
     },
     "Wargame: Red Dragon": {
         "price": 29.99,
         "publisher": "Eugen Systems",
-        "original_release_date": "2014-04-17"
+        "original_release_date": "2014-04-17",
+        "aggregated_rating": 80
     },
     "The Fall": {
         "price": 9.99,
         "publisher": "Over The Moon",
-        "original_release_date": "2020-08-14"
+        "original_release_date": "2014-05-30",
+        "aggregated_rating": 77.5
     },
     "Creature in the Well": {
         "price": 14.99,
         "publisher": "Flight School Studio",
-        "original_release_date": "2019-09-06"
+        "original_release_date": "2019-09-06",
+        "aggregated_rating": 73.75
     },
     "Tales of the Neon Sea": {
         "price": 14.99,
         "publisher": "Thermite Games",
-        "original_release_date": "2019-04-29"
+        "original_release_date": "2019-04-29",
+        "aggregated_rating": 60.0
     },
     "Deponia": {
         "price": 9.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2012-11-06"
+        "original_release_date": "2012-08-07",
+        "aggregated_rating": 77.5
     },
     "Ken Follett's The Pillars of the Earth": {
         "price": 19.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2017-08-15"
+        "original_release_date": "2017-08-15",
+        "aggregated_rating": 78.0
     },
     "The First Tree": {
         "price": 9.99,
         "publisher": "David Wehle",
-        "original_release_date": "2017-09-14"
+        "original_release_date": "2017-09-14",
+        "aggregated_rating": 68
     },
     "Hand of Fate 2": {
         "price": 29.99,
         "publisher": "Defiant Development",
-        "original_release_date": "2017-11-07"
+        "original_release_date": "2017-11-07",
+        "aggregated_rating": 76.0909090909091
     },
     "Pine": {
         "price": 24.99,
         "publisher": "Maximum Entertainment",
-        "original_release_date": "2019-05-10"
+        "original_release_date": "2019-10-01",
+        "aggregated_rating": 61
     },
     "The Lion's Song": {
         "price": 7.99,
         "publisher": "Mi'pu'mi Games GmbH",
-        "original_release_date": "2016-07-07"
+        "original_release_date": "2016-07-07",
+        "aggregated_rating": 80.5
     },
     "Among Us": {
         "price": 4.99,
         "publisher": "Innersloth",
-        "original_release_date": "2014-07-08"
+        "original_release_date": "2018-06-15",
+        "aggregated_rating": 81.75
     },
     "Frostpunk": {
         "price": 29.99,
         "publisher": "11 bit studios",
-        "original_release_date": "2018-04-24"
+        "original_release_date": "2018-04-24",
+        "aggregated_rating": 86.22222222222223
     },
     "Hell is Other Demons": {
         "price": 9.99,
         "publisher": "Cuddle Monster Games",
-        "original_release_date": "2019-04-18"
+        "original_release_date": "2019-04-18",
+        "aggregated_rating": 65.0
     },
     "Overcooked! 2": {
         "price": 24.99,
         "publisher": "Team17",
-        "original_release_date": "2019-10-17"
+        "original_release_date": "2018-08-07",
+        "aggregated_rating": 80.45454545454545
     },
     "Horizon Chase Turbo": {
         "price": 19.99,
         "publisher": "AQUIRIS",
-        "original_release_date": "2018-05-15"
+        "original_release_date": "2018-05-15",
+        "aggregated_rating": 85.0
     },
     "Sonic Mania": {
         "price": 19.99,
         "publisher": "SEGA",
-        "original_release_date": "2018-08-13"
+        "original_release_date": "2018-07-17",
+        "aggregated_rating": 86.77777777777777
     },
     "The Spectrum Retreat": {
         "price": 12.99,
         "publisher": "Ripstone",
-        "original_release_date": "2018-07-10"
+        "original_release_date": "2018-07-10",
+        "aggregated_rating": 65.0
     },
     "Bridge Constructor: The Walking Dead": {
         "price": 9.99,
         "publisher": "Headup",
-        "original_release_date": "2020-11-19"
+        "original_release_date": "2020-11-19",
+        "aggregated_rating": 83.5
     },
     "Ironcast": {
         "price": 14.99,
         "publisher": "Ripstone",
-        "original_release_date": "2015-03-26"
+        "original_release_date": "2015-03-26",
+        "aggregated_rating": 75.83333333333333
     },
     "Obduction": {
         "price": 29.99,
         "publisher": "Cyan Inc.",
-        "original_release_date": "2016-08-24"
+        "original_release_date": "2016-08-24",
+        "aggregated_rating": 67.0
     },
     "Verdun": {
         "price": 19.99,
         "publisher": "BlackMill Games",
-        "original_release_date": "2015-04-28"
+        "original_release_date": "2015-04-28",
+        "aggregated_rating": 57.5
     },
     "Mothergunship": {
         "price": 24.99,
         "publisher": "Terrible Posture Games",
-        "original_release_date": "2022-06-16"
+        "original_release_date": "2018-07-17",
+        "aggregated_rating": 75.0
     },
     "Train Sim World 2": {
         "price": 19.99,
         "publisher": "Dovetail Games - TSW",
-        "original_release_date": "2020-09-10"
+        "original_release_date": "2020-08-20",
+        "aggregated_rating": 90.0
     },
     "A Plague Tale: Innocence": {
         "price": 39.99,
         "publisher": "Focus Entertainment",
-        "original_release_date": "2019-05-14"
+        "original_release_date": "2019-05-14",
+        "aggregated_rating": 80.86666666666666
     },
     "Void Bastards": {
         "price": 29.99,
         "publisher": "Blue Manchu",
-        "original_release_date": "2019-05-28"
+        "original_release_date": "2019-05-28",
+        "aggregated_rating": 81.375
     },
     "Yooka-Laylee": {
         "price": 19.99,
         "publisher": "Playtonic Friends",
-        "original_release_date": "2017-04-11"
+        "original_release_date": "2017-04-11",
+        "aggregated_rating": 69.77272727272727
     },
     "Automachef": {
         "price": 14.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2019-07-22"
+        "original_release_date": "2019-07-22",
+        "aggregated_rating": 75.0
     },
     "Saints Row: The Third Remastered": {
         "price": 29.99,
         "publisher": "Deep Silver",
-        "original_release_date": "2020-05-22"
+        "original_release_date": "2020-05-22",
+        "aggregated_rating": 72.0
     },
     "Yoku's Island Express": {
         "price": 19.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2018-05-29"
+        "original_release_date": "2018-05-29",
+        "aggregated_rating": 84.5
     },
     "Nioh: The Complete Edition": {
         "price": 49.99,
         "publisher": "KOEI TECMO GAMES CO., LTD.",
-        "original_release_date": "2017-11-07"
+        "original_release_date": "2021-02-05",
+        "aggregated_rating": 89.0
     },
     "Sheltered": {
         "price": 14.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2023-01-27"
+        "original_release_date": "2016-03-15",
+        "aggregated_rating": 60.0
     },
     "Speed Brawl": {
         "price": 19.99,
         "publisher": "Double Stallion",
-        "original_release_date": "2018-09-18"
+        "original_release_date": "2018-09-18",
+        "aggregated_rating": 70
     },
     "Tharsis": {
         "price": 14.99,
         "publisher": "Choice Provisions",
-        "original_release_date": "2016-01-11"
+        "original_release_date": "2016-01-11",
+        "aggregated_rating": 63.42857142857143
     },
     "Europa Universalis IV": {
         "price": 49.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2013-08-13"
+        "original_release_date": "2013-08-13",
+        "aggregated_rating": 85.0
     },
     "PC Building Simulator": {
         "price": 19.99,
         "publisher": "The Irregular Corporation",
-        "original_release_date": "2018-12-14"
+        "original_release_date": "2019-01-29",
+        "aggregated_rating": 65.0
     },
     "Stubbs the Zombie in Rebel Without a Pulse": {
         "price": 19.99,
         "publisher": "Aspyr",
-        "original_release_date": "2005-10-18"
+        "original_release_date": "2005-10-18",
+        "aggregated_rating": 62.5
     },
     "Among the Sleep: Enhanced Edition": {
         "price": 16.99,
         "publisher": "Krillbite Studio",
-        "original_release_date": "2017-11-02"
+        "original_release_date": "2017-11-02",
+        "aggregated_rating": 59
     },
     "DARQ": {
         "price": 19.99,
         "publisher": "Unfold Games",
-        "original_release_date": "2019-08-15"
+        "original_release_date": "2019-08-15",
+        "aggregated_rating": 70.0
     },
     "Aven Colony": {
         "price": 29.99,
         "publisher": "Team17 Digital Ltd",
-        "original_release_date": "2017-07-25"
+        "original_release_date": "2017-07-25",
+        "aggregated_rating": 72.71428571428571
     },
     "Guild of Dungeoneering": {
         "price": 7.99,
         "publisher": "Gambrinous",
-        "original_release_date": "2015-07-15"
+        "original_release_date": "2015-07-15",
+        "aggregated_rating": 79.0
     },
     "Never Alone (Kisima Ingitchuna)": {
         "price": 14.99,
         "publisher": "E-Line Media",
-        "original_release_date": "2014-11-18"
+        "original_release_date": "2014-11-18",
+        "aggregated_rating": 70.6
     },
     "Antstream": {
         "price": 39.99,
         "publisher": "Antstream Ltd",
-        "original_release_date": "2013-01-01"
+        "original_release_date": "2021-11-18",
+        "aggregated_rating": "Score Not Found"
     },
     "theHunter: Call of the Wild": {
         "price": 19.99,
         "publisher": "Expansive Worlds",
-        "original_release_date": "2017-02-16"
+        "original_release_date": "2017-02-16",
+        "aggregated_rating": 73.6
     },
     "Dead by Daylight": {
         "price": 19.99,
         "publisher": "Behaviour Interactive Inc.",
-        "original_release_date": "2025-02-09"
+        "original_release_date": "2016-06-14",
+        "aggregated_rating": 67
     },
     "while True: learn()": {
         "price": 12.99,
         "publisher": "Luden.io",
-        "original_release_date": "2019-01-17"
+        "original_release_date": "2019-01-17",
+        "aggregated_rating": 70.0
     },
     "Godfall: Challenger Edition": {
         "price": 24.99,
         "publisher": "Gearbox Publishing",
-        "original_release_date": "2021-12-07"
+        "original_release_date": "2021-12-07",
+        "aggregated_rating": 59
     },
     "Prison Architect": {
         "price": 29.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2015-10-06"
+        "original_release_date": "2015-10-06",
+        "aggregated_rating": 81.07692307692308
     },
     "Shenmue III": {
         "price": 29.99,
         "publisher": "ININ",
-        "original_release_date": "2019-11-19"
+        "original_release_date": "2019-11-19",
+        "aggregated_rating": 67.54545454545455
     },
     "Neon Abyss": {
         "price": 19.99,
         "publisher": "Team17",
-        "original_release_date": "2022-10-31"
+        "original_release_date": "2020-07-13",
+        "aggregated_rating": 90.0
     },
     "The Vanishing of Ethan Carter": {
         "price": 19.99,
         "publisher": "The Astronauts",
-        "original_release_date": "2014-09-25"
+        "original_release_date": "2014-09-25",
+        "aggregated_rating": 82.375
     },
     "Loop Hero": {
         "price": 14.99,
         "publisher": "Devolver Digital",
-        "original_release_date": "2021-03-04"
+        "original_release_date": "2021-03-04",
+        "aggregated_rating": 84.85714285714286
     },
     "Vampyr": {
         "price": 39.99,
         "publisher": "Focus Entertainment",
-        "original_release_date": "2018-06-04"
+        "original_release_date": "2018-06-04",
+        "aggregated_rating": 68.29411764705883
     },
     "Pathfinder: Kingmaker - Enhanced Plus Edition": {
         "price": 19.99,
         "publisher": "Knights Peak",
-        "original_release_date": "2019-06-06"
+        "original_release_date": "2019-06-06",
+        "aggregated_rating": 78
     },
     "Mages of Mystralia": {
         "price": 19.99,
         "publisher": "Borealys Games",
-        "original_release_date": "2017-05-18"
+        "original_release_date": "2017-05-18",
+        "aggregated_rating": 84.0
     },
     "Moving Out": {
         "price": 24.99,
         "publisher": "Team17",
-        "original_release_date": "2023-08-15"
+        "original_release_date": "2020-04-28",
+        "aggregated_rating": 74.5
     },
     "Salt and Sanctuary": {
         "price": 17.99,
         "publisher": "Ska Studios",
-        "original_release_date": "2016-03-15"
+        "original_release_date": "2016-03-15",
+        "aggregated_rating": 85.2
     },
     "Tomb Raider GOTY": {
         "price": 19.8,
@@ -1174,112 +1402,134 @@
     "Gods Will Fall": {
         "price": 14.99,
         "publisher": "Deep Silver ",
-        "original_release_date": "2021-01-28"
+        "original_release_date": "2021-01-28",
+        "aggregated_rating": 69.8
     },
     "Relicta": {
         "price": 19.99,
         "publisher": "Ravenscourt",
-        "original_release_date": "2020-08-03"
+        "original_release_date": "2020-08-03",
+        "aggregated_rating": 88.0
     },
     "Daemon X Machina": {
         "price": 49.99,
         "publisher": "XSEED Games",
-        "original_release_date": "2019-09-12"
+        "original_release_date": "2019-09-12",
+        "aggregated_rating": 70.8
     },
     "Windbound": {
         "price": 29.99,
         "publisher": "Deep Silver ",
-        "original_release_date": "2020-08-21"
+        "original_release_date": "2020-08-21",
+        "aggregated_rating": 57.6
     },
     "Brothers: A Tale of Two Sons": {
         "price": 14.99,
         "publisher": "505 Games",
-        "original_release_date": "2013-08-07"
+        "original_release_date": "2013-08-07",
+        "aggregated_rating": 83.4375
     },
     "Cris Tales": {
         "price": 39.99,
         "publisher": "Maximum Entertainment",
-        "original_release_date": "2021-07-19"
+        "original_release_date": "2021-07-19",
+        "aggregated_rating": 72.16666666666667
     },
     "Black Widow: Recharged": {
         "price": 9.99,
         "publisher": "Atari",
-        "original_release_date": "2021-10-27"
+        "original_release_date": "2021-10-27",
+        "aggregated_rating": 72.0
     },
     "Centipede: Recharged": {
         "price": 9.99,
         "publisher": "Atari",
-        "original_release_date": "2021-09-29"
+        "original_release_date": "2021-09-29",
+        "aggregated_rating": 76.0
     },
     "In Sound Mind": {
         "price": 34.99,
         "publisher": "Maximum Entertainment",
-        "original_release_date": "2021-09-28"
+        "original_release_date": "2021-09-28",
+        "aggregated_rating": 85
     },
     "Demon's Tilt": {
         "price": 19.99,
         "publisher": "FLARB LLC",
-        "original_release_date": "2019-12-06"
+        "original_release_date": "2019-12-06",
+        "aggregated_rating": 70.0
     },
     "Total War: Warhammer": {
         "price": 59.99,
         "publisher": "SEGA",
-        "original_release_date": "2022-02-17"
+        "original_release_date": "2017-09-28",
+        "aggregated_rating": 87.875
     },
     "Rogue Legacy": {
         "price": 14.99,
         "publisher": "Cellar Door Games",
-        "original_release_date": "2013-06-27"
+        "original_release_date": "2013-06-27",
+        "aggregated_rating": 86.0
     },
     "Insurmountable": {
         "price": 24.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2021-04-29"
+        "original_release_date": "2021-04-29",
+        "aggregated_rating": 85.0
     },
     "XCOM 2": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2018-02-01"
+        "original_release_date": "2016-02-04",
+        "aggregated_rating": 85.20689655172414
     },
     "Amnesia: Rebirth": {
         "price": 29.99,
         "publisher": "Frictional Games",
-        "original_release_date": "2020-10-20"
+        "original_release_date": "2020-10-20",
+        "aggregated_rating": 81.77777777777777
     },
     "Riverbond": {
         "price": 24.99,
         "publisher": "Cococucumber",
-        "original_release_date": "2019-06-09"
+        "original_release_date": "2019-06-09",
+        "aggregated_rating": 70.5
     },
     "Just Die Already": {
         "price": 14.99,
         "publisher": "Curve Games",
-        "original_release_date": "2021-05-20"
+        "original_release_date": "2021-05-20",
+        "aggregated_rating": 60.0
     },
     "Paradigm": {
         "price": 14.99,
         "publisher": "Jacob Janerka",
-        "original_release_date": "2017-04-05"
+        "original_release_date": "2017-04-05",
+        "aggregated_rating": 87
     },
     "Terraforming Mars": {
         "price": 19.99,
         "publisher": "Twin Sails Interactive",
-        "original_release_date": "2018-10-17"
+        "original_release_date": "2018-10-17",
+        "aggregated_rating": 65
     },
     "Redout: Enhanced Edition": {
         "price": 19.99,
         "publisher": "34BigThings srl",
-        "original_release_date": "2016-09-02"
+        "original_release_date": "2016-09-02",
+        "aggregated_rating": 69
     },
     "Borderlands 3": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2019-09-13"
+        "original_release_date": "2019-09-13",
+        "aggregated_rating": 81.0
     },
     "Bioshock: The Collection": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2016-09-13"
+        "original_release_date": "2016-09-13",
+        "aggregated_rating": 84.21428571428571
     },
     "BioShock": {
         "price": 19.99,
@@ -1296,1342 +1546,1610 @@
     "Wolfenstein: The New Order": {
         "price": 19.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2014-05-20"
+        "original_release_date": "2014-05-20",
+        "aggregated_rating": 77.3125
     },
     "Maneater": {
         "price": 39.99,
         "publisher": "Tripwire Interactive",
-        "original_release_date": "2025-12-01"
+        "original_release_date": "2020-05-22",
+        "aggregated_rating": 73
     },
     "Supraland": {
         "price": 19.99,
         "publisher": "Supra Games",
-        "original_release_date": "2019-04-05"
+        "original_release_date": "2019-04-05",
+        "aggregated_rating": 80.0
     },
     "A Game of Thrones: The Board Game Digital Edition": {
         "price": 19.99,
         "publisher": "Twin Sails Interactive",
-        "original_release_date": "2020-10-06"
+        "original_release_date": "2020-10-06",
+        "aggregated_rating": 72.0
     },
     "Car Mechanic Simulator 2018": {
         "price": 19.99,
         "publisher": "PlayWay S.A.",
-        "original_release_date": "2017-07-28"
+        "original_release_date": "2017-07-28",
+        "aggregated_rating": 67.0
     },
     "Geneforge 1: Mutagen": {
         "price": 19.99,
         "publisher": "Spiderweb Software",
-        "original_release_date": "2021-02-24"
+        "original_release_date": "2021-02-24",
+        "aggregated_rating": 74
     },
     "Iratus: Lord of the Dead": {
         "price": 29.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2020-04-23"
+        "original_release_date": "2020-04-23",
+        "aggregated_rating": 70
     },
     "Ancient Enemy": {
         "price": 16.99,
         "publisher": "Grey Alien Games",
-        "original_release_date": "2020-04-09"
+        "original_release_date": "2020-04-09",
+        "aggregated_rating": 52
     },
     "Wonder Boy: The Dragon's Trap": {
         "price": 19.99,
         "publisher": "Dotemu",
-        "original_release_date": "2017-04-18"
+        "original_release_date": "2017-04-18",
+        "aggregated_rating": 81
     },
     "Tannenberg": {
         "price": 19.99,
         "publisher": "Blackmill Games",
-        "original_release_date": "2019-02-13"
+        "original_release_date": "2019-02-13",
+        "aggregated_rating": 65.75
     },
     "Lawn Mowing Simulator": {
         "price": 19.99,
         "publisher": "Curve Games",
-        "original_release_date": "2021-08-10"
+        "original_release_date": "2021-08-10",
+        "aggregated_rating": 62.0
     },
     "Unrailed!": {
         "price": 19.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2019-09-09"
+        "original_release_date": "2019-09-09",
+        "aggregated_rating": 72
     },
     "Cook, Serve, Delicious! 3?!": {
         "price": 19.99,
         "publisher": "Vertigo Gaming Inc.",
-        "original_release_date": "2020-10-13"
+        "original_release_date": "2020-10-13",
+        "aggregated_rating": 74.0
     },
     "Doom 64": {
         "price": 4.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2020-03-20"
+        "original_release_date": "1997-04-04",
+        "aggregated_rating": 77.0
     },
     "Destiny 2": {
         "price": 24.99,
         "publisher": "Bungie",
-        "original_release_date": "2023-12-06"
+        "original_release_date": "2017-09-06",
+        "aggregated_rating": 82.44
     },
     "Ring of Pain": {
         "price": 19.99,
         "publisher": "Humble Games",
-        "original_release_date": "2020-10-14"
+        "original_release_date": "2020-10-14",
+        "aggregated_rating": 53
     },
     "Submerged: Hidden Depths": {
         "price": 29.99,
         "publisher": "Uppercut Games Pty Ltd",
-        "original_release_date": "2020-12-03"
+        "original_release_date": "2020-12-03",
+        "aggregated_rating": 74.0
     },
     "Hundred Days - Winemaking Simulator": {
         "price": 24.99,
         "publisher": "Broken Arms Games",
-        "original_release_date": "2021-02-03"
+        "original_release_date": "2021-05-13",
+        "aggregated_rating": 60
     },
     "Spirit of the North": {
         "price": 19.99,
         "publisher": "Silver Lining Interactive",
-        "original_release_date": "2019-11-13"
+        "original_release_date": "2019-11-13",
+        "aggregated_rating": 70.0
     },
     "The Captain": {
         "price": 19.99,
         "publisher": "Tomorrow Corporation",
-        "original_release_date": "2011-06-28"
+        "original_release_date": "2021-03-12",
+        "aggregated_rating": 64
     },
     "Gloomhaven": {
         "price": 34.99,
         "publisher": "Twin Sails Interactive",
-        "original_release_date": "2019-07-17"
+        "original_release_date": "2019-07-17",
+        "aggregated_rating": 73.5
     },
     "Runbow": {
         "price": 14.99,
         "publisher": "13AM Games",
-        "original_release_date": "2015-08-27"
+        "original_release_date": "2015-08-27",
+        "aggregated_rating": 73.85714285714286
     },
     "The Drone Racing League Simulator": {
         "price": 9.99,
         "publisher": "The Drone Racing League",
-        "original_release_date": "2017-06-16"
+        "original_release_date": "2017-06-16",
+        "aggregated_rating": "Score Not Found"
     },
     "Rising Hell": {
         "price": 9.99,
         "publisher": "Toge Productions",
-        "original_release_date": "2021-05-19"
+        "original_release_date": "2021-05-19",
+        "aggregated_rating": 70
     },
     "Slain: Back from Hell": {
         "price": 12.99,
         "publisher": "Silver Lining Interactive",
-        "original_release_date": "2016-03-24"
+        "original_release_date": "2016-03-24",
+        "aggregated_rating": 49.91666666666666
     },
     "Darkwood": {
         "price": 14.99,
-        "publisher": "Hooded Horse",
-        "original_release_date": "2014-07-24"
+        "publisher": "Crunching Koalas",
+        "original_release_date": "2017-08-17",
+        "aggregated_rating": 80
     },
     "ToeJam & Earl: Back in the Groove!": {
         "price": 14.99,
         "publisher": "HumaNature Studios",
-        "original_release_date": "2019-03-01"
+        "original_release_date": "2019-03-01",
+        "aggregated_rating": 69.5
     },
     "Evoland": {
         "price": 9.99,
         "publisher": "Shiro Games",
-        "original_release_date": "2013-04-04"
+        "original_release_date": "2013-04-04",
+        "aggregated_rating": 80.0
     },
     "Fallout 3": {
         "price": 9.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2008-10-28"
+        "original_release_date": "2008-10-28",
+        "aggregated_rating": 89.1
     },
     "Saturnalia": {
         "price": 29.99,
         "publisher": "Santa Ragione",
-        "original_release_date": "2022-10-27"
+        "original_release_date": "2022-10-27",
+        "aggregated_rating": 80
     },
     "Warhammer 40,000: Mechanicus": {
         "price": 29.99,
         "publisher": "Kasedo Games",
-        "original_release_date": "2018-11-15"
+        "original_release_date": "2018-11-15",
+        "aggregated_rating": 76.5
     },
     "Filament": {
         "price": 16.99,
         "publisher": "Kasedo Games",
-        "original_release_date": "2015-11-14"
+        "original_release_date": "2020-04-23",
+        "aggregated_rating": 77.5
     },
     "Alba: A Wildlife Adventure": {
         "price": 16.99,
         "publisher": "ustwo games",
-        "original_release_date": "2020-12-11"
+        "original_release_date": "2020-12-11",
+        "aggregated_rating": 81.66666666666667
     },
     "Dark Deity": {
         "price": 24.99,
         "publisher": "indie.io",
-        "original_release_date": "2025-03-24"
+        "original_release_date": "2021-06-15",
+        "aggregated_rating": "Score Not Found"
     },
     "Evil Dead: The Game": {
         "price": 39.99,
         "publisher": "Boss Team Games",
-        "original_release_date": "2022-05-13"
+        "original_release_date": "2011-06-01",
+        "aggregated_rating": 85.0
     },
     "Star Wars: Squadrons": {
         "price": 39.99,
         "publisher": "Electronic Arts",
-        "original_release_date": "2020-10-01"
+        "original_release_date": "2020-10-01",
+        "aggregated_rating": 80.75
     },
     "Fort Triumph": {
         "price": 19.99,
         "publisher": "CookieByte Entertainment",
-        "original_release_date": "2020-04-16"
+        "original_release_date": "2020-04-16",
+        "aggregated_rating": 75.0
     },
     "RPG in a Box": {
         "price": 49.99,
         "publisher": "Quercus Quag Software",
-        "original_release_date": "2015-08-17"
+        "original_release_date": "2022-05-11",
+        "aggregated_rating": "Score Not Found"
     },
     "Wildcat Gun Machine": {
         "price": 14.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2022-05-04"
+        "original_release_date": "2022-05-04",
+        "aggregated_rating": 50.0
     },
     "Bloons TD 6": {
         "price": 13.99,
         "publisher": "Ninja Kiwi",
-        "original_release_date": "2018-06-14"
+        "original_release_date": "2018-06-14",
+        "aggregated_rating": 78
     },
     "Sable": {
         "price": 24.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2021-09-23"
+        "original_release_date": "2021-09-23",
+        "aggregated_rating": 82.71428571428571
     },
     "Them's Fightin' Herds": {
         "price": 31.98,
         "publisher": "Gameplay Group International",
-        "original_release_date": "2020-04-30"
+        "original_release_date": "2020-04-30",
+        "aggregated_rating": 75.0
     },
     "LEGO Builder's Journey": {
         "price": 19.99,
         "publisher": "LEGO\u00ae Games",
-        "original_release_date": "2019-12-20"
+        "original_release_date": "2019-12-20",
+        "aggregated_rating": 77.2
     },
     "Fallout Classic Collection": {
         "price": 19.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2016-11-11"
+        "original_release_date": "2016-11-11",
+        "aggregated_rating": "Score Not Found"
     },
     "Encased": {
         "price": 29.99,
         "publisher": "Prime Matter",
-        "original_release_date": "2021-09-07"
+        "original_release_date": "2021-09-07",
+        "aggregated_rating": 55
     },
     "Death Stranding": {
         "price": 39.99,
         "publisher": " 505 Games",
-        "original_release_date": "2019-11-08"
+        "original_release_date": "2019-11-08",
+        "aggregated_rating": 84.41176470588235
     },
     "F.I.S.T.: Forged In Shadow Torch": {
         "price": 15.99,
         "publisher": "Astrolabe Games",
-        "original_release_date": "2021-09-07"
+        "original_release_date": "2021-09-07",
+        "aggregated_rating": 86.83333333333333
     },
     "Severed Steel": {
         "price": 24.99,
         "publisher": "Greylock Studio",
-        "original_release_date": "2021-09-17"
+        "original_release_date": "2021-09-17",
+        "aggregated_rating": 85.0
     },
     "Dishonored": {
         "price": 9.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2012-10-08"
+        "original_release_date": "2012-10-09",
+        "aggregated_rating": 90.35714285714286
     },
     "Eximius: Seize the Frontline": {
         "price": 19.99,
         "publisher": "Ammobox Studios",
-        "original_release_date": "2021-03-16"
+        "original_release_date": "2021-03-16",
+        "aggregated_rating": 50
     },
     "Mortal Shell": {
         "price": 29.99,
         "publisher": "Playstack",
-        "original_release_date": "2020-08-18"
+        "original_release_date": "2020-08-18",
+        "aggregated_rating": 75.25
     },
     "Kerbal Space Program": {
         "price": 39.99,
         "publisher": "Private Division",
-        "original_release_date": "2015-04-27"
+        "original_release_date": "2015-04-27",
+        "aggregated_rating": 86.57142857142857
     },
     "Shadow Tactics: Blades Of The Shogun - Aiko's Choice": {
         "price": 19.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2021-12-06"
+        "original_release_date": "2021-12-06",
+        "aggregated_rating": 90.0
     },
     "First Class Trouble": {
         "price": 14.99,
         "publisher": "Invisible Walls",
-        "original_release_date": "2021-04-08"
+        "original_release_date": "2021-04-08",
+        "aggregated_rating": 54
     },
     "Gamedec": {
         "price": 6.99,
         "publisher": "Anshar Publishing",
-        "original_release_date": "2021-09-16"
+        "original_release_date": "2021-09-16",
+        "aggregated_rating": 72.0
     },
     "Adios": {
         "price": 17.99,
         "publisher": "Mischief",
-        "original_release_date": "2021-03-17"
+        "original_release_date": "2021-03-17",
+        "aggregated_rating": 71
     },
     "Hell is Others": {
         "price": 14.99,
         "publisher": "A List Games",
-        "original_release_date": "2022-10-20"
+        "original_release_date": "2022-10-20",
+        "aggregated_rating": 70.0
     },
     "City of Gangsters": {
         "price": 29.99,
         "publisher": "Kasedo Games",
-        "original_release_date": "2010-01-26"
+        "original_release_date": "2021-08-09",
+        "aggregated_rating": 84
     },
     "Dishonored: Death of the Outsider": {
         "price": 29.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2017-09-14"
+        "original_release_date": "2017-09-14",
+        "aggregated_rating": 81.9090909090909
     },
     "Recipe for Disaster": {
         "price": 16.99,
         "publisher": "Kasedo Games",
-        "original_release_date": "2021-11-04"
+        "original_release_date": "2021-11-04",
+        "aggregated_rating": "Score Not Found"
     },
     "Warpips": {
         "price": 16.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2021-04-29"
+        "original_release_date": "2021-04-29",
+        "aggregated_rating": 87
     },
     "Duskers": {
         "price": 19.99,
         "publisher": "Misfits Attic",
-        "original_release_date": "2016-05-18"
+        "original_release_date": "2016-05-18",
+        "aggregated_rating": 84.0
     },
     "Rise of Industry": {
         "price": 29.99,
         "publisher": "Kasedo Games",
-        "original_release_date": "2019-05-02"
+        "original_release_date": "2019-05-02",
+        "aggregated_rating": 72.0
     },
     "Call of the Sea": {
         "price": 19.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2020-12-08"
+        "original_release_date": "2020-12-08",
+        "aggregated_rating": 72.5
     },
     "Warhammer 40,000: Gladius - Relics Of War": {
         "price": 39.99,
         "publisher": "Slitherine Ltd.",
-        "original_release_date": "2018-07-12"
+        "original_release_date": "2018-07-12",
+        "aggregated_rating": 64.5
     },
     "Chess Ultra": {
         "price": 12.99,
         "publisher": "Ripstone",
-        "original_release_date": "2017-06-20"
+        "original_release_date": "2017-06-20",
+        "aggregated_rating": 83.0
     },
     "The Silent Age": {
         "price": 9.99,
         "publisher": "Meridian4",
-        "original_release_date": "2013-02-21"
+        "original_release_date": "2013-02-21",
+        "aggregated_rating": 70.0
     },
     "Tunche": {
         "price": 19.99,
         "publisher": "HypeTrain Digital",
-        "original_release_date": "2021-11-02"
+        "original_release_date": "2021-11-02",
+        "aggregated_rating": 70.0
     },
     "Dying Light": {
         "price": 24.99,
         "publisher": "Techland",
-        "original_release_date": "2015-01-26"
+        "original_release_date": "2015-01-26",
+        "aggregated_rating": 72.05882352941177
     },
     "shapez": {
         "price": 9.99,
         "publisher": "tobspr Games",
-        "original_release_date": "2020-06-07"
+        "original_release_date": "2020-06-07",
+        "aggregated_rating": 76
     },
     "Mordhau": {
         "price": 29.99,
         "publisher": "Triternion",
-        "original_release_date": "2019-04-29"
+        "original_release_date": "2019-04-29",
+        "aggregated_rating": 82.25
     },
     "Beyond Blue": {
         "price": 19.99,
         "publisher": "E-Line Media",
-        "original_release_date": "2020-04-17"
+        "original_release_date": "2020-04-17",
+        "aggregated_rating": 69.75
     },
     "Breathedge": {
         "price": 24.99,
         "publisher": "HypeTrain Digital",
-        "original_release_date": "2018-09-18"
+        "original_release_date": "2018-09-18",
+        "aggregated_rating": 82.0
     },
     "Poker Club": {
         "price": 19.99,
         "publisher": "Ripstone",
-        "original_release_date": "2020-11-19"
+        "original_release_date": "2020-11-19",
+        "aggregated_rating": "Score Not Found"
     },
     "Against All Odds": {
         "price": 4.99,
-        "publisher": "25 Crimson",
-        "original_release_date": "2022-09-08"
+        "publisher": "Microwave Games",
+        "original_release_date": "2023-05-19",
+        "aggregated_rating": 60
     },
     "Kao the Kangaroo": {
         "price": 29.99,
         "publisher": "Tate Multimedia",
-        "original_release_date": "2005-12-02"
+        "original_release_date": "2022-05-27",
+        "aggregated_rating": 71
     },
     "Fallout: New Vegas": {
         "price": 9.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2010-10-19"
+        "original_release_date": "2010-10-19",
+        "aggregated_rating": 81.9
     },
     "Midnight Ghost Hunt": {
         "price": 19.99,
         "publisher": "Coffee Stain Publishing",
-        "original_release_date": "2024-03-21"
+        "original_release_date": "2024-03-21",
+        "aggregated_rating": 85.0
     },
     "PAYDAY 2": {
         "price": 9.99,
         "publisher": "Starbreeze Entertainment",
-        "original_release_date": "2013-08-13"
+        "original_release_date": "2013-08-13",
+        "aggregated_rating": 74.76470588235294
     },
     "Guacamelee! 2": {
         "price": 19.99,
         "publisher": "Drinkbox Studios",
-        "original_release_date": "2018-08-21"
+        "original_release_date": "2018-08-21",
+        "aggregated_rating": 84.0
     },
     "Guacamelee!": {
         "price": 19.99,
         "publisher": "Drinkbox Studios",
-        "original_release_date": "2013-04-09"
+        "original_release_date": "2013-04-09",
+        "aggregated_rating": 84.36363636363636
     },
     "TheHunter: Call of the Wild": {
         "price": 19.99,
         "publisher": "Expansive Worlds",
-        "original_release_date": "2017-02-16"
+        "original_release_date": "2017-02-16",
+        "aggregated_rating": 73.6
     },
     "The Dungeon of Naheulbeuk: The Amulet of Chaos": {
         "price": 34.99,
         "publisher": "Dear Villagers",
-        "original_release_date": "2021-06-24"
+        "original_release_date": "2020-09-17",
+        "aggregated_rating": 92.0
     },
     "Grime": {
         "price": 24.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2021-08-02"
+        "original_release_date": "2021-08-02",
+        "aggregated_rating": 95.0
     },
     "Train Valley 2": {
         "price": 14.99,
         "publisher": "Flazm",
-        "original_release_date": "2019-04-15"
+        "original_release_date": "2019-04-15",
+        "aggregated_rating": 62
     },
     "Murder by Numbers": {
         "price": 14.99,
         "publisher": "The Irregular Corporation",
-        "original_release_date": "2020-03-05"
+        "original_release_date": "2020-03-05",
+        "aggregated_rating": 71.0
     },
     "The Elder Scrolls Online": {
         "price": 19.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2014-04-04"
+        "original_release_date": "2014-04-04",
+        "aggregated_rating": 70.4375
     },
     "Homeworld Remastered Collection": {
         "price": 34.99,
         "publisher": "Gearbox Publishing",
-        "original_release_date": "2015-02-25"
+        "original_release_date": "2015-02-25",
+        "aggregated_rating": 87.5
     },
     "Orwell: Keeping an Eye on You": {
         "price": 9.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2016-10-27"
+        "original_release_date": "2016-10-27",
+        "aggregated_rating": 85.83333333333333
     },
     "Black Book": {
         "price": 24.99,
         "publisher": "HypeTrain Digital",
-        "original_release_date": "2021-08-10"
+        "original_release_date": "2021-08-10",
+        "aggregated_rating": 84
     },
     "Dodo Peak": {
         "price": 9.99,
         "publisher": "Moving Pieces Interactive",
-        "original_release_date": "2019-09-12"
+        "original_release_date": "2019-09-12",
+        "aggregated_rating": "Score Not Found"
     },
     "Homeworld: Deserts of Kharak": {
         "price": 49.99,
         "publisher": "Gearbox Publishing",
-        "original_release_date": "2016-01-20"
+        "original_release_date": "2016-01-20",
+        "aggregated_rating": 85.0
     },
     "Spelldrifter": {
         "price": 19.99,
         "publisher": "Free Range Games",
-        "original_release_date": "2019-09-14"
+        "original_release_date": "2019-09-14",
+        "aggregated_rating": "Score Not Found"
     },
     "911 Operator": {
         "price": 14.99,
         "publisher": "Games Operators",
-        "original_release_date": "2017-02-24"
+        "original_release_date": "2017-02-24",
+        "aggregated_rating": 76.0
     },
     "Out of Line": {
         "price": 8.99,
         "publisher": "Hatinh Interactive",
-        "original_release_date": "2023-11-28"
+        "original_release_date": "2013-07-10",
+        "aggregated_rating": 72
     },
     "The Forest Quartet": {
         "price": 9.99,
         "publisher": "Bedtime Digital Games",
-        "original_release_date": "2022-12-08"
+        "original_release_date": "2022-12-08",
+        "aggregated_rating": 74
     },
     "Model Builder": {
         "price": 19.99,
         "publisher": "Green Man Gaming Publishing",
-        "original_release_date": "2014-11-05"
+        "original_release_date": "2022-02-08",
+        "aggregated_rating": "Score Not Found"
     },
     "Soulstice": {
         "price": 39.99,
         "publisher": "Maximum Entertainment",
-        "original_release_date": "2022-09-20"
+        "original_release_date": "2022-09-20",
+        "aggregated_rating": 66.0
     },
     "Godlike Burger": {
         "price": 19.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2022-04-21"
+        "original_release_date": "2022-04-21",
+        "aggregated_rating": "Score Not Found"
     },
     "Blazing Sails": {
         "price": 14.99,
         "publisher": "Iceberg Interactive",
-        "original_release_date": "2023-11-13"
+        "original_release_date": "2023-11-13",
+        "aggregated_rating": 80
     },
     "Eternal Threads": {
         "price": 19.99,
         "publisher": "Secret Mode",
-        "original_release_date": "2022-05-19"
+        "original_release_date": "2022-05-19",
+        "aggregated_rating": 63.33333333333334
     },
     "The Evil Within": {
         "price": 19.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2014-10-14"
+        "original_release_date": "2014-10-14",
+        "aggregated_rating": 75.11764705882354
     },
     "Tandem: A Tale of Shadows": {
         "price": 9.99,
         "publisher": "Hatinh Interactive",
-        "original_release_date": "2021-09-25"
+        "original_release_date": "2021-09-25",
+        "aggregated_rating": 74.66666666666667
     },
     "The Evil Within 2": {
         "price": 39.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2017-10-12"
+        "original_release_date": "2017-10-12",
+        "aggregated_rating": 81.2
     },
     "Turnip Boy Commits Tax Evasion": {
         "price": 14.99,
         "publisher": "Graffiti Games",
-        "original_release_date": "2021-04-22"
+        "original_release_date": "2021-04-22",
+        "aggregated_rating": 76.66666666666667
     },
     "Earthlock": {
         "price": 29.99,
         "publisher": "Snowcastle Games",
-        "original_release_date": "2018-03-08"
+        "original_release_date": "2018-03-08",
+        "aggregated_rating": 70
     },
     "Golden Light": {
         "price": 19.99,
         "publisher": "Mr. Pink",
-        "original_release_date": "2020-07-10"
+        "original_release_date": "2020-07-10",
+        "aggregated_rating": 59
     },
     "Deliver Us Mars": {
         "price": 29.99,
         "publisher": "Frontier Foundry",
-        "original_release_date": "2023-02-02"
+        "original_release_date": "2023-02-02",
+        "aggregated_rating": 70.75
     },
     "Surviving the Aftermath": {
         "price": 29.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2021-11-16"
+        "original_release_date": "2021-11-16",
+        "aggregated_rating": 53
     },
     "Jitsu Squad": {
         "price": 9.99,
         "publisher": "Tanuki Creative Studio",
-        "original_release_date": "2022-03-29"
+        "original_release_date": "2022-03-29",
+        "aggregated_rating": "Score Not Found"
     },
     "Mighty Fight Federation": {
         "price": 29.99,
         "publisher": "Forthright Entertainment",
-        "original_release_date": "2020-02-07"
+        "original_release_date": "2020-02-07",
+        "aggregated_rating": "Score Not Found"
     },
     "GigaBash": {
         "price": 24.99,
         "publisher": "Passion Republic Games",
-        "original_release_date": "2022-08-04"
+        "original_release_date": "2022-08-04",
+        "aggregated_rating": 70.0
     },
     "Predecessor": {
         "price": 29.99,
         "publisher": "Omeda Studios",
-        "original_release_date": "2024-08-20"
+        "original_release_date": "2024-08-20",
+        "aggregated_rating": 81
     },
     "Destiny 2: Legacy Collection": {
         "price": 69.99,
         "publisher": "Bungie Inc.",
-        "original_release_date": "2024-06-04"
+        "original_release_date": "2022-01-18",
+        "aggregated_rating": 82
     },
     "DNF Duel": {
         "price": 49.99,
         "publisher": "NEXON",
-        "original_release_date": "2023-09-14"
+        "original_release_date": "2023-09-14",
+        "aggregated_rating": 85
     },
     "Melvor Idle": {
         "price": 9.99,
         "publisher": "Jagex Ltd",
-        "original_release_date": "2021-11-19"
+        "original_release_date": "2021-11-19",
+        "aggregated_rating": 78
     },
     "20 Minutes Till Dawn": {
         "price": 4.99,
         "publisher": "Erabit",
-        "original_release_date": "2022-09-05"
+        "original_release_date": "2022-09-05",
+        "aggregated_rating": 66
     },
     "Escape Academy": {
         "price": 19.99,
         "publisher": "iam8bit Presents",
-        "original_release_date": "2023-06-19"
+        "original_release_date": "2022-07-13",
+        "aggregated_rating": 75.0
     },
     "Marvel's Guardians of the Galaxy": {
         "price": 59.99,
         "publisher": "Eidos Interactive Corp.",
-        "original_release_date": "2022-05-10"
+        "original_release_date": "2021-10-26",
+        "aggregated_rating": 81.1
     },
     "Art of Rally": {
         "price": 24.99,
         "publisher": "Funselektor Labs Inc.",
-        "original_release_date": "2020-09-23"
+        "original_release_date": "2020-09-23",
+        "aggregated_rating": 83.33333333333333
     },
     "Ghostwire: Tokyo": {
         "price": 59.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2022-03-25"
+        "original_release_date": "2022-03-24",
+        "aggregated_rating": 76.71428571428571
     },
     "The Outer Worlds": {
         "price": 29.99,
         "publisher": "Private Division",
-        "original_release_date": "2019-10-25"
+        "original_release_date": "2019-10-25",
+        "aggregated_rating": 85.93333333333334
     },
     "Human Resource Machine": {
         "price": 14.99,
         "publisher": "Tomorrow Corporation",
-        "original_release_date": "2015-10-15"
+        "original_release_date": "2015-10-15",
+        "aggregated_rating": 74.33333333333333
     },
     "Cursed to Golf": {
         "price": 19.99,
         "publisher": "Thunderful Publishing",
-        "original_release_date": "2022-08-18"
+        "original_release_date": "2022-08-18",
+        "aggregated_rating": 78.66666666666667
     },
     "Cat Quest": {
         "price": 12.99,
         "publisher": "Kepler Interactive",
-        "original_release_date": "2024-08-08"
+        "original_release_date": "2017-08-08",
+        "aggregated_rating": 82.625
     },
     "Snakebird Complete": {
         "price": 14.99,
         "publisher": "Noumenon Games",
-        "original_release_date": "2023-11-24"
+        "original_release_date": "2023-11-24",
+        "aggregated_rating": 87
     },
     "Ghostrunner": {
         "price": 29.99,
         "publisher": "505 Games",
-        "original_release_date": "2020-10-27"
+        "original_release_date": "2020-10-27",
+        "aggregated_rating": 82.0
     },
     "Sail Forth": {
         "price": 19.99,
         "publisher": "The Quantum Astrophysicists Guild",
-        "original_release_date": "2022-12-21"
+        "original_release_date": "2022-12-21",
+        "aggregated_rating": 65.0
     },
     "LOVE": {
         "price": 2.99,
         "publisher": "WEALTHBIRD",
-        "original_release_date": "2019-07-12"
+        "original_release_date": "2019-07-12",
+        "aggregated_rating": "Score Not Found"
     },
     "Infinifactory": {
         "price": 24.99,
         "publisher": "Zachtronics",
-        "original_release_date": "2015-06-30"
+        "original_release_date": "2015-06-30",
+        "aggregated_rating": 75.33333333333333
     },
     "Doors: Paradox": {
         "price": 14.99,
         "publisher": "Snapbreak",
-        "original_release_date": "2021-09-24"
+        "original_release_date": "2021-09-24",
+        "aggregated_rating": 81
     },
     "Lost Castle": {
         "price": 9.99,
         "publisher": "Hunter Studio",
-        "original_release_date": "2016-08-31"
+        "original_release_date": "2016-08-31",
+        "aggregated_rating": 70.0
     },
     "Doki Doki Literature Club Plus!": {
         "price": 14.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2021-06-30"
+        "original_release_date": "2021-06-30",
+        "aggregated_rating": 82.5
     },
     "Dakar Desert Rally": {
         "price": 29.99,
         "publisher": "Saber Interactive",
-        "original_release_date": "2022-10-04"
+        "original_release_date": "2022-10-04",
+        "aggregated_rating": 47.0
     },
     "Super Meat Boy Forever": {
         "price": 4.99,
         "publisher": "Team Meat",
-        "original_release_date": "2020-12-23"
+        "original_release_date": "2020-12-23",
+        "aggregated_rating": 70.14285714285714
     },
     "Aerial_Knight's Never Yield": {
         "price": 11.99,
         "publisher": "Headup",
-        "original_release_date": "2021-05-19"
+        "original_release_date": "2021-05-19",
+        "aggregated_rating": 75.0
     },
     "Astro Duel": {
         "price": 9.99,
         "publisher": "Wild Rooster",
-        "original_release_date": "2026-01-16"
+        "original_release_date": "2016-02-22",
+        "aggregated_rating": 70
     },
     "LISA: The Painful": {
         "price": 19.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2014-12-15"
+        "original_release_date": "2014-12-15",
+        "aggregated_rating": 90
     },
     "Deus Ex: Mankind Divided": {
         "price": 29.99,
         "publisher": "Eidos Interactive Corp.",
-        "original_release_date": "2016-08-23"
+        "original_release_date": "2016-08-23",
+        "aggregated_rating": 82.86206896551724
     },
     "Call of The Wild: The Angler": {
         "price": 29.99,
         "publisher": "Avalanche Studios",
-        "original_release_date": "2022-08-31"
+        "original_release_date": "2022-08-31",
+        "aggregated_rating": "Score Not Found"
     },
     "Invincible Presents: Atom Eve": {
         "price": 9.99,
         "publisher": "Skybound Games",
-        "original_release_date": "2023-11-14"
+        "original_release_date": "2023-11-14",
+        "aggregated_rating": 80.0
     },
     "Islets": {
         "price": 19.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2022-08-24"
+        "original_release_date": "2022-08-24",
+        "aggregated_rating": 81.0
     },
     "Circus Electrique": {
         "price": 19.99,
         "publisher": "Zen Studios",
-        "original_release_date": "2022-09-06"
+        "original_release_date": "2022-09-06",
+        "aggregated_rating": 82.5
     },
     "The Big Con": {
         "price": 14.99,
         "publisher": "Skybound Games",
-        "original_release_date": "2021-08-31"
+        "original_release_date": "2021-08-31",
+        "aggregated_rating": 78.33333333333333
     },
     "Industria": {
         "price": 19.99,
         "publisher": "Headup",
-        "original_release_date": "2021-09-30"
+        "original_release_date": "2021-09-30",
+        "aggregated_rating": 80.0
     },
     "Orcs Must Die! 3": {
         "price": 29.99,
         "publisher": "Robot Entertainment",
-        "original_release_date": "2020-07-14"
+        "original_release_date": "2020-07-14",
+        "aggregated_rating": 76.0
     },
     "LISA: The Joyful": {
         "price": 9.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2015-08-24"
+        "original_release_date": "2015-08-24",
+        "aggregated_rating": 83
     },
     "Cat Quest II": {
         "price": 14.99,
         "publisher": "Kepler Interactive",
-        "original_release_date": "2019-09-19"
+        "original_release_date": "2019-09-19",
+        "aggregated_rating": 78.33333333333333
     },
     "Dragon Age: Inquisition": {
         "price": 39.99,
         "publisher": "Electronic Arts",
-        "original_release_date": "2014-11-18"
+        "original_release_date": "2014-11-18",
+        "aggregated_rating": 87.9375
     },
     "Farming Simulator 22": {
         "price": 19.99,
         "publisher": "Giants Software",
-        "original_release_date": "2024-04-30"
+        "original_release_date": "2021-11-22",
+        "aggregated_rating": 75.0
     },
     "Chivalry 2": {
         "price": 39.99,
         "publisher": "Tripwire Presents",
-        "original_release_date": "2021-06-08"
+        "original_release_date": "2021-06-08",
+        "aggregated_rating": 86.33333333333333
     },
     "Marvel's Midnight Suns": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2022-12-02"
+        "original_release_date": "2022-12-02",
+        "aggregated_rating": 85.5
     },
     "Redout 2": {
         "price": 19.99,
         "publisher": "34BigThings srl",
-        "original_release_date": "2022-06-16"
+        "original_release_date": "2022-06-16",
+        "aggregated_rating": 68.0
     },
     "Sunless Skies: Sovereign Edition": {
         "price": 24.99,
         "publisher": "Failbetter Games",
-        "original_release_date": "2021-05-19"
+        "original_release_date": "2021-05-19",
+        "aggregated_rating": 84
     },
     "The Falconeer": {
         "price": 19.99,
         "publisher": "Wired Productions",
-        "original_release_date": "2020-10-11"
+        "original_release_date": "2021-02-04",
+        "aggregated_rating": "Score Not Found"
     },
     "Floppy Knights": {
         "price": 7.99,
         "publisher": "Rose City Games",
-        "original_release_date": "2022-05-24"
+        "original_release_date": "2022-05-24",
+        "aggregated_rating": 95.0
     },
     "Arcade Paradise": {
         "price": 19.99,
         "publisher": "Wired Productions",
-        "original_release_date": "2022-08-11"
+        "original_release_date": "2022-08-11",
+        "aggregated_rating": 90.0
     },
     "Maid of Sker": {
         "price": 24.99,
         "publisher": "Wales Interactive",
-        "original_release_date": "2020-07-28"
+        "original_release_date": "2020-07-28",
+        "aggregated_rating": 50.0
     },
     "LumbearJack": {
         "price": 12.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2022-06-11"
+        "original_release_date": "2022-06-11",
+        "aggregated_rating": 70.0
     },
     "CYGNI: All Guns Blazing": {
         "price": 29.99,
         "publisher": "KONAMI",
-        "original_release_date": "2024-08-06"
+        "original_release_date": "2024-08-06",
+        "aggregated_rating": 78.8
     },
     "Death's Gambit: Afterlife": {
         "price": 19.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2018-08-13"
+        "original_release_date": "2018-08-13",
+        "aggregated_rating": 85.0
     },
     "Gigantic: Rampage Edition": {
         "price": 19.99,
         "publisher": "Arc Games",
-        "original_release_date": "2024-04-09"
+        "original_release_date": "2024-04-09",
+        "aggregated_rating": 73.0
     },
     "The Callisto Protocol": {
         "price": 59.99,
         "publisher": "KRAFTON, Inc.",
-        "original_release_date": "2022-12-02"
+        "original_release_date": "2022-12-02",
+        "aggregated_rating": 64.71428571428571
     },
     "Football Manager 2024": {
         "price": 5.99,
         "publisher": "SEGA",
-        "original_release_date": "2023-11-06"
+        "original_release_date": "2023-11-06",
+        "aggregated_rating": 84.0
     },
     "Sniper Ghost Warrior Contracts": {
         "price": 29.99,
         "publisher": "CI Games",
-        "original_release_date": "2020-04-28"
+        "original_release_date": "2021-06-04",
+        "aggregated_rating": 82.4
     },
     "Rugrats: Adventures in Gameland": {
         "price": 19.99,
         "publisher": "The MIX Games",
-        "original_release_date": "2024-09-09"
+        "original_release_date": "2024-09-10",
+        "aggregated_rating": 57.66666666666666
     },
     "Super Crazy Rhythm Castle": {
         "price": 19.99,
         "publisher": "KONAMI",
-        "original_release_date": "2023-11-14"
+        "original_release_date": "2023-11-14",
+        "aggregated_rating": 60.0
     },
     "Toem": {
         "price": 19.99,
         "publisher": "Something We Made",
-        "original_release_date": "2021-09-17"
+        "original_release_date": "2021-09-17",
+        "aggregated_rating": 95.0
     },
     "The Last Stand: Aftermath": {
         "price": 24.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2021-10-29"
+        "original_release_date": "2021-10-29",
+        "aggregated_rating": 69
     },
     "The Spirit and the Mouse": {
         "price": 19.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2022-09-26"
+        "original_release_date": "2022-09-26",
+        "aggregated_rating": 79.0
     },
     "Bear and Breakfast": {
         "price": 19.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2022-07-28"
+        "original_release_date": "2022-07-28",
+        "aggregated_rating": 75.0
     },
     "Outliver: Tribulation": {
         "price": 7.99,
         "publisher": "GBROSSOFT",
-        "original_release_date": "2023-07-18"
+        "original_release_date": "2023-07-18",
+        "aggregated_rating": "Score Not Found"
     },
     "Empyrion - Galactic Survival": {
         "price": 19.99,
         "publisher": "Eleon Game Studios",
-        "original_release_date": "2020-08-05"
+        "original_release_date": "2020-08-05",
+        "aggregated_rating": 66
     },
     "Kardboard Kings: Card Shop Simulator": {
         "price": 19.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2022-02-10"
+        "original_release_date": "2022-02-10",
+        "aggregated_rating": 59
     },
     "Witch It": {
         "price": 19.99,
         "publisher": "Barrel Roll Games",
-        "original_release_date": "2016-12-20"
+        "original_release_date": "2020-10-22",
+        "aggregated_rating": 70
     },
     "Deceive Inc.": {
         "price": 19.99,
         "publisher": "Tripwire Presents",
-        "original_release_date": "2023-03-21"
+        "original_release_date": "2023-03-21",
+        "aggregated_rating": 82.0
     },
     "Castlevania Anniversary Collection": {
         "price": 19.99,
         "publisher": "KONAMI",
-        "original_release_date": "2019-05-16"
+        "original_release_date": "2019-05-16",
+        "aggregated_rating": 81.0
     },
     "Beholder": {
         "price": 13.99,
         "publisher": "Alawar",
-        "original_release_date": "2016-10-26"
+        "original_release_date": "2016-11-09",
+        "aggregated_rating": 80.0
     },
     "Brotato": {
         "price": 4.99,
         "publisher": "Blobfish",
-        "original_release_date": "2023-03-28"
+        "original_release_date": "2023-03-28",
+        "aggregated_rating": 76
     },
     "Lego Star Wars: The Skywalker Saga": {
         "price": 49.99,
         "publisher": "Warner Bros. Games",
-        "original_release_date": "2022-04-05"
+        "original_release_date": "2022-04-05",
+        "aggregated_rating": 82.22222222222223
     },
     "Bus Simulator 21 Next Stop": {
         "price": 34.99,
         "publisher": "astragon Entertainment",
-        "original_release_date": "2023-05-16"
+        "original_release_date": "2023-05-16",
+        "aggregated_rating": "Score Not Found"
     },
     "The Lord of the Rings: Return to Moria": {
         "price": 24.99,
         "publisher": "North Beach Games",
-        "original_release_date": "2023-10-24"
+        "original_release_date": "2023-10-24",
+        "aggregated_rating": 66.0
     },
     "Vampire Survivors": {
         "price": 4.99,
         "publisher": "poncle",
-        "original_release_date": "2024-08-01"
+        "original_release_date": "2024-08-01",
+        "aggregated_rating": 91
     },
     "Astrea: Six-Sided Oracles": {
         "price": 24.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2023-09-21"
+        "original_release_date": "2023-09-21",
+        "aggregated_rating": 80.0
     },
     "TerraTech": {
         "price": 24.99,
         "publisher": "Mythwright",
-        "original_release_date": "2018-08-10"
+        "original_release_date": "2018-08-10",
+        "aggregated_rating": 60.0
     },
     "Wizard of Legend": {
         "price": 15.99,
         "publisher": "Contingent99",
-        "original_release_date": "2025-06-12"
+        "original_release_date": "2018-05-15",
+        "aggregated_rating": 74.4
     },
     "DREDGE": {
         "price": 24.99,
         "publisher": "Team17",
-        "original_release_date": "2023-03-30"
+        "original_release_date": "2023-03-30",
+        "aggregated_rating": 85.6
     },
     "Ghostrunner 2": {
         "price": 39.99,
         "publisher": "505 Games",
-        "original_release_date": "2023-10-26"
+        "original_release_date": "2023-10-26",
+        "aggregated_rating": 76.2
     },
     "Hot Wheels Unleashed": {
         "price": 39.99,
         "publisher": "Milestone S.r.l.",
-        "original_release_date": "2021-09-30"
+        "original_release_date": "2021-09-30",
+        "aggregated_rating": 68.375
     },
     "KILL KNIGHT": {
         "price": 14.99,
         "publisher": "PlaySide",
-        "original_release_date": "2024-10-02"
+        "original_release_date": "2024-10-02",
+        "aggregated_rating": 82.0
     },
     "Sifu": {
         "price": 39.99,
         "publisher": "Sloclap",
-        "original_release_date": "2022-02-08"
+        "original_release_date": "2022-02-08",
+        "aggregated_rating": 78.85714285714286
     },
     "Hell Let Loose": {
         "price": 49.99,
         "publisher": "Team17",
-        "original_release_date": "2019-06-06"
+        "original_release_date": "2019-06-06",
+        "aggregated_rating": 75.0
     },
     "Turmoil": {
         "price": 12.99,
         "publisher": "KiwiClockWork Studios",
-        "original_release_date": "1982-12-31"
+        "original_release_date": "2024-06-13",
+        "aggregated_rating": "Score Not Found"
     },
     "Behind the Frame: The Finest Scenery": {
         "price": 12.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2021-08-25"
+        "original_release_date": "2021-08-25",
+        "aggregated_rating": 78
     },
     "Undying": {
         "price": 19.99,
         "publisher": "Skystone Games",
-        "original_release_date": "2023-12-07"
+        "original_release_date": "2023-12-07",
+        "aggregated_rating": 66.66666666666667
     },
     "Humankind": {
         "price": 49.99,
         "publisher": "AMPLITUDE Studios",
-        "original_release_date": "2021-08-17"
+        "original_release_date": "2021-08-17",
+        "aggregated_rating": 79.2
     },
     "F1 Manager 2024": {
         "price": 34.99,
         "publisher": "Frontier Developments",
-        "original_release_date": "2024-07-23"
+        "original_release_date": "2024-07-23",
+        "aggregated_rating": 76.0
     },
     "Garden Story": {
         "price": 19.99,
         "publisher": "Rose City Games",
-        "original_release_date": "2021-08-11"
+        "original_release_date": "2021-08-11",
+        "aggregated_rating": 80.0
     },
     "World War Z Aftermath": {
         "price": 39.99,
         "publisher": "Saber Interactive Inc",
-        "original_release_date": "2021-09-21"
+        "original_release_date": "2021-09-21",
+        "aggregated_rating": "Score Not Found"
     },
     "Jurassic World Evolution 2": {
         "price": 59.99,
         "publisher": "Frontier Developments",
-        "original_release_date": "2021-11-09"
+        "original_release_date": "2021-11-09",
+        "aggregated_rating": 72.4
     },
     "Neko Ghost, Jump!": {
         "price": 9.99,
         "publisher": "Burgos Games",
-        "original_release_date": "2022-01-11"
+        "original_release_date": "2022-01-11",
+        "aggregated_rating": "Score Not Found"
     },
     "Cat Quest 2": {
         "price": 14.99,
         "publisher": "Kepler Interactive",
-        "original_release_date": "2019-09-19"
+        "original_release_date": "2019-09-19",
+        "aggregated_rating": 78.33333333333333
     },
     "River City Girls": {
         "price": 29.99,
         "publisher": "WayForward ",
-        "original_release_date": "2022-02-14"
+        "original_release_date": "2019-09-04",
+        "aggregated_rating": 77.0
     },
     "Botanicula": {
         "price": 14.99,
         "publisher": "Amanita Design",
-        "original_release_date": "2012-04-19"
+        "original_release_date": "2012-04-19",
+        "aggregated_rating": 82.33333333333333
     },
     "Chuchel": {
         "price": 9.99,
         "publisher": "Amanita Design",
-        "original_release_date": "2018-03-07"
+        "original_release_date": "2018-03-07",
+        "aggregated_rating": 83.33333333333333
     },
     "Super Space Club": {
         "price": 14.99,
         "publisher": "GrahamOfLegend",
-        "original_release_date": "2024-03-27"
+        "original_release_date": "2024-03-27",
+        "aggregated_rating": "Score Not Found"
     },
     "Deadtime Defenders": {
         "price": 9.99,
         "publisher": "Arcane Embers",
-        "original_release_date": "2025-05-08"
+        "original_release_date": "2025-05-08",
+        "aggregated_rating": 70
     },
     "Touch Type Tale": {
         "price": 19.99,
         "publisher": "Mythwright",
-        "original_release_date": "2023-03-28"
+        "original_release_date": "2023-03-28",
+        "aggregated_rating": "Score Not Found"
     },
     "Happy Game": {
         "price": 13.13,
         "publisher": "Amanita Design",
-        "original_release_date": "2021-10-28"
+        "original_release_date": "2021-10-28",
+        "aggregated_rating": 72
     },
     "Dead Island 2": {
         "price": 59.99,
         "publisher": "Deep Silver",
-        "original_release_date": "2023-04-11"
+        "original_release_date": "2023-04-21",
+        "aggregated_rating": 74.33333333333333
     },
     "Deliver At All Costs": {
         "price": 29.99,
         "publisher": "KONAMI",
-        "original_release_date": "2025-05-22"
+        "original_release_date": "2025-05-22",
+        "aggregated_rating": 79.5
     },
     "Gigapocalypse": {
         "price": 9.99,
         "publisher": "Headup",
-        "original_release_date": "2021-11-12"
+        "original_release_date": "2021-11-12",
+        "aggregated_rating": "Score Not Found"
     },
     "Tiny Tina's Wonderlands": {
         "price": 59.99,
         "publisher": "2K",
-        "original_release_date": "2022-03-25"
+        "original_release_date": "2022-03-25",
+        "aggregated_rating": 75.71428571428571
     },
     "Deathloop": {
         "price": 59.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2021-09-14"
+        "original_release_date": "2021-09-14",
+        "aggregated_rating": 89.7
     },
     "Ogu and the Secret Forest": {
         "price": 24.99,
         "publisher": " Sinkhole Studio",
-        "original_release_date": "2024-07-29"
+        "original_release_date": "2024-07-29",
+        "aggregated_rating": 85.0
     },
     "Two Point Hospital": {
         "price": 29.99,
         "publisher": "SEGA",
-        "original_release_date": "2022-10-18"
+        "original_release_date": "2018-08-29",
+        "aggregated_rating": 86.9
     },
     "The Operator": {
         "price": 13.99,
         "publisher": "Bureau 81",
-        "original_release_date": "2020-12-30"
+        "original_release_date": "2024-07-22",
+        "aggregated_rating": 80.0
     },
     "Backpack Hero": {
         "price": 19.99,
         "publisher": "Pretty Soon",
-        "original_release_date": "2023-11-14"
+        "original_release_date": "2023-11-14",
+        "aggregated_rating": 85.0
     },
     "Figment 2": {
         "price": 24.99,
         "publisher": "Bedtime Digital Games",
-        "original_release_date": "2023-03-23"
+        "original_release_date": "2023-03-23",
+        "aggregated_rating": 90
     },
     "Sky Racket": {
         "price": 14.99,
         "publisher": "Double Dash Studios",
-        "original_release_date": "2019-10-22"
+        "original_release_date": "2019-10-22",
+        "aggregated_rating": 70
     },
     "Legion TD2": {
         "price": 19.99,
         "publisher": "AutoAttack Games",
-        "original_release_date": "2017-11-20"
+        "original_release_date": "2017-11-20",
+        "aggregated_rating": "Score Not Found"
     },
     "Keylocker": {
         "price": 19.99,
         "publisher": "Serenity Forge",
-        "original_release_date": "2024-09-18"
+        "original_release_date": "2024-09-18",
+        "aggregated_rating": 61.0
     },
     "Pilgrims": {
         "price": 6.99,
         "publisher": "Amanita Design",
-        "original_release_date": "1997-12-31"
+        "original_release_date": "2019-10-05",
+        "aggregated_rating": 73
     },
     "112 Operator": {
         "price": 24.99,
         "publisher": "Games Operators",
-        "original_release_date": "2020-04-23"
+        "original_release_date": "2020-04-23",
+        "aggregated_rating": 90.0
     },
     "Road Redemption": {
         "price": 19.99,
         "publisher": "Tripwire Presents",
-        "original_release_date": "2017-10-04"
+        "original_release_date": "2017-10-04",
+        "aggregated_rating": 73.5
     },
     "Hidden Folks": {
         "price": 14.99,
         "publisher": "Adriaan de Jongh",
-        "original_release_date": "2017-02-15"
+        "original_release_date": "2017-02-15",
+        "aggregated_rating": 80.0
     },
     "Kamaeru: A Frog Refuge": {
         "price": 19.99,
         "publisher": "Armor Games Studios",
-        "original_release_date": "2024-06-08"
+        "original_release_date": "2024-06-08",
+        "aggregated_rating": 70
     },
     "Strange Horticulture": {
         "price": 15.99,
         "publisher": "Iceberg Interactive",
-        "original_release_date": "2022-01-21"
+        "original_release_date": "2022-01-21",
+        "aggregated_rating": 90.0
     },
     "Machinarium": {
         "price": 19.99,
         "publisher": "Amanita Design",
-        "original_release_date": "2009-10-16"
+        "original_release_date": "2009-10-19",
+        "aggregated_rating": 88
     },
     "Make Way": {
         "price": 14.99,
         "publisher": "Secret Mode",
-        "original_release_date": "2023-12-04"
+        "original_release_date": "2023-09-28",
+        "aggregated_rating": 85
     },
     "Monument Valley": {
         "price": 7.99,
         "publisher": "ustwo games",
-        "original_release_date": "2025-07-22"
+        "original_release_date": "2021-04-02",
+        "aggregated_rating": 76
     },
     "Monument Valley 2": {
         "price": 7.99,
         "publisher": "ustwo games",
-        "original_release_date": "2017-05-30"
+        "original_release_date": "2022-03-11",
+        "aggregated_rating": 87
     },
     "The Battle of Polytopia": {
         "price": 14.99,
         "publisher": "Midjiwan AB",
-        "original_release_date": "2024-03-07"
+        "original_release_date": "2016-02-04",
+        "aggregated_rating": 88
     },
     "Project Winter": {
         "price": 9.99,
         "publisher": "Other Ocean Group",
-        "original_release_date": "2019-05-23"
+        "original_release_date": "2019-05-23",
+        "aggregated_rating": 70.0
     },
     "Samorost 2": {
         "price": 4.99,
         "publisher": "Amanita Design",
-        "original_release_date": "2005-12-08"
+        "original_release_date": "2005-12-08",
+        "aggregated_rating": 76
     },
     "Eastern Exorcist": {
         "price": 17.99,
         "publisher": "Wildfire Game\uff08\u65e0\u9521\u91ce\u706b\u6570\u5b57\u79d1\u6280\u6709\u9650\u516c\u53f8\uff09",
-        "original_release_date": "2021-07-08"
+        "original_release_date": "2021-07-08",
+        "aggregated_rating": 75.0
     },
     "Nightingale": {
         "price": 29.99,
         "publisher": "Inflexion Games",
-        "original_release_date": "2024-02-20"
+        "original_release_date": "2024-02-20",
+        "aggregated_rating": "Score Not Found"
     },
     "Gravity Circuit": {
         "price": 16.99,
         "publisher": "PID Games",
-        "original_release_date": "2023-07-13"
+        "original_release_date": "2023-07-13",
+        "aggregated_rating": 90.0
     },
     "Amnesia: The Bunker": {
         "price": 24.99,
         "publisher": "Frictional Games",
-        "original_release_date": "2023-06-06"
+        "original_release_date": "2023-06-06",
+        "aggregated_rating": 84.5
     },
     "Samorost 3": {
         "price": 19.99,
         "publisher": "Amanita Design",
-        "original_release_date": "2016-03-14"
+        "original_release_date": "2016-03-14",
+        "aggregated_rating": 79.0
     },
     "Fear the Spotlight": {
         "price": 19.99,
         "publisher": "Blumhouse Games",
-        "original_release_date": "2024-10-22"
+        "original_release_date": "2024-10-22",
+        "aggregated_rating": 77.5
     },
     "Five Nights at Freddy's: Into the Pit": {
         "price": 19.99,
         "publisher": "Mega Cat Studios",
-        "original_release_date": "2024-08-07"
+        "original_release_date": "2024-08-07",
+        "aggregated_rating": 95.0
     },
     "Bendy and the Ink Machine": {
         "price": 19.99,
         "publisher": "Joey Drew Studios",
-        "original_release_date": "2017-02-10"
+        "original_release_date": "2017-02-10",
+        "aggregated_rating": 86.5
     },
     "Felix The Reaper": {
         "price": 9.99,
         "publisher": "Daedalic Entertainment",
-        "original_release_date": "2019-10-16"
+        "original_release_date": "2019-10-16",
+        "aggregated_rating": 78.0
     },
     "ScourgeBringer": {
         "price": 16.99,
         "publisher": "Dear Villagers",
-        "original_release_date": "2020-10-20"
+        "original_release_date": "2020-10-20",
+        "aggregated_rating": 72.5
     },
     "Songs of Silence": {
         "price": 29.99,
         "publisher": "Chimera Entertainment",
-        "original_release_date": "2024-11-13"
+        "original_release_date": "2024-11-13",
+        "aggregated_rating": 86.0
     },
     "Zero Hour": {
         "price": 9.99,
         "publisher": "AttritoM7 Productions",
-        "original_release_date": "2018-08-28"
+        "original_release_date": "2024-09-09",
+        "aggregated_rating": 40
     },
     "Zoeti": {
         "price": 19.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2023-04-20"
+        "original_release_date": "2023-04-20",
+        "aggregated_rating": 70.0
     },
     "Godzilla Voxel Wars": {
         "price": 14.99,
         "publisher": "TOHO CO., LTD.",
-        "original_release_date": "2023-10-31"
+        "original_release_date": "2023-10-31",
+        "aggregated_rating": "Score Not Found"
     },
     "Universe for Sale": {
         "price": 14.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2023-11-16"
+        "original_release_date": "2023-11-16",
+        "aggregated_rating": 90.0
     },
     "The Darkside Detective": {
         "price": 14.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2017-07-27"
+        "original_release_date": "2017-07-27",
+        "aggregated_rating": 55.0
     },
     "The Jackbox Party Pack 4": {
         "price": 24.99,
         "publisher": "Jackbox Games, Inc.",
-        "original_release_date": "2017-10-17"
+        "original_release_date": "2017-10-17",
+        "aggregated_rating": 76.0
     },
     "Hogwarts Legacy": {
         "price": 59.99,
         "publisher": "Warner Bros. Games",
-        "original_release_date": "2023-02-10"
+        "original_release_date": "2023-02-10",
+        "aggregated_rating": 84.88888888888889
     },
     "Jotunnslayer: Hordes of Hel": {
         "price": 14.99,
         "publisher": "Grindstone",
-        "original_release_date": "2024-08-22"
+        "original_release_date": "2024-08-22",
+        "aggregated_rating": 62
     },
     "Eternights": {
         "price": 29.99,
         "publisher": "Studio Sai",
-        "original_release_date": "2023-09-12"
+        "original_release_date": "2023-09-12",
+        "aggregated_rating": 65.0
     },
     "Blood West": {
         "price": 24.99,
         "publisher": "New Blood Interactive",
-        "original_release_date": "2023-12-05"
+        "original_release_date": "2023-12-05",
+        "aggregated_rating": 90.0
     },
     "Sorry We're Closed": {
         "price": 24.99,
         "publisher": "Akupara Games",
-        "original_release_date": "2023-08-21"
+        "original_release_date": "2024-11-14",
+        "aggregated_rating": 66
     },
     "Paradise Killer": {
         "price": 19.99,
         "publisher": "Fellow Traveller",
-        "original_release_date": "2020-09-04"
+        "original_release_date": "2020-09-04",
+        "aggregated_rating": 79.11111111111111
     },
     "Bloodstained: Ritual of the Night": {
         "price": 39.99,
         "publisher": "505 Games",
-        "original_release_date": "2019-06-18"
+        "original_release_date": "2019-06-18",
+        "aggregated_rating": 82.45454545454545
     },
     "We Were Here Together": {
         "price": 12.99,
         "publisher": "Total Mayhem Games",
-        "original_release_date": "2024-01-06"
+        "original_release_date": "2019-10-10",
+        "aggregated_rating": 70.0
     },
     "Cassette Beasts": {
         "price": 19.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2023-04-26"
+        "original_release_date": "2023-04-26",
+        "aggregated_rating": 100.0
     },
     "SKALD: Against the Black Priory": {
         "price": 14.99,
         "publisher": "Raw Fury",
-        "original_release_date": "2024-05-30"
+        "original_release_date": "2024-05-30",
+        "aggregated_rating": 83.0
     },
     "Viewfinder": {
         "price": 24.99,
         "publisher": "Thunderful Publishing",
-        "original_release_date": "2023-07-18"
+        "original_release_date": "2023-07-18",
+        "aggregated_rating": 89.0
     },
     "Trine Classic Collection": {
         "price": 49.99,
         "publisher": "Frozenbyte",
-        "original_release_date": "2025-12-30"
+        "original_release_date": "2025-12-30",
+        "aggregated_rating": "Score Not Found"
     },
     "Wildgate": {
         "price": 29.99,
         "publisher": "Dreamhaven",
-        "original_release_date": "2025-07-22"
+        "original_release_date": "2025-07-22",
+        "aggregated_rating": 72.5
     },
     "Total War: Three Kingdoms": {
         "price": 59.99,
         "publisher": "SEGA",
-        "original_release_date": "2020-09-03"
+        "original_release_date": "2019-05-23",
+        "aggregated_rating": 82
     },
     "Stick It To The Man!": {
         "price": 7.99,
         "publisher": "Ripstone",
-        "original_release_date": "2013-12-13"
+        "original_release_date": "2013-11-19",
+        "aggregated_rating": 78.25
     },
     "Rustler - Grand Theft Horse": {
         "price": 24.99,
         "publisher": "Games Operators",
-        "original_release_date": "2021-02-18"
+        "original_release_date": "2021-02-18",
+        "aggregated_rating": 61
     },
     "Celeste (repeat)": {
         "price": 0.0,
@@ -2640,42 +3158,50 @@
     "Stranger Things 3: The Game": {
         "price": 0.0,
         "publisher": "Netflix Games",
-        "original_release_date": "2019-07-04"
+        "original_release_date": "2019-07-04",
+        "aggregated_rating": 61.25
     },
     "3 out of 10: Season One": {
         "price": 0.0,
         "publisher": "Terrible Posture Games",
-        "original_release_date": "2020-09-03"
+        "original_release_date": "2020-09-03",
+        "aggregated_rating": 80.0
     },
     "Hitman (2016)": {
         "price": 29.99,
         "publisher": "Square Enix",
-        "original_release_date": "2016-03-11"
+        "original_release_date": "2016-03-11",
+        "aggregated_rating": 79
     },
     "Shadowrun Collection": {
         "price": 39.99,
         "publisher": "Paradox Interactive",
-        "original_release_date": "2020-08-27"
+        "original_release_date": "2020-08-27",
+        "aggregated_rating": 76
     },
     "Football Manager 2020": {
         "price": 5.49,
         "publisher": "SEGA",
-        "original_release_date": "2019-11-19"
+        "original_release_date": "2019-11-19",
+        "aggregated_rating": 88.5
     },
     "3 out of 10: Season Two": {
         "price": 0.0,
         "publisher": "Terrible Posture Games",
-        "original_release_date": "2021-04-08"
+        "original_release_date": "2021-04-08",
+        "aggregated_rating": 60
     },
     "Idle Champions of the Forgotten Realms": {
         "price": 11.99,
         "publisher": "Codename Entertainment Inc.",
-        "original_release_date": "2018-04-30"
+        "original_release_date": "2017-09-07",
+        "aggregated_rating": 79
     },
     "NBA 2K21": {
         "price": 69.99,
         "publisher": "2K",
-        "original_release_date": "2020-09-03"
+        "original_release_date": "2020-09-03",
+        "aggregated_rating": 77.36363636363636
     },
     "Defense Grid: The Awakening (repeat)": {
         "price": 0.0,
@@ -2684,7 +3210,8 @@
     "Rogue Company Season 4 Epic Pack (DLC)": {
         "price": 9.99,
         "publisher": "Hi-Rez Studios",
-        "original_release_date": "2021-11-11"
+        "original_release_date": "2021-11-11",
+        "aggregated_rating": 58
     },
     "Tiny Tina\u0092s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
@@ -2693,12 +3220,14 @@
     "KID A MNESIA EXHIBITION": {
         "price": 0.0,
         "publisher": "Epic Games",
-        "original_release_date": "2021-11-18"
+        "original_release_date": "2021-11-18",
+        "aggregated_rating": 82
     },
     "Second Extinction": {
         "price": 0.0,
         "publisher": "Systemic Reaction",
-        "original_release_date": "2020-10-13"
+        "original_release_date": "2020-10-13",
+        "aggregated_rating": 77.5
     },
     "Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)": {
         "price": 39.99,
@@ -2711,22 +3240,26 @@
     "Hood: Outlaws & Legends": {
         "price": 0.0,
         "publisher": "Focus Entertainment",
-        "original_release_date": "2021-05-07"
+        "original_release_date": "2021-05-07",
+        "aggregated_rating": 68.66666666666667
     },
     "Shop Titans": {
         "price": 0.0,
         "publisher": "Kabam Games, Inc.",
-        "original_release_date": "2019-06-18"
+        "original_release_date": "2019-06-18",
+        "aggregated_rating": 60
     },
     "Rumbleverse Boom Boxer Pack (DLC)": {
         "price": 0.0,
         "publisher": "Epic Games Publishing",
-        "original_release_date": "2022-08-11"
+        "original_release_date": "2022-08-18",
+        "aggregated_rating": 48
     },
     "Realm Royale Reforged Epic Launch Bundle (DLC)": {
         "price": 0.0,
         "publisher": "Hi Rez Studios",
-        "original_release_date": "2022-09-15"
+        "original_release_date": "2022-09-08",
+        "aggregated_rating": 78
     },
     "ARK: Survival Evolved (repeat)": {
         "price": 0.0,
@@ -2739,17 +3272,20 @@
     "Saints Row 4 Re-Elected": {
         "price": 0.0,
         "publisher": "Deep Silver",
-        "original_release_date": "2015-01-20"
+        "original_release_date": "2015-01-20",
+        "aggregated_rating": 77.0
     },
     "Divine Knockout": {
         "price": 0.0,
         "publisher": "Hi Rez Studios",
-        "original_release_date": "2022-12-06"
+        "original_release_date": "2022-12-06",
+        "aggregated_rating": 77.5
     },
     "Epistory's Typing Chronicles": {
         "price": 0.0,
         "publisher": "Fishing Cactus",
-        "original_release_date": "2016-03-30"
+        "original_release_date": "2016-03-30",
+        "aggregated_rating": 82.5
     },
     "World of Warships \u0097 Starter Pack: Ishizuchi": {
         "price": null,
@@ -2758,12 +3294,14 @@
     "The Sims 4 The Daring Lifestyle Bundle": {
         "price": 0.0,
         "publisher": "Electronic Arts",
-        "original_release_date": "2023-05-11"
+        "original_release_date": "2023-05-11",
+        "aggregated_rating": "Score Not Found"
     },
     "Idle Champions Of The Forgotten Realms Pack": {
         "price": 5.99,
         "publisher": "Codename Entertainment Inc.",
-        "original_release_date": "2018-04-30"
+        "original_release_date": "2017-09-07",
+        "aggregated_rating": 79
     },
     "Europa Universalis IV (repeat)": {
         "price": 0.0,
@@ -2772,7 +3310,8 @@
     "Q.U.B.E. Ultimate Bundle": {
         "price": 19.99,
         "publisher": "Toxic Games",
-        "original_release_date": "2023-01-10"
+        "original_release_date": "2023-01-10",
+        "aggregated_rating": "Score Not Found"
     },
     "A Plague Tale: Innocence (repeat)": {
         "price": 0.0,
@@ -2789,7 +3328,8 @@
     "Idle Champions of the Forgotten Realms (DLC pack)": {
         "price": 5.99,
         "publisher": "Codename Entertainment Inc.",
-        "original_release_date": "2018-04-30"
+        "original_release_date": "2017-09-07",
+        "aggregated_rating": 79
     },
     "theHunter: Call of the Wild (repeat)": {
         "price": 0.0,
@@ -2798,7 +3338,8 @@
     "Train Sim World 3": {
         "price": 24.99,
         "publisher": "Dovetail Games",
-        "original_release_date": "2022-09-06"
+        "original_release_date": "2022-09-06",
+        "aggregated_rating": 78
     },
     "Turnip Boy Commits Tax Evasion (repeat)": {
         "price": 0.0,
@@ -2807,17 +3348,20 @@
     "Saints Row (2022)": {
         "price": 29.99,
         "publisher": "Deep Silver Volition",
-        "original_release_date": "2022-08-23"
+        "original_release_date": "2022-08-23",
+        "aggregated_rating": 61.25
     },
     "Thief (2014)": {
         "price": 19.99,
         "publisher": "Square Enix",
-        "original_release_date": "2014-02-25"
+        "original_release_date": "2014-02-25",
+        "aggregated_rating": 64
     },
     "Town of Salem 2": {
         "price": 12.99,
         "publisher": "Digital Bandidos",
-        "original_release_date": "2023-08-25"
+        "original_release_date": "2023-08-25",
+        "aggregated_rating": 79
     },
     "Orcs Must Die! 2 (repeat)": {
         "price": 0.0,
@@ -2826,17 +3370,20 @@
     "Firestone: Online Idle RPG": {
         "price": 0.0,
         "publisher": "Holyday Studios",
-        "original_release_date": "2021-01-11"
+        "original_release_date": "2021-01-11",
+        "aggregated_rating": 47
     },
     "Freshly Frosted + Rumble Club pack": {
         "price": 9.99,
         "publisher": "The Quantum Astrophysicists Guild",
-        "original_release_date": "2022-06-10"
+        "original_release_date": "2022-06-10",
+        "aggregated_rating": 78
     },
     "Rawmen: Food Fighter Arena": {
         "price": 0.0,
         "publisher": "tinyBuild",
-        "original_release_date": "2024-07-23"
+        "original_release_date": "2024-07-23",
+        "aggregated_rating": "Score Not Found"
     },
     "World of Warships \u0096 Starter Pack: Albany": {
         "price": null,
@@ -2845,17 +3392,20 @@
     "Fallout Classic Edition": {
         "price": 19.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2016-11-11"
+        "original_release_date": "2016-11-11",
+        "aggregated_rating": "Score Not Found"
     },
     "Wild Card Football": {
         "price": 29.99,
         "publisher": "Saber Interactive",
-        "original_release_date": "2023-10-10"
+        "original_release_date": "2023-10-10",
+        "aggregated_rating": 50.0
     },
     "Dark and Darker": {
         "price": 0.0,
         "publisher": "IRONMACE",
-        "original_release_date": "2023-08-07"
+        "original_release_date": "2023-08-07",
+        "aggregated_rating": 70
     },
     "Orcs Must Die! 3 (repeat)": {
         "price": 0.0,
@@ -2872,12 +3422,14 @@
     "Albion Online Welcome Gift": {
         "price": 0.0,
         "publisher": "Sandbox Interactive",
-        "original_release_date": "2025-04-24"
+        "original_release_date": "2017-07-17",
+        "aggregated_rating": 88
     },
     "Civilization 6 Platinum Edition": {
         "price": 79.99,
         "publisher": "2K",
-        "original_release_date": "2019-10-04"
+        "original_release_date": "2019-10-04",
+        "aggregated_rating": 87
     },
     "Jorel\u0092s Brother and The Most Important Game of the Galaxy": {
         "price": null,
@@ -2890,46 +3442,62 @@
     "Tiny Tina\u2019s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
         "publisher": "2K",
-        "original_release_date": "2021-11-09"
+        "original_release_date": "2021-11-09",
+        "aggregated_rating": 70
     },
     "World of Warships \u2014 Starter Pack: Ishizuchi": {
         "price": 21.6,
         "publisher": "Wargaming Group Limited",
-        "original_release_date": "2022-10-07"
+        "original_release_date": "2022-10-07",
+        "aggregated_rating": "Score Not Found"
     },
     "World of Warships \u2013 Starter Pack: Albany": {
         "price": 23.6,
         "publisher": "Wargaming Group Limited",
-        "original_release_date": "2024-03-18"
+        "original_release_date": "2024-03-18",
+        "aggregated_rating": "Score Not Found"
     },
     "World Of Warships \u2013 Anniversary Party Flavor": {
         "price": 0.0,
         "publisher": "Wargaming Group Limited",
-        "original_release_date": "2025-03-13"
+        "original_release_date": "2025-03-13",
+        "aggregated_rating": "Score Not Found"
     },
     "World of Warships \u00e2\u20ac\u201c Starter Pack: Albany": {
         "price": 23.6,
-        "publisher": "Wargaming Group Limited"
+        "publisher": "Wargaming Group Limited",
+        "original_release_date": "Date Not Found",
+        "aggregated_rating": null
     },
     "World Of Warships \u00e2\u20ac\u201c Anniversary Party Flavor": {
         "price": 0.0,
-        "publisher": "Wargaming Group Limited"
+        "publisher": "Wargaming Group Limited",
+        "original_release_date": "Date Not Found",
+        "aggregated_rating": null
     },
     "Tiny Tina\u00e2\u20ac\u2122s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Publisher Not Found",
+        "original_release_date": "Date Not Found",
+        "aggregated_rating": null
     },
     "World of Warships \u00e2\u20ac\u201d Starter Pack: Ishizuchi": {
         "price": 21.6,
-        "publisher": "Publisher Not Found"
+        "publisher": "Publisher Not Found",
+        "original_release_date": "2022-10-07",
+        "aggregated_rating": null
     },
     "Jorel\u00e2\u20ac\u2122s Brother and The Most Important Game of the Galaxy": {
         "price": 14.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Publisher Not Found",
+        "original_release_date": "Date Not Found",
+        "aggregated_rating": null
     },
     "Disco Elysium \u00e2\u20ac\u201d The Final Cut": {
         "price": 39.99,
-        "publisher": "Publisher Not Found"
+        "publisher": "Publisher Not Found",
+        "original_release_date": "2021-03-30",
+        "aggregated_rating": 90.83333333333333
     },
     "Tiny Tina\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s Assault on Dragon Keep: A Wonderlands One-Shot Adventure": {
         "price": 9.99,
@@ -2982,36 +3550,43 @@
     "Jorel\u2019s Brother and The Most Important Game of the Galaxy": {
         "price": 14.99,
         "publisher": "Double Dash Studios",
-        "original_release_date": "2023-06-15"
+        "original_release_date": "2023-06-15",
+        "aggregated_rating": 84
     },
     "Disco Elysium \u2014 The Final Cut": {
         "price": 39.99,
         "publisher": "ZA/UM",
-        "original_release_date": "2021-03-30"
+        "original_release_date": "2021-03-30",
+        "aggregated_rating": 90.83333333333333
     },
     "Tomb Raider Trilogy": {
         "price": 50.47,
         "publisher": "Publisher Not Found",
-        "original_release_date": "2011-03-22"
+        "original_release_date": "2011-03-22",
+        "aggregated_rating": 92.0
     },
     "ARK: Survival Evolved": {
         "price": 14.99,
         "publisher": "Studio Wildcard",
-        "original_release_date": "2017-08-27"
+        "original_release_date": "2017-08-27",
+        "aggregated_rating": 68.875
     },
     "Orcs Must Die! 2": {
         "price": 14.99,
         "publisher": "Robot Entertainment",
-        "original_release_date": "2012-07-30"
+        "original_release_date": "2012-07-30",
+        "aggregated_rating": 82.25
     },
     "[REDACTED]": {
         "price": 24.99,
         "publisher": "KRAFTON, Inc.",
-        "original_release_date": "2024-10-28"
+        "original_release_date": "2024-10-28",
+        "aggregated_rating": 70
     },
     "Definitely Not Fried Chicken": {
         "price": 24.99,
         "publisher": "Silver Lining Interactive",
-        "original_release_date": "2023-09-29"
+        "original_release_date": "2023-09-29",
+        "aggregated_rating": 55
     }
 }

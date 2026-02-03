@@ -6,20 +6,8 @@ import datetime
 import matplotlib.dates as mdates
 from processor import preprocess_for_plotting
 from datetime import datetime
-
-plt.rcParams['font.family'] = 'sans-serif'
-
-STEAM_SALES = [
-    ("2018-12-20", "2019-01-03"), ("2019-06-25", "2019-07-09"),
-    ("2019-12-19", "2020-01-02"), ("2020-06-25", "2020-07-09"),
-    ("2020-12-22", "2021-01-05"), ("2021-06-24", "2021-07-08"),
-    ("2021-12-22", "2022-01-05"), ("2022-06-23", "2022-07-07"),
-    ("2022-12-22", "2023-01-05"), ("2023-06-29", "2023-07-13"),
-    ("2023-12-21", "2024-01-04"), ("2024-06-27", "2024-07-11"),
-    ("2024-12-19", "2025-01-02"), ("2025-06-26", "2025-07-10"),
-    ("2025-12-18", "2026-01-02"), ("2026-06-25", "2026-07-09"),
-    ("2026-12-17", "2027-01-04")
-]
+from constants import STEAM_SALES
+import numpy as np
 
 
 def add_timestamp(fig):
@@ -210,45 +198,44 @@ def generate_velocity_chart(df, output_path='assets/giveaway_velocity.png'):
 
 def generate_inflation_comparison_chart(df, output_path='assets/inflation_impact.png'):
     """
-    A side-by-side comparison of Nominal vs. Real value per year.
+    A side-by-side comparison of Nominal vs. Real value per year using centralized preprocessing.
     """
-    if isinstance(df, str):
-        df = pd.read_csv(df, encoding='utf-8-sig')
-
-    # 1. Prepare Data
-    df_plot = df.copy()
-    df_plot['start_date'] = pd.to_datetime(df_plot['start_date'], dayfirst=True, errors='coerce')
-    df_plot['year'] = df_plot['start_date'].dt.year
+    # 1. Standardize and Clean using your existing helper
+    df_plot = preprocess_for_plotting(df)
     
-    # Group by year for both price and real_value
+    # 2. Group by year
+    # Since preprocess_for_plotting already created 'year', 'price', and 'real_value'
     yearly_data = df_plot.groupby('year')[['price', 'real_value']].sum()
 
-    # 2. Setup Figure
+    # 3. Setup Figure
     plt.style.use('dark_background')
     fig, ax = plt.subplots(figsize=(12, 7))
     
-    # 3. Plotting Side-by-Side Bars
+    # 4. Plotting Side-by-Side Bars
     x = yearly_data.index
-    width = 0.35  # Width of the bars
+    width = 0.35 
     
-    ax.bar(x - width/2, yearly_data['price'], width, label='Nominal Value (Sticker Price)', color='gray', alpha=0.7)
+    # Using the Epic Games Blue (#0078f2) for Real Value looks very professional
+    ax.bar(x - width/2, yearly_data['price'], width, label='Nominal Value (Sticker Price)', color='#444444', alpha=0.8)
     ax.bar(x + width/2, yearly_data['real_value'], width, label='Real Value (2026 Dollars)', color='#0078f2')
 
-    ax.set_xticks(x) # Forces a tick for every year in the index
+    # Ensure every year is labeled on the X-axis
+    ax.set_xticks(x)
     ax.set_xticklabels(x.astype(int))
     
-    # 4. Styling
+    # 5. Styling & Formatting
     ax.set_title('The Inflation Story: Nominal vs. Real Purchasing Power', fontsize=16, color='white', pad=25)
     ax.set_ylabel('Total Value ($)', fontsize=12, color='white')
     
+    # Currency formatting ($1,000)
     import matplotlib.ticker as mtick
     ax.yaxis.set_major_formatter(mtick.StrMethodFormatter('${x:,.0f}'))
-    ax.legend()
     
-    # 5. Consistency
+    ax.legend(frameon=False, loc='upper left')
+    ax.grid(axis='y', linestyle='--', alpha=0.2)
+    
+    # 6. Global Branding & Save
     add_timestamp(fig)
-    
-    # 6. Save
     plt.tight_layout()
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
@@ -384,5 +371,64 @@ def generate_maturity_histogram(df, output_path='assets/maturity_gap_dist.png'):
     add_timestamp(fig)
     
     plt.tight_layout()
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+def generate_inflation_comparison_chart(df, output_path='assets/inflation_comparison.png'):
+    df_plot = preprocess_for_plotting(df).sort_values('start_date')
+    
+    # Calculate Cumulative Totals
+    df_plot['cumulative_nominal'] = df_plot['price'].cumsum()
+    df_plot['cumulative_real'] = df_plot['real_value'].cumsum()
+
+    plt.figure(figsize=(12, 6))
+    
+    # Plot both lines
+    plt.fill_between(df_plot['start_date'], df_plot['cumulative_real'], color="skyblue", alpha=0.3, label='Inflation Gap (Purchasing Power)')
+    plt.plot(df_plot['start_date'], df_plot['cumulative_real'], label='Real Value (2026 $)', color='#1f77b4', linewidth=2)
+    plt.plot(df_plot['start_date'], df_plot['cumulative_nominal'], label='Nominal Value (Retail at Time)', color='#ff7f0e', linestyle='--')
+
+    plt.title("The 'Real' Value of the Epic Collection (Inflation Adjusted)", fontsize=14, pad=20)
+    plt.ylabel("Total Collection Value ($)")
+    plt.legend()
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
+    
+    plt.savefig(output_path, bbox_inches='tight', dpi=300)
+    plt.close()
+
+def generate_quality_pulse_chart(df, output_path='assets/quality_pulse.png'):
+    # Preprocess first
+    df_plot = preprocess_for_plotting(df)
+    
+    # 1. Filter out the "Score Not Found" rows (which are now NaN)
+    # If we don't do this, np.polyfit will return 'nan' for the trend line
+    df_plot = df_plot.dropna(subset=['aggregated_rating'])
+
+    if df_plot.empty:
+        print("⚠️ No ratings found to plot.")
+        return
+
+    # 2. Prep data for the trend line
+    x_dates = mdates.date2num(df_plot['start_date'])
+    y_scores = df_plot['aggregated_rating']
+
+    plt.style.use('dark_background')
+    fig, ax = plt.subplots(figsize=(12, 6))
+
+    # 3. Scatter Plot
+    ax.scatter(df_plot['start_date'], y_scores, color='#0078f2', alpha=0.5, edgecolors='white', linewidth=0.5)
+
+    # 4. Calculate Trend Line
+    z = np.polyfit(x_dates, y_scores, 1)
+    p = np.poly1d(z)
+    ax.plot(df_plot['start_date'], p(x_dates), "r--", label="Quality Trend")
+
+    # 5. Styling
+    ax.set_title("The Quality Pulse: Content Strategy Over Time", fontsize=15, color='white')
+    ax.set_ylabel("Critic Score (IGDB / Metacritic)")
+    ax.set_ylim(0, 105) # Give a little room at the top
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
+    
+    add_timestamp(fig)
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
