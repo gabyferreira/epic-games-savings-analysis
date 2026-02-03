@@ -1,4 +1,4 @@
-# 🎮 Epic Games Store: Automated Savings Tracker
+﻿# 🎮 Epic Games Store: Automated Savings Tracker
 
 [![Data Update](https://github.com/gabyferreira/epic-games-savings-analysis/actions/workflows/update_data.yml/badge.svg)](https://github.com/gabyferreira/epic-games-savings-analysis/actions/workflows/update_data.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -9,10 +9,23 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 
 ### 📊 Live Project Statistics
 <a name="stats_start"></a>
-Total Games Collected: 659
-Total Market Value: $14,832.99
-Average Game Price: $22.51
-Most Valuable Game: Civilization 6 Platinum Edition ($79.99)
+| Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$14,595.04** |
+| 📦 **Total Games Collected** | 647 |
+| 📉 **Average Game Price** | $22.56 |
+| 🏆 **Most Valuable Game** | Civilization 6 Platinum Edition ($79.99) |
+| 🏢 **Top 3 Contributors** | 2K ($639.88), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 👑 **MVP Publisher** | Bethesda Softworks (20 games) |
+| 📈 **Inflation-Adjusted Value** | $16,611.15 |
+| 💸 **Purchasing Power Gained** | $2,016.11 |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| 🏆 **Generosity Leaderboard** | 2K (Score: 92.9), Bethesda Softworks (Score: 71.3), Paradox Interactive (Score: 60.8) |
+| ⭐ **Average User/Critic Score** | 76.7/100 |
+| 💎 **Highest Rated Title** | Cassette Beasts (100.0/100) |
+| 💳 **Subscription Equivalent** | **$171.71 / month** |
+| 📅 **Tracking Since** | December 2018 (85 months) |
+
 <a name="stats_end"></a>
 ---
 
