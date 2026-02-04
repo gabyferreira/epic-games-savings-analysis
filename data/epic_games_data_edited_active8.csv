@@ -20,7 +20,7 @@
 19,Overcooked!,04/07/2019,11/07/2019,16.99,Team17 Digital Ltd,2016-08-03,81.53846153846153,2019,21.917099999999998,N/A,Standalone,,False
 20,Torchlight,11/07/2019,18/07/2019,14.99,Xd,2009-10-27,83.33333333333333,2019,19.3371,N/A,Standalone,,False
 21,Limbo,18/07/2019,25/07/2019,12.49,Playdead,2012-08-02,84.0,2019,16.1121,N/A,Standalone,,False
-22,Moonlighter,25/07/2019,01/08/2019,19.99,11 Bit Studios,1999-10-15,82,2019,25.7871,2025-10-23,Moonlighter 2: The Endless Vault,2282.0,False
+22,Moonlighter,25/07/2019,01/08/2019,19.99,11 Bit Studios,1999-10-15,82.0,2019,25.7871,2025-10-23,Moonlighter 2: The Endless Vault,2282.0,False
 23,This War of Mine,25/07/2019,01/08/2019,19.99,11 Bit Studios,2014-11-14,82.0,2019,25.7871,N/A,Standalone,,False
 24,Alan Wake,02/08/2019,09/08/2019,14.99,Remedy Entertainment,2010-05-14,83.0,2019,19.3371,2021-10-05,Q108416797,795.0,False
 25,For Honor,02/08/2019,09/08/2019,29.99,Ubisoft,2022-03-17,77.0,2019,38.6871,N/A,Standalone,,False
@@ -49,7 +49,7 @@
 48,Ruiner,07/11/2019,14/11/2019,19.99,Devolver Digital,2017-09-26,76.16666666666667,2019,25.7871,N/A,Standalone,,False
 49,The Messenger,14/11/2019,21/11/2019,19.99,Devolver Digital,2018-08-30,87.0,2019,25.7871,N/A,Standalone,,False
 50,Bad North: Jotunn Edition,21/11/2019,29/11/2019,14.99,Raw Fury,2018-08-20,67.0,2019,19.3371,N/A,Standalone,,False
-51,Rayman Legends,29/11/2019,06/12/2019,29.99,Ubisoft,2013-08-29,81,2019,38.6871,2022-10-20,Mario + Rabbids Sparks of Hope,1056.0,False
+51,Rayman Legends,29/11/2019,06/12/2019,29.99,Ubisoft,2013-08-29,81.0,2019,38.6871,2022-10-20,Mario + Rabbids Sparks of Hope,1056.0,False
 52,Jotun: Valhalla Edition,05/12/2019,12/12/2019,14.99,Thunder Lotus,2016-09-09,75.4,2019,19.3371,N/A,Standalone,,False
 53,The Escapists,12/12/2019,19/12/2019,17.99,Team17,2015-02-13,68.9090909090909,2019,23.207099999999997,N/A,Standalone,,False
 54,The Wolf Among Us,12/12/2019,19/12/2019,14.99,Telltale,2013-10-11,79.52272727272727,2019,19.3371,N/A,No Future Sequel Found,,False
@@ -98,7 +98,7 @@
 97,Sherlock Holmes: Crimes and Punishments,09/04/2020,16/04/2020,29.99,Frogwares,2014-09-29,74.71428571428571,2020,38.0873,N/A,Standalone,,False
 98,Just Cause 4,16/04/2020,23/04/2020,59.99,Square Enix,2018-12-04,69.4,2020,76.18730000000001,N/A,No Future Sequel Found,,False
 99,Wheels of Aurelia,16/04/2020,23/04/2020,14.99,Santa Ragione,2016-09-20,60.0,2020,19.037300000000002,N/A,Standalone,,False
-100,For the King,23/04/2020,30/04/2020,19.99,Ironoak Games,2018-04-19,76,2020,25.3873,2023-11-02,For the King II,1288.0,False
+100,For the King,23/04/2020,30/04/2020,19.99,Ironoak Games,2018-04-19,76.0,2020,25.3873,2023-11-02,For the King II,1288.0,False
 101,Amnesia: The Dark Descent,30/04/2020,07/05/2020,19.99,Frictional Games,2010-09-08,89.0,2020,25.3873,2020-10-20,Amnesia: Rebirth,173.0,False
 102,Crashlands,30/04/2020,07/05/2020,14.99,Butterscotch Shenanigans,2016-01-20,79.5,2020,19.037300000000002,2025-04-10,Crashlands 2,1806.0,False
 103,Death Coming,07/05/2020,14/05/2020,6.99,Next Studios,2017-11-06,70.0,2020,8.8773,N/A,Standalone,,False
@@ -393,7 +393,7 @@
 392,Idle Champions Of The Forgotten Realms Pack,22/06/2023,29/06/2023,5.99,Codename Entertainment Inc.,2017-09-07,79.0,2023,6.469200000000001,N/A,Standalone,,False
 393,The Dungeon of Naheulbeuk: The Amulet of Chaos,29/06/2023,06/07/2023,34.99,Dear Villagers,2020-09-17,92.0,2023,37.78920000000001,N/A,Standalone,,False
 394,Grime,06/07/2023,13/07/2023,24.99,Akupara Games,2021-08-02,95.0,2023,26.9892,N/A,Standalone,,False
-395,Train Valley 2,13/07/2023,20/07/2023,14.99,Flazm,2019-04-15,62,2023,16.1892,2024-08-08,Train Valley World,392.0,False
+395,Train Valley 2,13/07/2023,20/07/2023,14.99,Flazm,2019-04-15,62.0,2023,16.1892,2024-08-08,Train Valley World,392.0,False
 396,Murder by Numbers,20/07/2023,27/07/2023,14.99,The Irregular Corporation,2020-03-05,71.0,2023,16.1892,N/A,Standalone,,False
 397,The Elder Scrolls Online,20/07/2023,27/07/2023,19.99,Bethesda Softworks,2014-04-04,70.4375,2023,21.589199999999998,2023-09-28,The Elder Scrolls: Castles,70.0,True
 398,Homeworld Remastered Collection,27/07/2023,03/08/2023,34.99,Gearbox Publishing,2015-02-25,87.5,2023,37.78920000000001,N/A,Standalone,,False
@@ -430,7 +430,7 @@
 429,GigaBash,30/11/2023,07/12/2023,24.99,Passion Republic Games,2022-08-04,70.0,2023,26.9892,N/A,Standalone,,False
 430,Predecessor,30/11/2023,07/12/2023,29.99,Omeda Studios,2024-08-20,81.0,2023,32.3892,N/A,Standalone,,False
 431,Destiny 2: Legacy Collection,07/12/2023,14/12/2023,69.99,Bungie Inc.,2022-01-18,82.0,2023,75.5892,N/A,Standalone,,False
-432,DNF Duel,20/12/2023,21/12/2023,49.99,Nexon,2023-09-14,85,2023,53.989200000000004,2025-03-27,The First Berserker: Khazan,463.0,False
+432,DNF Duel,20/12/2023,21/12/2023,49.99,Nexon,2023-09-14,85.0,2023,53.989200000000004,2025-03-27,The First Berserker: Khazan,463.0,False
 433,Melvor Idle,21/12/2023,22/12/2023,9.99,Jagex Ltd,2021-11-19,78.0,2023,10.789200000000001,N/A,Standalone,,False
 434,20 Minutes Till Dawn,21/12/2023,31/12/2023,4.99,Erabit,2022-09-05,66.0,2023,5.389200000000001,N/A,Standalone,,False
 435,A Plague Tale: Innocence,21/12/2023,31/12/2023,39.99,Focus Entertainment,2019-05-14,80.86666666666666,2023,43.18920000000001,2022-10-18,A Plague Tale: Requiem,-429.0,False
@@ -441,8 +441,8 @@
 440,Idle Champions of the Forgotten Realms (DLC pack),21/12/2023,31/12/2023,5.99,Codename Entertainment Inc.,2017-09-07,79.0,2023,6.469200000000001,N/A,Standalone,,False
 441,Marvel's Guardians of the Galaxy,21/12/2023,31/12/2023,59.99,Eidos Interactive Corp.,2021-10-26,81.1,2023,64.78920000000001,N/A,Standalone,,False
 442,theHunter: Call of the Wild,21/12/2023,31/12/2023,19.99,Expansive Worlds,2017-02-16,73.6,2023,21.589199999999998,N/A,Standalone,,False
-443,Train Sim World 3,21/12/2023,31/12/2023,24.99,Dovetail Games,2022-09-06,78,2023,26.9892,2024-09-17,Train Sim World 5,271.0,False
-444,Train Valley 2,21/12/2023,31/12/2023,14.99,Flazm,2019-04-15,62,2023,16.1892,2024-08-08,Train Valley World,231.0,False
+443,Train Sim World 3,21/12/2023,31/12/2023,24.99,Dovetail Games,2022-09-06,78.0,2023,26.9892,2024-09-17,Train Sim World 5,271.0,False
+444,Train Valley 2,21/12/2023,31/12/2023,14.99,Flazm,2019-04-15,62.0,2023,16.1892,2024-08-08,Train Valley World,231.0,False
 445,Turnip Boy Commits Tax Evasion,21/12/2023,31/12/2023,14.99,Graffiti Games,2021-04-22,76.66666666666667,2023,16.1892,2024-01-18,Turnip Boy Robs a Bank,28.0,True
 446,Art of Rally,22/12/2023,23/12/2023,24.99,Funselektor Labs Inc.,2020-09-23,83.33333333333333,2023,26.9892,N/A,Standalone,,False
 447,Fallout 3,23/12/2023,24/12/2023,9.99,Bethesda Softworks,2008-10-28,89.1,2023,10.789200000000001,N/A,No Future Sequel Found,,False
@@ -502,7 +502,7 @@
 501,F.I.S.T.: Forged In Shadow Torch,25/07/2024,01/08/2024,15.99,Astrolabe Games,2021-09-07,86.83333333333333,2024,16.6296,N/A,Standalone,,False
 502,LumbearJack,01/08/2024,08/08/2024,12.99,Armor Games Studios,2022-06-11,70.0,2024,13.5096,N/A,Standalone,,False
 503,Rawmen: Food Fighter Arena,01/08/2024,08/08/2024,0.0,Tinybuild,2024-07-23,,2024,0.0,N/A,Standalone,,False
-504,DNF Duel,08/08/2024,15/08/2024,49.99,Nexon,2023-09-14,85,2024,51.9896,2025-03-27,The First Berserker: Khazan,231.0,False
+504,DNF Duel,08/08/2024,15/08/2024,49.99,Nexon,2023-09-14,85.0,2024,51.9896,2025-03-27,The First Berserker: Khazan,231.0,False
 505,CYGNI: All Guns Blazing,08/08/2024,15/08/2024,29.99,Konami,2024-08-06,78.8,2024,31.1896,N/A,Standalone,,False
 506,Death's Gambit: Afterlife,15/08/2024,22/08/2024,19.99,Serenity Forge,2018-08-13,85.0,2024,20.7896,N/A,Standalone,,False
 507,World of Warships – Starter Pack: Albany,15/08/2024,22/08/2024,23.6,Wargaming Group Limited,2024-03-18,,2024,24.544000000000004,N/A,Standalone,,False
