@@ -115,17 +115,17 @@ def fetch_sequel_metadata(game_title, token):
 
 file_path = "data/epic_games_data_edited_active8.csv"
 try:
-    # Force read using 'cp1252' (the specific Windows/Latin encoding that uses 0x92)
-    # This will correctly interpret that '0x92' as an apostrophe
-    df_existing = pd.read_csv(file_path, encoding="cp1252", engine='python')
+    # Try reading with utf-8-sig first, fallback to cp1252 if it fails
+    try:
+        df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
+    except UnicodeDecodeError:
+        df_existing = pd.read_csv(file_path, encoding="cp1252")
     
-    df_existing.to_csv(file_path, index=False, encoding="utf-8-sig", date_format='%d/%m/%Y')
-    
-    print("✅ Migration Successful! Your file is now in professional UTF-8 format.")
-    print("🚀 You can now run your main scraper.py without errors.")
-    
+    # Immediately save back as clean UTF-8
+    df_existing.to_csv(file_path, index=False, encoding="utf-8-sig")
+    logger.info("✅ Migration Successful!")
 except Exception as e:
-    print(f"❌ Migration failed: {e}")
+    logger.warning(f"⚠️ Migration note: {e}")
 
 
 def update_csv():
@@ -476,7 +476,13 @@ if needs_enrichment.any():
         # Apply updates to DataFrame
         df_existing.at[idx, 'price'] = metadata.get("price")
         df_existing.at[idx, 'original_release_date'] = metadata.get("original_release_date")
-        df_existing.at[idx, 'aggregated_rating'] = metadata.get("aggregated_rating")
+        rating_val = metadata.get("aggregated_rating")
+        if rating_val and rating_val != "Score Not Found":
+            # Convert to float to keep Pandas happy and allow math later
+            df_existing.at[idx, 'aggregated_rating'] = float(rating_val)
+        else:
+            # Use pd.NA (the standard for missing data) instead of a string
+            df_existing.at[idx, 'aggregated_rating'] = pd.NA
         df_existing.at[idx, 'next_sequel_date'] = metadata.get("next_sequel_date")
         df_existing.at[idx, 'next_sequel_name'] = metadata.get("next_sequel_name")
         
