@@ -3,7 +3,7 @@ import logging
 import os
 from datetime import datetime
 import re
-from constants import INFLATION_MULTIPLIERS
+from constants import INFLATION_MULTIPLIERS, SHARED_UNIVERSES, AUTO_PROMO_KEYWORDS
 
 # --- Setup Logging ---
 if not os.path.exists('logs'):
@@ -34,6 +34,9 @@ def validate_and_clean_data(df):
     
     # 3. Data Formatting & Inflation (Crucial: Calculates year/real_value)
     df = clean_metadata_and_inflation(df)
+
+    df = calculate_hype_delta(df)
+    df = tag_hype_candidates(df)
     
     # 4. Final Type Enforcement
     df = enforce_schema(df)
@@ -60,22 +63,21 @@ def remove_duplicates(df):
 
 def clean_metadata_and_inflation(df):
     """Cleans seller strings and calculates inflation-adjusted values."""
-    # 1. Clean Publisher names
+    # Standardize Publisher names
     df['publisher'] = df['publisher'].replace("Publisher Not Found", "Unknown Publisher")
     df['publisher'] = df['publisher'].fillna("Unknown Publisher").astype(str).str.strip().str.title()
     
-    # 2. Fix Dates (European format DD/MM/YYYY)
+    # Vectorized Date Conversion
     df['start_date'] = pd.to_datetime(df['start_date'], dayfirst=True, errors='coerce')
     df['end_date'] = pd.to_datetime(df['end_date'], dayfirst=True, errors='coerce')
     
-    # 3. Build/Repair the Year column
-    df['year'] = df['start_date'].dt.year.fillna(0).astype(int)
+    # Extract Year (Handles NaT by defaulting to 2026 for multipliers)
+    df['year'] = df['start_date'].dt.year.fillna(2026).astype(int)
     
-    # 4. Inflation Math
+    # Vectorized Inflation Math
     df['price'] = pd.to_numeric(df['price'], errors='coerce').fillna(0.0)
-    df['real_value'] = df.apply(
-        lambda row: row['price'] * INFLATION_MULTIPLIERS.get(row['year'], 1.0), axis=1
-    )
+    df['real_value'] = df['price'] * df['year'].map(INFLATION_MULTIPLIERS).fillna(1.0)
+    
     return df
 
 def enforce_schema(df):
@@ -105,53 +107,47 @@ def generate_summary_stats(df, generosity_df):
     real_total = df['real_value'].sum()
     inflation_impact = real_total - total_value
     
+    # Most Expensive Title
     if not df.empty and total_value > 0:
         most_expensive = df.loc[df['price'].idxmax()]
-        jewel_name = most_expensive['game']
-        jewel_price = most_expensive['price']
+        jewel_name, jewel_price = most_expensive['game'], most_expensive['price']
     else:
         jewel_name, jewel_price = "N/A", 0
 
+    # Top Publishers
     top_publishers = df.groupby('publisher')['price'].sum().nlargest(3)
     publisher_stats = ", ".join([f"{name} (${val:,.2f})" for name, val in top_publishers.items()])
 
-    if not df.empty:
-        counts = df['publisher'].value_counts()
-        mvp_name = counts.idxmax()
-        mvp_count = counts.max()
-        mvp_display = f"{mvp_name} ({mvp_count} games)"
+    if 'is_strategic_hype' in df.columns:
+        strategic_count = df['is_strategic_hype'].sum()
+        prestige_ratio = (strategic_count / total_games) * 100 if total_games > 0 else 0
+        avg_lead = df['hype_delta_days'].mean() if 'hype_delta_days' in df.columns else 0
     else:
-        mvp_display = "N/A"
+        prestige_ratio = 0
+        avg_lead = 0
 
-    seasonality_insight = analyze_seasonality(df)
-
-    gen_stats = calculate_generosity_index(df)
-    top_gen = gen_stats.head(3)
+    # Seasonality, Quality, and Subscription Stats
+    seasonality = analyze_seasonality(df)
     q_stats = get_quality_stats(df)
     sub_stats = calculate_subscription_value(df)
-
-    gen_display = ", ".join([
-        f"{name} (Score: {row['generosity_score']:.1f})" 
-        for name, row in top_gen.iterrows()
-        ])
+    
+    # Hype Metrics
+    strategic_count = df['is_strategic_hype'].sum()
+    prestige_ratio = (strategic_count / total_games) * 100 if total_games > 0 else 0
+    avg_lead_time = df['hype_delta_days'].mean()
 
     stats = (
         "| Metric | Statistics |\n"
         "| :--- | :--- |\n"
         f"| 💰 **Total Market Value** | **${total_value:,.2f}** |\n"
         f"| 📦 **Total Games Collected** | {total_games} |\n"
-        f"| 📉 **Average Game Price** | ${avg_price:,.2f} |\n"
-        f"| 🏆 **Most Valuable Game** | {jewel_name} (${jewel_price:,.2f}) |\n"
-        f"| 🏢 **Top 3 Contributors** | {publisher_stats} |\n"
-        f"| 👑 **MVP Publisher** | {mvp_display} |\n"
+        f"| 👑 **MVP Publisher** | {df['publisher'].mode()[0] if not df.empty else 'N/A'} |\n"
         f"| 📈 **Inflation-Adjusted Value** | ${real_total:,.2f} |\n"
-        f"| 💸 **Purchasing Power Gained** | ${inflation_impact:,.2f} |\n"
-        f"| 🗓️ **Peak Saving Month** | {seasonality_insight} |\n"
-        f"| 🏆 **Generosity Leaderboard** | {gen_display} |\n"
-        f"| ⭐ **Average User/Critic Score** | {q_stats['avg_rating']:.1f}/100 |\n"
-        f"| 💎 **Highest Rated Title** | {q_stats['best_game_name']} ({q_stats['max_rating']:.1f}/100) |\n"
-        f"| 💳 **Subscription Equivalent** | **${sub_stats['monthly_val']:,.2f} / month** |\n"
-        f"| 📅 **Tracking Since** | {sub_stats['first_date']} ({sub_stats['total_months']} months) |\n"
+        f"| 🗓️ **Peak Saving Month** | {seasonality} |\n"
+        f"| ⭐ **Average Score** | {q_stats['avg_rating']:.1f}/100 |\n"
+        f"| 💳 **Subscription Equivalent** | **${sub_stats['monthly_val']:,.2f} / mo** |\n"
+        f"| 🎯 **Prestige Ratio** | **{prestige_ratio:.1f}%** (Strategic Hype) |\n"
+        f"| 🏎️ **Lead Time Avg** | {avg_lead_time:.0f} Days to Sequel |\n"
     )
     return stats
 
@@ -259,36 +255,39 @@ def preprocess_for_plotting(df):
     """
     df_clean = df.copy()
 
-    # 1. Force Numeric (Price & Real Value)
+    # 1. Force Numeric (Price)
     df_clean['price'] = pd.to_numeric(df_clean['price'], errors='coerce')
     
-    # 2. Force Numeric (Ratings) - THE FIX FOR "SCORE NOT FOUND"
-    # This turns any text strings into NaN (Not a Number)
+    # 2. Force Numeric (Ratings) - Handles "Score Not Found"
     df_clean['aggregated_rating'] = pd.to_numeric(df_clean['aggregated_rating'], errors='coerce')
     
-    # 3. Force Dates
+
+    # 4. Force Dates
     df_clean['start_date'] = pd.to_datetime(df_clean['start_date'], dayfirst=True, format='mixed', errors='coerce')
     
-    # 4. Drop rows that failed conversion for CRITICAL plotting columns
-    # We drop if price or date is missing. 
-    # NOTE: We DON'T drop all rating NaNs here yet, because other charts 
-    # (like the Savings chart) still need these rows.
+    # 5. Drop rows with missing critical data
     df_clean = df_clean.dropna(subset=['price', 'start_date'])
 
-    # 5. Extract Year for Inflation Mapping
+    # 6. Extract Year for Inflation Mapping
     df_clean['year'] = df_clean['start_date'].dt.year.astype(int)
 
-    # 6. Apply Inflation Multipliers
+    # 7. Apply Inflation Multipliers (Real Value 2026)
     df_clean['real_value'] = df_clean.apply(
         lambda row: row['price'] * INFLATION_MULTIPLIERS.get(row['year'], 1.0), 
         axis=1
     )
 
-    # 7. Final type casting to ensure clean plotting
+    df_clean = calculate_hype_delta(df_clean)
+    df_clean = tag_hype_candidates(df_clean)
+    
+
+
+    # 8. Final Type Casting
     df_clean['price'] = df_clean['price'].astype(float)
     df_clean['real_value'] = df_clean['real_value'].astype(float)
-    # Cast rating to float to avoid concatenation errors
     df_clean['aggregated_rating'] = df_clean['aggregated_rating'].astype(float)
+    df_clean['month'] = df_clean['start_date'].dt.month_name()
+    df_clean['year'] = df_clean['start_date'].dt.year
     
     return df_clean
 
@@ -354,3 +353,49 @@ def calculate_subscription_value(df):
         "total_months": delta_months,
         "first_date": start_date.strftime('%B %Y')
     }
+
+def calculate_hype_delta(df):
+    """Calculates Lead Time between giveaway and franchise sequel."""
+    # Ensure date objects
+    start_dates = pd.to_datetime(df['start_date'], errors='coerce')
+    
+    # Robust Sequel Date Parsing (defending against Wikidata malformed strings)
+    sequel_dates = pd.to_datetime(df['next_sequel_date'], errors='coerce')
+    
+    # Calculate Days Delta
+    df['hype_delta_days'] = (sequel_dates - start_dates).dt.days
+    
+    return df
+
+def tag_hype_candidates(df):
+    """Tags 'Strategic Hype' based on the strict 0-90 day window."""
+    df_clean = df.copy()
+    
+    if 'hype_delta_days' not in df_clean.columns:
+        df_clean['hype_delta_days'] = pd.NA
+
+    df_clean['hype_delta_days'] = pd.to_numeric(df_clean['hype_delta_days'], errors='coerce')
+    
+    # ✅ Sync with scraper: 0 to 90 days
+    df_clean['is_strategic_hype'] = (df_clean['hype_delta_days'] >= 0) & (df_clean['hype_delta_days'] <= 90)
+    
+    # Fill NaN with False (Standardizes Scenario 3: No Sequel)
+    df_clean['is_strategic_hype'] = df_clean['is_strategic_hype'].fillna(False)
+    
+    return df_clean
+
+def identify_franchise(game_title, igdb_collection_name=None):
+    """
+    Determines if a game belongs to a franchise using a tiered approach.
+    """
+    # 1. Check Manual Overrides
+    if game_title in SHARED_UNIVERSES:
+        return SHARED_UNIVERSES[game_title]
+    
+    # 2. Check Keyword Matches
+    for word in AUTO_PROMO_KEYWORDS:
+        if word.lower() in game_title.lower():
+            return word
+
+    # 3. Fallback to API data
+    return igdb_collection_name or "Standalone"

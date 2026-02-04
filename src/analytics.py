@@ -18,3 +18,24 @@ def apply_inflation_adjustment(df):
     )
     
     return df
+
+def get_hype_cycle_stats(df):
+    """
+    Compares Standard giveaways vs. Strategic Franchise Promotions.
+    """
+    df_clean = df.copy()
+    df_clean['price'] = pd.to_numeric(df_clean['price'], errors='coerce').fillna(0)
+    
+    # 1. Split the data
+    promo_games = df_clean[df_clean['is_strategic_hype'] == True]
+    standard_games = df_clean[df_clean['is_strategic_hype'] == False]
+    
+    # 2. Calculate Averages
+    avg_promo_price = promo_games['price'].mean() if not promo_games.empty else 0
+    avg_std_price = standard_games['price'].mean() if not standard_games.empty else 0
+    
+    return {
+        "avg_promo_price": avg_promo_price,
+        "avg_std_price": avg_std_price,
+        "promo_count": len(promo_games)
+    }

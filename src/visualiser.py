@@ -4,10 +4,15 @@ import seaborn as sns
 import os
 import datetime
 import matplotlib.dates as mdates
-from processor import preprocess_for_plotting
+from processor import preprocess_for_plotting, tag_hype_candidates
+from analytics import get_hype_cycle_stats
 from datetime import datetime
 from constants import STEAM_SALES
 import numpy as np
+import logging
+
+logger = logging.getLogger(__name__)
+
 
 
 def add_timestamp(fig):
@@ -430,5 +435,77 @@ def generate_quality_pulse_chart(df, output_path='assets/quality_pulse.png'):
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
     
     add_timestamp(fig)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+
+def generate_hype_cycle_chart(df, output_path='assets/hype_cycle_comparison.png'):
+    stats = get_hype_cycle_stats(df)
+    
+    labels = ['Standard Giveaway', 'Strategic Franchise Promo']
+    values = [stats['avg_std_price'], stats['avg_promo_price']]
+    
+    plt.style.use('dark_background')
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
+    bars = ax.bar(labels, values, color=['#444444', '#0078f2'], alpha=0.8)
+    
+    # Styling
+    ax.set_title("The Hype Cycle: Strategic Value of Franchise Promotions", fontsize=14, pad=20)
+    ax.set_ylabel("Average Retail Price ($)")
+    ax.yaxis.set_major_formatter('${x:,.0f}')
+    
+    # Add labels on top of bars
+    for bar in bars:
+        height = bar.get_height()
+        ax.text(bar.get_x() + bar.get_width()/2., height + 1,
+                f'${height:.2f}', ha='center', va='bottom', color='white', fontweight='bold')
+
+    add_timestamp(fig)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+def generate_hype_heatmap(df, output_path='assets/hype_heatmap.png'):
+    df_plot = tag_hype_candidates(df)
+    
+# Check if we have enough data to pivot
+    if df_plot['is_strategic_hype'].sum() == 0:
+        logger.warning("No hype candidates found—creating a 'Zero State' heatmap.")
+        # Create a tiny 1x1 dataframe with 0 to prevent NumPy crash
+        heatmap_data = pd.DataFrame([[0]], index=[2026], columns=['January'])
+    else:
+        # Normal heatmap logic...
+        pass
+
+    # 1. Filter for Strategic games
+    strategic_only = df_plot[df_plot['is_strategic_hype'] == True].copy()
+    # --- THE FIX: Handle empty data ---
+    if strategic_only.empty:
+        logger.warning("⚠️ No 'Prime Hype' candidates found. Skipping heatmap generation.")
+        # Optional: Create a "blank" placeholder image so the README doesn't have a broken link
+        return 
+
+    # 2. Prepare the data
+    strategic_only['month'] = strategic_only['start_date'].dt.month_name()
+    strategic_only['year'] = strategic_only['start_date'].dt.year
+    
+    # Create the Matrix
+    heatmap_data = strategic_only.groupby(['year', 'month']).size().unstack(fill_value=0)
+    
+    # Reorder months to be chronological
+    month_order = ['January', 'February', 'March', 'April', 'May', 'June', 
+                   'July', 'August', 'September', 'October', 'November', 'December']
+    heatmap_data = heatmap_data.reindex(columns=month_order)
+
+    # 3. Plotting
+    plt.style.use('dark_background')
+    plt.figure(figsize=(14, 7))
+    sns.heatmap(heatmap_data, annot=True, cmap='Blues', cbar_kws={'label': 'Strategic Giveaways'})
+    
+    plt.title("The Hype Heatmap: Identifying Strategic Marketing Windows", fontsize=16, pad=20)
+    plt.xlabel("Month")
+    plt.ylabel("Year")
+    
+    add_timestamp(plt.gcf())
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()

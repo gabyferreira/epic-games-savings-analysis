@@ -7,12 +7,13 @@ import time
 import json
 import os
 from thefuzz import process
+from constants import SHARED_UNIVERSES
 from processor import validate_and_clean_data, generate_summary_stats, update_readme, calculate_generosity_index, preprocess_for_plotting
 import logging
 from visualiser import (generate_savings_chart, generate_generosity_chart, 
                         generate_monthly_bar_chart, generate_velocity_chart, 
                         generate_inflation_comparison_chart, generate_market_timing_chart,
-                        generate_maturity_histogram, generate_quality_pulse_chart)
+                        generate_maturity_histogram, generate_quality_pulse_chart, generate_hype_cycle_chart, generate_hype_heatmap)
 from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
@@ -31,18 +32,22 @@ def get_igdb_token():
     except Exception as e:
         logger.error(f"❌ IGDB Auth Failed: {e}")
         return None
+    
+def get_igdb_headers(token):
+    """A helper to provide headers to any IGDB function."""
+    return {
+        'Client-ID': IGDB_CLIENT_ID,
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'text/plain'
+    }
 
 
 def fetch_metadata_from_igdb(game_title, token):
     """Queries IGDB with fuzzy matching to find the best metadata match."""
     if not token: return None, None
     url = "https://api.igdb.com/v4/games"
-    headers = {
-        'Client-ID': IGDB_CLIENT_ID,
-        'Authorization': f'Bearer {token}',
-        'Content-Type': 'text/plain'
-    }
     
+    headers = get_igdb_headers(token)
     # We query for the top 5 names to compare them locally
     query = f'search "{game_title}"; fields name, first_release_date, aggregated_rating; limit 5;'
     
@@ -75,6 +80,38 @@ def fetch_metadata_from_igdb(game_title, token):
         logger.warning(f"IGDB Error for {game_title}: {e}")
         
     return None, None
+
+def fetch_sequel_metadata(game_title, token):
+    """
+    Finds the franchise (collection) and retrieves the release date 
+    of the next chronological entry.
+    """
+    if not token: return None
+    url = "https://api.igdb.com/v4/games"
+    
+    headers = get_igdb_headers(token)
+
+    # 1. Get the collection ID for the current game
+    # We use a broad search but limit to 1 to find the franchise link
+    search_query = f'search "{game_title}"; fields collection; limit 1;'
+    
+    try:
+        search_res = requests.post(url, headers=headers, data=search_query, timeout=10).json()
+        
+        if search_res and 'collection' in search_res[0]:
+            collection_id = search_res[0]['collection']
+            
+            # 2. Find all games in that franchise
+            # We sort by date ascending to find the 'next' game in the series
+            sequel_query = f'fields name, first_release_date; where collection = {collection_id}; sort first_release_date asc; limit 10;'
+            sequel_res = requests.post(url, headers=headers, data=sequel_query, timeout=10).json()
+            
+            return sequel_res # Return the list for local processing
+            
+    except Exception as e:
+        logger.warning(f"Failed to fetch franchise data for {game_title}: {e}")
+        
+    return None
 
 file_path = "data/epic_games_data_edited_active8.csv"
 try:
@@ -198,86 +235,211 @@ def get_publisher_from_steam(game_title):
     
     return "Unknown Publisher"
 
-def get_game_metadata_with_cache(game_title, cache, igdb_token):
+def fetch_sequel_from_wikidata(game_title, publisher_name):
     """
-    Checks cache for price, publisher, release date, and quality score.
-    Fetches from APIs only if data is missing.
+    Queries Wikidata using both Title and Publisher for high-precision matching.
+    Helps resolve 'shared universes' and prevents name-collision errors.
     """
-    # Initialize entry if new (added aggregated_rating to the template)
+    endpoint_url = "https://query.wikidata.org/sparql"
+    
+    # We filter by Publisher (P123) or Developer (P178) to ensure we have the right IP
+    query = f"""
+    SELECT DISTINCT ?gameLabel ?date WHERE {{
+      ?item rdfs:label "{game_title}"@en;
+            (wdt:P123|wdt:P178) ?pub.
+      ?pub rdfs:label ?pubLabel.
+      FILTER(CONTAINS(LCASE(?pubLabel), LCASE("{publisher_name}")))
+      
+      ?item wdt:P179 ?series.
+      ?game wdt:P179 ?series;
+            wdt:P577 ?date.
+            
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }} ORDER BY ?date
+    """
+    
+    try:
+        # User-agent is required for Wikidata's fair use policy
+        headers = {'User-Agent': 'EpicGamesProject/1.0 (contact: your-email@example.com)', 'Accept': 'application/sparql-results+json'}
+        res = requests.get(endpoint_url, params={'query': query, 'format': 'json'}, headers=headers, timeout=10).json()
+        results = res['results']['bindings']
+        
+        # Format the results into a clean list
+        return [{'name': r['gameLabel']['value'], 'date': r['date']['value'][:10]} for r in results]
+    except Exception as e:
+        logger.warning(f"🌐 Wikidata SPARQL precision lookup failed for {game_title}: {e}")
+        return None
+
+def get_game_metadata_with_cache(game_title, cache, igdb_token, promo_start):
+    """
+    Consolidated metadata fetcher. Handles Price, Publisher, 
+    and deep IGDB lookups (Score, Date, Sequels) in one pass.
+    """
+    # 1. Initialize or get existing entry
     if game_title not in cache:
         cache[game_title] = {
-            "price": None, 
-            "publisher": "Unknown Publisher", 
-            "original_release_date": None,
-            "aggregated_rating": None  # <--- Ensure this exists
+            "price": None, "publisher": "Unknown Publisher", 
+            "original_release_date": None, "aggregated_rating": None,
+            "next_sequel_date": None, "is_strategic_hype": False
         }
+    cache[game_title]["start_date"] = promo_start
+    game_entry = cache[game_title]
+    has_changed = False
 
-    # 1. Fetch PRICE (CheapShark)
-    if cache[game_title].get("price") is None:
-        logger.info(f"💰 Fetching Price for: {game_title}")
-        time.sleep(1.0) # Reduced from 10 to 1.0 (10s is very long for CheapShark!)
+    # 2. Fetch PRICE (CheapShark)
+    if game_entry.get("price") is None:
+        logger.info(f"💰 Price Search: {game_title}")
+        time.sleep(1.0)
         try:
             search_url = f"https://www.cheapshark.com/api/1.0/games?title={game_title}"
             res = requests.get(search_url, timeout=10).json()
             if res:
-                choices = {game['external']: game['gameID'] for game in res}
-                best_match, score_match = process.extractOne(game_title, choices.keys())
-                if score_match >= 85:
-                    game_id = choices[best_match]
-                    detail_url = f"https://www.cheapshark.com/api/1.0/games?id={game_id}"
-                    details = requests.get(detail_url, timeout=10).json()
-                    cache[game_title]["price"] = float(details['deals'][0]['retailPrice'])
+                choices = {g['external']: g['gameID'] for g in res}
+                best_match, score = process.extractOne(game_title, choices.keys())
+                if score >= 85:
+                    d_url = f"https://www.cheapshark.com/api/1.0/games?id={choices[best_match]}"
+                    details = requests.get(d_url, timeout=10).json()
+                    game_entry["price"] = float(details['deals'][0]['retailPrice'])
                 else:
-                    cache[game_title]["price"] = 0.0
+                    game_entry["price"] = 0.0
             else:
-                cache[game_title]["price"] = 0.0          
-            save_to_cache(cache)
+                game_entry["price"] = 0.0
+            has_changed = True
         except Exception as e:
-            logger.warning(f"Price API error for {game_title}: {e}")
+            logger.warning(f"Price error for {game_title}: {e}")
 
-    # 2. Fetch PUBLISHER (Steam)
-    if cache[game_title].get("publisher") in ["Unknown Publisher", "Publisher Not Found"]:
-        logger.info(f"🏢 Fetching Publisher for: {game_title}")
-        time.sleep(1.5) 
-        publisher = get_publisher_from_steam(game_title)
-        cache[game_title]["publisher"] = publisher if publisher != "Unknown Publisher" else "Publisher Not Found"
-        save_to_cache(cache)
+    # 3. Fetch PUBLISHER (Steam)
+    if game_entry.get("publisher") in ["Unknown Publisher", "Publisher Not Found"]:
+        logger.info(f"🏢 Publisher Search: {game_title}")
+        time.sleep(1.2)
+        pub = get_publisher_from_steam(game_title)
+        game_entry["publisher"] = pub if pub != "Unknown Publisher" else "Publisher Not Found"
+        has_changed = True
 
-    # 3. Fetch RELEASE DATE & SCORE (IGDB)
-    # Note: Using 'igdb_token' to match your function arguments
-    current_date = cache[game_title].get("original_release_date")
-    current_score = cache[game_title].get("aggregated_rating")
-
-    # 2. Determine if we REALLY need to hit the API
-    # We skip if the date is found OR if we've already tried and failed ("Date Not Found")
-    date_is_done = current_date is not None and current_date != "" 
+    # 4. DEEP IGDB LOOKUP (Consolidated Date, Score, and Sequel logic)
+    # Check if we are missing basic metadata OR franchise info
+   # 4. DEEP ENRICHMENT (Decoupled Logic)
     
-    # We skip if the score is a number OR if we've explicitly marked it as failed
-    score_is_done = isinstance(current_score, (int, float)) or current_score == "Score Not Found"
+# ----------------------------
+# A) BASIC METADATA FIRST
+# ----------------------------
+    missing_date = game_entry.get("original_release_date") in [None, "Date Not Found"]
+    missing_score = game_entry.get("aggregated_rating") in [None, "Score Not Found"]
+    missing_meta = missing_date or missing_score
 
-    # --- THE "SKIP" GATE ---
-    if date_is_done and score_is_done:
-        # We have everything (or have already tried everything), skip the API
-        return cache[game_title]
+    if missing_meta and igdb_token:
+        logger.info(f"📅 Fetching Basic Metadata: {game_title}")
+        rel_date, score = fetch_metadata_from_igdb(game_title, igdb_token)
 
-    # 3. If we got here, we need to fetch
-    if igdb_token:
-        logger.info(f"🔍 Fetching Metadata (Date & Score) for: {game_title}")
-        time.sleep(0.25) 
+        # Only set what’s missing (don’t overwrite good values)
+        if missing_date:
+            game_entry["original_release_date"] = rel_date or "Date Not Found"
+            has_changed = True
+
+        if missing_score:
+            game_entry["aggregated_rating"] = score or "Score Not Found"
+            has_changed = True
+
+
+    # Refresh the current release date AFTER metadata enrichment
+    current_rel_date = game_entry.get("original_release_date")
+    current_promotion_date = game_entry.get("start_date")
+
+
+    # ----------------------------
+    # B) FRANCHISE / SEQUEL AFTER
+    # ----------------------------
+
+    missing_sequel = game_entry.get("next_sequel_date") is None
+
+    if missing_sequel and current_rel_date not in [None, "Date Not Found"]:
+        logger.info(f"🔗 Searching Franchise Context: {game_title}")
+        franchise_list = None
         
-        release_date, score = fetch_metadata_from_igdb(game_title, igdb_token)
+        # 1. Tier 1: Manual Map
+        manual = SHARED_UNIVERSES.get(game_title)
+        if manual:
+            game_entry.update({
+                "next_sequel_name": manual["name"],
+                "next_sequel_date": manual["date"],
+                "is_strategic_hype": True 
+            })
+            has_changed = True
+        else:
+            # 2. Tiers 2 & 3: API Lookups
+            publisher = game_entry.get("publisher", "")
+            franchise_list = fetch_sequel_from_wikidata(game_title, publisher)
 
-        # Update Date if it was missing or "Date Not Found"
-        if not date_is_done:
-            cache[game_title]["original_release_date"] = release_date or "Date Not Found"
+            if not franchise_list and igdb_token:
+                logger.info(f"📡 Fallback to IGDB for {game_title}")
+                franchise_list = fetch_sequel_metadata(game_title, igdb_token)
 
-        # Update Score if it was missing or "Score Not Found"
-        if not score_is_done:
-            cache[game_title]["aggregated_rating"] = score if score is not None else "Score Not Found"
+        # 3. Process API Results
+        if franchise_list:
+            try:
+                # 🛡️ Force Clean Timestamp conversion
+                # dayfirst=True is vital if your CSV is DD-MM-YYYY
+                cur_dt = pd.to_datetime(current_promotion_date, dayfirst=True)
+                cur_ts = cur_dt.timestamp()
+                
+                future = []
+                for g in franchise_list:
+                    g_ts = 0
+                    # Standardize API dates to timestamps
+                    raw_g_date = g.get("date") or g.get("first_release_date")
+                    if raw_g_date:
+                        try:
+                            # Handle both strings (Wikidata) and integers (IGDB)
+                            g_dt = pd.to_datetime(raw_g_date, unit='s' if isinstance(raw_g_date, int) else None)
+                            g_ts = g_dt.timestamp()
+                        except: continue
 
+                    # 🎯 The Comparison
+                    if g_ts > cur_ts:
+                        future.append((g, g_ts))
+
+                if future:
+                    future.sort(key=lambda x: x[1])
+                    next_game, next_ts = future[0]
+                    s_name = next_game.get("name") or next_game.get("gameLabel")
+                    s_date = datetime.utcfromtimestamp(next_ts).strftime("%Y-%m-%d")
+
+                    # Calculate Lead Time
+                    lead_time_days = int((next_ts - cur_ts) / 86400)
+                    is_strategic = 0 <= lead_time_days <= 90
+
+                    game_entry.update({
+                        "next_sequel_name": s_name,
+                        "next_sequel_date": s_date,
+                        "is_strategic_hype": is_strategic
+                    })
+                    logger.info(f"✅ Found Sequel: {s_name} ({lead_time_days} days away)")
+                else:
+                    # 🔍 This is where you were getting stuck
+                    logger.info(f"ℹ️ No release found AFTER {cur_dt.date()} for {game_title}")
+                    game_entry.update({
+                        "next_sequel_name": "No Future Sequel Found",
+                        "next_sequel_date": "N/A",
+                        "is_strategic_hype": False
+                    })
+                has_changed = True
+
+            except Exception as e:
+                logger.error(f"❌ Processing Error for {game_title}: {e}")
+        
+        # 4. Final Fallback (No series found at all)
+        elif not game_entry.get("next_sequel_name"):
+            game_entry.update({
+                "next_sequel_name": "Standalone",
+                "next_sequel_date": "N/A", 
+                "is_strategic_hype": False
+            })
+            has_changed = True
+    
+    if has_changed:
         save_to_cache(cache)
 
-    return cache[game_title]
+    return game_entry
 
 
 
@@ -288,7 +450,7 @@ igdb_token = get_igdb_token()
 df_existing = pd.read_csv(file_path, encoding="utf-8-sig")
 
 # 2. Ensure all columns exist
-for col in ["price", "publisher", "original_release_date", "aggregated_rating"]:
+for col in ["price", "publisher", "original_release_date", "aggregated_rating", "next_sequel_date", "next_sequel_name"]:
     if col not in df_existing.columns:
         df_existing[col] = pd.NA
 
@@ -297,7 +459,9 @@ needs_enrichment = (
     df_existing["price"].isna() | 
     df_existing["publisher"].isna() |
     df_existing["original_release_date"].isna() |
-    df_existing["aggregated_rating"].isna()
+    df_existing["aggregated_rating"].isna() |
+    df_existing["next_sequel_date"].isna() |
+    df_existing["next_sequel_name"].isna()
 )
 
 if needs_enrichment.any():
@@ -306,13 +470,17 @@ if needs_enrichment.any():
     
     for idx in tqdm(df_existing[needs_enrichment].index):
         title = df_existing.at[idx, 'game']
-        metadata = get_game_metadata_with_cache(title, price_cache, igdb_token)
+        promo_start = df_existing.at[idx, 'start_date']
+        metadata = get_game_metadata_with_cache(title, price_cache, igdb_token, promo_start)
         
         # Apply updates to DataFrame
         df_existing.at[idx, 'price'] = metadata.get("price")
         df_existing.at[idx, 'original_release_date'] = metadata.get("original_release_date")
         df_existing.at[idx, 'aggregated_rating'] = metadata.get("aggregated_rating")
+        df_existing.at[idx, 'next_sequel_date'] = metadata.get("next_sequel_date")
+        df_existing.at[idx, 'next_sequel_name'] = metadata.get("next_sequel_name")
         
+
         pub = metadata.get("publisher")
         if pub not in ["Unknown Publisher", "Publisher Not Found"]:
             df_existing.at[idx, 'publisher'] = pub
@@ -340,6 +508,8 @@ try:
     generate_market_timing_chart(clean_df)
     generate_maturity_histogram(clean_df)
     generate_quality_pulse_chart(clean_df)
+    generate_hype_cycle_chart(clean_df)
+    generate_hype_heatmap(clean_df)
     logger.info("📈 All charts generated successfully.")
 except Exception as e:
     logger.error(f"❌ Failed to generate chart: {e}")
