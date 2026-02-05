@@ -14,7 +14,7 @@ from visualiser import (generate_savings_chart, generate_generosity_chart,
                         generate_monthly_bar_chart, generate_velocity_chart, 
                         generate_inflation_comparison_chart, generate_market_timing_chart,
                         generate_maturity_histogram, generate_quality_pulse_chart, generate_hype_cycle_chart, 
-                        generate_hype_heatmap, plot_quality_vs_price)
+                        generate_hype_heatmap, plot_quality_vs_price, generate_price_distribution_chart)
 from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
@@ -518,6 +518,7 @@ try:
     generate_hype_cycle_chart(clean_df)
     generate_hype_heatmap(clean_df)
     plot_quality_vs_price(clean_df)
+    generate_price_distribution_chart(clean_df)
     logger.info("📈 All charts generated successfully.")
 except Exception as e:
     logger.error(f"❌ Failed to generate chart: {e}")

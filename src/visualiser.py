@@ -529,3 +529,56 @@ def plot_quality_vs_price(df):
     # 3. Save it
     plt.savefig('assets/quality_vs_price.png', bbox_inches='tight', dpi=300)
     plt.close()
+
+def generate_price_distribution_chart(df, output_path='assets/price_distribution.png'):
+    """
+    Visualizes the retail value of giveaways over time using a scatter plot
+    with a regression line to show value trends.
+    """
+    # 1. Self-Healing & Data Preparation
+    if isinstance(df, str):
+        df = pd.read_csv(df, encoding='utf-8-sig')
+
+    df_plot = df.copy()
+    df_plot['start_date'] = pd.to_datetime(df_plot['start_date'], dayfirst=True, errors='coerce')
+    df_plot = df_plot.dropna(subset=['start_date'])
+    
+    # Extract year for the X-axis and ensure price is a float
+    df_plot['year'] = df_plot['start_date'].dt.year
+    df_plot['price'] = pd.to_numeric(df_plot['price'], errors='coerce').fillna(0)
+
+    # 2. Setup Figure
+    plt.style.use('dark_background')
+    fig, ax = plt.subplots(figsize=(12, 7))
+
+    # 3. Plotting (Scatter with Regression)
+    # Using #0078f2 (Epic Blue) for points and #ff4655 (Epic Red) for the trend line
+    sns.regplot(
+        data=df_plot, x='year', y='price',
+        scatter_kws={'alpha': 0.4, 'color': '#0078f2', 's': 60},
+        line_kws={'color': '#ff4655', 'linewidth': 3, 'label': 'Value Trend'},
+        x_jitter=0.2, ax=ax
+    )
+
+    # 4. Styling & Labels
+    ax.set_title('Retail Price vs. Year Made Free', fontsize=16, color='white', pad=25)
+    ax.set_ylabel('Original Retail Price ($)', fontsize=12, color='white')
+    ax.set_xlabel('Year', fontsize=12, color='white')
+    
+    # Ensure the X-axis only shows whole years
+    ax.set_xticks(sorted(df_plot['year'].unique().astype(int)))
+    
+    # Format Y-axis to $
+    import matplotlib.ticker as mtick
+    ax.yaxis.set_major_formatter(mtick.StrMethodFormatter('${x:,.0f}'))
+
+    # 5. Global Branding
+    add_timestamp(fig)
+
+    # 6. Save
+    plt.tight_layout()
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+    
+    print(f"📈 Price distribution chart saved to {output_path}")
