@@ -509,3 +509,23 @@ def generate_hype_heatmap(df, output_path='assets/hype_heatmap.png'):
     add_timestamp(plt.gcf())
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
+
+def plot_quality_vs_price(df):
+    plt.figure(figsize=(10, 6))
+    
+    # 1. Clean the data (Filter out games without scores)
+    plot_df = df.dropna(subset=['aggregated_rating', 'price'])
+    plot_df = plot_df[plot_df['price'] > 0] # Ignore $0 placeholders
+
+    # 2. Create the Scatter
+    sns.regplot(data=plot_df, x='aggregated_rating', y='price', 
+                scatter_kws={'alpha':0.5, 'color':'#7289da'}, 
+                line_kws={'color':'#ff4655'})
+
+    plt.title("Epic Games Strategy: Quality vs. Retail Price")
+    plt.xlabel("IGDB Aggregated Rating (0-100)")
+    plt.ylabel("Retail Price at Time of Giveaway ($)")
+    
+    # 3. Save it
+    plt.savefig('assets/quality_vs_price.png', bbox_inches='tight', dpi=300)
+    plt.close()
