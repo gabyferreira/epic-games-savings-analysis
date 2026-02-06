@@ -4,8 +4,7 @@ import seaborn as sns
 import os
 import datetime
 import matplotlib.dates as mdates
-from processor import preprocess_for_plotting, tag_hype_candidates
-from analytics import get_hype_cycle_stats
+from processor import preprocess_for_plotting, tag_hype_candidates, get_hype_cycle_stats
 from datetime import datetime
 from constants import STEAM_SALES
 import numpy as np

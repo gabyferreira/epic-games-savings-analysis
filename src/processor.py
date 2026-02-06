@@ -210,16 +210,16 @@ def calculate_generosity_index(df):
     })
     
     # Flatten the multi-index columns created by .agg
-    pub_stats.columns = ['game_count', 'total_value', 'avg_quality']
+    pub_stats.columns = ['game_count', 'total_value', 'avg_unit_cost']
 
     # 3. NORMALIZE & SCORE: The 70/30 Logic
     max_total = pub_stats['total_value'].max()
-    max_quality = pub_stats['avg_quality'].max()
+    max_quality = pub_stats['avg_unit_cost'].max()
 
     # Apply the weights (0.7 and 0.3)
     pub_stats['generosity_score'] = (
         (pub_stats['total_value'] / max_total * value_score) + 
-        (pub_stats['avg_quality'] / max_quality * quality_score)
+        (pub_stats['avg_unit_cost'] / max_quality * quality_score)
     )
 
     # 4. RETURN: Sorted by the new index
@@ -399,3 +399,24 @@ def identify_franchise(game_title, igdb_collection_name=None):
 
     # 3. Fallback to API data
     return igdb_collection_name or "Standalone"
+
+def get_hype_cycle_stats(df):
+    """
+    Compares Standard giveaways vs. Strategic Franchise Promotions.
+    """
+    df_clean = df.copy()
+    df_clean['price'] = pd.to_numeric(df_clean['price'], errors='coerce').fillna(0)
+    
+    # 1. Split the data
+    promo_games = df_clean[df_clean['is_strategic_hype'] == True]
+    standard_games = df_clean[df_clean['is_strategic_hype'] == False]
+    
+    # 2. Calculate Averages
+    avg_promo_price = promo_games['price'].mean() if not promo_games.empty else 0
+    avg_std_price = standard_games['price'].mean() if not standard_games.empty else 0
+    
+    return {
+        "avg_promo_price": avg_promo_price,
+        "avg_std_price": avg_std_price,
+        "promo_count": len(promo_games)
+    }
