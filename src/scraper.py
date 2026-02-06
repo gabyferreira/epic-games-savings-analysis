@@ -1,6 +1,6 @@
 import requests # this is to make an api request
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timezone
 from tqdm import tqdm
 tqdm.pandas()
 import time
@@ -68,7 +68,7 @@ def fetch_metadata_from_igdb(game_title, token):
                 
                 # Extract and format date
                 ts = game_data.get('first_release_date')
-                date_str = datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d') if ts else None
+                date_str = datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%Y-%m-%d') if ts else None
                 
                 # Extract rating
                 rating = game_data.get('aggregated_rating')
@@ -403,7 +403,7 @@ def get_game_metadata_with_cache(game_title, cache, igdb_token, promo_start):
                     future.sort(key=lambda x: x[1])
                     next_game, next_ts = future[0]
                     s_name = next_game.get("name") or next_game.get("gameLabel")
-                    s_date = datetime.utcfromtimestamp(next_ts).strftime("%Y-%m-%d")
+                    s_date = datetime.fromtimestamp(next_ts, tz=timezone.utc).strftime("%Y-%m-%d")
 
                     # Calculate Lead Time
                     lead_time_days = int((next_ts - cur_ts) / 86400)
