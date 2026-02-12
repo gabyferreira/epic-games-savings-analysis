@@ -66,7 +66,6 @@ This project is built as a modular **ETL (Extract, Transform, Load)** pipeline:
 │   └── epic_games_data.csv    # Primary Dataset: Persistent CSV storage
 ├── logs/                      # Observability: Daily execution and API health logs
 ├── src/
-│   ├── analytics.py           # Business Logic: CAC and subscription value modeling
 │   ├── constants.py           # Configuration: Inflation rates and STEAM Sales
 │   ├── processor.py           # ETL Engine: Data cleaning and normalization
 │   ├── scraper.py             # Extraction: API orchestrator for Epic, Steam, and IGDB
