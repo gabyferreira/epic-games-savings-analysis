@@ -11,13 +11,13 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 <a name="stats_start"></a>
 | Metric | Statistics |
 | :--- | :--- |
-| 💰 **Total Market Value** | **$14,585.04** |
-| 📦 **Total Games Collected** | 647 |
+| 💰 **Total Market Value** | **$14,625.02** |
+| 📦 **Total Games Collected** | 649 |
 | 👑 **MVP Publisher** | Bethesda Softworks |
-| 📈 **Inflation-Adjusted Value** | $16,584.95 |
+| 📈 **Inflation-Adjusted Value** | $16,624.93 |
 | 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
 | ⭐ **Average Score** | 76.7/100 |
-| 💳 **Subscription Equivalent** | **$169.59 / mo** |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
 | 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
 | 🏎️ **Lead Time Avg** | 575 Days to Sequel |
 
