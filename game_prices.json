@@ -399,7 +399,7 @@
     },
     "Batman: Arkham Collection": {
         "price": 59.99,
-        "publisher": "WB Games",
+        "publisher": "Warner Bros. Games",
         "original_release_date": "2018-11-27",
         "aggregated_rating": 99,
         "start_date": "19/09/2019",
@@ -413,7 +413,7 @@
     },
     "LEGO Batman Trilogy": {
         "price": 49.99,
-        "publisher": "Warner Bros. Interactive Entertainment",
+        "publisher": "Warner Bros. Games",
         "original_release_date": "2014-11-11",
         "aggregated_rating": "Score Not Found",
         "start_date": "19/09/2019",
@@ -485,7 +485,7 @@
     },
     "Layers of Fear": {
         "price": 29.99,
-        "publisher": "Bloober Team SA",
+        "publisher": "Bloober Team",
         "original_release_date": "2016-02-15",
         "aggregated_rating": 76.11764705882354,
         "start_date": "24/10/2019",
@@ -595,7 +595,7 @@
     },
     "The Escapists": {
         "price": 17.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2015-02-13",
         "aggregated_rating": 68.9090909090909,
         "start_date": "23/09/2021",
@@ -625,7 +625,7 @@
     },
     "TowerFall Ascension": {
         "price": 14.99,
-        "publisher": "Maddy Makes Games",
+        "publisher": "Maddy Makes Games Inc.",
         "original_release_date": "2014-03-11",
         "aggregated_rating": 87.0,
         "start_date": "20/12/2019",
@@ -1205,7 +1205,7 @@
     },
     "The Escapists 2": {
         "price": 19.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2017-08-22",
         "aggregated_rating": 75.44444444444444,
         "start_date": "09/07/2020",
@@ -1415,7 +1415,7 @@
     },
     "Layers of Fear 2": {
         "price": 19.99,
-        "publisher": "Bloober Team SA",
+        "publisher": "Bloober Team",
         "original_release_date": "2019-05-28",
         "aggregated_rating": 63.81818181818182,
         "start_date": "22/10/2020",
@@ -1425,7 +1425,7 @@
     },
     "Blair Witch": {
         "price": 29.99,
-        "publisher": "Bloober Team NA",
+        "publisher": "Bloober Team",
         "original_release_date": "2019-08-30",
         "aggregated_rating": 72.0909090909091,
         "start_date": "29/10/2020",
@@ -1575,7 +1575,7 @@
     },
     "Tropico 5": {
         "price": 19.99,
-        "publisher": "Kalypso Media Digital",
+        "publisher": "Kalypso Media",
         "original_release_date": "2014-05-23",
         "aggregated_rating": 72.35714285714286,
         "start_date": "23/12/2020",
@@ -1875,7 +1875,7 @@
     },
     "Overcooked! 2": {
         "price": 24.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2018-08-07",
         "aggregated_rating": 80.45454545454545,
         "start_date": "17/06/2021",
@@ -1965,7 +1965,7 @@
     },
     "Train Sim World 2": {
         "price": 19.99,
-        "publisher": "Dovetail Games - TSW",
+        "publisher": "Dovetail Games",
         "original_release_date": "2020-08-20",
         "aggregated_rating": 90.0,
         "start_date": "29/07/2021",
@@ -2225,7 +2225,7 @@
     },
     "Neon Abyss": {
         "price": 19.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2020-07-13",
         "aggregated_rating": 90.0,
         "start_date": "17/12/2021",
@@ -2285,7 +2285,7 @@
     },
     "Moving Out": {
         "price": 24.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2020-04-28",
         "aggregated_rating": 74.5,
         "start_date": "24/10/2024",
@@ -3615,7 +3615,7 @@
     },
     "Deliver Us Mars": {
         "price": 29.99,
-        "publisher": "Frontier Foundry",
+        "publisher": "Frontier Developments",
         "original_release_date": "2023-02-02",
         "aggregated_rating": 70.75,
         "start_date": "16/11/2023",
@@ -3675,7 +3675,7 @@
     },
     "Destiny 2: Legacy Collection": {
         "price": 69.99,
-        "publisher": "Bungie Inc.",
+        "publisher": "Bungie",
         "original_release_date": "2022-01-18",
         "aggregated_rating": 82,
         "start_date": "07/12/2023",
@@ -3875,7 +3875,7 @@
     },
     "Dakar Desert Rally": {
         "price": 29.99,
-        "publisher": "Saber Interactive",
+        "publisher": "Saber Interactive Inc",
         "original_release_date": "2022-10-04",
         "aggregated_rating": 47.0,
         "start_date": "15/02/2024",
@@ -4045,7 +4045,7 @@
     },
     "Chivalry 2": {
         "price": 39.99,
-        "publisher": "Tripwire Presents",
+        "publisher": "Tripwire Interactive",
         "original_release_date": "2021-06-08",
         "aggregated_rating": 86.33333333333333,
         "start_date": "31/12/2025",
@@ -4295,7 +4295,7 @@
     },
     "Deceive Inc.": {
         "price": 19.99,
-        "publisher": "Tripwire Presents",
+        "publisher": "Tripwire Interactive",
         "original_release_date": "2023-03-21",
         "aggregated_rating": 82.0,
         "start_date": "07/11/2024",
@@ -4405,7 +4405,7 @@
     },
     "DREDGE": {
         "price": 24.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2023-03-30",
         "aggregated_rating": 85.6,
         "start_date": "24/12/2024",
@@ -4455,7 +4455,7 @@
     },
     "Hell Let Loose": {
         "price": 49.99,
-        "publisher": "Team17",
+        "publisher": "Team17 Digital Ltd",
         "original_release_date": "2019-06-06",
         "aggregated_rating": 75.0,
         "start_date": "02/01/2025",
@@ -4785,7 +4785,7 @@
     },
     "Road Redemption": {
         "price": 19.99,
-        "publisher": "Tripwire Presents",
+        "publisher": "Tripwire Interactive",
         "original_release_date": "2017-10-04",
         "aggregated_rating": 73.5,
         "start_date": "07/08/2025",
@@ -5511,7 +5511,7 @@
     },
     "Saints Row (2022)": {
         "price": 29.99,
-        "publisher": "Deep Silver Volition",
+        "publisher": "Deep Silver",
         "original_release_date": "2022-08-23",
         "aggregated_rating": 61.25,
         "start_date": "30/12/2023",
@@ -5589,7 +5589,7 @@
     },
     "Wild Card Football": {
         "price": 29.99,
-        "publisher": "Saber Interactive",
+        "publisher": "Saber Interactive Inc",
         "original_release_date": "2023-10-10",
         "aggregated_rating": 50.0,
         "start_date": "29/08/2024",
@@ -5793,7 +5793,7 @@
     },
     "Tomb Raider Trilogy": {
         "price": 50.47,
-        "publisher": "Publisher Not Found",
+        "publisher": "Crystal Dynamics",
         "original_release_date": "2011-03-22",
         "aggregated_rating": 92.0,
         "start_date": "30/12/2021",
