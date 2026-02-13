@@ -2,7 +2,7 @@
     "Prey": {
         "price": 29.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "2006-07-11",
+        "original_release_date": "2017-05-05",
         "aggregated_rating": 76.75,
         "start_date": "12/05/2022",
         "next_sequel_name": "Standalone",
@@ -132,7 +132,7 @@
     "The Witness": {
         "price": 39.99,
         "publisher": "Thekla, Inc.",
-        "original_release_date": "1983-12-31",
+        "original_release_date": "2016-01-26",
         "aggregated_rating": 96.28571428571429,
         "start_date": "04/04/2019",
         "next_sequel_name": "Standalone",
@@ -252,7 +252,7 @@
     "Limbo": {
         "price": 12.49,
         "publisher": "Playdead",
-        "original_release_date": "2012-08-02",
+        "original_release_date": "2010-07-21",
         "aggregated_rating": 84,
         "start_date": "29/05/2025",
         "next_sequel_name": "Standalone",
@@ -262,7 +262,7 @@
     "Moonlighter": {
         "price": 19.99,
         "publisher": "11 bit studios",
-        "original_release_date": "1999-10-15",
+        "original_release_date": "2018-11-05",
         "aggregated_rating": 82,
         "start_date": "25/07/2019",
         "next_sequel_name": "Moonlighter 2: The Endless Vault",
@@ -2676,7 +2676,7 @@
     "Doom 64": {
         "price": 4.99,
         "publisher": "Bethesda Softworks",
-        "original_release_date": "1997-04-04",
+        "original_release_date": "2020-03-20",
         "aggregated_rating": 77.0,
         "start_date": "18/08/2022",
         "next_sequel_name": "Mighty Doom",
@@ -5794,7 +5794,7 @@
     "Tomb Raider Trilogy": {
         "price": 50.47,
         "publisher": "Crystal Dynamics",
-        "original_release_date": "2011-03-22",
+        "original_release_date": "2023-12-01",
         "aggregated_rating": 92.0,
         "start_date": "30/12/2021",
         "next_sequel_name": "Standalone",

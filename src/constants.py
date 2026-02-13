@@ -15,13 +15,3 @@ STEAM_SALES = [
     ("2025-12-18", "2026-01-02"), ("2026-06-25", "2026-07-09"),
     ("2026-12-17", "2027-01-04")
 ]
-
-# Constants for manual franchise overrides
-SHARED_UNIVERSES = {
-
-}
-
-# Key sequels/franchises to auto-tag
-AUTO_PROMO_KEYWORDS = [
-
-]

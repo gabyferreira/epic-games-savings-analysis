@@ -7,7 +7,6 @@ import time
 import json
 import os
 from thefuzz import process
-from constants import SHARED_UNIVERSES
 from processor import validate_and_clean_data, generate_summary_stats, update_readme, calculate_generosity_index, preprocess_for_plotting
 import logging
 from visualiser import (generate_savings_chart, generate_generosity_chart, 
@@ -505,6 +504,7 @@ summary = generate_summary_stats(df_existing, generosity_df)
 logger.info(summary)
 update_readme(summary)
 clean_df = preprocess_for_plotting(df_existing)
+
 
 
 try:

@@ -3,7 +3,7 @@ import logging
 import os
 from datetime import datetime
 import re
-from constants import INFLATION_MULTIPLIERS, SHARED_UNIVERSES, AUTO_PROMO_KEYWORDS
+from constants import INFLATION_MULTIPLIERS
 
 # --- Setup Logging ---
 if not os.path.exists('logs'):

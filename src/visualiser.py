@@ -34,7 +34,7 @@ def generate_savings_chart(df, output_path='assets/savings_chart.png'):
     df_plot = df_plot.dropna(subset=['start_date']).sort_values('start_date')
 
 
-    
+
     df_plot = df_plot.drop_duplicates(subset=['game'], keep='first')
     
     # Calculate Cumulative Savings
@@ -346,7 +346,8 @@ def generate_maturity_histogram(df, output_path='assets/maturity_gap_dist.png'):
     format='mixed', 
     errors='coerce'
 )
-    
+    df_plot = df_plot.sort_values('start_date')
+    df_plot = df_plot.drop_duplicates(subset=['game'], keep='first')
     # Drop rows without release dates
     df_plot = df_plot.dropna(subset=['release_date', 'start_date'])
     
