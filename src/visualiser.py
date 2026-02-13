@@ -32,6 +32,10 @@ def generate_savings_chart(df, output_path='assets/savings_chart.png'):
     df_plot = df.copy()
     df_plot['start_date'] = pd.to_datetime(df_plot['start_date'], dayfirst=True, errors='coerce')
     df_plot = df_plot.dropna(subset=['start_date']).sort_values('start_date')
+
+
+    
+    df_plot = df_plot.drop_duplicates(subset=['game'], keep='first')
     
     # Calculate Cumulative Savings
     df_plot['cumulative_value'] = df_plot['price'].cumsum()

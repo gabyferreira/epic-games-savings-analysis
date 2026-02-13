@@ -506,6 +506,7 @@ logger.info(summary)
 update_readme(summary)
 clean_df = preprocess_for_plotting(df_existing)
 
+
 try:
     generate_monthly_bar_chart(clean_df)
     generate_savings_chart(clean_df) 
