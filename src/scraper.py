@@ -355,24 +355,14 @@ def get_game_metadata_with_cache(game_title, cache, igdb_token, promo_start):
     if missing_sequel and current_rel_date not in [None, "Date Not Found"]:
         logger.info(f"🔗 Searching Franchise Context: {game_title}")
         franchise_list = None
-        
-        # 1. Tier 1: Manual Map
-        manual = SHARED_UNIVERSES.get(game_title)
-        if manual:
-            game_entry.update({
-                "next_sequel_name": manual["name"],
-                "next_sequel_date": manual["date"],
-                "is_strategic_hype": True 
-            })
-            has_changed = True
-        else:
-            # 2. Tiers 2 & 3: API Lookups
-            publisher = game_entry.get("publisher", "")
-            franchise_list = fetch_sequel_from_wikidata(game_title, publisher)
 
-            if not franchise_list and igdb_token:
-                logger.info(f"📡 Fallback to IGDB for {game_title}")
-                franchise_list = fetch_sequel_metadata(game_title, igdb_token)
+         # 2. Tiers 2 & 3: API Lookups
+        publisher = game_entry.get("publisher", "")
+        franchise_list = fetch_sequel_from_wikidata(game_title, publisher)
+
+        if not franchise_list and igdb_token:
+            logger.info(f"📡 Fallback to IGDB for {game_title}")
+            franchise_list = fetch_sequel_metadata(game_title, igdb_token)
 
         # 3. Process API Results
         if franchise_list:
