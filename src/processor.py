@@ -102,9 +102,9 @@ def enforce_schema(df):
 def generate_summary_stats(df, generosity_df):
     """Builds the Markdown dashboard table."""
     total_games = len(df)
-    total_value = df['price'].sum()
+    total_value = df.drop_duplicates(subset=['game'], keep='first')['price'].sum()
     avg_price = df['price'].mean()
-    real_total = df['real_value'].sum()
+    real_total = df.drop_duplicates(subset=['game'], keep='first')['real_value'].sum()
     inflation_impact = real_total - total_value
     
     # Most Expensive Title
