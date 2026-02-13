@@ -121,10 +121,8 @@ def generate_summary_stats(df, generosity_df):
     if 'is_strategic_hype' in df.columns:
         strategic_count = df['is_strategic_hype'].sum()
         prestige_ratio = (strategic_count / total_games) * 100 if total_games > 0 else 0
-        avg_lead = df['hype_delta_days'].mean() if 'hype_delta_days' in df.columns else 0
     else:
         prestige_ratio = 0
-        avg_lead = 0
 
     # Seasonality, Quality, and Subscription Stats
     seasonality = analyze_seasonality(df)
@@ -141,8 +139,12 @@ def generate_summary_stats(df, generosity_df):
         "| :--- | :--- |\n"
         f"| 💰 **Total Market Value** | **${total_value:,.2f}** |\n"
         f"| 📦 **Total Games Collected** | {total_games} |\n"
+        f"| 🏷️ **Average Retail Price** | ${avg_price:,.2f} per game |\n"
+        f"| 💎 **Most Expensive Title** | {jewel_name} (${jewel_price:,.2f}) |\n"
         f"| 👑 **MVP Publisher** | {df['publisher'].mode()[0] if not df.empty else 'N/A'} |\n"
+        f"| 🏢 **Value Leaders** | {publisher_stats} |\n"
         f"| 📈 **Inflation-Adjusted Value** | ${real_total:,.2f} |\n"
+        f"| 🎈 **Inflation Bonus** | **+${inflation_impact:,.2f}** in purchasing power |\n"
         f"| 🗓️ **Peak Saving Month** | {seasonality} |\n"
         f"| ⭐ **Average Score** | {q_stats['avg_rating']:.1f}/100 |\n"
         f"| 💳 **Subscription Equivalent** | **${sub_stats['monthly_val']:,.2f} / mo** |\n"
