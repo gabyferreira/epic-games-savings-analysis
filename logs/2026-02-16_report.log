@@ -194,3 +194,1717 @@
 2026-02-16 13:58:09,521 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2026-02-16 13:58:09,522 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2026-02-16 13:58:12,801 - INFO - 📈 All charts generated successfully.
+2026-02-16 14:24:25,272 - WARNING - ⚠️ Migration note: [Errno 13] Permission denied: 'data/epic_games_data_edited_active8.csv'
+2026-02-16 14:24:25,943 - INFO - No new games found.
+2026-02-16 14:24:26,791 - INFO - 🔍 Found 574 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 14:24:26,799 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 14:24:27,086 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 14:24:27,106 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 14:24:27,306 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 14:24:27,507 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 14:24:27,519 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 14:24:27,726 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 14:24:27,740 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 14:24:27,942 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 14:24:27,958 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 14:24:28,151 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 14:24:28,165 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 14:24:28,401 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 14:24:28,411 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 14:24:28,605 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 14:24:28,618 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 14:24:28,809 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 14:24:28,820 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 14:24:29,004 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 14:24:29,018 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 14:24:29,224 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 14:24:29,236 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 14:24:29,710 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 14:24:29,721 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 14:24:29,906 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 14:24:29,919 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 14:24:30,377 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 14:24:30,388 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 14:24:30,564 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 14:24:30,575 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 14:24:31,026 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 14:24:31,039 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 14:24:31,507 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 14:24:31,521 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 14:24:32,069 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 14:24:32,081 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 14:24:32,273 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 14:24:32,285 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 14:24:32,508 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 14:24:32,520 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 14:24:32,698 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 14:24:32,713 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 14:24:33,199 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 14:24:33,395 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 14:24:33,602 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 14:24:33,613 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 14:24:33,794 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 14:24:33,805 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 14:24:33,994 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 14:24:34,010 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 14:24:34,201 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 14:24:34,217 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 14:24:34,409 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 14:24:34,864 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 14:24:34,876 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 14:24:35,318 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 14:24:35,330 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 14:24:35,555 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 14:24:35,569 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 14:24:35,748 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 14:24:35,760 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 14:24:35,952 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 14:24:36,142 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 14:24:36,157 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 14:24:36,411 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 14:24:36,423 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 14:24:36,642 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 14:24:36,653 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 14:24:36,851 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 14:24:36,862 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 14:24:37,047 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 14:25:04,830 - INFO - ✅ Migration Successful!
+2026-02-16 14:25:04,903 - INFO - No new games found.
+2026-02-16 14:25:05,713 - INFO - 🔍 Found 574 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 14:25:05,722 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 14:25:05,939 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 14:25:05,959 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 14:25:06,429 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 14:25:06,884 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 14:25:06,895 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 14:25:07,090 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 14:25:07,101 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 14:25:07,279 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 14:25:07,292 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 14:25:07,748 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 14:25:07,760 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 14:25:07,954 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 14:25:07,965 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 14:25:08,593 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 14:25:08,603 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 14:25:08,790 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 14:25:08,801 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 14:25:08,989 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 14:25:09,001 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 14:25:09,458 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 14:25:09,469 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 14:25:09,648 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 14:25:09,659 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 14:25:09,888 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 14:25:09,898 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 14:25:10,089 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 14:25:10,100 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 14:25:10,302 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 14:25:10,313 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 14:25:10,491 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 14:25:10,502 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 14:25:10,749 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 14:25:10,761 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 14:25:11,013 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 14:25:11,025 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 14:25:11,222 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 14:25:11,235 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 14:25:11,427 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 14:25:11,437 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 14:25:11,626 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 14:25:11,636 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 14:25:11,843 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 14:25:12,039 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 14:25:12,237 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 14:25:12,248 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 14:25:12,699 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 14:25:12,710 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 14:25:12,899 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 14:25:12,910 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 14:25:13,082 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 14:25:13,098 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 14:25:13,289 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 14:25:13,800 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 14:25:13,810 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 14:25:14,253 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 14:25:14,264 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 14:25:14,479 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 14:25:14,490 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 14:25:14,681 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 14:25:14,692 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 14:25:14,879 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 14:25:15,065 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 14:25:15,076 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 14:25:15,251 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 14:25:15,263 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 14:25:15,458 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 14:25:15,469 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 14:25:15,649 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 14:25:15,659 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 14:25:15,857 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 14:25:15,871 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 14:25:15,879 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 14:25:15,895 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 14:25:15,897 - INFO - ✅ README.md updated.
+2026-02-16 14:25:15,974 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:25:15,975 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:25:19,269 - INFO - 📈 All charts generated successfully.
+2026-02-16 14:56:15,699 - INFO - ✅ Migration Successful!
+2026-02-16 14:56:15,790 - INFO - No new games found.
+2026-02-16 14:56:16,646 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 14:56:16,655 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 14:56:17,193 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 14:56:17,214 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 14:56:17,433 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 14:56:17,638 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 14:56:17,650 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 14:56:18,124 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 14:56:18,134 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 14:56:18,612 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 14:56:18,623 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 14:56:18,820 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 14:56:18,831 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 14:56:19,016 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 14:56:19,027 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 14:56:19,233 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 14:56:19,244 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 14:56:19,444 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 14:56:19,455 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 14:56:19,659 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 14:56:19,671 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 14:56:19,892 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 14:56:19,903 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 14:56:20,115 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 14:56:20,126 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 14:56:20,601 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 14:56:20,612 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 14:56:21,062 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 14:56:21,073 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 14:56:21,254 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 14:56:21,265 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 14:56:21,468 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 14:56:21,479 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 14:56:21,703 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 14:56:21,715 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 14:56:21,981 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 14:56:21,992 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 14:56:22,450 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 14:56:22,462 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 14:56:22,661 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 14:56:22,672 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 14:56:23,129 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 14:56:23,140 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 14:56:23,330 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 14:56:23,805 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 14:56:24,008 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 14:56:24,019 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 14:56:24,283 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 14:56:24,294 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 14:56:24,746 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 14:56:24,757 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 14:56:24,961 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 14:56:24,971 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 14:56:25,204 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 14:56:25,689 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 14:56:25,699 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 14:56:26,233 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 14:56:26,244 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 14:56:26,422 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 14:56:26,433 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 14:56:26,640 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 14:56:26,651 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 14:56:26,853 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 14:56:27,053 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 14:56:27,064 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 14:56:27,607 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 14:56:27,619 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 14:56:27,863 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 14:56:27,873 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 14:56:28,079 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 14:56:28,089 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 14:56:28,290 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 14:56:28,303 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 14:56:28,312 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 14:56:28,328 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 14:56:28,330 - INFO - ✅ README.md updated.
+2026-02-16 14:56:28,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:56:28,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:56:31,754 - INFO - 📈 All charts generated successfully.
+2026-02-16 14:59:19,476 - INFO - ✅ Migration Successful!
+2026-02-16 14:59:19,564 - INFO - No new games found.
+2026-02-16 14:59:20,394 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 14:59:20,401 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 14:59:20,948 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 14:59:20,967 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 14:59:21,189 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 14:59:21,646 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 14:59:21,657 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 14:59:22,113 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 14:59:22,123 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 14:59:22,309 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 14:59:22,320 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 14:59:22,513 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 14:59:22,524 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 14:59:22,988 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 14:59:22,999 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 14:59:23,202 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 14:59:23,213 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 14:59:23,683 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 14:59:23,694 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 14:59:23,891 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 14:59:23,903 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 14:59:24,342 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 14:59:24,353 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 14:59:24,806 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 14:59:24,816 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 14:59:25,013 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 14:59:25,024 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 14:59:25,527 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 14:59:25,541 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 14:59:26,012 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 14:59:26,023 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 14:59:26,221 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 14:59:26,231 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 14:59:26,406 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 14:59:26,418 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 14:59:26,910 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 14:59:26,921 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 14:59:27,123 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 14:59:27,135 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 14:59:27,355 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 14:59:27,366 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 14:59:27,821 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 14:59:27,832 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 14:59:28,288 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 14:59:28,495 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 14:59:28,693 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 14:59:28,704 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 14:59:28,933 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 14:59:28,945 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 14:59:29,198 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 14:59:29,209 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 14:59:29,406 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 14:59:29,416 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 14:59:29,614 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 14:59:29,804 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 14:59:29,815 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 14:59:30,019 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 14:59:30,030 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 14:59:30,205 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 14:59:30,216 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 14:59:30,657 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 14:59:30,669 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 14:59:31,155 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 14:59:31,354 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 14:59:31,367 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 14:59:31,546 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 14:59:31,558 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 14:59:31,735 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 14:59:31,746 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 14:59:31,956 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 14:59:31,974 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 14:59:32,435 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 14:59:32,449 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 14:59:32,457 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 14:59:32,473 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 14:59:32,475 - INFO - ✅ README.md updated.
+2026-02-16 14:59:32,552 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:59:32,553 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 14:59:35,943 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:03:15,625 - INFO - ✅ Migration Successful!
+2026-02-16 15:03:16,065 - INFO - No new games found.
+2026-02-16 15:03:16,912 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:03:16,920 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:03:17,189 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:03:17,208 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:03:17,433 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:03:17,634 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:03:17,645 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:03:17,830 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:03:17,841 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:03:18,062 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:03:18,073 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:03:18,519 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:03:18,530 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:03:18,851 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:03:18,862 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:03:19,045 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:03:19,057 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:03:19,310 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:03:19,321 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:03:19,565 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:03:19,577 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:03:19,771 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:03:19,782 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:03:20,261 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:03:20,272 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:03:20,455 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:03:20,466 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:03:20,717 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:03:20,728 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:03:20,928 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:03:20,939 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:03:21,389 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:03:21,399 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:03:21,892 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:03:21,904 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:03:22,455 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:03:22,466 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:03:22,660 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:03:22,671 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:03:22,909 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:03:22,919 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:03:23,125 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:03:23,136 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:03:23,584 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:03:24,073 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:03:24,313 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:03:24,324 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:03:24,518 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:03:24,529 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:03:24,864 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:03:24,875 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:03:25,061 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:03:25,072 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:03:25,255 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:03:25,717 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:03:25,728 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:03:25,908 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:03:25,918 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:03:26,178 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:03:26,189 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:03:26,377 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:03:26,388 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:03:27,012 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:03:27,478 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:03:27,488 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:03:27,706 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:03:27,718 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:03:27,896 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:03:27,907 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:03:28,134 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:03:28,144 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:03:28,323 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:03:28,336 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:03:28,344 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:03:28,360 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:03:28,361 - INFO - ✅ README.md updated.
+2026-02-16 15:03:28,436 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:03:28,437 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:03:31,771 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:16:54,045 - INFO - ✅ Migration Successful!
+2026-02-16 15:16:54,123 - INFO - No new games found.
+2026-02-16 15:16:54,987 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:16:54,995 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:16:55,290 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:16:55,309 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:16:55,502 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:16:55,966 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:16:55,977 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:16:56,189 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:16:56,200 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:16:56,391 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:16:56,401 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:16:56,593 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:16:56,605 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:16:56,796 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:16:56,807 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:16:57,277 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:16:57,288 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:16:57,752 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:16:57,762 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:16:57,941 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:16:57,952 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:16:58,421 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:16:58,432 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:16:58,646 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:16:58,657 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:16:58,852 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:16:58,868 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:16:59,349 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:16:59,360 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:16:59,811 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:16:59,822 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:17:00,129 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:17:00,140 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:17:00,336 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:17:00,348 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:17:00,853 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:17:00,864 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:17:01,067 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:17:01,079 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:17:01,553 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:17:01,564 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:17:01,761 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:17:01,771 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:17:01,983 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:17:02,469 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:17:02,662 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:17:02,673 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:17:02,852 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:17:02,863 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:17:03,049 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:17:03,060 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:17:03,268 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:17:03,279 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:17:03,470 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:17:03,717 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:17:03,733 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:17:04,192 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:17:04,203 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:17:04,410 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:17:04,421 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:17:04,905 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:17:04,917 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:17:05,124 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:17:05,314 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:17:05,329 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:17:05,517 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:17:05,528 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:17:05,716 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:17:05,727 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:17:05,918 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:17:05,929 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:17:06,125 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:17:06,139 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:17:06,147 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:17:06,162 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:17:06,164 - INFO - ✅ README.md updated.
+2026-02-16 15:17:06,241 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:17:06,242 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:17:09,584 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:25:40,374 - WARNING - ⚠️ Migration note: [Errno 13] Permission denied: 'data/epic_games_data_edited_active8.csv'
+2026-02-16 15:25:40,457 - INFO - No new games found.
+2026-02-16 15:25:41,279 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:25:41,287 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:25:41,554 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:25:41,574 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:25:42,029 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:25:42,231 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:25:42,242 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:25:42,714 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:25:42,725 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:25:43,175 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:25:43,186 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:25:43,669 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:25:43,681 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:25:44,165 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:25:44,176 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:25:44,638 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:25:44,649 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:25:45,148 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:25:45,159 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:25:45,345 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:25:45,357 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:25:45,819 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:25:45,830 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:25:46,287 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:25:46,298 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:25:46,746 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:25:46,756 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:25:47,217 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:25:47,229 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:25:47,673 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:25:47,685 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:25:47,861 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:25:47,872 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:25:48,326 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:25:48,340 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:25:48,833 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:25:48,844 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:25:49,314 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:25:49,325 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:25:49,801 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:25:49,811 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:25:50,025 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:25:50,035 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:25:50,527 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:25:50,738 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:25:51,186 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:25:51,197 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:25:51,666 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:25:51,677 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:25:52,139 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:25:52,150 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:25:52,618 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:25:52,633 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:25:53,123 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:25:53,604 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:25:53,615 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:25:53,793 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:25:53,809 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:25:54,007 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:25:54,018 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:25:54,479 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:25:54,490 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:25:54,698 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:25:55,167 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:25:55,179 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:25:55,378 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:25:55,390 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:25:55,858 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:25:55,869 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:25:56,388 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:25:56,405 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:25:56,879 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:25:56,892 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:25:56,899 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:25:56,915 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:25:56,917 - INFO - ✅ README.md updated.
+2026-02-16 15:25:56,992 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:25:56,993 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:26:00,266 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:32:22,322 - WARNING - ⚠️ Migration note: [Errno 13] Permission denied: 'data/epic_games_data_edited_active8.csv'
+2026-02-16 15:32:22,724 - INFO - No new games found.
+2026-02-16 15:32:23,535 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:32:23,543 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:32:24,046 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:32:24,066 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:32:24,260 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:32:24,712 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:32:24,722 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:32:25,206 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:32:25,217 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:32:25,677 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:32:25,688 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:32:26,255 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:32:26,269 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:32:26,738 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:32:26,748 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:32:26,971 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:32:26,982 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:32:27,288 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:32:27,299 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:32:27,476 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:32:27,488 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:32:27,962 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:32:27,972 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:32:28,174 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:32:28,185 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:32:28,650 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:32:28,661 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:32:29,156 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:32:29,166 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:32:29,347 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:32:29,358 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:32:29,836 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:32:29,846 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:32:30,040 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:32:30,053 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:32:30,294 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:32:30,305 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:32:30,490 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:32:30,502 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:32:30,686 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:32:30,701 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:32:30,928 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:32:30,938 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:32:31,128 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:32:31,327 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:32:31,521 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:32:31,533 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:32:31,721 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:32:31,732 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:32:32,178 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:32:32,189 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:32:32,400 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:32:32,410 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:32:32,606 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:32:32,820 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:32:32,830 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:32:33,026 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:32:33,037 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:32:33,257 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:32:33,267 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:32:33,469 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:32:33,480 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:32:33,688 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:32:33,883 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:32:33,895 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:32:34,099 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:32:34,111 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:32:34,324 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:32:34,336 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:32:34,526 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:32:34,537 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:32:34,733 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:32:34,746 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:32:34,755 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:32:34,771 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:32:34,773 - INFO - ✅ README.md updated.
+2026-02-16 15:32:34,846 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:32:34,847 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:32:38,160 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:33:23,830 - INFO - ✅ Migration Successful!
+2026-02-16 15:33:23,907 - INFO - No new games found.
+2026-02-16 15:33:24,717 - INFO - 🔍 Found 572 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:33:24,726 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:33:25,269 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:33:25,288 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:33:25,507 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:33:25,701 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:33:25,712 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:33:25,888 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:33:25,898 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:33:26,364 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:33:26,375 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:33:26,561 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:33:26,573 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:33:27,023 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:33:27,034 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:33:27,222 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:33:27,233 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:33:27,687 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:33:27,698 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:33:27,930 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:33:27,942 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:33:28,164 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:33:28,175 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:33:28,396 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:33:28,407 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:33:28,863 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:33:28,874 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:33:29,062 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:33:29,072 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:33:29,532 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:33:29,543 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:33:30,024 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:33:30,035 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:33:30,232 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:33:30,246 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:33:30,771 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:33:30,783 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:33:30,976 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:33:30,988 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:33:31,540 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:33:31,551 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:33:31,741 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:33:31,752 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:33:31,946 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:33:32,159 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:33:32,357 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:33:32,368 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:33:32,569 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:33:32,580 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:33:33,035 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:33:33,046 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:33:33,286 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:33:33,297 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:33:33,490 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:33:33,692 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:33:33,703 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:33:33,908 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:33:33,918 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:33:34,127 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:33:34,138 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:33:34,373 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:33:34,384 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:33:34,785 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:33:34,994 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:33:35,005 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:33:35,210 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:33:35,222 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:33:35,426 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:33:35,437 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:33:35,618 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:33:35,629 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:33:35,808 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:33:35,822 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:33:35,830 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:33:35,847 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:33:35,848 - INFO - ✅ README.md updated.
+2026-02-16 15:33:35,923 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:33:35,924 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:33:39,391 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:35:20,314 - INFO - ✅ Migration Successful!
+2026-02-16 15:35:20,432 - INFO - No new games found.
+2026-02-16 15:35:21,296 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:37:06,442 - INFO - ✅ Migration Successful!
+2026-02-16 15:37:06,521 - INFO - No new games found.
+2026-02-16 15:37:07,371 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:37:07,378 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:37:08,018 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:37:08,038 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:37:08,534 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:37:09,000 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:37:09,012 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:37:09,231 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:37:09,242 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:37:09,535 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:37:09,546 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:37:10,024 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:37:10,035 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:37:10,505 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:37:10,516 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:37:10,963 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:37:10,974 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:37:11,155 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:37:11,167 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:37:11,365 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:37:11,376 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:37:11,554 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:37:11,565 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:37:11,816 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:37:11,826 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:37:12,273 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:37:12,284 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:37:12,559 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:37:12,570 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:37:12,820 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:37:12,836 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:37:13,033 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:37:13,044 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:37:13,238 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:37:13,250 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:37:13,492 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:37:13,504 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:37:13,955 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:37:13,967 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:37:14,225 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:37:14,236 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:37:14,425 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:37:14,436 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:37:14,909 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:37:15,110 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:37:15,303 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:37:15,314 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:37:15,524 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:37:15,535 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:37:15,715 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:37:15,727 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:37:15,932 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:37:15,943 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:37:16,155 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:37:16,625 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:37:16,636 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:37:16,835 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:37:16,845 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:37:17,042 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:37:17,053 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:37:17,527 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:37:17,540 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:37:17,772 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:37:17,961 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:37:17,973 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:37:18,156 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:37:18,168 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:37:18,366 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:37:18,377 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:37:18,591 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:37:18,602 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:37:18,879 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:37:18,892 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:37:18,901 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:37:18,917 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:37:18,918 - INFO - ✅ README.md updated.
+2026-02-16 15:37:18,995 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:37:18,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:37:22,391 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:41:25,221 - WARNING - ⚠️ Migration note: [Errno 13] Permission denied: 'data/epic_games_data_edited_active8.csv'
+2026-02-16 15:41:25,316 - INFO - No new games found.
+2026-02-16 15:41:26,141 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:41:26,149 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:41:26,620 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:41:26,640 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:41:27,124 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:41:27,320 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:41:27,334 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:41:27,528 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:41:27,544 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:41:28,009 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:41:28,020 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:41:28,244 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:41:28,257 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:41:28,458 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:41:28,470 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:41:28,913 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:41:28,924 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:41:29,381 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:41:29,392 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:41:29,838 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:41:29,850 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:41:30,029 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:41:30,040 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:41:30,509 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:41:30,519 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:41:30,980 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:41:30,991 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:41:31,202 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:41:31,212 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:41:31,711 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:41:31,722 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:41:32,184 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:41:32,194 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:41:32,450 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:41:32,462 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:41:32,722 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:41:32,733 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:41:33,020 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:41:33,031 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:41:33,213 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:41:33,225 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:41:33,453 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:41:33,464 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:41:33,926 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:41:34,169 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:41:34,375 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:41:34,386 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:41:34,577 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:41:34,588 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:41:34,775 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:41:34,786 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:41:34,981 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:41:34,991 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:41:35,183 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:41:35,367 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:41:35,378 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:41:35,835 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:41:35,846 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:41:36,298 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:41:36,309 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:41:36,501 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:41:36,512 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:41:37,028 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:41:37,225 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:41:37,236 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:41:37,436 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:41:37,448 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:41:37,638 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:41:37,649 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:41:37,839 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:41:37,849 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:41:38,309 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:41:38,322 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:41:38,330 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:41:38,347 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:41:38,359 - INFO - ✅ README.md updated.
+2026-02-16 15:41:38,434 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:41:38,435 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:41:41,845 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:42:12,291 - INFO - ✅ Migration Successful!
+2026-02-16 15:42:12,395 - INFO - No new games found.
+2026-02-16 15:42:13,234 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:42:13,241 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:42:13,474 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:42:13,493 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:42:13,704 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:42:14,170 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:42:14,180 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:42:14,634 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:42:14,644 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:42:15,104 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:42:15,115 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:42:15,558 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:42:15,570 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:42:15,768 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:42:15,779 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:42:15,986 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:42:15,997 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:42:16,202 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:42:16,213 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:42:16,409 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:42:16,420 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:42:16,892 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:42:16,903 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:42:17,095 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:42:17,105 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:42:17,286 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:42:17,296 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:42:17,485 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:42:17,496 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:42:17,711 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:42:17,722 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:42:17,907 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:42:17,918 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:42:18,096 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:42:18,110 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:42:18,600 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:42:18,611 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:42:19,060 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:42:19,072 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:42:19,272 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:42:19,283 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:42:19,477 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:42:19,488 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:42:19,976 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:42:20,180 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:42:20,380 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:42:20,391 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:42:20,603 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:42:20,614 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:42:21,079 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:42:21,090 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:42:21,570 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:42:21,581 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:42:21,792 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:42:22,246 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:42:22,257 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:42:22,429 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:42:22,440 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:42:22,913 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:42:22,923 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:42:23,379 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:42:23,390 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:42:23,843 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:42:24,049 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:42:24,060 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:42:24,306 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:42:24,317 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:42:24,816 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:42:24,827 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:42:25,074 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:42:25,085 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:42:25,289 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:42:25,302 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:42:25,311 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:42:25,326 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:42:25,328 - INFO - ✅ README.md updated.
+2026-02-16 15:42:25,401 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:42:25,402 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:42:28,686 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:45:52,801 - INFO - ✅ Migration Successful!
+2026-02-16 15:45:53,138 - INFO - No new games found.
+2026-02-16 15:45:53,992 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:45:53,999 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:45:54,231 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:45:54,251 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:45:54,506 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:45:54,698 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:45:54,709 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:45:54,908 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:45:54,919 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:45:55,106 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:45:55,118 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:45:55,310 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:45:55,321 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:45:55,497 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:45:55,507 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:45:55,686 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:45:55,699 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:45:55,878 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:45:55,888 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:45:56,123 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:45:56,135 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:45:56,311 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:45:56,321 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:45:56,505 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:45:56,516 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:45:56,991 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:45:57,003 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:45:57,189 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:45:57,199 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:45:57,447 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:45:57,458 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:45:57,645 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:45:57,655 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:45:57,834 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:45:57,847 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:45:58,360 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:45:58,372 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:45:58,571 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:45:58,583 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:45:58,778 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:45:58,789 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:45:58,991 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:45:59,002 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:45:59,489 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:45:59,955 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:46:00,425 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:46:00,436 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:46:00,630 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:46:00,642 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:46:01,105 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:46:01,115 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:46:01,303 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:46:01,314 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:46:01,505 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:46:01,707 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:46:01,718 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:46:01,896 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:46:01,909 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:46:02,092 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:46:02,102 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:46:02,314 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:46:02,326 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:46:02,785 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:46:02,966 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:46:02,977 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:46:03,181 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:46:03,193 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:46:03,415 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:46:03,426 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:46:03,626 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:46:03,637 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:46:03,816 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:46:03,829 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:46:03,837 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:46:03,853 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:46:03,855 - INFO - ✅ README.md updated.
+2026-02-16 15:46:03,933 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:46:03,934 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:46:07,249 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:46:54,838 - INFO - ✅ Migration Successful!
+2026-02-16 15:46:54,928 - INFO - No new games found.
+2026-02-16 15:46:55,754 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:46:55,762 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:46:56,134 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:46:56,154 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:46:56,367 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:46:56,570 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:46:56,581 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:46:56,795 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:46:56,806 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:46:57,042 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:46:57,058 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:46:57,237 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:46:57,249 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:46:57,446 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:46:57,457 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:46:57,671 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:46:57,682 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:46:58,180 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:46:58,191 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:46:58,683 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:46:58,695 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:46:59,163 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:46:59,174 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:46:59,355 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:46:59,366 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:46:59,611 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:46:59,621 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:47:00,092 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:47:00,103 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:47:00,299 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:47:00,310 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:47:00,773 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:47:00,784 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:47:01,292 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:47:01,303 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:47:01,555 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:47:01,566 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:47:01,833 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:47:01,849 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:47:02,036 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:47:02,047 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:47:02,237 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:47:02,248 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:47:02,714 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:47:02,908 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:47:03,153 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:47:03,164 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:47:03,399 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:47:03,411 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:47:03,874 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:47:03,887 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:47:04,085 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:47:04,096 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:47:04,570 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:47:04,802 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:47:04,813 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:47:05,306 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:47:05,317 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:47:05,791 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:47:05,806 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:47:06,013 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:47:06,024 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:47:06,242 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:47:06,712 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:47:06,724 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:47:06,946 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:47:06,958 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:47:07,454 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:47:07,466 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:47:07,663 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:47:07,673 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:47:07,882 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:47:07,895 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:47:07,903 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:47:07,919 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:47:07,921 - INFO - ✅ README.md updated.
+2026-02-16 15:47:07,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:47:07,999 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:47:11,324 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:48:17,193 - INFO - ✅ Migration Successful!
+2026-02-16 15:48:17,808 - INFO - No new games found.
+2026-02-16 15:48:18,634 - INFO - 🔍 Found 571 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:48:18,643 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:48:18,915 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:48:18,936 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:48:19,149 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:48:19,596 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:48:19,608 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:48:19,802 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:48:19,815 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:48:20,265 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:48:20,276 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:48:20,737 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:48:20,749 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:48:21,213 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:48:21,225 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:48:21,730 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:48:21,741 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:48:22,211 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:48:22,222 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:48:22,405 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:48:22,417 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:48:22,902 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:48:22,913 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:48:23,115 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:48:23,126 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:48:23,328 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:48:23,339 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:48:23,518 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:48:23,529 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:48:23,738 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:48:23,750 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:48:24,203 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:48:24,214 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:48:24,398 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:48:24,410 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:48:24,994 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:48:25,007 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:48:25,201 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:48:25,212 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:48:25,412 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:48:25,424 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:48:25,601 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:48:25,613 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:48:25,840 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:48:26,033 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:48:26,225 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:48:26,239 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:48:26,474 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:48:26,486 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:48:26,710 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:48:26,722 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:48:26,901 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:48:26,913 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:48:27,098 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:48:27,292 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:48:27,303 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:48:27,477 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:48:27,491 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:48:27,673 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:48:27,684 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:48:27,878 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:48:27,889 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:48:28,100 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:48:28,553 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:48:28,564 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:48:28,759 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:48:28,771 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:48:28,949 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:48:28,962 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:48:29,139 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:48:29,150 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:48:29,329 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:48:29,343 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:48:29,352 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:48:29,369 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,522.37** |
+| 📦 **Total Games Collected** | 648 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,319.61 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$169.77 / mo** |
+| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+
+2026-02-16 15:48:29,371 - INFO - ✅ README.md updated.
+2026-02-16 15:48:29,448 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:48:29,449 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:48:32,830 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:51:01,700 - INFO - ✅ Migration Successful!
+2026-02-16 15:51:01,800 - INFO - Added 2 new games!
+2026-02-16 15:51:02,650 - INFO - 🔍 Found 661 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:51:02,658 - INFO - 📅 Fetching Basic Metadata: Batman: Arkham Asylum
+2026-02-16 15:51:02,934 - INFO - 🎯 IGDB Match: 'Batman: Arkham Asylum' (100%)
+2026-02-16 15:51:02,935 - INFO - 🔗 Searching Franchise Context: Batman: Arkham Asylum
+2026-02-16 15:51:03,371 - INFO - 📡 Fallback to IGDB for Batman: Arkham Asylum
+2026-02-16 15:51:03,844 - INFO - 📅 Fetching Basic Metadata: Batman: Arkham City
+2026-02-16 15:51:04,042 - INFO - 🎯 IGDB Match: 'Batman: Arkham City' (100%)
+2026-02-16 15:51:04,043 - INFO - 🔗 Searching Franchise Context: Batman: Arkham City
+2026-02-16 15:51:04,421 - INFO - ✅ Found Sequel: Suicide Squad: Kill The Justice League (1597 days away)
+2026-02-16 15:51:04,431 - INFO - 📅 Fetching Basic Metadata: BATMAN: ARKHAM KNIGHT
+2026-02-16 15:51:04,648 - INFO - 🎯 IGDB Match: 'Batman: Arkham Knight - 2008 Movie Batman Skin' (90%)
+2026-02-16 15:51:04,649 - INFO - 🔗 Searching Franchise Context: BATMAN: ARKHAM KNIGHT
+2026-02-16 15:51:04,921 - INFO - 📡 Fallback to IGDB for BATMAN: ARKHAM KNIGHT
+2026-02-16 15:51:05,136 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:51:05,618 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:51:05,628 - INFO - 📅 Fetching Basic Metadata: LEGO Batman: The Video Game
+2026-02-16 15:51:06,077 - INFO - 🎯 IGDB Match: 'LEGO Batman: The Videogame' (98%)
+2026-02-16 15:51:06,077 - INFO - 🔗 Searching Franchise Context: LEGO Batman: The Video Game
+2026-02-16 15:51:06,615 - INFO - 📡 Fallback to IGDB for LEGO Batman: The Video Game
+2026-02-16 15:51:07,076 - INFO - 📅 Fetching Basic Metadata: LEGO Batman 2: DC Super Heroes
+2026-02-16 15:51:07,548 - INFO - 🎯 IGDB Match: 'LEGO Batman 2: DC Super Heroes' (100%)
+2026-02-16 15:51:07,548 - INFO - 🔗 Searching Franchise Context: LEGO Batman 2: DC Super Heroes
+2026-02-16 15:51:17,601 - WARNING - 🌐 Wikidata SPARQL precision lookup failed for LEGO Batman 2: DC Super Heroes: HTTPSConnectionPool(host='query.wikidata.org', port=443): Read timed out. (read timeout=10)
+2026-02-16 15:51:17,601 - INFO - 📡 Fallback to IGDB for LEGO Batman 2: DC Super Heroes
+2026-02-16 15:51:17,865 - INFO - 📅 Fetching Basic Metadata: LEGO Batman 3: Beyond Gotham
+2026-02-16 15:51:18,065 - INFO - 🎯 IGDB Match: 'LEGO Batman 3: Beyond Gotham' (100%)
+2026-02-16 15:51:18,065 - INFO - 🔗 Searching Franchise Context: LEGO Batman 3: Beyond Gotham
+2026-02-16 15:51:18,326 - INFO - 📡 Fallback to IGDB for LEGO Batman 3: Beyond Gotham
+2026-02-16 15:51:18,818 - INFO - 📅 Fetching Basic Metadata: Celeste (repeat)
+2026-02-16 15:51:19,301 - INFO - 📅 Fetching Basic Metadata: Defense Grid: The Awakening (repeat)
+2026-02-16 15:51:19,781 - INFO - 🏢 Publisher Search: Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-02-16 15:51:21,212 - INFO - 📅 Fetching Basic Metadata: Tiny Tinaâ€™s Assault on Dragon Keep: A Wonderlands One-Shot Adventure
+2026-02-16 15:51:21,456 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:51:21,679 - INFO - 📅 Fetching Basic Metadata: Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)
+2026-02-16 15:51:22,163 - INFO - 📅 Fetching Basic Metadata: Tomb Raider GOTY
+2026-02-16 15:51:22,623 - INFO - 📅 Fetching Basic Metadata: Rise of the Tomb Raider
+2026-02-16 15:51:22,828 - INFO - 🎯 IGDB Match: 'Rise of the Tomb Raider' (100%)
+2026-02-16 15:51:22,829 - INFO - 🔗 Searching Franchise Context: Rise of the Tomb Raider
+2026-02-16 15:51:23,917 - INFO - ✅ Found Sequel: Tomb Raider Reloaded (411 days away)
+2026-02-16 15:51:23,929 - INFO - 📅 Fetching Basic Metadata: City of Brass (repeat)
+2026-02-16 15:51:24,461 - INFO - 📅 Fetching Basic Metadata: BioShock
+2026-02-16 15:51:24,654 - INFO - 🎯 IGDB Match: 'BioShock' (100%)
+2026-02-16 15:51:24,655 - INFO - 🔗 Searching Franchise Context: BioShock
+2026-02-16 15:51:24,937 - INFO - ℹ️ No release found AFTER 2022-05-26 for BioShock
+2026-02-16 15:51:24,947 - INFO - 📅 Fetching Basic Metadata: BioShock 2
+2026-02-16 15:51:25,440 - INFO - 🎯 IGDB Match: 'BioShock 2' (100%)
+2026-02-16 15:51:25,440 - INFO - 🔗 Searching Franchise Context: BioShock 2
+2026-02-16 15:51:25,783 - INFO - ℹ️ No release found AFTER 2022-05-26 for BioShock 2
+2026-02-16 15:51:25,794 - INFO - 📅 Fetching Basic Metadata: BioShock Infinite
+2026-02-16 15:51:25,975 - INFO - 🎯 IGDB Match: 'BioShock Infinite' (100%)
+2026-02-16 15:51:25,975 - INFO - 🔗 Searching Franchise Context: BioShock Infinite
+2026-02-16 15:51:26,455 - INFO - ℹ️ No release found AFTER 2022-05-26 for BioShock Infinite
+2026-02-16 15:51:26,467 - INFO - 📅 Fetching Basic Metadata: ARK: Survival Evolved (repeat)
+2026-02-16 15:51:26,704 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:51:26,954 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:51:26,967 - INFO - 📅 Fetching Basic Metadata: Shadow Tactics: Blades of the Shogun (repeat)
+2026-02-16 15:51:27,188 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:51:27,379 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:51:27,391 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:51:27,885 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:51:27,897 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:51:28,083 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:51:28,095 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:51:28,302 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:51:28,313 - INFO - 🏢 Publisher Search: World of Warships â€” Starter Pack: Ishizuchi
+2026-02-16 15:51:29,723 - INFO - 📅 Fetching Basic Metadata: World of Warships â€” Starter Pack: Ishizuchi
+2026-02-16 15:51:29,915 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (97%)
+2026-02-16 15:51:29,915 - INFO - 🔗 Searching Franchise Context: World of Warships â€” Starter Pack: Ishizuchi
+2026-02-16 15:51:30,043 - INFO - 📡 Fallback to IGDB for World of Warships â€” Starter Pack: Ishizuchi
+2026-02-16 15:51:30,274 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:51:30,745 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:51:30,758 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:51:30,935 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:51:30,947 - INFO - 📅 Fetching Basic Metadata: Europa Universalis IV (repeat)
+2026-02-16 15:51:31,448 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:51:31,929 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:51:31,940 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:51:32,127 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:51:32,138 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:51:32,321 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:51:32,336 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:51:32,540 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:51:32,551 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:51:32,751 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:51:32,763 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:51:32,975 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:51:32,986 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:51:33,174 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:51:33,186 - INFO - 📅 Fetching Basic Metadata: A Plague Tale: Innocence (repeat)
+2026-02-16 15:51:33,685 - INFO - 🏢 Publisher Search: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-02-16 15:51:35,114 - INFO - 📅 Fetching Basic Metadata: Additional minor DLC / cosmetics slots (holiday pack group)*
+2026-02-16 15:51:35,363 - INFO - 📅 Fetching Basic Metadata: Black Book (repeat)
+2026-02-16 15:51:35,605 - INFO - 📅 Fetching Basic Metadata: theHunter: Call of the Wild (repeat)
+2026-02-16 15:51:36,111 - INFO - 💰 Price Search: Train Sim World 3 (example holiday slot)*
+2026-02-16 15:51:37,387 - INFO - 🏢 Publisher Search: Train Sim World 3 (example holiday slot)*
+2026-02-16 15:51:38,848 - INFO - 📅 Fetching Basic Metadata: Train Sim World 3 (example holiday slot)*
+2026-02-16 15:51:39,328 - INFO - 📅 Fetching Basic Metadata: Turnip Boy Commits Tax Evasion (repeat)
+2026-02-16 15:51:39,806 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:51:40,051 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:51:40,067 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:51:40,598 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:51:40,617 - INFO - 📅 Fetching Basic Metadata: Orcs Must Die! 2 (repeat)
+2026-02-16 15:51:40,813 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:51:41,000 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:51:41,012 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:51:41,203 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:51:41,214 - INFO - 📅 Fetching Basic Metadata: World of Warships â€“ Starter Pack: Albany
+2026-02-16 15:51:41,428 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:51:41,930 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:51:42,394 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:51:42,405 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:51:42,593 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:51:42,605 - INFO - 📅 Fetching Basic Metadata: Orcs Must Die! 3 (repeat)
+2026-02-16 15:51:42,835 - INFO - 📅 Fetching Basic Metadata: REDACTED (mystery day 2024)*
+2026-02-16 15:51:43,066 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:51:43,275 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:51:43,287 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:51:43,479 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:51:43,495 - INFO - 📅 Fetching Basic Metadata: World Of Warships â€“ Anniversary Party Flavor
+2026-02-16 15:51:43,714 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:51:43,896 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:51:43,908 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:51:44,150 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:51:44,160 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:51:44,492 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:51:44,503 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:51:44,962 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:51:44,974 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:51:45,190 - INFO - 🏢 Publisher Search: Jorelâ€™s Brother and The Most Important Game of the Galaxy
+2026-02-16 15:51:46,639 - INFO - 📅 Fetching Basic Metadata: Jorelâ€™s Brother and The Most Important Game of the Galaxy
+2026-02-16 15:51:46,858 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:51:47,039 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:51:47,051 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:51:47,248 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:51:47,260 - INFO - 🏢 Publisher Search: Disco Elysium â€” The Final Cut
+2026-02-16 15:51:48,689 - INFO - 🔗 Searching Franchise Context: Disco Elysium â€” The Final Cut
+2026-02-16 15:51:48,905 - INFO - 📡 Fallback to IGDB for Disco Elysium â€” The Final Cut
+2026-02-16 15:51:49,366 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:51:49,831 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:51:49,843 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:51:50,296 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:51:50,313 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:51:50,323 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:51:50,342 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,706.62** |
+| 📦 **Total Games Collected** | 661 |
+| 🏷️ **Average Retail Price** | $22.05 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($699.86), Bethesda Softworks ($544.80), Team17 Digital Ltd ($399.83) |
+| 📈 **Inflation-Adjusted Value** | $14,573.49 |
+| 🎈 **Inflation Bonus** | **+$1,866.87** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,312.54 in savings. |
+| ⭐ **Average Score** | 76.8/100 |
+| 💳 **Subscription Equivalent** | **$169.47 / mo** |
+| 🎯 **Prestige Ratio** | **2.4%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 454 Days to Sequel |
+
+2026-02-16 15:51:50,344 - INFO - ✅ README.md updated.
+2026-02-16 15:51:50,430 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:51:50,431 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:51:54,212 - INFO - 📈 All charts generated successfully.
+2026-02-16 15:53:32,639 - INFO - ✅ Migration Successful!
+2026-02-16 15:53:33,386 - INFO - Added 2 new games!
+2026-02-16 15:53:34,261 - INFO - 🔍 Found 649 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-02-16 15:53:34,269 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-02-16 15:53:34,548 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-02-16 15:53:34,568 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-02-16 15:53:35,053 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-02-16 15:53:35,517 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-02-16 15:53:35,529 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-02-16 15:53:35,760 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-02-16 15:53:35,770 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-02-16 15:53:35,967 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-02-16 15:53:35,979 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-02-16 15:53:36,169 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-02-16 15:53:36,181 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-02-16 15:53:36,637 - INFO - 🎯 IGDB Match: 'Recipe for Disaster' (100%)
+2026-02-16 15:53:36,648 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-02-16 15:53:37,132 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-02-16 15:53:37,143 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-02-16 15:53:37,323 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-02-16 15:53:37,334 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-02-16 15:53:37,533 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-02-16 15:53:37,545 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-02-16 15:53:38,013 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-02-16 15:53:38,024 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-02-16 15:53:38,222 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-02-16 15:53:38,233 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-02-16 15:53:38,682 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-02-16 15:53:38,693 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-02-16 15:53:38,899 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-02-16 15:53:38,911 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-02-16 15:53:39,359 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-02-16 15:53:39,371 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-02-16 15:53:39,841 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-02-16 15:53:39,852 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-02-16 15:53:40,291 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-02-16 15:53:40,303 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-02-16 15:53:40,523 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-02-16 15:53:40,534 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-02-16 15:53:40,714 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-02-16 15:53:40,725 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-02-16 15:53:41,180 - INFO - 🎯 IGDB Match: 'The Falconeer: The Hunter' (90%)
+2026-02-16 15:53:41,191 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-02-16 15:53:41,370 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-02-16 15:53:41,381 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-02-16 15:53:41,596 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-02-16 15:53:41,817 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-02-16 15:53:42,018 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-02-16 15:53:42,029 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-02-16 15:53:42,482 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-02-16 15:53:42,493 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-02-16 15:53:42,672 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-02-16 15:53:42,683 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-02-16 15:53:42,899 - INFO - 🎯 IGDB Match: 'World War Z: Aftermath' (98%)
+2026-02-16 15:53:42,910 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-02-16 15:53:43,372 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-02-16 15:53:43,568 - INFO - 🎯 IGDB Match: 'Neko Ghost, Jump!' (100%)
+2026-02-16 15:53:43,579 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-02-16 15:53:44,055 - INFO - 🎯 IGDB Match: 'Super Space Club' (100%)
+2026-02-16 15:53:44,066 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-02-16 15:53:44,241 - INFO - 🎯 IGDB Match: 'Touch Type Tale' (100%)
+2026-02-16 15:53:44,252 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-02-16 15:53:44,707 - INFO - 🎯 IGDB Match: 'Gigapocalypse' (100%)
+2026-02-16 15:53:44,719 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-02-16 15:53:44,910 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-02-16 15:53:45,117 - INFO - 🎯 IGDB Match: 'Nightingale' (100%)
+2026-02-16 15:53:45,129 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-02-16 15:53:45,600 - INFO - 🎯 IGDB Match: 'Godzilla Voxel Wars' (100%)
+2026-02-16 15:53:45,611 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-02-16 15:53:45,808 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-02-16 15:53:45,819 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-02-16 15:53:46,276 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-02-16 15:53:46,286 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-02-16 15:53:46,501 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-02-16 15:53:46,516 - INFO - 
+--- Starting Data Quality Checks ---
+2026-02-16 15:53:46,524 - INFO - --- Data Quality Checks Complete ---
+
+2026-02-16 15:53:46,540 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$12,547.36** |
+| 📦 **Total Games Collected** | 649 |
+| 🏷️ **Average Retail Price** | $22.53 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,344.60 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.7/100 |
+| 💳 **Subscription Equivalent** | **$170.06 / mo** |
+| 🎯 **Prestige Ratio** | **2.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 437 Days to Sequel |
+
+2026-02-16 15:53:46,552 - INFO - ✅ README.md updated.
+2026-02-16 15:53:46,626 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:53:46,627 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-02-16 15:53:49,991 - INFO - 📈 All charts generated successfully.

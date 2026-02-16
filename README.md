@@ -22,8 +22,8 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 | 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
 | ⭐ **Average Score** | 76.7/100 |
 | 💳 **Subscription Equivalent** | **$170.06 / mo** |
-| 🎯 **Prestige Ratio** | **0.3%** (Strategic Hype) |
-| 🏎️ **Lead Time Avg** | 575 Days to Sequel |
+| 🎯 **Prestige Ratio** | **2.3%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 437 Days to Sequel |
 
 <a name="stats_end"></a>
 ---

@@ -386,21 +386,6 @@ def tag_hype_candidates(df):
     
     return df_clean
 
-def identify_franchise(game_title, igdb_collection_name=None):
-    """
-    Determines if a game belongs to a franchise using a tiered approach.
-    """
-    # 1. Check Manual Overrides
-    if game_title in SHARED_UNIVERSES:
-        return SHARED_UNIVERSES[game_title]
-    
-    # 2. Check Keyword Matches
-    for word in AUTO_PROMO_KEYWORDS:
-        if word.lower() in game_title.lower():
-            return word
-
-    # 3. Fallback to API data
-    return igdb_collection_name or "Standalone"
 
 def get_hype_cycle_stats(df):
     """
