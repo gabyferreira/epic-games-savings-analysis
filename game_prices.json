@@ -24,7 +24,7 @@
         "publisher": "Crystal Dynamics",
         "original_release_date": "2018-09-14",
         "aggregated_rating": 80.0,
-        "start_date": "01-09-2022",
+        "start_date": "01/09/2022",
         "next_sequel_name": "Tomb Raider Reloaded",
         "next_sequel_date": "2023-02-14",
         "is_strategic_hype": false
@@ -34,7 +34,7 @@
         "publisher": "Cyanide Studio",
         "original_release_date": "2014-10-07",
         "aggregated_rating": 74.22222222222223,
-        "start_date": "15-01-2026",
+        "start_date": "15/01/2026",
         "next_sequel_name": "Styx: Shards of Darkness",
         "next_sequel_date": "2017-03-14",
         "is_strategic_hype": false
@@ -54,9 +54,9 @@
         "publisher": "Unknown Worlds Entertainment",
         "original_release_date": "2018-01-23",
         "aggregated_rating": 83.9090909090909,
-        "start_date": "12-12-2018",
-        "next_sequel_name": "Subnautica",
-        "next_sequel_date": "2021-01-01",
+        "start_date": "12/12/2018",
+        "next_sequel_name": "Subnautica: Below Zero",
+        "next_sequel_date": "2021-05-14",
         "is_strategic_hype": false
     },
     "Super Meat Boy": {
@@ -64,7 +64,7 @@
         "publisher": "Team Meat",
         "original_release_date": "2010-10-20",
         "aggregated_rating": 85.25,
-        "start_date": "28-12-2018",
+        "start_date": "28/12/2018",
         "next_sequel_name": "Super Meat Boy Forever",
         "next_sequel_date": "2020-12-23"
     },
@@ -113,7 +113,7 @@
         "publisher": "Monomi Park",
         "original_release_date": "2017-08-01",
         "aggregated_rating": 77.66666666666667,
-        "start_date": "07-03-2019",
+        "start_date": "07/03/2019",
         "next_sequel_name": "Slime Rancher 2",
         "next_sequel_date": "2022-09-22"
     },
@@ -122,7 +122,7 @@
         "publisher": "Night School Studio",
         "original_release_date": "2016-01-14",
         "aggregated_rating": 78.5625,
-        "start_date": "21-03-2019",
+        "start_date": "21/03/2019",
         "next_sequel_name": "Oxenfree II: Lost Signals",
         "next_sequel_date": "2023-07-12",
         "is_strategic_hype": false
@@ -192,7 +192,7 @@
         "publisher": "Raw Fury",
         "original_release_date": "2016-08-09",
         "aggregated_rating": 75.0,
-        "start_date": "06-06-2019",
+        "start_date": "06/06/2019",
         "next_sequel_name": "Kingdom Eighties: Summer of Greed",
         "next_sequel_date": "2023-06-26"
     },
@@ -261,7 +261,7 @@
         "publisher": "11 bit studios",
         "original_release_date": "2018-11-05",
         "aggregated_rating": 82,
-        "start_date": "25-07-2019",
+        "start_date": "25/07/2019",
         "next_sequel_name": "Moonlighter 2: The Endless Vault",
         "next_sequel_date": "2025-10-23",
         "is_strategic_hype": false
@@ -281,7 +281,7 @@
         "publisher": "Remedy Entertainment",
         "original_release_date": "2010-05-14",
         "aggregated_rating": 83.0,
-        "start_date": "02-08-2019",
+        "start_date": "02/08/2019",
         "next_sequel_name": "Alan Wake Remastered ",
         "next_sequel_date": "2021-10-05",
         "is_strategic_hype": false
@@ -611,7 +611,7 @@
         "publisher": "Ubisoft",
         "original_release_date": "2013-08-29",
         "aggregated_rating": 81,
-        "start_date": "29-11-2019",
+        "start_date": "29/11/2019",
         "next_sequel_name": "Mario + Rabbids Sparks of Hope",
         "next_sequel_date": "2022-10-20",
         "is_strategic_hype": false
@@ -731,7 +731,7 @@
         "publisher": "Devolver Digital",
         "original_release_date": "2014-12-11",
         "aggregated_rating": 87.33333333333333,
-        "start_date": "29-12-2019",
+        "start_date": "29/12/2019",
         "next_sequel_name": "The Talos Principle 2",
         "next_sequel_date": "2023-11-02",
         "is_strategic_hype": false
@@ -741,7 +741,7 @@
         "publisher": "tinyBuild",
         "original_release_date": "2017-12-08",
         "aggregated_rating": 36.75,
-        "start_date": "30-12-2019",
+        "start_date": "30/12/2019",
         "next_sequel_name": "Hello Engineer",
         "next_sequel_date": "2021-01-01",
         "is_strategic_hype": false
@@ -821,7 +821,7 @@
         "publisher": "Giants Software",
         "original_release_date": "2018-11-19",
         "aggregated_rating": 68.2,
-        "start_date": "30-01-2020",
+        "start_date": "30/01/2020",
         "next_sequel_name": "Farming Simulator 22",
         "next_sequel_date": "2021-11-22",
         "is_strategic_hype": false
@@ -861,7 +861,7 @@
         "publisher": "Warhorse Studios",
         "original_release_date": "2018-02-13",
         "aggregated_rating": 73.72727272727273,
-        "start_date": "01-01-2025",
+        "start_date": "01/01/2025",
         "next_sequel_name": "Kingdom Come: Deliverance II",
         "next_sequel_date": "2025-02-04",
         "is_strategic_hype": false
@@ -871,7 +871,7 @@
         "publisher": "Ubisoft",
         "original_release_date": "2015-10-23",
         "aggregated_rating": 72.15789473684211,
-        "start_date": "20-02-2020",
+        "start_date": "20/02/2020",
         "next_sequel_name": "Assassin's Creed Valhalla",
         "next_sequel_date": "2020-11-10",
         "is_strategic_hype": false
@@ -961,7 +961,7 @@
         "publisher": "Ubisoft",
         "original_release_date": "2014-05-26",
         "aggregated_rating": 81.0952380952381,
-        "start_date": "19-03-2020",
+        "start_date": "19/03/2020",
         "next_sequel_name": "Watch Dogs: Legion",
         "next_sequel_date": "2020-10-29",
         "is_strategic_hype": false
@@ -971,7 +971,7 @@
         "publisher": "Bedtime Digital Games",
         "original_release_date": "2017-09-22",
         "aggregated_rating": 88.66666666666667,
-        "start_date": "03-07-2025",
+        "start_date": "03/07/2025",
         "next_sequel_name": "Figment",
         "next_sequel_date": "2022-11-16",
         "is_strategic_hype": false
@@ -1081,7 +1081,7 @@
         "publisher": "IronOak Games",
         "original_release_date": "2018-04-19",
         "aggregated_rating": 76,
-        "start_date": "23-04-2020",
+        "start_date": "23/04/2020",
         "next_sequel_name": "For the King II",
         "next_sequel_date": "2023-11-02",
         "is_strategic_hype": false
@@ -1091,7 +1091,7 @@
         "publisher": "Frictional Games",
         "original_release_date": "2010-09-08",
         "aggregated_rating": 89.0,
-        "start_date": "30-04-2020",
+        "start_date": "30/04/2020",
         "next_sequel_name": "Amnesia: Rebirth",
         "next_sequel_date": "2020-10-20",
         "is_strategic_hype": false
@@ -1101,7 +1101,7 @@
         "publisher": "Butterscotch Shenanigans",
         "original_release_date": "2016-01-20",
         "aggregated_rating": 79.5,
-        "start_date": "30-04-2020",
+        "start_date": "30/04/2020",
         "next_sequel_name": "Crashlands 2",
         "next_sequel_date": "2025-04-10",
         "is_strategic_hype": false
@@ -1151,7 +1151,7 @@
         "publisher": "2K",
         "original_release_date": "2015-03-24",
         "aggregated_rating": 84.0,
-        "start_date": "28-05-2020",
+        "start_date": "28/05/2020",
         "next_sequel_name": "Borderlands Legendary Collection",
         "next_sequel_date": "2020-05-29",
         "is_strategic_hype": true
@@ -1181,10 +1181,10 @@
         "publisher": "SNK CORPORATION",
         "original_release_date": "2020-06-18",
         "aggregated_rating": 80.0,
-        "start_date": "11-06-2020",
-        "next_sequel_name": "Samurai Shodown NeoGeo Collection",
-        "next_sequel_date": "2020-06-18",
-        "is_strategic_hype": true
+        "start_date": "11/06/2020",
+        "next_sequel_name": "Standalone",
+        "next_sequel_date": "",
+        "is_strategic_hype": false
     },
     "Pathway": {
         "price": 15.99,
@@ -1221,7 +1221,7 @@
         "publisher": "Tripwire Interactive",
         "original_release_date": "2016-11-18",
         "aggregated_rating": 80.76923076923077,
-        "start_date": "07-07-2022",
+        "start_date": "07/07/2022",
         "next_sequel_name": "Killing Floor 3",
         "next_sequel_date": "2025-07-24",
         "is_strategic_hype": false
@@ -1351,7 +1351,7 @@
         "publisher": "Kalypso Media",
         "original_release_date": "2018-01-26",
         "aggregated_rating": 85.0,
-        "start_date": "10-09-2020",
+        "start_date": "10/09/2020",
         "next_sequel_name": "Railway Empire 2",
         "next_sequel_date": "2023-05-25",
         "is_strategic_hype": false
@@ -1381,7 +1381,7 @@
         "publisher": "Ubisoft",
         "original_release_date": "2016-11-15",
         "aggregated_rating": 81.33333333333333,
-        "start_date": "17-09-2020",
+        "start_date": "17/09/2020",
         "next_sequel_name": "Watch Dogs: Legion",
         "next_sequel_date": "2020-10-29",
         "is_strategic_hype": true
@@ -1421,7 +1421,7 @@
         "publisher": "Frictional Games",
         "original_release_date": "2013-09-10",
         "aggregated_rating": 72.625,
-        "start_date": "15-10-2020",
+        "start_date": "15/10/2020",
         "next_sequel_name": "Amnesia: Rebirth",
         "next_sequel_date": "2020-10-20",
         "is_strategic_hype": true
@@ -1561,7 +1561,7 @@
         "publisher": "Paradox Interactive",
         "original_release_date": "2015-03-10",
         "aggregated_rating": 76.23076923076923,
-        "start_date": "10-03-2022",
+        "start_date": "10/03/2022",
         "next_sequel_name": "Cities: VR",
         "next_sequel_date": "2022-04-28",
         "is_strategic_hype": false
@@ -1621,7 +1621,7 @@
         "publisher": "Red Hook Studios",
         "original_release_date": "2016-01-19",
         "aggregated_rating": 83.1,
-        "start_date": "25-12-2020",
+        "start_date": "25/12/2020",
         "next_sequel_name": "Darkest Dungeon II",
         "next_sequel_date": "2023-05-08",
         "is_strategic_hype": false
@@ -1671,7 +1671,7 @@
         "publisher": "Frontier Developments",
         "original_release_date": "2018-06-11",
         "aggregated_rating": 74.15384615384616,
-        "start_date": "31-12-2020",
+        "start_date": "31/12/2020",
         "next_sequel_name": "Jurassic World Evolution 2",
         "next_sequel_date": "2021-11-09",
         "is_strategic_hype": false
@@ -1891,7 +1891,7 @@
         "publisher": "11 bit studios",
         "original_release_date": "2018-04-24",
         "aggregated_rating": 86.22222222222223,
-        "start_date": "03-06-2021",
+        "start_date": "03/06/2021",
         "next_sequel_name": "Frostpunk 2",
         "next_sequel_date": "2024-09-20",
         "is_strategic_hype": false
@@ -1921,7 +1921,7 @@
         "publisher": "AQUIRIS",
         "original_release_date": "2018-05-15",
         "aggregated_rating": 85.0,
-        "start_date": "04-05-2023",
+        "start_date": "04/05/2023",
         "next_sequel_name": "Horizon Chase 2",
         "next_sequel_date": "2022-09-09",
         "is_strategic_hype": false
@@ -1931,7 +1931,7 @@
         "publisher": "SEGA",
         "original_release_date": "2018-07-17",
         "aggregated_rating": 86.77777777777777,
-        "start_date": "24-06-2021",
+        "start_date": "24/06/2021",
         "next_sequel_name": "Sonic Colors: Ultimate",
         "next_sequel_date": "2021-09-07",
         "is_strategic_hype": true
@@ -1981,7 +1981,7 @@
         "publisher": "BlackMill Games",
         "original_release_date": "2015-04-28",
         "aggregated_rating": 57.5,
-        "start_date": "22-07-2021",
+        "start_date": "22/07/2021",
         "next_sequel_name": "Isonzo",
         "next_sequel_date": "2022-09-13",
         "is_strategic_hype": false
@@ -2011,7 +2011,7 @@
         "publisher": "Focus Entertainment",
         "original_release_date": "2019-05-14",
         "aggregated_rating": 80.86666666666666,
-        "start_date": "03-01-2024",
+        "start_date": "03/01/2024",
         "next_sequel_name": "A Plague Tale: Requiem",
         "next_sequel_date": "2022-10-18",
         "is_strategic_hype": false
@@ -2111,7 +2111,7 @@
         "publisher": "Paradox Interactive",
         "original_release_date": "2013-08-13",
         "aggregated_rating": 85.0,
-        "start_date": "10-08-2023",
+        "start_date": "10/08/2023",
         "next_sequel_name": "Europa Universalis V",
         "next_sequel_date": "2025-11-04",
         "is_strategic_hype": false
@@ -2321,7 +2321,7 @@
         "publisher": "Team17 Digital Ltd",
         "original_release_date": "2020-04-28",
         "aggregated_rating": 74.5,
-        "start_date": "24-10-2024",
+        "start_date": "24/10/2024",
         "next_sequel_name": "Moving Out 2",
         "next_sequel_date": "2023-08-15",
         "is_strategic_hype": false
@@ -2418,7 +2418,7 @@
         "publisher": "Atari",
         "original_release_date": "2021-10-27",
         "aggregated_rating": 72.0,
-        "start_date": "03-03-2022",
+        "start_date": "03/03/2022",
         "next_sequel_name": "Gravitar: Recharged",
         "next_sequel_date": "2022-06-02",
         "is_strategic_hype": false
@@ -2458,7 +2458,7 @@
         "publisher": "SEGA",
         "original_release_date": "2017-09-28",
         "aggregated_rating": 87.875,
-        "start_date": "31-03-2022",
+        "start_date": "31/03/2022",
         "next_sequel_name": "Total War: Pharaoh",
         "next_sequel_date": "2023-10-11",
         "is_strategic_hype": false
@@ -2498,7 +2498,7 @@
         "publisher": "Frictional Games",
         "original_release_date": "2020-10-20",
         "aggregated_rating": 81.77777777777777,
-        "start_date": "21-04-2022",
+        "start_date": "21/04/2022",
         "next_sequel_name": "Amnesia: Rebirth",
         "next_sequel_date": "2022-10-20",
         "is_strategic_hype": false
@@ -2558,7 +2558,7 @@
         "publisher": "2K",
         "original_release_date": "2019-09-13",
         "aggregated_rating": 81.0,
-        "start_date": "19-05-2022",
+        "start_date": "19/05/2022",
         "next_sequel_name": "New Tales from the Borderlands",
         "next_sequel_date": "2022-10-21",
         "is_strategic_hype": false
@@ -2698,7 +2698,7 @@
         "publisher": "Blackmill Games",
         "original_release_date": "2019-02-13",
         "aggregated_rating": 65.75,
-        "start_date": "21-07-2022",
+        "start_date": "21/07/2022",
         "next_sequel_name": "Isonzo",
         "next_sequel_date": "2022-09-13",
         "is_strategic_hype": true
@@ -2738,7 +2738,7 @@
         "publisher": "Bethesda Softworks",
         "original_release_date": "2020-03-20",
         "aggregated_rating": 77.0,
-        "start_date": "18-08-2022",
+        "start_date": "18/08/2022",
         "next_sequel_name": "Mighty Doom",
         "next_sequel_date": "2023-03-21",
         "is_strategic_hype": false
@@ -2748,7 +2748,7 @@
         "publisher": "Bungie",
         "original_release_date": "2017-09-06",
         "aggregated_rating": 82.44,
-        "start_date": "25-08-2022",
+        "start_date": "25/08/2022",
         "next_sequel_name": "Destiny 2: The Final Shape",
         "next_sequel_date": "2024-06-04",
         "is_strategic_hype": false
@@ -2808,7 +2808,7 @@
         "publisher": "Twin Sails Interactive",
         "original_release_date": "2019-07-17",
         "aggregated_rating": 73.5,
-        "start_date": "22-09-2022",
+        "start_date": "22/09/2022",
         "next_sequel_name": "Gloomhaven",
         "next_sequel_date": "2023-09-18",
         "is_strategic_hype": false
@@ -3108,7 +3108,7 @@
         "publisher": "Playstack",
         "original_release_date": "2020-08-18",
         "aggregated_rating": 75.25,
-        "start_date": "13-03-2025",
+        "start_date": "13/03/2025",
         "next_sequel_name": "Mortal Shell II",
         "next_sequel_date": "2026-01-01",
         "is_strategic_hype": false
@@ -3228,7 +3228,7 @@
         "publisher": "Kasedo Games",
         "original_release_date": "2019-05-02",
         "aggregated_rating": 72.0,
-        "start_date": "02-03-2023",
+        "start_date": "02/03/2023",
         "next_sequel_name": "Rise of Industry 2",
         "next_sequel_date": "2025-06-03",
         "is_strategic_hype": false
@@ -3288,7 +3288,7 @@
         "publisher": "Techland",
         "original_release_date": "2015-01-26",
         "aggregated_rating": 72.05882352941177,
-        "start_date": "06-04-2023",
+        "start_date": "06/04/2023",
         "next_sequel_name": "Dying Light: The Beast",
         "next_sequel_date": "2025-09-18",
         "is_strategic_hype": false
@@ -3448,7 +3448,7 @@
         "publisher": "Flazm",
         "original_release_date": "2019-04-15",
         "aggregated_rating": 62,
-        "start_date": "21-12-2023",
+        "start_date": "21/12/2023",
         "next_sequel_name": "Train Valley World",
         "next_sequel_date": "2024-08-08",
         "is_strategic_hype": false
@@ -3468,7 +3468,7 @@
         "publisher": "Bethesda Softworks",
         "original_release_date": "2014-04-04",
         "aggregated_rating": 70.4375,
-        "start_date": "20-07-2023",
+        "start_date": "20/07/2023",
         "next_sequel_name": "The Elder Scrolls: Castles",
         "next_sequel_date": "2023-09-28",
         "is_strategic_hype": true
@@ -3648,7 +3648,7 @@
         "publisher": "Graffiti Games",
         "original_release_date": "2021-04-22",
         "aggregated_rating": 76.66666666666667,
-        "start_date": "21-12-2023",
+        "start_date": "21/12/2023",
         "next_sequel_name": "Turnip Boy Robs a Bank",
         "next_sequel_date": "2024-01-18",
         "is_strategic_hype": true
@@ -3748,7 +3748,7 @@
         "publisher": "NEXON",
         "original_release_date": "2023-09-14",
         "aggregated_rating": 85,
-        "start_date": "08-08-2024",
+        "start_date": "08/08/2024",
         "next_sequel_name": "The First Berserker: Khazan",
         "next_sequel_date": "2025-03-27",
         "is_strategic_hype": false
@@ -3948,7 +3948,7 @@
         "publisher": "Team Meat",
         "original_release_date": "2020-12-23",
         "aggregated_rating": 70.14285714285714,
-        "start_date": "22-02-2024",
+        "start_date": "22/02/2024",
         "next_sequel_name": "Super Meat Boy 3D",
         "next_sequel_date": "2026-01-01",
         "is_strategic_hype": false
@@ -4088,7 +4088,7 @@
         "publisher": "Electronic Arts",
         "original_release_date": "2014-11-18",
         "aggregated_rating": 87.9375,
-        "start_date": "16-05-2024",
+        "start_date": "16/05/2024",
         "next_sequel_name": "Dragon Age: The Veilguard",
         "next_sequel_date": "2024-10-31",
         "is_strategic_hype": false
@@ -4098,7 +4098,7 @@
         "publisher": "Giants Software",
         "original_release_date": "2021-11-22",
         "aggregated_rating": 75.0,
-        "start_date": "23-05-2024",
+        "start_date": "23/05/2024",
         "next_sequel_name": "Farming Simulator 25",
         "next_sequel_date": "2024-11-12",
         "is_strategic_hype": false
@@ -4238,7 +4238,7 @@
         "publisher": "SEGA",
         "original_release_date": "2023-11-06",
         "aggregated_rating": 84.0,
-        "start_date": "05-09-2024",
+        "start_date": "05/09/2024",
         "next_sequel_name": "Football Manager 26",
         "next_sequel_date": "2025-11-04",
         "is_strategic_hype": false
@@ -4598,7 +4598,7 @@
         "publisher": "Frontier Developments",
         "original_release_date": "2021-11-09",
         "aggregated_rating": 72.4,
-        "start_date": "20-03-2025",
+        "start_date": "20/03/2025",
         "next_sequel_name": "Jurassic World Evolution 3",
         "next_sequel_date": "2025-10-21",
         "is_strategic_hype": false
@@ -4698,10 +4698,10 @@
         "publisher": "Deep Silver",
         "original_release_date": "2023-04-21",
         "aggregated_rating": 74.33333333333333,
-        "start_date": "15-05-2025",
-        "next_sequel_name": "Dead Island 2",
-        "next_sequel_date": "2025-07-24",
-        "is_strategic_hype": true
+        "start_date": "15/05/2025",
+        "next_sequel_name": "Dead Island 3",
+        "next_sequel_date": "2026-01-01",
+        "is_strategic_hype": false
     },
     "Deliver At All Costs": {
         "price": 29.99,
@@ -4728,7 +4728,7 @@
         "publisher": "2K",
         "original_release_date": "2022-03-25",
         "aggregated_rating": 75.71428571428571,
-        "start_date": "29-05-2025",
+        "start_date": "29/05/2025",
         "next_sequel_name": "Borderlands 4",
         "next_sequel_date": "2025-09-12",
         "is_strategic_hype": false
@@ -5188,7 +5188,7 @@
         "publisher": "505 Games",
         "original_release_date": "2019-06-18",
         "aggregated_rating": 82.45454545454545,
-        "start_date": "23-12-2025",
+        "start_date": "23/12/2025",
         "next_sequel_name": "Bloodstained: The Scarlet Engagement",
         "next_sequel_date": "2026-01-01",
         "is_strategic_hype": true
@@ -5305,7 +5305,7 @@
         "publisher": "Terrible Posture Games",
         "original_release_date": "2020-09-03",
         "aggregated_rating": 80.0,
-        "start_date": "06-08-2020",
+        "start_date": "06/08/2020",
         "next_sequel_name": "3 out of 10, EP 2: \"Foundation 101\"",
         "next_sequel_date": "2020-08-13",
         "is_strategic_hype": true
@@ -5335,7 +5335,7 @@
         "publisher": "SEGA",
         "original_release_date": "2019-11-19",
         "aggregated_rating": 88.5,
-        "start_date": "17-09-2020",
+        "start_date": "17/09/2020",
         "next_sequel_name": "Football Manager 2021",
         "next_sequel_date": "2020-11-24",
         "is_strategic_hype": true
@@ -5365,7 +5365,7 @@
         "publisher": "2K",
         "original_release_date": "2020-09-03",
         "aggregated_rating": 77.36363636363636,
-        "start_date": "20-05-2021",
+        "start_date": "20/05/2021",
         "next_sequel_name": "NBA 2K22",
         "next_sequel_date": "2021-09-10",
         "is_strategic_hype": false
@@ -5593,7 +5593,7 @@
         "publisher": "Dovetail Games",
         "original_release_date": "2022-09-06",
         "aggregated_rating": 78,
-        "start_date": "21-12-2023",
+        "start_date": "21/12/2023",
         "next_sequel_name": "Train Sim World 5",
         "next_sequel_date": "2024-09-17",
         "is_strategic_hype": false
