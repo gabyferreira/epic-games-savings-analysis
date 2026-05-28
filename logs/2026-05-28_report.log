@@ -1,0 +1,155 @@
+2026-05-28 19:11:27,417 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-05-28 19:11:27,446 - INFO - generated new fontManager
+2026-05-28 19:11:27,784 - INFO - ✅ Migration Successful!
+2026-05-28 19:11:27,861 - INFO - Added 2 new games!
+2026-05-28 19:11:28,159 - INFO - 🔍 Found 600 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-05-28 19:11:28,202 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-05-28 19:11:28,393 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-05-28 19:11:28,421 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-05-28 19:11:28,616 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-05-28 19:11:28,689 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-05-28 19:11:28,697 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-05-28 19:11:28,770 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-05-28 19:11:28,777 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-05-28 19:11:28,855 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-05-28 19:11:28,862 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-05-28 19:11:28,974 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-05-28 19:11:28,983 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-05-28 19:11:29,061 - INFO - 🎯 IGDB Match: 'Recipe For Disaster' (100%)
+2026-05-28 19:11:29,068 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-05-28 19:11:29,148 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-05-28 19:11:29,155 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-05-28 19:11:29,311 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-05-28 19:11:29,318 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-05-28 19:11:29,407 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-05-28 19:11:29,416 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-05-28 19:11:29,508 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-05-28 19:11:29,515 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-05-28 19:11:29,586 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-05-28 19:11:29,592 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-05-28 19:11:29,673 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-05-28 19:11:29,680 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-05-28 19:11:29,772 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-05-28 19:11:29,779 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-05-28 19:11:29,896 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-05-28 19:11:29,903 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-05-28 19:11:29,985 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-05-28 19:11:29,991 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-05-28 19:11:30,099 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-05-28 19:11:30,110 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-05-28 19:11:30,242 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-05-28 19:11:30,250 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-05-28 19:11:30,379 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-05-28 19:11:30,388 - INFO - 📅 Fetching Basic Metadata: The Falconeer
+2026-05-28 19:11:30,498 - WARNING - IGDB Error for The Falconeer: string indices must be integers, not 'str'
+2026-05-28 19:11:30,506 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-05-28 19:11:30,573 - WARNING - IGDB Error for Rawmen: Food Fighter Arena: string indices must be integers, not 'str'
+2026-05-28 19:11:30,580 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-05-28 19:11:30,642 - WARNING - IGDB Error for World of Warships – Starter Pack: Albany: string indices must be integers, not 'str'
+2026-05-28 19:11:30,649 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-05-28 19:11:30,745 - WARNING - IGDB Error for Fallout Classic Edition: string indices must be integers, not 'str'
+2026-05-28 19:11:30,753 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-05-28 19:11:30,815 - WARNING - IGDB Error for Outliver: Tribulation: string indices must be integers, not 'str'
+2026-05-28 19:11:30,823 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-05-28 19:11:30,921 - WARNING - IGDB Error for Bus Simulator 21 Next Stop: string indices must be integers, not 'str'
+2026-05-28 19:11:30,930 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-05-28 19:11:30,998 - WARNING - IGDB Error for Turmoil: string indices must be integers, not 'str'
+2026-05-28 19:11:31,006 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-05-28 19:11:31,064 - WARNING - IGDB Error for World War Z Aftermath: string indices must be integers, not 'str'
+2026-05-28 19:11:31,071 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-05-28 19:11:31,130 - WARNING - IGDB Error for World Of Warships – Anniversary Party Flavor: string indices must be integers, not 'str'
+2026-05-28 19:11:31,137 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-05-28 19:11:31,210 - WARNING - IGDB Error for Neko Ghost, Jump!: string indices must be integers, not 'str'
+2026-05-28 19:11:31,217 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-05-28 19:11:31,279 - WARNING - IGDB Error for Super Space Club: string indices must be integers, not 'str'
+2026-05-28 19:11:31,286 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-05-28 19:11:31,381 - WARNING - IGDB Error for Touch Type Tale: string indices must be integers, not 'str'
+2026-05-28 19:11:31,388 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-05-28 19:11:31,480 - WARNING - IGDB Error for Gigapocalypse: string indices must be integers, not 'str'
+2026-05-28 19:11:31,488 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-05-28 19:11:31,545 - WARNING - IGDB Error for Legion TD2: string indices must be integers, not 'str'
+2026-05-28 19:11:31,554 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-05-28 19:11:31,610 - WARNING - IGDB Error for Nightingale: string indices must be integers, not 'str'
+2026-05-28 19:11:31,618 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-05-28 19:11:31,676 - WARNING - IGDB Error for Godzilla Voxel Wars: string indices must be integers, not 'str'
+2026-05-28 19:11:31,684 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-05-28 19:11:31,755 - INFO - 🎯 IGDB Match: 'Trine Classic Collection' (100%)
+2026-05-28 19:11:31,762 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-05-28 19:11:31,833 - INFO - 🎯 IGDB Match: 'Pixel Gun 3D: Poison Retro Set' (90%)
+2026-05-28 19:11:31,839 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-05-28 19:11:31,946 - INFO - 🎯 IGDB Match: 'The Darkside Detective: A Fumble in the Dark' (99%)
+2026-05-28 19:11:31,952 - INFO - 📅 Fetching Basic Metadata: Return to Ash
+2026-05-28 19:11:32,047 - WARNING - IGDB Error for Return to Ash: string indices must be integers, not 'str'
+2026-05-28 19:11:32,053 - INFO - 🏢 Publisher Search: STALCRAFT: X Starter Edition
+2026-05-28 19:11:33,381 - INFO - 📅 Fetching Basic Metadata: STALCRAFT: X Starter Edition
+2026-05-28 19:11:33,453 - INFO - 📅 Fetching Basic Metadata: Boxes: Lost Fragments
+2026-05-28 19:11:33,520 - INFO - 🎯 IGDB Match: 'Boxes: Lost Fragments' (100%)
+2026-05-28 19:11:33,527 - INFO - 📅 Fetching Basic Metadata: My Night Job
+2026-05-28 19:11:33,597 - INFO - 🎯 IGDB Match: 'My Night Job' (100%)
+2026-05-28 19:11:33,604 - INFO - 📅 Fetching Basic Metadata: Electrician Simulator
+2026-05-28 19:11:33,676 - INFO - 🎯 IGDB Match: 'Electrician Simulator' (100%)
+2026-05-28 19:11:33,682 - INFO - 🏢 Publisher Search: World of Warships — Epic Anniversary Tachibana Pack
+2026-05-28 19:11:35,020 - INFO - 📅 Fetching Basic Metadata: World of Warships — Epic Anniversary Tachibana Pack
+2026-05-28 19:11:35,176 - INFO - 📅 Fetching Basic Metadata: Hyper Echelon
+2026-05-28 19:11:35,242 - INFO - 🎯 IGDB Match: 'Hyper Echelon' (100%)
+2026-05-28 19:11:35,248 - INFO - 📅 Fetching Basic Metadata: Havendock
+2026-05-28 19:11:35,314 - INFO - 🎯 IGDB Match: 'Havendock' (100%)
+2026-05-28 19:11:35,321 - INFO - 📅 Fetching Basic Metadata: Clone Drone in the Danger Zone
+2026-05-28 19:11:35,397 - INFO - 🎯 IGDB Match: 'Clone Drone in the Danger Zone' (100%)
+2026-05-28 19:11:35,403 - INFO - 🏢 Publisher Search: TOMAK: Save the Earth Regeneration
+2026-05-28 19:11:36,728 - INFO - 📅 Fetching Basic Metadata: TOMAK: Save the Earth Regeneration
+2026-05-28 19:11:36,833 - INFO - 🎯 IGDB Match: 'Tomak: Save the Earth Regeneration' (100%)
+2026-05-28 19:11:36,839 - INFO - 📅 Fetching Basic Metadata: Prop Sumo
+2026-05-28 19:11:36,913 - INFO - 🎯 IGDB Match: 'Prop Sumo' (100%)
+2026-05-28 19:11:36,920 - INFO - 📅 Fetching Basic Metadata: The Stone of Madness
+2026-05-28 19:11:36,989 - INFO - 🎯 IGDB Match: 'The Stone of Madness' (100%)
+2026-05-28 19:11:36,995 - INFO - 📅 Fetching Basic Metadata: Firestone Online Idle RPG
+2026-05-28 19:11:37,102 - INFO - 🎯 IGDB Match: 'Firestone: Online Idle RPG' (98%)
+2026-05-28 19:11:37,108 - INFO - 📅 Fetching Basic Metadata: Oddsparks: An Automation Adventure
+2026-05-28 19:11:37,206 - INFO - 🎯 IGDB Match: 'Oddsparks: An Automation Adventure' (100%)
+2026-05-28 19:11:37,212 - INFO - 📅 Fetching Basic Metadata: Trash Goblin
+2026-05-28 19:11:37,304 - INFO - 🎯 IGDB Match: 'Trash Goblin' (100%)
+2026-05-28 19:11:37,311 - INFO - 🏢 Publisher Search: The Telltale Batman Shadows Edition
+2026-05-28 19:11:38,703 - INFO - 📅 Fetching Basic Metadata: The Telltale Batman Shadows Edition
+2026-05-28 19:11:38,771 - INFO - 🎯 IGDB Match: 'Telltale Batman Shadows Edition' (95%)
+2026-05-28 19:11:38,777 - INFO - 🏢 Publisher Search: Sunderfolk - Standard Edition
+2026-05-28 19:11:40,103 - INFO - 📅 Fetching Basic Metadata: Sunderfolk - Standard Edition
+2026-05-28 19:11:40,176 - INFO - 📅 Fetching Basic Metadata: Down in Bermuda
+2026-05-28 19:11:40,245 - INFO - 🎯 IGDB Match: 'Down in Bermuda' (100%)
+2026-05-28 19:11:40,251 - INFO - 📅 Fetching Basic Metadata: Tomb Raider I-III Remastered Starring Lara Croft
+2026-05-28 19:11:40,325 - INFO - 💰 Price Search: LONESTAR
+2026-05-28 19:11:41,702 - INFO - 🏢 Publisher Search: LONESTAR
+2026-05-28 19:11:43,177 - INFO - 📅 Fetching Basic Metadata: LONESTAR
+2026-05-28 19:11:43,250 - INFO - 🎯 IGDB Match: 'LoneStar' (100%)
+2026-05-28 19:11:43,250 - INFO - 🔗 Searching Franchise Context: LONESTAR
+2026-05-28 19:11:43,430 - INFO - 📡 Fallback to IGDB for LONESTAR
+2026-05-28 19:11:43,503 - INFO - 💰 Price Search: Calico
+2026-05-28 19:11:44,856 - INFO - 🏢 Publisher Search: Calico
+2026-05-28 19:11:46,334 - INFO - 📅 Fetching Basic Metadata: Calico
+2026-05-28 19:11:46,401 - INFO - 🎯 IGDB Match: 'Calico' (100%)
+2026-05-28 19:11:46,401 - INFO - 🔗 Searching Franchise Context: Calico
+2026-05-28 19:11:46,608 - INFO - 📡 Fallback to IGDB for Calico
+2026-05-28 19:11:46,693 - INFO - 
+--- Starting Data Quality Checks ---
+2026-05-28 19:11:46,706 - INFO - --- Data Quality Checks Complete ---
+
+2026-05-28 19:11:46,738 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,018.13** |
+| 📦 **Total Games Collected** | 676 |
+| 🏷️ **Average Retail Price** | $22.35 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $14,815.37 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.8/100 |
+| 💳 **Subscription Equivalent** | **$169.75 / mo** |
+| 🎯 **Prestige Ratio** | **1.9%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 447 Days to Sequel |
+
+2026-05-28 19:11:46,738 - INFO - ✅ README.md updated.
+2026-05-28 19:11:46,765 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-28 19:11:46,766 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-28 19:11:52,509 - INFO - 📈 All charts generated successfully.
