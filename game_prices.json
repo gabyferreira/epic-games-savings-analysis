@@ -6296,10 +6296,11 @@
     "Warhammer 40K Speed Freeks": {
         "price": 19.99,
         "publisher": "Publisher Not Found",
-        "original_release_date": "Date Not Found",
-        "aggregated_rating": "Score Not Found",
-        "next_sequel_date": null,
+        "original_release_date": "2025-05-22",
+        "aggregated_rating": 70.0,
+        "next_sequel_date": "N/A",
         "is_strategic_hype": false,
-        "start_date": "11/06/2026"
+        "start_date": "11/06/2026",
+        "next_sequel_name": "Standalone"
     }
 }
