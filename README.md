@@ -11,19 +11,19 @@ An automated data pipeline that monitors the Epic Games Store for free game give
 <a name="stats_start"></a>
 | Metric | Statistics |
 | :--- | :--- |
-| 💰 **Total Market Value** | **$13,108.09** |
-| 📦 **Total Games Collected** | 680 |
-| 🏷️ **Average Retail Price** | $22.35 per game |
+| 💰 **Total Market Value** | **$13,148.07** |
+| 📦 **Total Games Collected** | 682 |
+| 🏷️ **Average Retail Price** | $22.34 per game |
 | 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
 | 👑 **MVP Publisher** | Bethesda Softworks |
 | 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
-| 📈 **Inflation-Adjusted Value** | $14,905.33 |
+| 📈 **Inflation-Adjusted Value** | $14,945.31 |
 | 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
 | 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
 | ⭐ **Average Score** | 76.8/100 |
-| 💳 **Subscription Equivalent** | **$168.86 / mo** |
-| 🎯 **Prestige Ratio** | **1.9%** (Strategic Hype) |
-| 🏎️ **Lead Time Avg** | 447 Days to Sequel |
+| 💳 **Subscription Equivalent** | **$169.31 / mo** |
+| 🎯 **Prestige Ratio** | **2.1%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 441 Days to Sequel |
 
 <a name="stats_end"></a>
 ---
