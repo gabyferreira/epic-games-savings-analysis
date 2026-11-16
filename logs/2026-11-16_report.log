@@ -1,0 +1,231 @@
+2026-11-16 16:34:30,677 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-11-16 16:34:31,283 - INFO - generated new fontManager
+2026-11-16 16:34:31,580 - INFO - ✅ Migration Successful!
+2026-11-16 16:34:31,648 - INFO - No new games found.
+2026-11-16 16:34:31,947 - INFO - 🔍 Found 642 games needing metadata. Starting IGDB + Steam + CheapShark enrichment...
+2026-11-16 16:34:32,141 - INFO - 📅 Fetching Basic Metadata: LEGO Batman Trilogy
+2026-11-16 16:34:32,469 - INFO - 🎯 IGDB Match: 'LEGO Batman Trilogy' (100%)
+2026-11-16 16:34:32,487 - INFO - 📅 Fetching Basic Metadata: Antstream
+2026-11-16 16:34:32,609 - INFO - 📅 Fetching Basic Metadata: The Drone Racing League Simulator
+2026-11-16 16:34:32,723 - INFO - 🎯 IGDB Match: 'The Drone Racing League Simulator' (100%)
+2026-11-16 16:34:32,728 - INFO - 📅 Fetching Basic Metadata: Dark Deity
+2026-11-16 16:34:32,835 - INFO - 🎯 IGDB Match: 'Dark Deity' (100%)
+2026-11-16 16:34:32,840 - INFO - 📅 Fetching Basic Metadata: RPG in a Box
+2026-11-16 16:34:32,936 - INFO - 🎯 IGDB Match: 'RPG in a Box' (100%)
+2026-11-16 16:34:32,941 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Collection
+2026-11-16 16:34:33,051 - INFO - 🎯 IGDB Match: 'Fallout Classic Collection' (100%)
+2026-11-16 16:34:33,057 - INFO - 📅 Fetching Basic Metadata: Recipe for Disaster
+2026-11-16 16:34:33,156 - INFO - 🎯 IGDB Match: 'Recipe For Disaster' (100%)
+2026-11-16 16:34:33,161 - INFO - 📅 Fetching Basic Metadata: World of Warships — Starter Pack: Ishizuchi
+2026-11-16 16:34:33,261 - INFO - 🎯 IGDB Match: 'World of Warships: Starter Pack - Ishizuchi' (98%)
+2026-11-16 16:34:33,266 - INFO - 📅 Fetching Basic Metadata: Poker Club
+2026-11-16 16:34:33,372 - INFO - 🎯 IGDB Match: 'Poker Club' (100%)
+2026-11-16 16:34:33,377 - INFO - 📅 Fetching Basic Metadata: The Sims 4 The Daring Lifestyle Bundle
+2026-11-16 16:34:33,607 - INFO - 🎯 IGDB Match: 'The Sims 4: The Daring Lifestyle Bundle' (99%)
+2026-11-16 16:34:33,613 - INFO - 📅 Fetching Basic Metadata: Dodo Peak
+2026-11-16 16:34:33,712 - INFO - 🎯 IGDB Match: 'Dodo Peak' (100%)
+2026-11-16 16:34:33,717 - INFO - 📅 Fetching Basic Metadata: Spelldrifter
+2026-11-16 16:34:33,944 - INFO - 🎯 IGDB Match: 'Spelldrifter' (100%)
+2026-11-16 16:34:33,949 - INFO - 📅 Fetching Basic Metadata: Model Builder
+2026-11-16 16:34:34,050 - INFO - 🎯 IGDB Match: 'Model Builder' (100%)
+2026-11-16 16:34:34,055 - INFO - 📅 Fetching Basic Metadata: Godlike Burger
+2026-11-16 16:34:34,157 - INFO - 🎯 IGDB Match: 'Godlike Burger' (100%)
+2026-11-16 16:34:34,162 - INFO - 📅 Fetching Basic Metadata: Q.U.B.E. Ultimate Bundle
+2026-11-16 16:34:34,266 - INFO - 🎯 IGDB Match: 'Q.U.B.E. Ultimate Bundle' (100%)
+2026-11-16 16:34:34,272 - INFO - 📅 Fetching Basic Metadata: Jitsu Squad
+2026-11-16 16:34:34,492 - INFO - 🎯 IGDB Match: 'Jitsu Squad' (100%)
+2026-11-16 16:34:34,497 - INFO - 📅 Fetching Basic Metadata: Mighty Fight Federation
+2026-11-16 16:34:34,595 - INFO - 🎯 IGDB Match: 'Mighty Fight Federation' (100%)
+2026-11-16 16:34:34,602 - INFO - 📅 Fetching Basic Metadata: LOVE
+2026-11-16 16:34:34,808 - INFO - 🎯 IGDB Match: 'Love Love Love' (90%)
+2026-11-16 16:34:34,814 - INFO - 📅 Fetching Basic Metadata: Call of The Wild: The Angler
+2026-11-16 16:34:34,948 - INFO - 🎯 IGDB Match: 'Call of the Wild: The Angler' (100%)
+2026-11-16 16:34:34,955 - INFO - 📅 Fetching Basic Metadata: Rawmen: Food Fighter Arena
+2026-11-16 16:34:35,053 - INFO - 🎯 IGDB Match: 'Rawmen' (90%)
+2026-11-16 16:34:35,058 - INFO - 📅 Fetching Basic Metadata: World of Warships – Starter Pack: Albany
+2026-11-16 16:34:35,168 - INFO - 📅 Fetching Basic Metadata: Fallout Classic Edition
+2026-11-16 16:34:35,268 - INFO - 📅 Fetching Basic Metadata: Outliver: Tribulation
+2026-11-16 16:34:35,374 - INFO - 🎯 IGDB Match: 'Outliver: Tribulation' (100%)
+2026-11-16 16:34:35,380 - INFO - 📅 Fetching Basic Metadata: Bus Simulator 21 Next Stop
+2026-11-16 16:34:35,480 - INFO - 🎯 IGDB Match: 'Bus Simulator 21: Next Stop' (98%)
+2026-11-16 16:34:35,486 - INFO - 📅 Fetching Basic Metadata: Turmoil
+2026-11-16 16:34:35,589 - INFO - 🎯 IGDB Match: 'Turmoil' (100%)
+2026-11-16 16:34:35,594 - INFO - 📅 Fetching Basic Metadata: World War Z Aftermath
+2026-11-16 16:34:35,695 - WARNING - IGDB Error for World War Z Aftermath: string indices must be integers, not 'str'
+2026-11-16 16:34:35,700 - INFO - 📅 Fetching Basic Metadata: World Of Warships – Anniversary Party Flavor
+2026-11-16 16:34:35,901 - WARNING - IGDB Error for World Of Warships – Anniversary Party Flavor: string indices must be integers, not 'str'
+2026-11-16 16:34:35,906 - INFO - 📅 Fetching Basic Metadata: Neko Ghost, Jump!
+2026-11-16 16:34:36,004 - WARNING - IGDB Error for Neko Ghost, Jump!: string indices must be integers, not 'str'
+2026-11-16 16:34:36,010 - INFO - 📅 Fetching Basic Metadata: Super Space Club
+2026-11-16 16:34:36,099 - WARNING - IGDB Error for Super Space Club: string indices must be integers, not 'str'
+2026-11-16 16:34:36,104 - INFO - 📅 Fetching Basic Metadata: Touch Type Tale
+2026-11-16 16:34:36,197 - WARNING - IGDB Error for Touch Type Tale: string indices must be integers, not 'str'
+2026-11-16 16:34:36,203 - INFO - 📅 Fetching Basic Metadata: Gigapocalypse
+2026-11-16 16:34:36,306 - WARNING - IGDB Error for Gigapocalypse: string indices must be integers, not 'str'
+2026-11-16 16:34:36,312 - INFO - 📅 Fetching Basic Metadata: Legion TD2
+2026-11-16 16:34:36,401 - WARNING - IGDB Error for Legion TD2: string indices must be integers, not 'str'
+2026-11-16 16:34:36,407 - INFO - 📅 Fetching Basic Metadata: Nightingale
+2026-11-16 16:34:36,499 - WARNING - IGDB Error for Nightingale: string indices must be integers, not 'str'
+2026-11-16 16:34:36,505 - INFO - 📅 Fetching Basic Metadata: Godzilla Voxel Wars
+2026-11-16 16:34:36,601 - WARNING - IGDB Error for Godzilla Voxel Wars: string indices must be integers, not 'str'
+2026-11-16 16:34:36,607 - INFO - 📅 Fetching Basic Metadata: Trine Classic Collection
+2026-11-16 16:34:36,694 - WARNING - IGDB Error for Trine Classic Collection: string indices must be integers, not 'str'
+2026-11-16 16:34:36,700 - INFO - 📅 Fetching Basic Metadata: Poison Retro Set
+2026-11-16 16:34:36,791 - WARNING - IGDB Error for Poison Retro Set: string indices must be integers, not 'str'
+2026-11-16 16:34:36,796 - INFO - 📅 Fetching Basic Metadata: The Darkside Detective A Fumble in the Dark
+2026-11-16 16:34:36,891 - WARNING - IGDB Error for The Darkside Detective A Fumble in the Dark: string indices must be integers, not 'str'
+2026-11-16 16:34:36,895 - INFO - 📅 Fetching Basic Metadata: Return to Ash
+2026-11-16 16:34:36,984 - WARNING - IGDB Error for Return to Ash: string indices must be integers, not 'str'
+2026-11-16 16:34:36,989 - INFO - 🏢 Publisher Search: STALCRAFT: X Starter Edition
+2026-11-16 16:34:38,310 - INFO - 📅 Fetching Basic Metadata: STALCRAFT: X Starter Edition
+2026-11-16 16:34:38,419 - INFO - 📅 Fetching Basic Metadata: Boxes: Lost Fragments
+2026-11-16 16:34:38,646 - INFO - 🎯 IGDB Match: 'Boxes: Lost Fragments' (100%)
+2026-11-16 16:34:38,651 - INFO - 📅 Fetching Basic Metadata: My Night Job
+2026-11-16 16:34:38,757 - INFO - 🎯 IGDB Match: 'My Night Job' (100%)
+2026-11-16 16:34:38,762 - INFO - 📅 Fetching Basic Metadata: Electrician Simulator
+2026-11-16 16:34:38,857 - INFO - 🎯 IGDB Match: 'Electrician Simulator' (100%)
+2026-11-16 16:34:38,862 - INFO - 🏢 Publisher Search: World of Warships — Epic Anniversary Tachibana Pack
+2026-11-16 16:34:40,182 - INFO - 📅 Fetching Basic Metadata: World of Warships — Epic Anniversary Tachibana Pack
+2026-11-16 16:34:40,290 - INFO - 📅 Fetching Basic Metadata: Hyper Echelon
+2026-11-16 16:34:40,477 - INFO - 🎯 IGDB Match: 'Hyper Echelon' (100%)
+2026-11-16 16:34:40,482 - INFO - 📅 Fetching Basic Metadata: Havendock
+2026-11-16 16:34:40,585 - INFO - 🎯 IGDB Match: 'Havendock' (100%)
+2026-11-16 16:34:40,590 - INFO - 📅 Fetching Basic Metadata: Clone Drone in the Danger Zone
+2026-11-16 16:34:40,690 - INFO - 🎯 IGDB Match: 'Clone Drone in the Danger Zone' (100%)
+2026-11-16 16:34:40,695 - INFO - 🏢 Publisher Search: TOMAK: Save the Earth Regeneration
+2026-11-16 16:34:41,998 - INFO - 📅 Fetching Basic Metadata: TOMAK: Save the Earth Regeneration
+2026-11-16 16:34:42,098 - INFO - 🎯 IGDB Match: 'Tomak: Save the Earth Regeneration' (100%)
+2026-11-16 16:34:42,103 - INFO - 📅 Fetching Basic Metadata: Prop Sumo
+2026-11-16 16:34:42,203 - INFO - 🎯 IGDB Match: 'Prop Sumo' (100%)
+2026-11-16 16:34:42,208 - INFO - 📅 Fetching Basic Metadata: The Stone of Madness
+2026-11-16 16:34:42,319 - INFO - 🎯 IGDB Match: 'The Stone of Madness' (100%)
+2026-11-16 16:34:42,323 - INFO - 📅 Fetching Basic Metadata: Firestone Online Idle RPG
+2026-11-16 16:34:42,427 - INFO - 🎯 IGDB Match: 'Firestone: Idle Clicker Online RPG' (95%)
+2026-11-16 16:34:42,431 - INFO - 📅 Fetching Basic Metadata: Oddsparks: An Automation Adventure
+2026-11-16 16:34:42,533 - INFO - 🎯 IGDB Match: 'Oddsparks: An Automation Adventure' (100%)
+2026-11-16 16:34:42,538 - INFO - 📅 Fetching Basic Metadata: Trash Goblin
+2026-11-16 16:34:42,646 - INFO - 🎯 IGDB Match: 'Trash Goblin' (100%)
+2026-11-16 16:34:42,650 - INFO - 🏢 Publisher Search: The Telltale Batman Shadows Edition
+2026-11-16 16:34:43,974 - INFO - 📅 Fetching Basic Metadata: The Telltale Batman Shadows Edition
+2026-11-16 16:34:44,149 - INFO - 🎯 IGDB Match: 'Telltale Batman Shadows Edition' (95%)
+2026-11-16 16:34:44,154 - INFO - 🏢 Publisher Search: Sunderfolk - Standard Edition
+2026-11-16 16:34:45,487 - INFO - 📅 Fetching Basic Metadata: Sunderfolk - Standard Edition
+2026-11-16 16:34:45,594 - INFO - 📅 Fetching Basic Metadata: Down in Bermuda
+2026-11-16 16:34:45,692 - INFO - 🎯 IGDB Match: 'Down in Bermuda' (100%)
+2026-11-16 16:34:45,697 - INFO - 📅 Fetching Basic Metadata: Tomb Raider I-III Remastered Starring Lara Croft
+2026-11-16 16:34:45,802 - INFO - 📅 Fetching Basic Metadata: LONESTAR
+2026-11-16 16:34:45,898 - INFO - 🎯 IGDB Match: 'LoneStar' (100%)
+2026-11-16 16:34:45,903 - INFO - 📅 Fetching Basic Metadata: Calico
+2026-11-16 16:34:46,000 - INFO - 🎯 IGDB Match: 'Calico' (100%)
+2026-11-16 16:34:46,005 - INFO - 📅 Fetching Basic Metadata: Rogue Waters
+2026-11-16 16:34:46,103 - INFO - 🎯 IGDB Match: 'Rogue Waters' (100%)
+2026-11-16 16:34:46,108 - INFO - 📅 Fetching Basic Metadata: The Ouroboros King
+2026-11-16 16:34:46,213 - INFO - 🎯 IGDB Match: 'The Ouroboros King' (100%)
+2026-11-16 16:34:46,218 - INFO - 🏢 Publisher Search: Warhammer 40K Speed Freeks
+2026-11-16 16:34:47,529 - INFO - 📅 Fetching Basic Metadata: I Have No Mouth, and I Must Scream
+2026-11-16 16:34:47,627 - INFO - 🎯 IGDB Match: 'I Have No Mouth, and I Must Scream' (100%)
+2026-11-16 16:34:47,632 - INFO - 📅 Fetching Basic Metadata: Nova Lands
+2026-11-16 16:34:47,731 - INFO - 🎯 IGDB Match: 'Nova Lands' (100%)
+2026-11-16 16:34:47,736 - INFO - 📅 Fetching Basic Metadata: Tattoo Tycoon
+2026-11-16 16:34:47,942 - INFO - 🎯 IGDB Match: 'Tattoo Tycoon' (100%)
+2026-11-16 16:34:47,947 - INFO - 📅 Fetching Basic Metadata: Echo Generation: Midnight Edition
+2026-11-16 16:34:48,055 - INFO - 🎯 IGDB Match: 'Echo Generation: Midnight Edition' (100%)
+2026-11-16 16:34:48,060 - INFO - 💰 Price Search: Foretales
+2026-11-16 16:34:49,103 - WARNING - Price error for Foretales: string indices must be integers, not 'str'
+2026-11-16 16:34:49,103 - INFO - 📅 Fetching Basic Metadata: Foretales
+2026-11-16 16:34:49,233 - INFO - 🎯 IGDB Match: 'Foretales' (100%)
+2026-11-16 16:34:49,238 - INFO - 💰 Price Search: OTXO
+2026-11-16 16:34:50,271 - WARNING - Price error for OTXO: string indices must be integers, not 'str'
+2026-11-16 16:34:50,272 - INFO - 💰 Price Search: Sol Cesto
+2026-11-16 16:34:51,307 - WARNING - Price error for Sol Cesto: string indices must be integers, not 'str'
+2026-11-16 16:34:51,307 - INFO - 📅 Fetching Basic Metadata: Sol Cesto
+2026-11-16 16:34:51,406 - INFO - 🎯 IGDB Match: 'Sol Cesto' (100%)
+2026-11-16 16:34:51,410 - INFO - 💰 Price Search: Beacon Pines
+2026-11-16 16:34:52,456 - WARNING - Price error for Beacon Pines: string indices must be integers, not 'str'
+2026-11-16 16:34:52,457 - INFO - 💰 Price Search: Caravan SandWitch
+2026-11-16 16:34:53,524 - WARNING - Price error for Caravan SandWitch: string indices must be integers, not 'str'
+2026-11-16 16:34:53,525 - INFO - 💰 Price Search: Cardpocalypse Standard Edition
+2026-11-16 16:34:54,556 - WARNING - Price error for Cardpocalypse Standard Edition: string indices must be integers, not 'str'
+2026-11-16 16:34:54,556 - INFO - 🏢 Publisher Search: Cardpocalypse Standard Edition
+2026-11-16 16:34:55,903 - INFO - 📅 Fetching Basic Metadata: Cardpocalypse Standard Edition
+2026-11-16 16:34:56,011 - INFO - 💰 Price Search: Epic Mage Bundle
+2026-11-16 16:34:57,052 - WARNING - Price error for Epic Mage Bundle: string indices must be integers, not 'str'
+2026-11-16 16:34:57,052 - INFO - 🏢 Publisher Search: Epic Mage Bundle
+2026-11-16 16:34:58,378 - INFO - 📅 Fetching Basic Metadata: Epic Mage Bundle
+2026-11-16 16:34:58,481 - INFO - 💰 Price Search: Rival Stars Horse Racing : Desktop Edition
+2026-11-16 16:34:59,536 - WARNING - Price error for Rival Stars Horse Racing : Desktop Edition: string indices must be integers, not 'str'
+2026-11-16 16:34:59,536 - INFO - 🏢 Publisher Search: Rival Stars Horse Racing : Desktop Edition
+2026-11-16 16:35:00,876 - INFO - 📅 Fetching Basic Metadata: Rival Stars Horse Racing : Desktop Edition
+2026-11-16 16:35:00,979 - INFO - 🎯 IGDB Match: 'Rival Stars Horse Racing: Desktop Edition' (99%)
+2026-11-16 16:35:00,984 - INFO - 💰 Price Search: Alone With You
+2026-11-16 16:35:02,023 - WARNING - Price error for Alone With You: string indices must be integers, not 'str'
+2026-11-16 16:35:02,024 - INFO - 💰 Price Search: Luftrausers
+2026-11-16 16:35:03,058 - WARNING - Price error for Luftrausers: string indices must be integers, not 'str'
+2026-11-16 16:35:03,059 - INFO - 💰 Price Search: Astral Ascent
+2026-11-16 16:35:04,099 - WARNING - Price error for Astral Ascent: string indices must be integers, not 'str'
+2026-11-16 16:35:04,100 - INFO - 💰 Price Search: Mindcop
+2026-11-16 16:35:05,135 - WARNING - Price error for Mindcop: string indices must be integers, not 'str'
+2026-11-16 16:35:05,136 - INFO - 💰 Price Search: Shogun Showdown
+2026-11-16 16:35:06,179 - WARNING - Price error for Shogun Showdown: string indices must be integers, not 'str'
+2026-11-16 16:35:06,180 - INFO - 💰 Price Search: Astrea Six Sided Oracles
+2026-11-16 16:35:07,231 - WARNING - Price error for Astrea Six Sided Oracles: string indices must be integers, not 'str'
+2026-11-16 16:35:07,232 - INFO - 💰 Price Search: Mechabellum
+2026-11-16 16:35:08,264 - WARNING - Price error for Mechabellum: string indices must be integers, not 'str'
+2026-11-16 16:35:08,265 - INFO - 📅 Fetching Basic Metadata: Mechabellum
+2026-11-16 16:35:08,369 - INFO - 🎯 IGDB Match: 'Mechabellum' (100%)
+2026-11-16 16:35:08,374 - INFO - 💰 Price Search: System Shock 2: 25th Anniversary Remaster
+2026-11-16 16:35:09,408 - WARNING - Price error for System Shock 2: 25th Anniversary Remaster: string indices must be integers, not 'str'
+2026-11-16 16:35:09,409 - INFO - 💰 Price Search: BURIED STARS
+2026-11-16 16:35:10,441 - WARNING - Price error for BURIED STARS: string indices must be integers, not 'str'
+2026-11-16 16:35:10,442 - INFO - 💰 Price Search: Out of Sight
+2026-11-16 16:35:11,502 - WARNING - Price error for Out of Sight: string indices must be integers, not 'str'
+2026-11-16 16:35:11,502 - INFO - 📅 Fetching Basic Metadata: Out of Sight
+2026-11-16 16:35:11,611 - INFO - 🎯 IGDB Match: 'Out of Sight' (100%)
+2026-11-16 16:35:11,616 - INFO - 💰 Price Search: TerraScape
+2026-11-16 16:35:12,660 - WARNING - Price error for TerraScape: string indices must be integers, not 'str'
+2026-11-16 16:35:12,660 - INFO - 📅 Fetching Basic Metadata: TerraScape
+2026-11-16 16:35:12,772 - INFO - 🎯 IGDB Match: 'Terrascape' (100%)
+2026-11-16 16:35:12,776 - INFO - 💰 Price Search: Bad Cheese
+2026-11-16 16:35:13,824 - WARNING - Price error for Bad Cheese: string indices must be integers, not 'str'
+2026-11-16 16:35:13,825 - INFO - 📅 Fetching Basic Metadata: Bad Cheese
+2026-11-16 16:35:13,920 - INFO - 🎯 IGDB Match: 'Bad Cheese' (100%)
+2026-11-16 16:35:13,925 - INFO - 💰 Price Search: Agent A: A puzzle in disguise
+2026-11-16 16:35:14,976 - WARNING - Price error for Agent A: A puzzle in disguise: string indices must be integers, not 'str'
+2026-11-16 16:35:14,977 - INFO - 💰 Price Search: Sker Ritual
+2026-11-16 16:35:16,015 - WARNING - Price error for Sker Ritual: string indices must be integers, not 'str'
+2026-11-16 16:35:16,016 - INFO - 💰 Price Search: Home - A Unique Horror Adventure
+2026-11-16 16:35:17,053 - WARNING - Price error for Home - A Unique Horror Adventure: string indices must be integers, not 'str'
+2026-11-16 16:35:17,053 - INFO - 🏢 Publisher Search: Home - A Unique Horror Adventure
+2026-11-16 16:35:18,374 - INFO - 📅 Fetching Basic Metadata: Home - A Unique Horror Adventure
+2026-11-16 16:35:18,586 - INFO - 💰 Price Search: Flotsam
+2026-11-16 16:35:19,626 - WARNING - Price error for Flotsam: string indices must be integers, not 'str'
+2026-11-16 16:35:19,626 - INFO - 📅 Fetching Basic Metadata: Flotsam
+2026-11-16 16:35:19,855 - INFO - 🎯 IGDB Match: 'Flotsam' (100%)
+2026-11-16 16:35:19,860 - INFO - 💰 Price Search: Knightica
+2026-11-16 16:35:20,947 - WARNING - Price error for Knightica: string indices must be integers, not 'str'
+2026-11-16 16:35:20,948 - INFO - 📅 Fetching Basic Metadata: Knightica
+2026-11-16 16:35:21,041 - INFO - 🎯 IGDB Match: 'Knightica' (100%)
+2026-11-16 16:35:21,049 - INFO - 
+--- Starting Data Quality Checks ---
+2026-11-16 16:35:21,057 - INFO - --- Data Quality Checks Complete ---
+
+2026-11-16 16:35:21,073 - INFO - | Metric | Statistics |
+| :--- | :--- |
+| 💰 **Total Market Value** | **$13,332.99** |
+| 📦 **Total Games Collected** | 719 |
+| 🏷️ **Average Retail Price** | $21.55 per game |
+| 💎 **Most Expensive Title** | Civilization 6 Platinum Edition ($79.99) |
+| 👑 **MVP Publisher** | Bethesda Softworks |
+| 🏢 **Value Leaders** | 2K ($579.90), Bethesda Softworks ($544.80), Paradox Interactive ($409.89) |
+| 📈 **Inflation-Adjusted Value** | $15,130.23 |
+| 🎈 **Inflation Bonus** | **+$1,797.24** in purchasing power |
+| 🗓️ **Peak Saving Month** | 🎄 **Seasonality Peak:** December is historically the best month, offering $3,388.17 in savings. |
+| ⭐ **Average Score** | 76.9/100 |
+| 💳 **Subscription Equivalent** | **$163.13 / mo** |
+| 🎯 **Prestige Ratio** | **1.9%** (Strategic Hype) |
+| 🏎️ **Lead Time Avg** | 441 Days to Sequel |
+
+2026-11-16 16:35:21,073 - INFO - ✅ README.md updated.
+2026-11-16 16:35:21,089 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-16 16:35:21,090 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-16 16:35:25,072 - INFO - 📈 All charts generated successfully.
